@@ -1,0 +1,571 @@
+id,exam,year,paper_code,paper_title,booklet_set,q_no,context,question,option_a,option_b,option_c,option_d,answer,answer_note,answer_source,has_visual,visual_types,images,text_source,page,needs_review,review_notes
+APSC-CCE-Prelims-2025-GS-II-Q001,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,1,,"According to the author, why is 'friction' essential for intellectual development?
+It makes the Internet faster and more efficient
+It reduces the amount of time spent on social media
+It involves encountering opposing viewpoints that challenge our thinking",,,,,C,,official_provisional_key,1,parse_failed,exams/APSC-CCE-Prelims/2025/figures/GS-II/q001.jpg,ocr,2,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q002,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,2,,"What, according to the author, is the long-term effect of digital 'echo chamber'?",Improved global connectivity and understanding,A decrease in the ability to handle real-world disagreements,Better technical skills for navigating complex social issues,Increased comfort and happiness for all Internet users,B,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q002.jpg,ocr,2,0,
+APSC-CCE-Prelims-2025-GS-II-Q003,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,3,"Read the following passage carefully and answer Question Nos. 3 and 4 :
+An ecological footprint is more than just a measurement; it is the mark we leave on the
+planet every day through our choices—what we eat, how we travel, and the wastes we create.
+Currently, many people use natural resources faster than the Earth can replenish them,
+a process that leads to deforestation, water scarcity, and rising greenhouse gas emissions.
+We do not merely inherit this planet from our ancestors; we are borrowing it from our
+children. Small changes, like switching to reusable water bottles or walking instead of
+driving, are not just 'nice ideas'—they are necessary steps to ensure the Earth remains
+habitable for future generations.","What is the primary message regarding the 'ecological footprint'?
+It is a permanent mark that cannot be reduced
+It is only relevant to large industrial factories
+It is a scientific term used only for measuring soil quality",,,,,B,,official_provisional_key,1,parse_failed,exams/APSC-CCE-Prelims/2025/figures/GS-II/q003.jpg,ocr,2,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q004,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,4,"Read the following passage carefully and answer Question Nos. 3 and 4 :
+An ecological footprint is more than just a measurement; it is the mark we leave on the
+planet every day through our choices—what we eat, how we travel, and the wastes we create.
+Currently, many people use natural resources faster than the Earth can replenish them,
+a process that leads to deforestation, water scarcity, and rising greenhouse gas emissions.
+We do not merely inherit this planet from our ancestors; we are borrowing it from our
+children. Small changes, like switching to reusable water bottles or walking instead of
+driving, are not just 'nice ideas'—they are necessary steps to ensure the Earth remains
+habitable for future generations.","Why does the author mention that we 'borrow' the Earth from our children?
+To suggest that the Earth is a financial asset
+To explain why children should be in charge of environmental laws
+To highlight our displacement",,,,,D,,official_provisional_key,1,parse_failed,exams/APSC-CCE-Prelims/2025/figures/GS-II/q004.jpg,ocr,3,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q005,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,5,"Read the following passage carefully and answer Question Nos. 5 and 6 :
+The open-plan office of Vertex Design' was usually a hum of collaborative energy, but today,
+the silence was heavy. Damodar, a senior architect, stood by the window, staring at the
+printed blueprints of the new community centre. Across the room sat Seema, a junior
+designer whose hands hovered tentatively over her keyboard.
+Earlier that morning, Damodar had discovered a critical measurement error in the structural
+supports—an error that originated from Seema's workstation. Instead of pulling her aside,
+Damodar had pointed it out during the all-hands briefing, his voice booming with a mix of
+frustration and disbelief. ""We aren't here to play around with 'estimates', Seema. This could
+have cost us the contract.""
+Seema hadn't defended herself. She hadn't mentioned that she had worked forty-eight hours
+straight to meet Damodar's last-minute deadlines nor that she had flagged the specific
+measurement for his review three days prior in an e-mail he never opened. Now, the team
+uncomfortable with Damodar's public outburst. By the afternoon, the project was at
+a standstill, not because of the error-which was easily fixable-—but because the bridge of
+trust between the leader and his team had collapsed.","In terms of interpersonal communication, Damodar's behaviour is best described as",assertive and transparent,directly reactive and damaging to a junior's psychological safety,constructive and focussed on excellence,passive-aggressive and indirect,B,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q005.jpg,ocr,3,0,
+APSC-CCE-Prelims-2025-GS-II-Q006,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,6,"Read the following passage carefully and answer Question Nos. 5 and 6 :
+The open-plan office of Vertex Design' was usually a hum of collaborative energy, but today,
+the silence was heavy. Damodar, a senior architect, stood by the window, staring at the
+printed blueprints of the new community centre. Across the room sat Seema, a junior
+designer whose hands hovered tentatively over her keyboard.
+Earlier that morning, Damodar had discovered a critical measurement error in the structural
+supports—an error that originated from Seema's workstation. Instead of pulling her aside,
+Damodar had pointed it out during the all-hands briefing, his voice booming with a mix of
+frustration and disbelief. ""We aren't here to play around with 'estimates', Seema. This could
+have cost us the contract.""
+Seema hadn't defended herself. She hadn't mentioned that she had worked forty-eight hours
+straight to meet Damodar's last-minute deadlines nor that she had flagged the specific
+measurement for his review three days prior in an e-mail he never opened. Now, the team
+uncomfortable with Damodar's public outburst. By the afternoon, the project was at
+a standstill, not because of the error-which was easily fixable-—but because the bridge of
+trust between the leader and his team had collapsed.",What does bridge of trust' metaphor imply?,Damodar literally designs bridges as an architect,Communication is a physical structure that requires steel,Professional relationships require a stable foundation to function,Damodar and Seema are working on a bridge-building project,C,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q006.jpg,ocr,3,0,
+APSC-CCE-Prelims-2025-GS-II-Q007,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,7,"Read the following passage carefully and answer Question Nos. 7 and 8 :
+In his essay, Politics and the English Language (1946) George Orwell writes—
+""... if thought corrupts language, language can also corrupt thought. A bad usage can spread
+by tradition and imitation, even among people who should and do know better. The inflated
+style itself is a kind of euphemism. A mass of Latin words falls upon the facts like soft snow,
+blurring the outline and covering up all the details. The great enemy of clear language is
+insincerity. When there is a gap between one's real and one's declared aims, one turns as it
+were instinctively to long words and exhausted idioms, like a cuttlefish spurting out ink.""","What is Orwell's primary argument regarding the relationship between language and
+thought?
+Poorly used language can actually degrade a person's ability to think clearly
+Latin words are superior for describing complex political facts",,,,,B,,official_provisional_key,1,parse_failed,exams/APSC-CCE-Prelims/2025/figures/GS-II/q007.jpg,ocr,4,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q008,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,8,"Read the following passage carefully and answer Question Nos. 7 and 8 :
+In his essay, Politics and the English Language (1946) George Orwell writes—
+""... if thought corrupts language, language can also corrupt thought. A bad usage can spread
+by tradition and imitation, even among people who should and do know better. The inflated
+style itself is a kind of euphemism. A mass of Latin words falls upon the facts like soft snow,
+blurring the outline and covering up all the details. The great enemy of clear language is
+insincerity. When there is a gap between one's real and one's declared aims, one turns as it
+were instinctively to long words and exhausted idioms, like a cuttlefish spurting out ink.""","According to Orwell, why does a writer instinctively' turn to long words and
+exhausted idioms?",To prove they have a high level of education,To ensure the audience understands every detail,To mask their true intentions or lack of sincerity,To honour the traditions of classical literature,C,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q008.jpg,ocr,4,0,
+APSC-CCE-Prelims-2025-GS-II-Q009,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,9,"Read the following passage carefully and answer Question Nos. 9 and 10 :
+Before we can develop a really effective program to prevent auto accidents, we will have to
+learn far more than now about why such accidents happen. The National Safety Council,
+while pointing out that most accidents result from a combination of causes, and that few
+accidents are investigated carefully enough to determine exactly what their underlying
+causes were, estimates that in about 80% of accidents, the most important single factor
+is the driver himself. Bad weather, poor road conditions and defects in cars do cause some
+accidents, but generally speaking, such circumstances appear to be of minor significance
+compared with the mental and physical condition of the driver. And recent research indicates
+that the driver's physical condition is of less importance than his personality and his
+emotional state. Many, if not most, accidents, this research suggest are the result of
+wayward impulses and motivations of faculty judgements and attitudes of poorly controlled
+aggressiveness and competitiveness. Nearly two-thirds of the drivers involved in accidents
+were speeding, driving while under the influence of alcohol, disregarding stoplights or signs,
+or otherwise violating the law, according to the Safety Council. The pertinent question is why
+people drive so fast, drive after drinking, take risks in passing, or, in general, commit
+dangerous, careless, illegal, impulsive, or unfriendly acts when they get behind the wheel.",The author's reference to the National Safety Council serves to,provide a historical account of accident prevention strategies,present statistical authority to support the argument regarding driver responsibility,criticise the lack of proper investigation into accidents,highlighting government inefficiency in traffic management,B,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q009.jpg,ocr,5,0,
+APSC-CCE-Prelims-2025-GS-II-Q010,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,10,"Read the following passage carefully and answer Question Nos. 9 and 10 :
+Before we can develop a really effective program to prevent auto accidents, we will have to
+learn far more than now about why such accidents happen. The National Safety Council,
+while pointing out that most accidents result from a combination of causes, and that few
+accidents are investigated carefully enough to determine exactly what their underlying
+causes were, estimates that in about 80% of accidents, the most important single factor
+is the driver himself. Bad weather, poor road conditions and defects in cars do cause some
+accidents, but generally speaking, such circumstances appear to be of minor significance
+compared with the mental and physical condition of the driver. And recent research indicates
+that the driver's physical condition is of less importance than his personality and his
+emotional state. Many, if not most, accidents, this research suggest are the result of
+wayward impulses and motivations of faculty judgements and attitudes of poorly controlled
+aggressiveness and competitiveness. Nearly two-thirds of the drivers involved in accidents
+were speeding, driving while under the influence of alcohol, disregarding stoplights or signs,
+or otherwise violating the law, according to the Safety Council. The pertinent question is why
+people drive so fast, drive after drinking, take risks in passing, or, in general, commit
+dangerous, careless, illegal, impulsive, or unfriendly acts when they get behind the wheel.",The phrase wayward impulses' refers to,"sudden, uncontrolled and unpredictable urges",carefully controlled and disciplined actions,socially acceptable behavioural patterns,rational and well-thought-out decisions,A,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q010.jpg,ocr,5,0,
+APSC-CCE-Prelims-2025-GS-II-Q011,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,11,"Read the following passage carefully and answer Question Nos. 11 and 12 :
+The mind receives myriad impressions—trivial, fantastic, evanescent or engraved with the
+sharpness of steel. From all sides they come, an incessant shower of innumerable atoms;
+and as they fall, as they shape themselves into the life of Monday or Tuesday, the accent
+falls differently from of old; the moment of importance came not here but there; so that,
+if a writer were a free man and not a slave, if he could write what he chose, not what he
+must, if he could base his work upon his own feeling and not upon convention, there would
+and perhaps not a single button sewn on as the Bond Street tailors would have it. Life is
+not a series of gig lamps symmetrically arranged; life is a luminous halo, a semi-transparent
+envelope surrounding us from the beginning of consciousness to the end. Is it not the task
+of the novelist to convey this varying, this unknown and uncircumscribed spirit, whatever
+aberration or complexity it may display, with as little mixture of the alien and external as
+possible? We are not pleading merely for courage and sincerity; we are suggesting that
+the proper stuff of fiction is a little other than custom would have us believe it.","What does the mind do, according to the writer?
+Experience	Record
+Receive	(D)All of these",,,,,D,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q011.jpg,ocr,5,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q012,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,12,"Read the following passage carefully and answer Question Nos. 11 and 12 :
+The mind receives myriad impressions—trivial, fantastic, evanescent or engraved with the
+sharpness of steel. From all sides they come, an incessant shower of innumerable atoms;
+and as they fall, as they shape themselves into the life of Monday or Tuesday, the accent
+falls differently from of old; the moment of importance came not here but there; so that,
+if a writer were a free man and not a slave, if he could write what he chose, not what he
+must, if he could base his work upon his own feeling and not upon convention, there would
+and perhaps not a single button sewn on as the Bond Street tailors would have it. Life is
+not a series of gig lamps symmetrically arranged; life is a luminous halo, a semi-transparent
+envelope surrounding us from the beginning of consciousness to the end. Is it not the task
+of the novelist to convey this varying, this unknown and uncircumscribed spirit, whatever
+aberration or complexity it may display, with as little mixture of the alien and external as
+possible? We are not pleading merely for courage and sincerity; we are suggesting that
+the proper stuff of fiction is a little other than custom would have us believe it.",What does the term 'gig lamps' mean?,Oil lamps,Disco lights,Old-fashioned term for spectacles or eyeglasses,Lights used in carriages,C,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q012.jpg,ocr,5,0,
+APSC-CCE-Prelims-2025-GS-II-Q013,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,13,,"Choose the sentence with correct punctuation.
+Field visits are required in several courses, such as sociology and geography.
+Field visits are required, in several courses, such as sociology and geography.",,,,,B,,official_provisional_key,1,parse_failed,exams/APSC-CCE-Prelims/2025/figures/GS-II/q013.jpg,ocr,6,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q014,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,14,,"Identify the incorrect term in the given sentence.
+The competing teams were amicable.",Competing,Teams,Were,Amicable,D,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q014.jpg,ocr,6,0,
+APSC-CCE-Prelims-2025-GS-II-Q015,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,15,,"Which of the following is an active act?
+Hearing	Listening
+Sleeping	None of these",,,,,B,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q015.jpg,ocr,6,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q016,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,16,,"When a colleague brings personal problems to the meeting, you should",refuse to discuss anything outside work,listen and try to be empathetic,get up and leave,complain to the boss,B,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q016.jpg,ocr,6,0,
+APSC-CCE-Prelims-2025-GS-II-Q017,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,17,,"Identify the mistake in the given sentence.
+I sat outside in the shadow.
+Outside	In
+)Shadow	No error",,,,,C,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q017.jpg,ocr,6,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q018,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,18,,"All communication events have a/an
+source	resource
+start	end",,,,,A,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q018.jpg,ocr,6,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q019,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,19,,"Letter, e-mail and telephone are examples of
+channel	message
+feedback	()encoding",,,,,A,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q019.jpg,ocr,6,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q020,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,20,,"Different kinds of pesticides, like insecticides, fungicides, herbicides, rodenticides,
+molluscicides, nematicides, necessitate",extensive orientation to understand kinds of pests and unwanted elements,proper usage and handling of chemicals,knowledge of impact on agricultural output and non-target species,All of the above,D,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q020.jpg,ocr,7,0,
+APSC-CCE-Prelims-2025-GS-II-Q021,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,21,,"A synonym of the word, 'rampant' is",rife,fort,bridled,limited,A,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q021.jpg,ocr,7,0,
+APSC-CCE-Prelims-2025-GS-II-Q022,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,22,,"What does the adage, ""if little is good, a lot more will be better"" indicate?",Proper measurements are important,Less usage will be more effective,More usage will be more effective,None of the above,C,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q022.jpg,ocr,7,0,
+APSC-CCE-Prelims-2025-GS-II-Q023,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,23,,"Traffic lights are a form of
+verbal communication
+non-verbal communication
+olfactory communication
+ll of the above",,,,,B,,official_provisional_key,1,parse_failed,exams/APSC-CCE-Prelims/2025/figures/GS-II/q023.jpg,ocr,8,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q024,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,24,,The process of turning communication into thought is called,encoding,decoding,speaking,()All of the above,B,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q024.jpg,ocr,8,0,
+APSC-CCE-Prelims-2025-GS-II-Q025,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,25,,What does the word 'condescending' mean?,To belittle someone,(Proud of oneself,A lie,False hope,A,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q025.jpg,ocr,8,0,
+APSC-CCE-Prelims-2025-GS-II-Q026,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,26,,Which of the following expresses the central idea of the passage?,Gender inequality appears in different and interconnected forms,Gender inequality is uniform across all societies,Economic inequality is the only form of gender inequality,Gender inequality is declining in modern times,A,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q026.jpg,ocr,9,0,
+APSC-CCE-Prelims-2025-GS-II-Q027,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,27,"Read the following passage carefully and answer Question Nos. 26, 27 and 28 :
+Inequality between women and men can appear in many different forms—it has many faces.
+Gender disparity is, in fact, not one affliction but a multitude of problems. Sometimes the
+different asymmetries are quite unrelated to each other. Indeed, there may be no significant
+inequality in one sphere but a great deal of inequality in another. For example, Japan has no
+particular gender bias in nutrition or health care or school education, but men do seem to
+have considerable relative advantage in securing high leadership positions in administration
+or business.
+gender inequality of other kinds. Consequential analysis can then be critically important
+even within the large corpus of gender relations in general, in order to examine and
+scrutinize how the different aspects of gender inequality relate to each other. For while
+gender inequality has many faces, these are not independent (like those in the austere image
+of Brahma in early Indian iconography). Rather, they speak to each other and sometimes
+strongly encourage one another. For example, when women lack decisional power within
+the family, which amounts to deprivation of women's effective agency, this can also adversely
+affect their own well-being. The two kinds of deprivation may not only move together—","What does the author mean by stating that different aspects of gender inequality
+'speak to each other?",They are independent and unrelated,They reinforce and encourage one another,They cancel each other out,They occur only in similar conditions,B,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q027.jpg,ocr,9,0,
+APSC-CCE-Prelims-2025-GS-II-Q028,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,28,"Read the following passage carefully and answer Question Nos. 26, 27 and 28 :
+Inequality between women and men can appear in many different forms—it has many faces.
+Gender disparity is, in fact, not one affliction but a multitude of problems. Sometimes the
+different asymmetries are quite unrelated to each other. Indeed, there may be no significant
+inequality in one sphere but a great deal of inequality in another. For example, Japan has no
+particular gender bias in nutrition or health care or school education, but men do seem to
+have considerable relative advantage in securing high leadership positions in administration
+or business.
+gender inequality of other kinds. Consequential analysis can then be critically important
+even within the large corpus of gender relations in general, in order to examine and
+scrutinize how the different aspects of gender inequality relate to each other. For while
+gender inequality has many faces, these are not independent (like those in the austere image
+of Brahma in early Indian iconography). Rather, they speak to each other and sometimes
+strongly encourage one another. For example, when women lack decisional power within
+the family, which amounts to deprivation of women's effective agency, this can also adversely
+affect their own well-being. The two kinds of deprivation may not only move together—",The term 'effective agency' in the passage refers to,legal authority granted by the State,the ability to make meaningful decisions and act upon them,representation in political institutions,economic independence alone,B,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q028.jpg,ocr,9,0,
+APSC-CCE-Prelims-2025-GS-II-Q029,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,29,,"Two friends start walking simultaneously towards each other from two points 120 m
+apart. One friend takes a detour : after walking 40 m, he turns right and walks 15 m,
+then turns left and walks 25 m, and finally turns left again to return to the original
+road. If both friends walk at the same constant speed, what is the distance between
+them at the moment the first friend returns to the road?",10 m,15 m,25m,40 m,D,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q029.jpg,ocr,10,0,
+APSC-CCE-Prelims-2025-GS-II-Q030,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,30,"Instruction : Read the following information carefully and answer the Question Nos. 30
+and 31 :
+: 00	2 30 31 30 :
+Adhir Mishra has three children : Urmila, Raghu and Sumit. Sumit married Roma, the eldest
+daughter of Mr. and Mrs. Mohan. The Mohans married their youngest daughter to the eldest
+son of Mr. and Mrs. Sharma and they have two children Sandeep and Shaifali. The Mohans
+have two more children, Roshan and Bimla, both elder than Sheila. Sohan and Shivendar are
+sons of Sumit and Roma. Leela is the daughter of Sandeep.
+:","How is Shivendar related to Roma's father?
+Son-in-law	Cousin
+Grandson	)Son
+(
+9",,,,,C,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q030.jpg,ocr,10,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q031,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,31,"Instruction : Read the following information carefully and answer the Question Nos. 30
+and 31 :
+: 00	2 30 31 30 :
+Adhir Mishra has three children : Urmila, Raghu and Sumit. Sumit married Roma, the eldest
+daughter of Mr. and Mrs. Mohan. The Mohans married their youngest daughter to the eldest
+son of Mr. and Mrs. Sharma and they have two children Sandeep and Shaifali. The Mohans
+have two more children, Roshan and Bimla, both elder than Sheila. Sohan and Shivendar are
+sons of Sumit and Roma. Leela is the daughter of Sandeep.
+:","What is the surname of Leela (from the paternal side)?
+(A) Sharma
+Mishra",*2 9:16 9:16,What is the value of A? 6-(∀) 3:2 3 : 2 Mohan CR,-5 6-(∀) 3 4,-5 vessel? None of the above,A,,official_provisional_key,1,figure_gap,exams/APSC-CCE-Prelims/2025/figures/GS-II/q031_1.jpg|exams/APSC-CCE-Prelims/2025/figures/GS-II/q031_2.jpg,ocr,11,1,
+APSC-CCE-Prelims-2025-GS-II-Q032,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,32,,"A, B, C, D and E are five different integers. When written in the ascending order of
+values, the difference between any two adjacent integers is 4. D is the greatest and A is
+the least, B is greater than E but less than C. The sum of the integers is equal to E.
+-7
+None of the above",,,,,A,,official_provisional_key,1,parse_failed,exams/APSC-CCE-Prelims/2025/figures/GS-II/q032.jpg,ocr,11,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q033,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,33,,"A vessel contains 100 litres of pure milk, of which 20 litres is taken out and replaced
+with 20 litres of water. Assume that the mixing is uniform and complete. Now, if the
+process is repeated one more time, what would be the ratio of pure milk to water in the
+16:9
+2:3",,,,,B,,official_provisional_key,1,parse_failed,exams/APSC-CCE-Prelims/2025/figures/GS-II/q033.jpg,ocr,11,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q034,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,34,,"You are currently taking the PG examination. One night while taking an after-dinner
+walk, you saw two people drinking in the neighborhood park. You could tell they were
+drinking alcohol from the smell, as well as from the label on the bottle.
+What should be the best suitable course of action on your part?",Inform the local police yourself.,Approach the persons who were drinking and tell them that it is against the law to drink in the public and request them to go to a private place.,Mobilize your friends and remove the offenders from the park after a good dressing down.,Locate the park attendant and request him to inform the local police.,D,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q034.jpg,ocr,12,0,
+APSC-CCE-Prelims-2025-GS-II-Q035,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,35,,"In the figure given below, each of the nine boxes must be filled with an integer from
+1 to 9, so that by adding the numbers in each row and column you get the same
+number. No integer may be repeated. What is the value of x + y?
+8 y
+x
+4 9 2
+6	(B)8
+6 ().	()11",,,,,C,,official_provisional_key,1,parse_failed|table_layout|text_mentions_visual,exams/APSC-CCE-Prelims/2025/figures/GS-II/q035.jpg,ocr,12,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q036,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,36,,"Three of the following number pairs share a specific mathematical relationship and
+form a group. Which pair is the odd one out?
+(24121), (20-100),(1664), (1449)
+24-121	16-64
+14-49	20-100",,,,,A,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q036.jpg,ocr,13,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q037,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,37,,"A simple mathematical operation in each number of the sequence 14, 18, 20, 24, 30,
+32,... results in a sequence of prime numbers. Which one of the following is the next
+number in the given sequence?
+34	36
+38	)40
+14, 18,20, 24, 30, 32,.",,,,,C,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q037.jpg,ocr,13,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q038,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,38,,"What is the missing term in the series
+6, 12, 36, 180,, 13860, 180180,... ?
+1080	1260
+1440	1620
+6, 12, 36, 180, - —, 13860,180180,
+1080	1260
+)1440	1620
+most skilled members consistently delivers high-quality work but often misses internal
+deadlines, affecting coordination with others.
+What should you do?
+I. Remove the member from the team to maintain discipline.
+II. Retain the member but assign tasks with flexible deadlines.
+III. Counsel the member and redesign the workflow to balance quality and timelines.
+IV. Ignore delays since output quality is high.
+Which of the following options is correct?
+II	III
+I and IV	()II and II",,,,,B,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q038_1.jpg|exams/APSC-CCE-Prelims/2025/figures/GS-II/q038_2.jpg,ocr,13,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q040,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,40,,"Given below are two statements labelled as Assertion and Reason :
+Assertion (A) : Transparency reduces corruption.
+Reason (R) : Public scrutiny discourages malpractices.
+Which of the following options is correct?
+(A) Both true, (R) explains",,"Both true, no explanation","true,R) false","false,R) true ((:",A,,official_provisional_key,1,option_images,exams/APSC-CCE-Prelims/2025/figures/GS-II/q040.jpg,ocr,14,0,
+APSC-CCE-Prelims-2025-GS-II-Q041,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,41,,"A company is hiring a Marketing Manager. The candidate must fulfill the following
+criteria :
+I. Be graduate with at least 60% marks.
+II. Have a Post-graduate degree/diploma in Marketing with at least 55% marks.
+III. Have at least 3 years of work experience in Marketing.
+IV. Be between 25 and 35 years of age on 01. 01.2023.
+Exceptions :
+(i) If a candidate fulfills all criteria except (II) but has 5 years of work experience, refer
+his/her candidature to the VP (Vice President).
+(ii) If a candidate fulfills all criteria except (I), but secured at least 65% marks in
+his/her Post-graduation, refer his/her candidature to the Director.
+Profile :
+ro	so	s	t	e s	s n
+58% marks. He completed his MBA in Marketing with 68% marks. He has been
+working as a marketing executive for the last 4 years.
+What decision should be taken regarding Rohan's candidature?
+Refer to the Director.	()Refer to the VP.
+The candidate is selected.	The candidate is rejected.",,,,,A,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q041.jpg,ocr,15,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q042,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,42,,"What is the relationship between the following two statements?
+Statement (I) : The State Government has suddenly declared a mandatory two-day
+holiday for all schools and colleges in the coastal districts.
+Statement (II) : The coast guard has issued a strict advisory ordering all fishermen to
+suspend operations and return to the shore immediately.",Statement (I) is the cause and Statement (II) is its effect.,Statement (II) is the cause and Statement (I) is its effect.,Both statements are effects of a common cause.,Both statements are effects of independent causes.,C,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q042.jpg,ocr,16,0,
+APSC-CCE-Prelims-2025-GS-II-Q043,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,43,,"Three candidates—Amit, Bharat and Chirag—appeared for an interview. Given that at
+least one of them is speaking the truth, consider the following statements :
+I. Amit : ""At least one of us is speaking the truth.""
+II. Bharat : ""Exactly two of us are speaking the truth.""
+III. Chirag : ""All three of us are speaking the truth.""
+How many of them are actually speaking the truth?
+One	(Two
+Three	(D)Inconclusive",,,,,D,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q043.jpg,ocr,16,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q044,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,44,,"If X = 48 and ACT = 48, then BAT is equal to which of the following?
+46	(B48
+69	92
+2 X=48 ACT=48 C0 BAT 00
+46	()48
+)69	92",,,,,A,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q044.jpg,ocr,17,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q045,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,45,,"Ramanujam was studying for his examinations and the lights went off. It was around
+1:00 a.m. He lighted two uniform candles of equal length but one is thicker than the
+other. The thick candle lasts six hours and the thin one two hours less. When he finally
+went to sleep, the thick candle was twice as long as the thin one. For how many hours
+did Ramanujam study in the candlelight that night?",2 hours,3 hours,2 hours and 45 minutes,4 hours,B,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q045.jpg,ocr,17,0,
+APSC-CCE-Prelims-2025-GS-II-Q046,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,46,,"What is the number that does not logically fit in the given series?
+445, 221, 109, 46, 25, 11, 4
+5	221	109
+)46	25",,,,,C,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q046.jpg,ocr,17,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q047,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,47,,"If
+2 a
+× b 2
+c 6
+8 4
+8 d 6
+here a, b, c and d are digits, what is a + b equal to?
+4	(B)6",,,,,D,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q047.jpg,ocr,18,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q048,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,48,,"If
+I = 314 ÷
+ⅡI =3÷[(4÷5)÷6]
+III =[3÷(4÷5)}+6
+IV =3÷4(5+6)
+then which of the following options is correct?
+I and II are equal	I and ⅢI are equal
+I and IV are equal	()All are equal",,,,,C,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q048.jpg,ocr,18,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q049,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,49,,"Consider the following statements :
+1. All analysts are researchers.	2. Some researchers are policymakers.
+3. No policymaker is an activist.	4. Some activists are journalists.
+Conclusions :
+I. Some researchers are not activists.
+II. No analyst is an activist.
+III. Some journalists are not researchers.
+IV. Some policymakers are not journalists.
+Which of the following options is correct?
+I	()I and II
+I and IV	()I, II and III",,,,,A,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q049.jpg,ocr,19,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q050,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,50,,"Consider the following :
+On account of increasing environmental awareness, many urban residents have
+started using public transportation instead of private vehicles, resulting in a noticeable
+reduction in the traffic congestion in the city.
+Conclusions :
+I. Environmental awareness is the only reason for reduced traffic congestion in
+cities.
+II. A change in public behavior can significantly influence urban environmental
+conditions.
+Which of the following options is correct?",Only the conclusion II follows,Only conclusions I and II follow,Only conclusions II and III follow,All conclusions follow,A,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q050.jpg,ocr,19,0,
+APSC-CCE-Prelims-2025-GS-II-Q051,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,51,,"Which of the following equations has √1+ 32 as a solution?
+$A)$x^{2}- 1}=0$	B$x^{3}+x ^{2}++1=0$
+(x^{2}-1){3}-2=0	)(x^{3}-2){2}+1=0
+00 60799 7√1+32
+$A)$x^{2}} 1=0$	^3}+^{2}++1=0
+(x^{2}-1 {3}-2=0$	)(x^{3}-2){2+1=0",,,,,C,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q051.jpg,ocr,20,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q052,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,52,,"Which of the following is the smallest prime divisor of the number 20677?
+3	5
+)11	23",,,,,D,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q052.jpg,ocr,20,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q053,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,53,,"-10
+What is the value of -10 ×(27)-3 +(0.2)-4×(25)-2 +(64)/3?
+1	(B)3
+8	)16
+-10
+2Mε/(9)+z-(2)×(·0)+ε-∠z)×
+1	(B)3
+8	)16
+greater than
+the resulting fraction is positive but less than",,,,,C,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q053_1.jpg|exams/APSC-CCE-Prelims/2025/figures/GS-II/q053_2.jpg,ocr,20,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q055,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,55,,"The number
+$\sqsqrt{2}$
+$\sqsqrt{{2}$
+$\sqsqrt{{3 { 2}$
+$2\sqrt2}$
+$\sqsqrt{{{2}$
+$\sqsqrt{{{2}$
+$\sqsqrt{3{2}$
+$2\sqrt2}$",,,,,D,,official_provisional_key,1,parse_failed,exams/APSC-CCE-Prelims/2025/figures/GS-II/q055.jpg,ocr,21,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q056,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,56,,"What is the sum of the series 1
++
+1×2
+66. 0 (∀)
+)2.0
+1 1 1	1
++ + +.. +
+1×2 2×3 3×4 99×100
+66. 0 (∀)
+)2.0
+54. The denominator of a fraction is smaller than the square of the numerator by 1. If 2 is
+added to both the numerator and the denominator, then the resulting fraction is
+If 3 is subtracted from both the numerator and the denominator, then
+What is the fraction?",,,,,A,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q056_1.jpg|exams/APSC-CCE-Prelims/2025/figures/GS-II/q056_2.jpg,ocr,21,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q057,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,57,,"What is the product of the highest common factor and the least common multiple of
+225 and 108?",333,12150,225 10,333 12150,D,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q057.jpg,ocr,22,0,
+APSC-CCE-Prelims-2025-GS-II-Q058,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,58,,"In a bag, the ratio of 1 rupee coins to 2 rupee coins is 4 : 5. If the total value of these
+45
+)160
+630	21
+45",,,,,D,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q058.jpg,ocr,22,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q059,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,59,,"What will be the change in the area of the rectangle if its length is increased by 10%
+and the breadth is decreased by 10%?
+Decrease by 1%
+Decrease by 10%
+1%
+10%",,,,,A,,official_provisional_key,1,figure_gap|parse_failed,exams/APSC-CCE-Prelims/2025/figures/GS-II/q059.jpg,ocr,22,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q060,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,60,,"The mean of a set of 10 observations is 15. If the mean of the first 4 observations is 12,
+then what is the mean of the remaining 6 observations?
+13
+)16
+13
+16
+(2700
+24300
+2700
+24300
+coins in the bag is 630, then what is the number of 1 rupee coins in the bag?",,,,,D,,official_provisional_key,1,figure_gap|parse_failed,exams/APSC-CCE-Prelims/2025/figures/GS-II/q060_1.jpg|exams/APSC-CCE-Prelims/2025/figures/GS-II/q060_2.jpg,ocr,22,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q061,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,61,,"A circular field of radius 70 ft is to be enclosed by a wall. The construction cost is 50
+per square foot of the wall's surface area. If the budget is 77,000, then what is the
+3 ft	()3·5 ft
+)4.5 ft	()7 ft",,,,,B,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q061.jpg,ocr,23,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q062,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,62,,"Consider the query : Is n an even integer?
+Statement (I) : 3n is an even integer.
+Statement (II) : n+ 1 is an odd integer.
+Which of the following options is correct?
+Each statement alone is sufficient.
+Both statements together are sufficient, but neither statement alone is sufficient.
+Statement (I) alone is sufficient, but Statement (II) alone is not sufficient.",,,,,A,,official_provisional_key,1,parse_failed,exams/APSC-CCE-Prelims/2025/figures/GS-II/q062.jpg,ocr,23,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q063,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,63,,"What is the arithmetic mean of the angles of a hexagon?
+60°	(B)90°
+)120°	(150°",,,,,C,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q063.jpg,ocr,24,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q064,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,64,,"What is the difference between the greatest negative integer and the smallest whole
+number?",-1 -1,0,1 M (1 ()872,None of the above,C,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q064.jpg,ocr,24,0,
+APSC-CCE-Prelims-2025-GS-II-Q065,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,65,,"If √2 = 1. 414, then what is the value of
+$\sqrt2} - 1$
+1	(B)3
+3. 146	)5.828",,,,,D,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q065.jpg,ocr,24,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q066,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,66,,"What is the remainder when 9100 is divided by 7?
+1	()2
+3	D)4",,,,,B,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q066.jpg,ocr,24,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q067,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,67,,"You are heading a multidisciplinary team tasked with developing a real-time disaster
+collection, satellite integration and AI-based prediction models, and must be completed
+before the monsoon season. Coordination challenges, data reliability, and time
+constraints are critical concerns.
+What will you do?
+I. Establish a central command dashboard where all data streams are integrated
+and monitored continuously.
+II. Mandate that all team members strictly follow a fixed 9-to-5 schedule to ensure
+accountability.
+III. Grant domain experts (e.g., AI specialists) flexible working arrangements, while
+ensuring field teams to follow location-based deployment.
+IV. Put a special mechanism in place to verify the field data before their integration
+into the model.
+Which of the following options is correct?
+I	(I and III
+II and IV	(I, III and IV",,,,,D,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q067.jpg,ocr,25,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q068,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,68,,"Five departments have been allotted to five officers A, B, C, D and E.
+I. A is not in Finance.
+II. B is in either Health or Education.
+III. C is not in the same department as D.
+IV. E is in Finance.
+V. Education is not assigned to either A or D.
+Which of the following must be true?
+B is in Health.	A is in Education.
+D is not in Education.	is in Health.",,,,,C,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q068.jpg,ocr,26,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q069,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,69,,"The Chairman of a Selection Committee arrived at the interview hall at 10 minutes to
+12:30 p.m. He arrived 20 minutes earlier than the other members, who arrived late by
+30 minutes of the scheduled time. At what time the interview was scheduled?
+12:00 noon	(12:10 p.m.
+12:30 p.m.	()12:40 p.m.",,,,,B,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q069.jpg,ocr,26,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q070,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,70,,"A technical glitch caused your visual presentation to fail during your address in a
+seminar. What should be your best possible response?",Try to correct the problem yourself with the help of the organizer.,Wait for the technical team to rectify the glitch. 12 10,Continue with the address by using descriptive analogies and moving closer to interact with the audience.,equipments in future.,C,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q070_1.jpg|exams/APSC-CCE-Prelims/2025/figures/GS-II/q070_2.jpg,ocr,26,0,
+APSC-CCE-Prelims-2025-GS-II-Q071,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,71,,"While traveling in a commercial taxi to a neighboring State for a high-priority meeting,
+your driver stops at a toll gate to pay the mandatory toll fee. While your taxi was at the
+counter, you observe that the desk clerk taking an extra amount of 50, for which no
+receipt has been provided. You are already running late for the meeting.
+What should be the appropriate response from your end as a responsible senior public
+servant?",Immediately confront the clerk and demand that he returns the illegally collected money to the driver.,"Do not interfere, as it is a private matter between the driver and the clerk and you cannot afford to be late for the meeting.",Pay 2 50 yourself to the driver later to compensate him and ensure that you reach the meeting on time.,"Take note of the incident and the clerk's details, proceed to your meeting, and subsequently report the matter to the higher authorities.",D,,official_provisional_key,0,,exams/APSC-CCE-Prelims/2025/figures/GS-II/q071.jpg,ocr,27,0,
+APSC-CCE-Prelims-2025-GS-II-Q072,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,72,,"During a team meeting chaired by you, you observe that the deliberation thereof is
+dominated by one team member. What should you do?",Let it continue without any intervention from your end.,Conclude the meeting since you are no longer in control of it.,"Skilfully shift the focus from the dominating participant, and encourage the participation from other members. 0 0","Support the dominant person, acknowledging his contribution to the meeting.",C,,official_provisional_key,1,figure_gap,exams/APSC-CCE-Prelims/2025/figures/GS-II/q072.jpg,ocr,28,1,
+APSC-CCE-Prelims-2025-GS-II-Q073,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,73,,"A committee of five must include three instructors from amongst V, W, X, Y and Z, and
+two technicians from amongst α, β, γ and δ, under the following conditions :
+I. Z serves only if α serves.
+II. X serves only if Y and δ serve.
+III. V and W must serve together.
+IV. Neither α nor β can serve, if γ serves.
+Then which of the following is an acceptable composition of the committee?
+X,Y,Z,γ and δ	(V,W,Y,αand δ
+V, W, X, βand δ	(D)X,Y,Z,αand β",,,,,B,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q073.jpg,ocr,28,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q074,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,74,"Instruction : Read the table below and answer the Question Nos. 74 and 75 :
+:	M	:
+Yearly commission earned by five salesmen (in Z)
+050 1	090
+2020 2021 2022 2023 2024 2025
+Salesman A
+OA 27,350 28,500 25,200 29,800 24,600 27,000
+Salesman B
+B 26,850 27,900 27,400 28,000 25,500 29,000
+Salesman C
+26,200 27,900 28,200 29,100 29,400 30,000
+Salesman D
+D 27,850 30,040 29,800 30,060 29,800 32,000
+Salesman E
+E 28,640 29,000 28,750 30,000 29,750 29,700","In the year 2024, the commission earned by salesman D was approximately what
+percent more of the commission earned by salesman A?
+17. 21	(21·14
+24. 34	27. 05",,,,,B,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q074.jpg,ocr,29,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q075,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,75,"Instruction : Read the table below and answer the Question Nos. 74 and 75 :
+:	M	:
+Yearly commission earned by five salesmen (in Z)
+050 1	090
+2020 2021 2022 2023 2024 2025
+Salesman A
+OA 27,350 28,500 25,200 29,800 24,600 27,000
+Salesman B
+B 26,850 27,900 27,400 28,000 25,500 29,000
+Salesman C
+26,200 27,900 28,200 29,100 29,400 30,000
+Salesman D
+D 27,850 30,040 29,800 30,060 29,800 32,000
+Salesman E
+E 28,640 29,000 28,750 30,000 29,750 29,700","In the year 2023, the commission of the salesman Bwas approximately what percent of
+the total commission earned by the five salesmen that year?
+12	19
+28	34",,,,,B,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q075.jpg,ocr,29,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q076,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,76,,"A shopkeeper earns a profit of 15% on selling a book at 10% discount on the printed
+price. What is the ratio of the cost price and the printed price of the book?
+15:21	16:23
+17:21	18:23",,,,,D,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q076.jpg,ocr,30,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q077,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,77,"Instruction : The following table provides the amount of income of a departmental store
+for 4 months (in thousand). Read the table carefully and answer the Question Nos. 77
+and 78 :
+M M	(0 (?) M q (?)	: M","What is the average income of the store per month from utensils (in thousand) during
+these 4 months?
+6. 75	B8.50
+)9.25	9. 50",,,,,B,,official_provisional_key,1,parse_failed|table_layout,exams/APSC-CCE-Prelims/2025/figures/GS-II/q077.jpg,ocr,30,1,could not locate options (A)-(D)
+APSC-CCE-Prelims-2025-GS-II-Q080,APSC-CCE-Prelims,2025,GS-II,"Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",A,80,,"Consider the following two statements :
+1. All poets are creative.
+2. Some creative people are philosophers.
+Conclusions :
+(I) Some poets are philosophers.
+(II) Some philosophers are creative.
+Which of the following options is correct?
+I (V)
+Both are correct",,,,,B,,official_provisional_key,1,parse_failed,exams/APSC-CCE-Prelims/2025/figures/GS-II/q080.jpg,ocr,31,1,could not locate options (A)-(D)

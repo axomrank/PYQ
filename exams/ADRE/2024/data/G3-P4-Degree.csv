@@ -1,193 +1,193 @@
-id,exam,year,grade,paper,booklet_set,q_no,context_en,question_en,option_a_en,option_b_en,option_c_en,option_d_en,context_as,question_as,option_a_as,option_b_as,option_c_as,option_d_as,answer,answer_note,answer_source,has_visual,visual_types,images,page_en,page_as,needs_review,review_notes
-ADRE-2024-G3-P4-Degree-Q001,ADRE,2024,III,IV,A,1,,Which of the following countries does not exist presently ?,Switzerland,Czechoslovakia,Germany,Poland,,,,,,,B,,official_final_key,0,,,6,6,0,
-ADRE-2024-G3-P4-Degree-Q002,ADRE,2024,III,IV,A,2,,Which state is the official sponsor of Hockey team of India ?,Punjab,Odisha,Haryana,Uttar Pradesh,,,,,,,B,,official_final_key,0,,,6,6,0,
-ADRE-2024-G3-P4-Degree-Q003,ADRE,2024,III,IV,A,3,,"What would replace # in the sets ?
-{5, 120, 3}, {9, 630, 5}, {9, 810, #}",8,7,6,4,,,,,,,C,,official_final_key,0,,,6,6,0,
-ADRE-2024-G3-P4-Degree-Q004,ADRE,2024,III,IV,A,4,,"What should correctly replace @ in the grid ?
+id,exam,year,paper_code,paper_title,booklet_set,q_no,context,question,option_a,option_b,option_c,option_d,answer,answer_note,answer_source,has_visual,visual_types,images,text_source,page,needs_review,review_notes
+ADRE-2024-G3-P4-Degree-Q001,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,1,,Which of the following countries does not exist presently ?,Switzerland,Czechoslovakia,Germany,Poland,B,,official_final_key,0,,,pdf_text,6,0,
+ADRE-2024-G3-P4-Degree-Q002,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,2,,Which state is the official sponsor of Hockey team of India ?,Punjab,Odisha,Haryana,Uttar Pradesh,B,,official_final_key,0,,,pdf_text,6,0,
+ADRE-2024-G3-P4-Degree-Q003,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,3,,"What would replace # in the sets ?
+{5, 120, 3}, {9, 630, 5}, {9, 810, #}",8,7,6,4,C,,official_final_key,0,,,pdf_text,6,0,
+ADRE-2024-G3-P4-Degree-Q004,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,4,,"What should correctly replace @ in the grid ?
 13 450 30
 21 @ 8
-32 782 23",196,184,214,658,,,,,,,B,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q004.png,7,7,1,
-ADRE-2024-G3-P4-Degree-Q005,ADRE,2024,III,IV,A,5,,"From the Constitution of which country, the concept of residual powers in the Constitution of
-India has been borrowed ?",Belgium,Canada,France,Switzerland,,,,,,,B,,official_final_key,0,,,8,8,0,
-ADRE-2024-G3-P4-Degree-Q006,ADRE,2024,III,IV,A,6,,Who amongst the following is a wrestler ?,Baichung Bhutia,Lovlina Borgohain,Sushil Kumar,Karnam Malleshwari,,,,,,,C,,official_final_key,0,,,8,8,0,
-ADRE-2024-G3-P4-Degree-Q007,ADRE,2024,III,IV,A,7,,Which of the following travellers had visited Kamrupa Kingdom ?,Fa Hien,Hiuen Tsang,Al Biruni,Marco Polo,,,,,,,B,,official_final_key,0,,,9,9,0,
-ADRE-2024-G3-P4-Degree-Q008,ADRE,2024,III,IV,A,8,,Identify the water reflection of the given figure.,,,,,,,,,,,C,,official_final_key,1,drawing|option_images|text_mentions_visual,exams/ADRE/2024/figures/G3-P4-Degree/q008.png,9,9,1,
-ADRE-2024-G3-P4-Degree-Q009,ADRE,2024,III,IV,A,9,,The remainder when −46 is divided by 3 is :,−2,−1,1,2,,,,,,,D,,official_final_key,0,,,10,10,0,
-ADRE-2024-G3-P4-Degree-Q010,ADRE,2024,III,IV,A,10,,"The product of the mean and the median of the data set 1, 0, −5, 3, 0, −2, 4, 6, −4, 1, 2 is :
-5	7	6	9",12,13,11,14,,,,,,,C,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G3-P4-Degree/q010.png,11,11,1,
-ADRE-2024-G3-P4-Degree-Q011,ADRE,2024,III,IV,A,11,,"(16 + 16)²
+32 782 23",196,184,214,658,B,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q004.png,pdf_text,7,1,
+ADRE-2024-G3-P4-Degree-Q005,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,5,,"From the Constitution of which country, the concept of residual powers in the Constitution of
+India has been borrowed ?",Belgium,Canada,France,Switzerland,B,,official_final_key,0,,,pdf_text,8,0,
+ADRE-2024-G3-P4-Degree-Q006,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,6,,Who amongst the following is a wrestler ?,Baichung Bhutia,Lovlina Borgohain,Sushil Kumar,Karnam Malleshwari,C,,official_final_key,0,,,pdf_text,8,0,
+ADRE-2024-G3-P4-Degree-Q007,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,7,,Which of the following travellers had visited Kamrupa Kingdom ?,Fa Hien,Hiuen Tsang,Al Biruni,Marco Polo,B,,official_final_key,0,,,pdf_text,9,0,
+ADRE-2024-G3-P4-Degree-Q008,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,8,,Identify the water reflection of the given figure.,,,,,C,,official_final_key,1,drawing|option_images|text_mentions_visual,exams/ADRE/2024/figures/G3-P4-Degree/q008.png,pdf_text,9,1,
+ADRE-2024-G3-P4-Degree-Q009,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,9,,The remainder when −46 is divided by 3 is :,−2,−1,1,2,D,,official_final_key,0,,,pdf_text,10,0,
+ADRE-2024-G3-P4-Degree-Q010,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,10,,"The product of the mean and the median of the data set 1, 0, −5, 3, 0, −2, 4, 6, −4, 1, 2 is :
+5	7	6	9",12,13,11,14,C,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G3-P4-Degree/q010.png,pdf_text,11,1,
+ADRE-2024-G3-P4-Degree-Q011,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,11,,"(16 + 16)²
 16% of	is :
-16 × 16",0.16,0.32,0.48,0.64,,,,,,,D,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G3-P4-Degree/q011.png,11,11,1,
-ADRE-2024-G3-P4-Degree-Q012,ADRE,2024,III,IV,A,12,,Name the Mughal emperor whose army was defeated at the Battle of Saraighat.,Aurangzeb,Shah Jahan,Babur,Humayun,,,,,,,A,,official_final_key,0,,,12,12,0,
-ADRE-2024-G3-P4-Degree-Q013,ADRE,2024,III,IV,A,13,,Which of the following is NOT an Assamese novel ?,Adha Lekha Dostabez,Deu Langkhui,Xekh Pristha,Ontorip,,,,,,,ALL,"Official key 'G': question found ambiguous, all options treated as correct",official_final_key,0,,,12,12,0,
-ADRE-2024-G3-P4-Degree-Q014,ADRE,2024,III,IV,A,14,,"Three numbers A, B and C are such that the HCF of A and B is same as the HCF of B and C. If the
-LCM of A and B is three times the LCM of B and C, then the ratio C : A is :",1 : 9,3 : 1,9 : 1,1 : 3,,,,,,,D,,official_final_key,0,,,12,12,0,
-ADRE-2024-G3-P4-Degree-Q015,ADRE,2024,III,IV,A,15,,Who amongst the following has been awarded the Gyanpith Award in 2024 ?,Gulzar,Arup Kumar Dutta,Ratan Thiyem,Nilamani Phukan,,,,,,,A,,official_final_key,0,,,13,13,0,
-ADRE-2024-G3-P4-Degree-Q016,ADRE,2024,III,IV,A,16,,"Yesterday just after sunrise Rajiv met Samir and was talking, when Rajiv noticed that Samir’s
-shadow was seen towards the right of Rajiv. Which direction was Samir facing ?",South,East,West,North,,,,,,,D,,official_final_key,0,,,13,13,0,
-ADRE-2024-G3-P4-Degree-Q017,ADRE,2024,III,IV,A,17,,Which Hindi poet is known for “Madhushala” and “Agneepath” ?,Ramdhari Singh Dinkar,Haribansh Rai Bachchan,Sumitranandan Pant,Maithili Sharan Gupt,,,,,,,B,,official_final_key,0,,,14,14,0,
-ADRE-2024-G3-P4-Degree-Q018,ADRE,2024,III,IV,A,18,,The product of two binary numbers 101 and 10 expressed in binary numbers is :,1001,1010,1100,1110,,,,,,,B,,official_final_key,0,,,14,14,0,
-ADRE-2024-G3-P4-Degree-Q019,ADRE,2024,III,IV,A,19,,Kalbelia is a folk dance form of which region of India ?,Kumaon region,Chota Nagpur region,Konkan region,Thar desert region,,,,,,,D,,official_final_key,0,,,15,15,0,
-ADRE-2024-G3-P4-Degree-Q020,ADRE,2024,III,IV,A,20,,"The average of 9 observations was 9, that of the first 5 being 10 and that of the last 5 being 8. What
-was the fifth observation ?",8,7,9,10,,,,,,,C,,official_final_key,0,,,15,15,0,
-ADRE-2024-G3-P4-Degree-Q021,ADRE,2024,III,IV,A,21,,Which of the following colours is NOT seen on the Olympic flag ?,Green,Yellow,Orange,Black,,,,,,,C,,official_final_key,0,,,15,15,0,
-ADRE-2024-G3-P4-Degree-Q022,ADRE,2024,III,IV,A,22,,"A metal sphere of radius 24 cm is cut into 8 equal pieces and one piece is melted in the form of a
-sphere. The radius of the new sphere is :",12 cm,8 cm,15 cm,10 cm,,,,,,,A,,official_final_key,0,,,16,16,0,
-ADRE-2024-G3-P4-Degree-Q023,ADRE,2024,III,IV,A,23,,"In Assamese literature, who is known as the “Dhwani Kabi” ?",Binanda Chandra Barua,Ananda Chandra Agarwalla,Mahendranath Deka Phukan,Mafijuddin Ahmed Hazarika,,,,,,,A,,official_final_key,0,,,16,16,0,
-ADRE-2024-G3-P4-Degree-Q024,ADRE,2024,III,IV,A,24,,"Rearrange the following components to form a correct sentence.
+16 × 16",0.16,0.32,0.48,0.64,D,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G3-P4-Degree/q011.png,pdf_text,11,1,
+ADRE-2024-G3-P4-Degree-Q012,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,12,,Name the Mughal emperor whose army was defeated at the Battle of Saraighat.,Aurangzeb,Shah Jahan,Babur,Humayun,A,,official_final_key,0,,,pdf_text,12,0,
+ADRE-2024-G3-P4-Degree-Q013,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,13,,Which of the following is NOT an Assamese novel ?,Adha Lekha Dostabez,Deu Langkhui,Xekh Pristha,Ontorip,ALL,"Official key 'G': question found ambiguous, all options treated as correct",official_final_key,0,,,pdf_text,12,0,
+ADRE-2024-G3-P4-Degree-Q014,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,14,,"Three numbers A, B and C are such that the HCF of A and B is same as the HCF of B and C. If the
+LCM of A and B is three times the LCM of B and C, then the ratio C : A is :",1 : 9,3 : 1,9 : 1,1 : 3,D,,official_final_key,0,,,pdf_text,12,0,
+ADRE-2024-G3-P4-Degree-Q015,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,15,,Who amongst the following has been awarded the Gyanpith Award in 2024 ?,Gulzar,Arup Kumar Dutta,Ratan Thiyem,Nilamani Phukan,A,,official_final_key,0,,,pdf_text,13,0,
+ADRE-2024-G3-P4-Degree-Q016,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,16,,"Yesterday just after sunrise Rajiv met Samir and was talking, when Rajiv noticed that Samir’s
+shadow was seen towards the right of Rajiv. Which direction was Samir facing ?",South,East,West,North,D,,official_final_key,0,,,pdf_text,13,0,
+ADRE-2024-G3-P4-Degree-Q017,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,17,,Which Hindi poet is known for “Madhushala” and “Agneepath” ?,Ramdhari Singh Dinkar,Haribansh Rai Bachchan,Sumitranandan Pant,Maithili Sharan Gupt,B,,official_final_key,0,,,pdf_text,14,0,
+ADRE-2024-G3-P4-Degree-Q018,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,18,,The product of two binary numbers 101 and 10 expressed in binary numbers is :,1001,1010,1100,1110,B,,official_final_key,0,,,pdf_text,14,0,
+ADRE-2024-G3-P4-Degree-Q019,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,19,,Kalbelia is a folk dance form of which region of India ?,Kumaon region,Chota Nagpur region,Konkan region,Thar desert region,D,,official_final_key,0,,,pdf_text,15,0,
+ADRE-2024-G3-P4-Degree-Q020,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,20,,"The average of 9 observations was 9, that of the first 5 being 10 and that of the last 5 being 8. What
+was the fifth observation ?",8,7,9,10,C,,official_final_key,0,,,pdf_text,15,0,
+ADRE-2024-G3-P4-Degree-Q021,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,21,,Which of the following colours is NOT seen on the Olympic flag ?,Green,Yellow,Orange,Black,C,,official_final_key,0,,,pdf_text,15,0,
+ADRE-2024-G3-P4-Degree-Q022,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,22,,"A metal sphere of radius 24 cm is cut into 8 equal pieces and one piece is melted in the form of a
+sphere. The radius of the new sphere is :",12 cm,8 cm,15 cm,10 cm,A,,official_final_key,0,,,pdf_text,16,0,
+ADRE-2024-G3-P4-Degree-Q023,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,23,,"In Assamese literature, who is known as the “Dhwani Kabi” ?",Binanda Chandra Barua,Ananda Chandra Agarwalla,Mahendranath Deka Phukan,Mafijuddin Ahmed Hazarika,A,,official_final_key,0,,,pdf_text,16,0,
+ADRE-2024-G3-P4-Degree-Q024,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,24,,"Rearrange the following components to form a correct sentence.
 (i) where no man had
 (ii) here we are strolling
 (iii) ever set foot before
-(iv) on the surface of the moon",(i) - (ii) - (iii) - (iv),(ii) - (iii) - (i) - (iv),(ii) - (iv) - (i) - (iii),(i) - (iv) - (iii) - (ii),,,,,,,C,,official_final_key,0,,,17,,0,
-ADRE-2024-G3-P4-Degree-Q025,ADRE,2024,III,IV,A,25,,Which country are Kira and Gho the national dress of ?,Nepal,Cambodia,Bhutan,Vietnam,,,,,,,C,,official_final_key,0,,,17,17,0,
-ADRE-2024-G3-P4-Degree-Q026,ADRE,2024,III,IV,A,26,,Which of the following is NOT a non-metallic mineral ?,Silica,Limestone,Bauxite,Dolomite,,,,,,,C,,official_final_key,0,,,17,17,0,
-ADRE-2024-G3-P4-Degree-Q027,ADRE,2024,III,IV,A,27,,Which of the following is correct ?,Volcano cannot exist underwater.,Sea does not have any water current.,Almost 70% of earth surface is filled with water.,Land mass is almost half of earth’s surface.,,,,,,,C,,official_final_key,0,,,18,18,0,
-ADRE-2024-G3-P4-Degree-Q028,ADRE,2024,III,IV,A,28,,Which present region of India did King Lalitaditya (Muktapida) have his empire in ?,Northeast India,Kashmir region,The Kutch area,The Deccan region,,,,,,,B,,official_final_key,0,,,19,19,0,
-ADRE-2024-G3-P4-Degree-Q029,ADRE,2024,III,IV,A,29,,Identify the pair which does not follow the common pattern.,6 : OXYGEN,5 : ARGON,7 : CADMIUM,8 : BROMINE,,,,,,,D,,official_final_key,0,,,19,19,0,
-ADRE-2024-G3-P4-Degree-Q030,ADRE,2024,III,IV,A,30,,Who amongst the following has not won the Jnanpith Award ?,Birendranath Dutta,Nilamani Phukan,Hiren Bhattacharyya,Mamoni Roisom Goswami,,,,,,,"A,C","Official key accepts multiple options: A,C",official_final_key,0,,,19,19,0,
-ADRE-2024-G3-P4-Degree-Q031,ADRE,2024,III,IV,A,31,,"1 + 2 2 + 3 3
+(iv) on the surface of the moon",(i) - (ii) - (iii) - (iv),(ii) - (iii) - (i) - (iv),(ii) - (iv) - (i) - (iii),(i) - (iv) - (iii) - (ii),C,,official_final_key,0,,,pdf_text,17,0,
+ADRE-2024-G3-P4-Degree-Q025,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,25,,Which country are Kira and Gho the national dress of ?,Nepal,Cambodia,Bhutan,Vietnam,C,,official_final_key,0,,,pdf_text,17,0,
+ADRE-2024-G3-P4-Degree-Q026,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,26,,Which of the following is NOT a non-metallic mineral ?,Silica,Limestone,Bauxite,Dolomite,C,,official_final_key,0,,,pdf_text,17,0,
+ADRE-2024-G3-P4-Degree-Q027,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,27,,Which of the following is correct ?,Volcano cannot exist underwater.,Sea does not have any water current.,Almost 70% of earth surface is filled with water.,Land mass is almost half of earth’s surface.,C,,official_final_key,0,,,pdf_text,18,0,
+ADRE-2024-G3-P4-Degree-Q028,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,28,,Which present region of India did King Lalitaditya (Muktapida) have his empire in ?,Northeast India,Kashmir region,The Kutch area,The Deccan region,B,,official_final_key,0,,,pdf_text,19,0,
+ADRE-2024-G3-P4-Degree-Q029,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,29,,Identify the pair which does not follow the common pattern.,6 : OXYGEN,5 : ARGON,7 : CADMIUM,8 : BROMINE,D,,official_final_key,0,,,pdf_text,19,0,
+ADRE-2024-G3-P4-Degree-Q030,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,30,,Who amongst the following has not won the Jnanpith Award ?,Birendranath Dutta,Nilamani Phukan,Hiren Bhattacharyya,Mamoni Roisom Goswami,"A,C","Official key accepts multiple options: A,C",official_final_key,0,,,pdf_text,19,0,
+ADRE-2024-G3-P4-Degree-Q031,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,31,,"1 + 2 2 + 3 3
 Find the value of 1 +	.
 2 + 6 3 + 4 2
-1	1	3	3",6 2,2,2,,,,,,,,C,,official_final_key,1,drawing|math|option_images|table_layout,exams/ADRE/2024/figures/G3-P4-Degree/q031.png,20,20,1,
-ADRE-2024-G3-P4-Degree-Q032,ADRE,2024,III,IV,A,32,,"Which Assamese movie is based on Bhabendra Nath Saikia’s novel, Ontorip ?",Pratidhwani,Krishnachura,Barua’r Xonxaar,Agnisnan,,,,,,,D,,official_final_key,0,,,21,21,0,
-ADRE-2024-G3-P4-Degree-Q033,ADRE,2024,III,IV,A,33,,(1% of 1)+(2% of 2)+(3% of 3)=?,0.06,0.6,0.41,0.14,,,,,,,D,,official_final_key,0,,,21,21,0,
-ADRE-2024-G3-P4-Degree-Q034,ADRE,2024,III,IV,A,34,,A curved waterbody formed when a river changes its course to take a shorter path is known as :,Archipelago,Isthmus,Oxbow lake,Delta,,,,,,,C,,official_final_key,0,,,21,21,0,
-ADRE-2024-G3-P4-Degree-Q035,ADRE,2024,III,IV,A,35,,A cone has a base radius of 4 cm and height of 9 cm. The volume of the cone is :,36π cm³,48π cm³,13π cm³,24π cm³,,,,,,,B,,official_final_key,0,,,22,22,0,
-ADRE-2024-G3-P4-Degree-Q036,ADRE,2024,III,IV,A,36,,In which city is Dalal Street located ?,Kolkata,Chennai,Hyderabad,Mumbai,,,,,,,D,,official_final_key,0,,,22,22,0,
-ADRE-2024-G3-P4-Degree-Q037,ADRE,2024,III,IV,A,37,,Simplify : 51 + 134 + 5 42 + 16 + 9,15,12,8,16,,,,,,,C,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q037.png,23,23,1,
-ADRE-2024-G3-P4-Degree-Q038,ADRE,2024,III,IV,A,38,,"a 4	6a + 2b
+1	1	3	3",6 2,2,2,,C,,official_final_key,1,drawing|math|option_images|table_layout,exams/ADRE/2024/figures/G3-P4-Degree/q031.png,pdf_text,20,1,
+ADRE-2024-G3-P4-Degree-Q032,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,32,,"Which Assamese movie is based on Bhabendra Nath Saikia’s novel, Ontorip ?",Pratidhwani,Krishnachura,Barua’r Xonxaar,Agnisnan,D,,official_final_key,0,,,pdf_text,21,0,
+ADRE-2024-G3-P4-Degree-Q033,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,33,,(1% of 1)+(2% of 2)+(3% of 3)=?,0.06,0.6,0.41,0.14,D,,official_final_key,0,,,pdf_text,21,0,
+ADRE-2024-G3-P4-Degree-Q034,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,34,,A curved waterbody formed when a river changes its course to take a shorter path is known as :,Archipelago,Isthmus,Oxbow lake,Delta,C,,official_final_key,0,,,pdf_text,21,0,
+ADRE-2024-G3-P4-Degree-Q035,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,35,,A cone has a base radius of 4 cm and height of 9 cm. The volume of the cone is :,36π cm³,48π cm³,13π cm³,24π cm³,B,,official_final_key,0,,,pdf_text,22,0,
+ADRE-2024-G3-P4-Degree-Q036,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,36,,In which city is Dalal Street located ?,Kolkata,Chennai,Hyderabad,Mumbai,D,,official_final_key,0,,,pdf_text,22,0,
+ADRE-2024-G3-P4-Degree-Q037,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,37,,Simplify : 51 + 134 + 5 42 + 16 + 9,15,12,8,16,C,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q037.png,pdf_text,23,1,
+ADRE-2024-G3-P4-Degree-Q038,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,38,,"a 4	6a + 2b
 If = then the value of	is :
-b 3	4a − 2b",3,4,5,6,,,,,,,A,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G3-P4-Degree/q038.png,23,23,1,
-ADRE-2024-G3-P4-Degree-Q039,ADRE,2024,III,IV,A,39,,"If cosθ=, then the value of sinθ is :
-5	12	12	13",12,5,13,12,,,,,,,C,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G3-P4-Degree/q039.png,24,24,1,
-ADRE-2024-G3-P4-Degree-Q040,ADRE,2024,III,IV,A,40,,"As per the diagram, which zone represents married nurse who should be sent for training ?",2,4,3,7,,,,,,,B,,official_final_key,1,drawing|text_mentions_visual,exams/ADRE/2024/figures/G3-P4-Degree/q040.png,25,25,1,
-ADRE-2024-G3-P4-Degree-Q041,ADRE,2024,III,IV,A,41,,The value of 0.09 + 1.69 is :,1.78,1.6,1.33,1.5,,,,,,,B,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q041.png,26,26,1,
-ADRE-2024-G3-P4-Degree-Q042,ADRE,2024,III,IV,A,42,,Identify the sport related to (Major) Dhyan Chand.,Football,Wrestling,Boxing,Hockey,,,,,,,D,,official_final_key,0,,,27,27,0,
-ADRE-2024-G3-P4-Degree-Q043,ADRE,2024,III,IV,A,43,,"Identify the incorrect term in the series.
-{5, 8, 13, 20, 31, 40, 53}",13,31,20,40,,,,,,,B,,official_final_key,0,,,27,27,0,
-ADRE-2024-G3-P4-Degree-Q044,ADRE,2024,III,IV,A,44,,"A sector of angle 308 is cut out from a circular disc of radius 6 cm. The area of the cut sector in cm²
-units is :",3π,4π,5π,6π,,,,,,,A,,official_final_key,0,,,28,28,0,
-ADRE-2024-G3-P4-Degree-Q045,ADRE,2024,III,IV,A,45,,Which of the following countries is the farthest from Andaman and Nicobar Islands ?,Myanmar,Indonesia,Vietnam,Malaysia,,,,,,,C,,official_final_key,0,,,28,28,0,
-ADRE-2024-G3-P4-Degree-Q046,ADRE,2024,III,IV,A,46,,Which State is the Dandiya Raas a popular folk dance of ?,Rajasthan,Gujarat,Odisha,Maharashtra,,,,,,,B,,official_final_key,0,,,29,29,0,
-ADRE-2024-G3-P4-Degree-Q047,ADRE,2024,III,IV,A,47,,"A person moves from P to Q in a semi-circular path and then comes back to P by the shortest route,
-which is 4 km. The total path covered by the person in the entire journey is :",(4π+2) km,(2π+4) km,(π+2) km,(2π+2) km,,,,,,,B,,official_final_key,0,,,29,29,0,
-ADRE-2024-G3-P4-Degree-Q048,ADRE,2024,III,IV,A,48,,"Sagor Dekhisa, a collection of Assamese poems was written by :",Devakanta Barua,Navakanta Barua,Banikanta Kakati,Rajanikanta Bordoloi,,,,,,,A,,official_final_key,0,,,30,30,0,
-ADRE-2024-G3-P4-Degree-Q049,ADRE,2024,III,IV,A,49,,The longest diagonal that can be found in a regular cube of side 1 cm is :,2 cm,2 cm,3 cm,3 cm,,,,,,,D,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q049.png,30,30,1,
-ADRE-2024-G3-P4-Degree-Q050,ADRE,2024,III,IV,A,50,,Which of the following is different from the rest ?,Samaveda,Rigveda,Yajurveda,Ayurveda,,,,,,,D,,official_final_key,0,,,31,31,0,
-ADRE-2024-G3-P4-Degree-Q051,ADRE,2024,III,IV,A,51,,"Two bells A and B are rung such that the bell A rings at every 30 minutes and the bell B rings at
+b 3	4a − 2b",3,4,5,6,A,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G3-P4-Degree/q038.png,pdf_text,23,1,
+ADRE-2024-G3-P4-Degree-Q039,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,39,,"If cosθ=, then the value of sinθ is :
+5	12	12	13",12,5,13,12,C,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G3-P4-Degree/q039.png,pdf_text,24,1,
+ADRE-2024-G3-P4-Degree-Q040,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,40,,"As per the diagram, which zone represents married nurse who should be sent for training ?",2,4,3,7,B,,official_final_key,1,drawing|text_mentions_visual,exams/ADRE/2024/figures/G3-P4-Degree/q040.png,pdf_text,25,1,
+ADRE-2024-G3-P4-Degree-Q041,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,41,,The value of 0.09 + 1.69 is :,1.78,1.6,1.33,1.5,B,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q041.png,pdf_text,26,1,
+ADRE-2024-G3-P4-Degree-Q042,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,42,,Identify the sport related to (Major) Dhyan Chand.,Football,Wrestling,Boxing,Hockey,D,,official_final_key,0,,,pdf_text,27,0,
+ADRE-2024-G3-P4-Degree-Q043,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,43,,"Identify the incorrect term in the series.
+{5, 8, 13, 20, 31, 40, 53}",13,31,20,40,B,,official_final_key,0,,,pdf_text,27,0,
+ADRE-2024-G3-P4-Degree-Q044,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,44,,"A sector of angle 308 is cut out from a circular disc of radius 6 cm. The area of the cut sector in cm²
+units is :",3π,4π,5π,6π,A,,official_final_key,0,,,pdf_text,28,0,
+ADRE-2024-G3-P4-Degree-Q045,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,45,,Which of the following countries is the farthest from Andaman and Nicobar Islands ?,Myanmar,Indonesia,Vietnam,Malaysia,C,,official_final_key,0,,,pdf_text,28,0,
+ADRE-2024-G3-P4-Degree-Q046,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,46,,Which State is the Dandiya Raas a popular folk dance of ?,Rajasthan,Gujarat,Odisha,Maharashtra,B,,official_final_key,0,,,pdf_text,29,0,
+ADRE-2024-G3-P4-Degree-Q047,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,47,,"A person moves from P to Q in a semi-circular path and then comes back to P by the shortest route,
+which is 4 km. The total path covered by the person in the entire journey is :",(4π+2) km,(2π+4) km,(π+2) km,(2π+2) km,B,,official_final_key,0,,,pdf_text,29,0,
+ADRE-2024-G3-P4-Degree-Q048,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,48,,"Sagor Dekhisa, a collection of Assamese poems was written by :",Devakanta Barua,Navakanta Barua,Banikanta Kakati,Rajanikanta Bordoloi,A,,official_final_key,0,,,pdf_text,30,0,
+ADRE-2024-G3-P4-Degree-Q049,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,49,,The longest diagonal that can be found in a regular cube of side 1 cm is :,2 cm,2 cm,3 cm,3 cm,D,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q049.png,pdf_text,30,1,
+ADRE-2024-G3-P4-Degree-Q050,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,50,,Which of the following is different from the rest ?,Samaveda,Rigveda,Yajurveda,Ayurveda,D,,official_final_key,0,,,pdf_text,31,0,
+ADRE-2024-G3-P4-Degree-Q051,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,51,,"Two bells A and B are rung such that the bell A rings at every 30 minutes and the bell B rings at
 every 25 minutes. If both the bells start ringing simultaneously at 6 am, then the very next
-simultaneous ring will be at the time :",8 : 00 am,8 : 30 am,9 : 00 am,9 : 30 am,,,,,,,B,,official_final_key,0,,,31,31,0,
-ADRE-2024-G3-P4-Degree-Q052,ADRE,2024,III,IV,A,52,,"A + B means A is to the North of B; A%B means A is to the East of B; A−B means A is to the West
+simultaneous ring will be at the time :",8 : 00 am,8 : 30 am,9 : 00 am,9 : 30 am,B,,official_final_key,0,,,pdf_text,31,0,
+ADRE-2024-G3-P4-Degree-Q052,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,52,,"A + B means A is to the North of B; A%B means A is to the East of B; A−B means A is to the West
 of B; then in (Neptune % Saturn + Uranus − Jupiter) Uranus is in which direction with respect to
-Neptune ?",South - West,North - East,North - West,South - East,,,,,,,A,,official_final_key,0,,,32,32,0,
-ADRE-2024-G3-P4-Degree-Q053,ADRE,2024,III,IV,A,53,,Who played the title role in the 1969 version of Dr. Bezbaruah ?,Nipon Goswami,Biju Phukan,Dwipen Baruah,Brojen Baruah,,,,,,,D,,official_final_key,0,,,32,32,0,
-ADRE-2024-G3-P4-Degree-Q054,ADRE,2024,III,IV,A,54,,"Which word would substitute the marked portion - “The Zebra stripes on roads are for crossing by
-people who are walking.” ?",Pedestrian,Pediatrician,Pollination,Postulation,,,,,,,A,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q054.png,33,,1,
-ADRE-2024-G3-P4-Degree-Q055,ADRE,2024,III,IV,A,55,,Which of the following is a State of the United States of America ?,Hawai,Fiji,Papua New Guinea,Solomon Island,,,,,,,A,,official_final_key,0,,,33,33,0,
-ADRE-2024-G3-P4-Degree-Q056,ADRE,2024,III,IV,A,56,,"Fill in the blank.
-January was the __________ month last year.",Cold,Colder,Coldest,Cool,,,,,,,C,,official_final_key,0,,,33,,0,
-ADRE-2024-G3-P4-Degree-Q057,ADRE,2024,III,IV,A,57,,Which two countries does the Gobi Desert touch ?,Sudan and Egypt,Saudi Arabia and Iraq,Turkmenistan and Uzbekistan,China and Mongolia,,,,,,,D,,official_final_key,0,,,34,34,0,
-ADRE-2024-G3-P4-Degree-Q058,ADRE,2024,III,IV,A,58,,"The population of a town increases at the rate of 10% every year. If the present population of the
-town is 10,000, then after 3 years the population of the town would be :","13,310","15,310","13,510","13,000",,,,,,,A,,official_final_key,0,,,34,34,0,
-ADRE-2024-G3-P4-Degree-Q059,ADRE,2024,III,IV,A,59,,Which sport did P.T. Usha play ?,Athletics,Badminton,Table Tennis,Cricket,,,,,,,A,,official_final_key,0,,,35,35,0,
-ADRE-2024-G3-P4-Degree-Q060,ADRE,2024,III,IV,A,60,,"Which word would you replace for the underlined word to reverse the meaning of the
+Neptune ?",South - West,North - East,North - West,South - East,A,,official_final_key,0,,,pdf_text,32,0,
+ADRE-2024-G3-P4-Degree-Q053,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,53,,Who played the title role in the 1969 version of Dr. Bezbaruah ?,Nipon Goswami,Biju Phukan,Dwipen Baruah,Brojen Baruah,D,,official_final_key,0,,,pdf_text,32,0,
+ADRE-2024-G3-P4-Degree-Q054,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,54,,"Which word would substitute the marked portion - “The Zebra stripes on roads are for crossing by
+people who are walking.” ?",Pedestrian,Pediatrician,Pollination,Postulation,A,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q054.png,pdf_text,33,1,
+ADRE-2024-G3-P4-Degree-Q055,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,55,,Which of the following is a State of the United States of America ?,Hawai,Fiji,Papua New Guinea,Solomon Island,A,,official_final_key,0,,,pdf_text,33,0,
+ADRE-2024-G3-P4-Degree-Q056,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,56,,"Fill in the blank.
+January was the __________ month last year.",Cold,Colder,Coldest,Cool,C,,official_final_key,0,,,pdf_text,33,0,
+ADRE-2024-G3-P4-Degree-Q057,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,57,,Which two countries does the Gobi Desert touch ?,Sudan and Egypt,Saudi Arabia and Iraq,Turkmenistan and Uzbekistan,China and Mongolia,D,,official_final_key,0,,,pdf_text,34,0,
+ADRE-2024-G3-P4-Degree-Q058,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,58,,"The population of a town increases at the rate of 10% every year. If the present population of the
+town is 10,000, then after 3 years the population of the town would be :","13,310","15,310","13,510","13,000",A,,official_final_key,0,,,pdf_text,34,0,
+ADRE-2024-G3-P4-Degree-Q059,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,59,,Which sport did P.T. Usha play ?,Athletics,Badminton,Table Tennis,Cricket,A,,official_final_key,0,,,pdf_text,35,0,
+ADRE-2024-G3-P4-Degree-Q060,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,60,,"Which word would you replace for the underlined word to reverse the meaning of the
 sentence ?
-“Food in this hotel is worse than that provided at our hostel.”",good,better,best,excellent,,,,,,,B,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q060.png,35,,1,
-ADRE-2024-G3-P4-Degree-Q061,ADRE,2024,III,IV,A,61,,"The addition of two binary numbers 11 and 10, when represented in binary system is :",101,110,010,111,,,,,,,A,,official_final_key,0,,,35,35,0,
-ADRE-2024-G3-P4-Degree-Q062,ADRE,2024,III,IV,A,62,,Which of the following is best depicted by the diagram ?,"Cat, Fat, Rat","Food, Clothes, Friends","Assam, India, Asia","Geometry, Botany, Economics",,,,,,,A,,official_final_key,1,drawing|text_mentions_visual,exams/ADRE/2024/figures/G3-P4-Degree/q062.png,36,36,1,
-ADRE-2024-G3-P4-Degree-Q063,ADRE,2024,III,IV,A,63,,On which island hillock is the Umananda Temple situated ?,Bhasmachal,Sandhyachal,Nilachal,Chitrachal,,,,,,,A,,official_final_key,0,,,37,37,0,
-ADRE-2024-G3-P4-Degree-Q064,ADRE,2024,III,IV,A,64,,Identify the proper noun in the following list.,High mountain,Black car,Deep sea,Pacific Ocean,,,,,,,D,,official_final_key,0,,,37,,0,
-ADRE-2024-G3-P4-Degree-Q065,ADRE,2024,III,IV,A,65,,Which of the following is a part of Mahabharata ?,Upanishads,Puranas,Vedas,Gita,,,,,,,D,,official_final_key,0,,,37,37,0,
-ADRE-2024-G3-P4-Degree-Q066,ADRE,2024,III,IV,A,66,,The primary raw material used by the Assam Bio Refinery Private Limited is :,Bamboo,Water Hyacinth,Sugarcane waste,Banana plants,,,,,,,A,,official_final_key,0,,,38,38,0,
-ADRE-2024-G3-P4-Degree-Q067,ADRE,2024,III,IV,A,67,,"The least natural number which when divided by 2 gives remainder 1, when divided by 3 gives
-remainder 2 and when divided by 4 gives remainder 3, is :",23,17,31,11,,,,,,,D,,official_final_key,0,,,38,38,0,
-ADRE-2024-G3-P4-Degree-Q068,ADRE,2024,III,IV,A,68,,Which of the following is an Assamese jewellery item worn in the ears ?,Golpata,Horinsokua,Jonbiri,Thuriya,,,,,,,D,,official_final_key,0,,,38,38,0,
-ADRE-2024-G3-P4-Degree-Q069,ADRE,2024,III,IV,A,69,,"A political and legal process by which a legislative body or other legally constituted tribunal initiates
-charges against a public official for misconduct is termed as :",Impeachment,Re-election,Enforcement,Enactment,,,,,,,A,,official_final_key,0,,,39,39,0,
-ADRE-2024-G3-P4-Degree-Q070,ADRE,2024,III,IV,A,70,,The three angles of a triangle are in the ratio of 1 : 3 : 5. The largest angle of the triangle is :,708,908,1208,1008,,,,,,,D,,official_final_key,0,,,40,40,0,
-ADRE-2024-G3-P4-Degree-Q071,ADRE,2024,III,IV,A,71,,Toyota has its headquarters in :,China,South Korea,Singapore,Japan,,,,,,,D,,official_final_key,0,,,40,40,0,
-ADRE-2024-G3-P4-Degree-Q072,ADRE,2024,III,IV,A,72,,"If Pn represents the product of the natural numbers from 1 to n, then P₁+P₂+P₃+P₄ is :",23,33,37,31,,,,,,,B,,official_final_key,0,,,40,40,0,
-ADRE-2024-G3-P4-Degree-Q073,ADRE,2024,III,IV,A,73,,Which country controls the Suez Canal ?,Turkey,Israel,Egypt,France,,,,,,,C,,official_final_key,0,,,41,41,0,
-ADRE-2024-G3-P4-Degree-Q074,ADRE,2024,III,IV,A,74,,Which of the following does saliva in our mouth help to breakdown ?,Starch,Protein,Vitamins,Fat,,,,,,,A,,official_final_key,0,,,41,41,0,
-ADRE-2024-G3-P4-Degree-Q075,ADRE,2024,III,IV,A,75,,Which Continents does the Mediterranean Sea lie between ?,Asia and Europe,Europe and Africa,North America and Africa,South America and Africa,,,,,,,ALL,"Official key 'G': question found ambiguous, all options treated as correct",official_final_key,0,,,41,41,0,
-ADRE-2024-G3-P4-Degree-Q076,ADRE,2024,III,IV,A,76,,"If SATURN is coded as TZUTSM, then how will URANUS be coded by same plan ?",TSZOTT,VQBMVR,VQBOUS,VSBOVT,,,,,,,B,,official_final_key,0,,,42,42,0,
-ADRE-2024-G3-P4-Degree-Q077,ADRE,2024,III,IV,A,77,,Which of the following is a collective noun for ships ?,pack,herd,swarm,fleet,,,,,,,D,,official_final_key,0,,,42,,0,
-ADRE-2024-G3-P4-Degree-Q078,ADRE,2024,III,IV,A,78,,A tank can be filled by 6 pipes in 80 minutes. How long will it take to fill the tank by 8 pipes ?,45 min,60 min,48 min,70 min,,,,,,,B,,official_final_key,0,,,42,42,0,
-ADRE-2024-G3-P4-Degree-Q079,ADRE,2024,III,IV,A,79,,"Grandmother was cooking at a picnic, attended by her son and daughter-in-law, with their four
+“Food in this hotel is worse than that provided at our hostel.”",good,better,best,excellent,B,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q060.png,pdf_text,35,1,
+ADRE-2024-G3-P4-Degree-Q061,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,61,,"The addition of two binary numbers 11 and 10, when represented in binary system is :",101,110,010,111,A,,official_final_key,0,,,pdf_text,35,0,
+ADRE-2024-G3-P4-Degree-Q062,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,62,,Which of the following is best depicted by the diagram ?,"Cat, Fat, Rat","Food, Clothes, Friends","Assam, India, Asia","Geometry, Botany, Economics",A,,official_final_key,1,drawing|text_mentions_visual,exams/ADRE/2024/figures/G3-P4-Degree/q062.png,pdf_text,36,1,
+ADRE-2024-G3-P4-Degree-Q063,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,63,,On which island hillock is the Umananda Temple situated ?,Bhasmachal,Sandhyachal,Nilachal,Chitrachal,A,,official_final_key,0,,,pdf_text,37,0,
+ADRE-2024-G3-P4-Degree-Q064,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,64,,Identify the proper noun in the following list.,High mountain,Black car,Deep sea,Pacific Ocean,D,,official_final_key,0,,,pdf_text,37,0,
+ADRE-2024-G3-P4-Degree-Q065,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,65,,Which of the following is a part of Mahabharata ?,Upanishads,Puranas,Vedas,Gita,D,,official_final_key,0,,,pdf_text,37,0,
+ADRE-2024-G3-P4-Degree-Q066,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,66,,The primary raw material used by the Assam Bio Refinery Private Limited is :,Bamboo,Water Hyacinth,Sugarcane waste,Banana plants,A,,official_final_key,0,,,pdf_text,38,0,
+ADRE-2024-G3-P4-Degree-Q067,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,67,,"The least natural number which when divided by 2 gives remainder 1, when divided by 3 gives
+remainder 2 and when divided by 4 gives remainder 3, is :",23,17,31,11,D,,official_final_key,0,,,pdf_text,38,0,
+ADRE-2024-G3-P4-Degree-Q068,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,68,,Which of the following is an Assamese jewellery item worn in the ears ?,Golpata,Horinsokua,Jonbiri,Thuriya,D,,official_final_key,0,,,pdf_text,38,0,
+ADRE-2024-G3-P4-Degree-Q069,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,69,,"A political and legal process by which a legislative body or other legally constituted tribunal initiates
+charges against a public official for misconduct is termed as :",Impeachment,Re-election,Enforcement,Enactment,A,,official_final_key,0,,,pdf_text,39,0,
+ADRE-2024-G3-P4-Degree-Q070,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,70,,The three angles of a triangle are in the ratio of 1 : 3 : 5. The largest angle of the triangle is :,708,908,1208,1008,D,,official_final_key,0,,,pdf_text,40,0,
+ADRE-2024-G3-P4-Degree-Q071,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,71,,Toyota has its headquarters in :,China,South Korea,Singapore,Japan,D,,official_final_key,0,,,pdf_text,40,0,
+ADRE-2024-G3-P4-Degree-Q072,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,72,,"If Pn represents the product of the natural numbers from 1 to n, then P₁+P₂+P₃+P₄ is :",23,33,37,31,B,,official_final_key,0,,,pdf_text,40,0,
+ADRE-2024-G3-P4-Degree-Q073,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,73,,Which country controls the Suez Canal ?,Turkey,Israel,Egypt,France,C,,official_final_key,0,,,pdf_text,41,0,
+ADRE-2024-G3-P4-Degree-Q074,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,74,,Which of the following does saliva in our mouth help to breakdown ?,Starch,Protein,Vitamins,Fat,A,,official_final_key,0,,,pdf_text,41,0,
+ADRE-2024-G3-P4-Degree-Q075,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,75,,Which Continents does the Mediterranean Sea lie between ?,Asia and Europe,Europe and Africa,North America and Africa,South America and Africa,ALL,"Official key 'G': question found ambiguous, all options treated as correct",official_final_key,0,,,pdf_text,41,0,
+ADRE-2024-G3-P4-Degree-Q076,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,76,,"If SATURN is coded as TZUTSM, then how will URANUS be coded by same plan ?",TSZOTT,VQBMVR,VQBOUS,VSBOVT,B,,official_final_key,0,,,pdf_text,42,0,
+ADRE-2024-G3-P4-Degree-Q077,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,77,,Which of the following is a collective noun for ships ?,pack,herd,swarm,fleet,D,,official_final_key,0,,,pdf_text,42,0,
+ADRE-2024-G3-P4-Degree-Q078,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,78,,A tank can be filled by 6 pipes in 80 minutes. How long will it take to fill the tank by 8 pipes ?,45 min,60 min,48 min,70 min,B,,official_final_key,0,,,pdf_text,42,0,
+ADRE-2024-G3-P4-Degree-Q079,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,79,,"Grandmother was cooking at a picnic, attended by her son and daughter-in-law, with their four
 sons and their wives and one son and two daughters to each of the sons. How many ladies were
-there at the picnic ?",8,12,14,10,,,,,,,C,,official_final_key,0,,,43,43,0,
-ADRE-2024-G3-P4-Degree-Q080,ADRE,2024,III,IV,A,80,,"“The invigilator could not detect that the two boys were exchanging notes under his nose.” What
-is the meaning of the marked portion ?",With due permission,Right in front,With active help,In small pieces of paper,,,,,,,B,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q080.png,43,,1,
-ADRE-2024-G3-P4-Degree-Q081,ADRE,2024,III,IV,A,81,,For which sport was T. Ao the captain of Indian team ?,Badminton,Hockey,Football,Volleyball,,,,,,,C,,official_final_key,0,,,43,43,0,
-ADRE-2024-G3-P4-Degree-Q082,ADRE,2024,III,IV,A,82,,"72 toffees were distributed to some boys in a group. Each boy in the group got twice as many of
-the toffees as the number of boys. The number of boys in the group is :",6,7,8,9,,,,,,,A,,official_final_key,0,,,44,44,0,
-ADRE-2024-G3-P4-Degree-Q083,ADRE,2024,III,IV,A,83,,Identify the correctly spelt word.,Conservation,Consarvation,Conservetion,Conservasion,,,,,,,A,,official_final_key,0,,,44,,0,
-ADRE-2024-G3-P4-Degree-Q084,ADRE,2024,III,IV,A,84,,The Civil wars termed as the Wars of the Roses was fought for which throne ?,British throne,French throne,Russian throne,Spanish throne,,,,,,,A,,official_final_key,0,,,44,44,0,
-ADRE-2024-G3-P4-Degree-Q085,ADRE,2024,III,IV,A,85,,Which of the following statements is correct ?,Sikkim shares border with Assam.,Sikkim lies towards the west of Assam.,Assam shares borders with Sikkim and Meghalaya.,Bangladesh and Sikkim touch the borders of Assam.,,,,,,,B,,official_final_key,0,,,45,45,0,
-ADRE-2024-G3-P4-Degree-Q086,ADRE,2024,III,IV,A,86,,Which country did the martial art Taekwondo originate in ?,Thailand,China,Korea,Vietnam,,,,,,,C,,official_final_key,0,,,46,46,0,
-ADRE-2024-G3-P4-Degree-Q087,ADRE,2024,III,IV,A,87,,Which of the following is incorrectly matched ?,Class I lever : Pliers,Class II lever : Nail cutter,Class III lever : Nutcracker,Class II lever : Bottle opener,,,,,,,C,,official_final_key,0,,,46,46,0,
-ADRE-2024-G3-P4-Degree-Q088,ADRE,2024,III,IV,A,88,,"As on 1st of January, 2024, who is the President of Ukraine ?",Joe Biden,Vladimir Putin,Valerii Zaluzhn,Volodymyr Zelenskyy,,,,,,,D,,official_final_key,0,,,47,47,0,
-ADRE-2024-G3-P4-Degree-Q089,ADRE,2024,III,IV,A,89,,The Padmanabhaswami Temple is in which city ?,Bengaluru,Chennai,Madurai,Thiruvananthapuram,,,,,,,D,,official_final_key,0,,,47,47,0,
-ADRE-2024-G3-P4-Degree-Q090,ADRE,2024,III,IV,A,90,,Who has won the highest number of gold medals in the Olympic Games ?,Mark Spitz,Michael Phelps,Jesse Owens,Paavo Nurmi,,,,,,,B,,official_final_key,0,,,48,48,0,
-ADRE-2024-G3-P4-Degree-Q091,ADRE,2024,III,IV,A,91,,To which emperor was Chanakya the royal advisor ?,Samudragupta,Ashoka,Chandragupta Maurya,Skandagupta,,,,,,,C,,official_final_key,0,,,48,48,0,
-ADRE-2024-G3-P4-Degree-Q092,ADRE,2024,III,IV,A,92,,Which of the following countries does the Mediterrean Sea not touch ?,Spain,Portugal,Lebanon,France,,,,,,,B,,official_final_key,0,,,49,49,0,
-ADRE-2024-G3-P4-Degree-Q093,ADRE,2024,III,IV,A,93,,"Consider the five numbers given here :
+there at the picnic ?",8,12,14,10,C,,official_final_key,0,,,pdf_text,43,0,
+ADRE-2024-G3-P4-Degree-Q080,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,80,,"“The invigilator could not detect that the two boys were exchanging notes under his nose.” What
+is the meaning of the marked portion ?",With due permission,Right in front,With active help,In small pieces of paper,B,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q080.png,pdf_text,43,1,
+ADRE-2024-G3-P4-Degree-Q081,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,81,,For which sport was T. Ao the captain of Indian team ?,Badminton,Hockey,Football,Volleyball,C,,official_final_key,0,,,pdf_text,43,0,
+ADRE-2024-G3-P4-Degree-Q082,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,82,,"72 toffees were distributed to some boys in a group. Each boy in the group got twice as many of
+the toffees as the number of boys. The number of boys in the group is :",6,7,8,9,A,,official_final_key,0,,,pdf_text,44,0,
+ADRE-2024-G3-P4-Degree-Q083,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,83,,Identify the correctly spelt word.,Conservation,Consarvation,Conservetion,Conservasion,A,,official_final_key,0,,,pdf_text,44,0,
+ADRE-2024-G3-P4-Degree-Q084,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,84,,The Civil wars termed as the Wars of the Roses was fought for which throne ?,British throne,French throne,Russian throne,Spanish throne,A,,official_final_key,0,,,pdf_text,44,0,
+ADRE-2024-G3-P4-Degree-Q085,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,85,,Which of the following statements is correct ?,Sikkim shares border with Assam.,Sikkim lies towards the west of Assam.,Assam shares borders with Sikkim and Meghalaya.,Bangladesh and Sikkim touch the borders of Assam.,B,,official_final_key,0,,,pdf_text,45,0,
+ADRE-2024-G3-P4-Degree-Q086,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,86,,Which country did the martial art Taekwondo originate in ?,Thailand,China,Korea,Vietnam,C,,official_final_key,0,,,pdf_text,46,0,
+ADRE-2024-G3-P4-Degree-Q087,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,87,,Which of the following is incorrectly matched ?,Class I lever : Pliers,Class II lever : Nail cutter,Class III lever : Nutcracker,Class II lever : Bottle opener,C,,official_final_key,0,,,pdf_text,46,0,
+ADRE-2024-G3-P4-Degree-Q088,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,88,,"As on 1st of January, 2024, who is the President of Ukraine ?",Joe Biden,Vladimir Putin,Valerii Zaluzhn,Volodymyr Zelenskyy,D,,official_final_key,0,,,pdf_text,47,0,
+ADRE-2024-G3-P4-Degree-Q089,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,89,,The Padmanabhaswami Temple is in which city ?,Bengaluru,Chennai,Madurai,Thiruvananthapuram,D,,official_final_key,0,,,pdf_text,47,0,
+ADRE-2024-G3-P4-Degree-Q090,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,90,,Who has won the highest number of gold medals in the Olympic Games ?,Mark Spitz,Michael Phelps,Jesse Owens,Paavo Nurmi,B,,official_final_key,0,,,pdf_text,48,0,
+ADRE-2024-G3-P4-Degree-Q091,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,91,,To which emperor was Chanakya the royal advisor ?,Samudragupta,Ashoka,Chandragupta Maurya,Skandagupta,C,,official_final_key,0,,,pdf_text,48,0,
+ADRE-2024-G3-P4-Degree-Q092,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,92,,Which of the following countries does the Mediterrean Sea not touch ?,Spain,Portugal,Lebanon,France,B,,official_final_key,0,,,pdf_text,49,0,
+ADRE-2024-G3-P4-Degree-Q093,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,93,,"Consider the five numbers given here :
 (i) 736	(ii) 269	(iii) 958	(iv) 219	(v) 793
 Arrange the digits of each number in descending order. What would be the difference between
-the highest number and the lowest one ?",222,716,618,12,,,,,,,A,,official_final_key,1,table_layout,exams/ADRE/2024/figures/G3-P4-Degree/q093.png,49,49,0,
-ADRE-2024-G3-P4-Degree-Q094,ADRE,2024,III,IV,A,94,,"Near which place, a statue of Jongal Balahu has been erected ?",Raha,Dibrugarh,Dhuburi,Karimganj,,,,,,,A,,official_final_key,0,,,50,50,0,
-ADRE-2024-G3-P4-Degree-Q095,ADRE,2024,III,IV,A,95,,Who of the following is NOT a Lawn Tennis player ?,Leander Paes,Vijay Amritraj,Mahesh Bhupathi,Pullela Gopichand,,,,,,,D,,official_final_key,0,,,51,51,0,
-ADRE-2024-G3-P4-Degree-Q096,ADRE,2024,III,IV,A,96,,Which of the following is a stringed musical instrument of Assam ?,Dogor,Xutuli,Kaaliya,Tokari,,,,,,,D,,official_final_key,0,,,51,51,0,
-ADRE-2024-G3-P4-Degree-Q097,ADRE,2024,III,IV,A,97,,"A six-faced die is made in such a way that the sum of the dots on the opposite faces are always
-equal. Which of the following pairs is not opposite facing pair of the die ?","1, 4","2, 5","1, 6","3, 4",,,,,,,A,,official_final_key,0,,,52,52,0,
-ADRE-2024-G3-P4-Degree-Q098,ADRE,2024,III,IV,A,98,,Identify the correct definition of verb.,Naming words,Things description words,Action words,Joining words,,,,,,,C,,official_final_key,0,,,52,,0,
-ADRE-2024-G3-P4-Degree-Q099,ADRE,2024,III,IV,A,99,,Which of the following is an example of Indirect Tax of India ?,Gift Tax,Income Tax,Goods and Services Tax,Capital Gains Tax,,,,,,,C,,official_final_key,0,,,52,52,0,
-ADRE-2024-G3-P4-Degree-Q100,ADRE,2024,III,IV,A,100,,Mark the correct word as synonym of “affluent”.,Meeting,Discussion,Wealthy,Poverty,,,,,,,C,,official_final_key,0,,,53,,0,
-ADRE-2024-G3-P4-Degree-Q101,ADRE,2024,III,IV,A,101,,Who wrote Pride and Prejudice ?,Jane Austen,Barbara Cartland,Agatha Christie,Virginia Woolfe,,,,,,,A,,official_final_key,0,,,53,53,0,
-ADRE-2024-G3-P4-Degree-Q102,ADRE,2024,III,IV,A,102,,If sinθ=cosθ then the value of 1+tanθ is :,1,2,0,2,,,,,,,B,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q102.png,53,53,1,
-ADRE-2024-G3-P4-Degree-Q103,ADRE,2024,III,IV,A,103,,The product of the roots of the quadratic equation 2x²−5x+6=0 is :,2,3,5,6,,,,,,,B,,official_final_key,0,,,54,54,0,
-ADRE-2024-G3-P4-Degree-Q104,ADRE,2024,III,IV,A,104,,Which is the odd one out of the list ?,Chapters,Preface,Index,Book,,,,,,,D,,official_final_key,0,,,54,54,0,
-ADRE-2024-G3-P4-Degree-Q105,ADRE,2024,III,IV,A,105,,"At a class test for 50 students, the average score was found to be 45.5 out of 100. Upon checking,
+the highest number and the lowest one ?",222,716,618,12,A,,official_final_key,1,table_layout,exams/ADRE/2024/figures/G3-P4-Degree/q093.png,pdf_text,49,0,
+ADRE-2024-G3-P4-Degree-Q094,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,94,,"Near which place, a statue of Jongal Balahu has been erected ?",Raha,Dibrugarh,Dhuburi,Karimganj,A,,official_final_key,0,,,pdf_text,50,0,
+ADRE-2024-G3-P4-Degree-Q095,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,95,,Who of the following is NOT a Lawn Tennis player ?,Leander Paes,Vijay Amritraj,Mahesh Bhupathi,Pullela Gopichand,D,,official_final_key,0,,,pdf_text,51,0,
+ADRE-2024-G3-P4-Degree-Q096,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,96,,Which of the following is a stringed musical instrument of Assam ?,Dogor,Xutuli,Kaaliya,Tokari,D,,official_final_key,0,,,pdf_text,51,0,
+ADRE-2024-G3-P4-Degree-Q097,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,97,,"A six-faced die is made in such a way that the sum of the dots on the opposite faces are always
+equal. Which of the following pairs is not opposite facing pair of the die ?","1, 4","2, 5","1, 6","3, 4",A,,official_final_key,0,,,pdf_text,52,0,
+ADRE-2024-G3-P4-Degree-Q098,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,98,,Identify the correct definition of verb.,Naming words,Things description words,Action words,Joining words,C,,official_final_key,0,,,pdf_text,52,0,
+ADRE-2024-G3-P4-Degree-Q099,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,99,,Which of the following is an example of Indirect Tax of India ?,Gift Tax,Income Tax,Goods and Services Tax,Capital Gains Tax,C,,official_final_key,0,,,pdf_text,52,0,
+ADRE-2024-G3-P4-Degree-Q100,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,100,,Mark the correct word as synonym of “affluent”.,Meeting,Discussion,Wealthy,Poverty,C,,official_final_key,0,,,pdf_text,53,0,
+ADRE-2024-G3-P4-Degree-Q101,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,101,,Who wrote Pride and Prejudice ?,Jane Austen,Barbara Cartland,Agatha Christie,Virginia Woolfe,A,,official_final_key,0,,,pdf_text,53,0,
+ADRE-2024-G3-P4-Degree-Q102,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,102,,If sinθ=cosθ then the value of 1+tanθ is :,1,2,0,2,B,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q102.png,pdf_text,53,1,
+ADRE-2024-G3-P4-Degree-Q103,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,103,,The product of the roots of the quadratic equation 2x²−5x+6=0 is :,2,3,5,6,B,,official_final_key,0,,,pdf_text,54,0,
+ADRE-2024-G3-P4-Degree-Q104,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,104,,Which is the odd one out of the list ?,Chapters,Preface,Index,Book,D,,official_final_key,0,,,pdf_text,54,0,
+ADRE-2024-G3-P4-Degree-Q105,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,105,,"At a class test for 50 students, the average score was found to be 45.5 out of 100. Upon checking,
 it was found that an incorrect data-entry had occurred where 85 was incorrectly entered as 58.
-What should be the correct class average ?",54.50,46.04,46.40,55.40,,,,,,,B,,official_final_key,0,,,55,55,0,
-ADRE-2024-G3-P4-Degree-Q106,ADRE,2024,III,IV,A,106,,Siachen in Ladakh is an example of :,Cold desert,Glacier,Plateau,Snow mountain,,,,,,,B,,official_final_key,0,,,56,56,0,
-ADRE-2024-G3-P4-Degree-Q107,ADRE,2024,III,IV,A,107,,Which of the following mountain ranges is in Jammu and Kashmir region ?,Pir Panjal range,Satpura range,Dhauladhar range,Mishimi Hills,,,,,,,A,,official_final_key,0,,,56,56,0,
-ADRE-2024-G3-P4-Degree-Q108,ADRE,2024,III,IV,A,108,,"The sum of the roots of the quadratic equation 2x²−5x+3=0 is :
-3	5",2,2,2,5,,,,,,,C,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G3-P4-Degree/q108.png,57,57,1,
-ADRE-2024-G3-P4-Degree-Q109,ADRE,2024,III,IV,A,109,,Who or What is Doraemon ?,A river in Brazil,A Hollywood actor,A type of aircraft,A cartoon character,,,,,,,D,,official_final_key,0,,,57,57,0,
-ADRE-2024-G3-P4-Degree-Q110,ADRE,2024,III,IV,A,110,,In which sport did Monalisa Baruah (Mehta) and Tridib Duarah represent Assam ?,Badminton,Volleyball,Taekwondo,Table Tennis,,,,,,,D,,official_final_key,0,,,58,58,0,
-ADRE-2024-G3-P4-Degree-Q111,ADRE,2024,III,IV,A,111,,"A person borrows a sum of ` 1,00,000 at a simple interest of 6% per annum for 2 years and invests
+What should be the correct class average ?",54.50,46.04,46.40,55.40,B,,official_final_key,0,,,pdf_text,55,0,
+ADRE-2024-G3-P4-Degree-Q106,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,106,,Siachen in Ladakh is an example of :,Cold desert,Glacier,Plateau,Snow mountain,B,,official_final_key,0,,,pdf_text,56,0,
+ADRE-2024-G3-P4-Degree-Q107,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,107,,Which of the following mountain ranges is in Jammu and Kashmir region ?,Pir Panjal range,Satpura range,Dhauladhar range,Mishimi Hills,A,,official_final_key,0,,,pdf_text,56,0,
+ADRE-2024-G3-P4-Degree-Q108,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,108,,"The sum of the roots of the quadratic equation 2x²−5x+3=0 is :
+3	5",2,2,2,5,C,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G3-P4-Degree/q108.png,pdf_text,57,1,
+ADRE-2024-G3-P4-Degree-Q109,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,109,,Who or What is Doraemon ?,A river in Brazil,A Hollywood actor,A type of aircraft,A cartoon character,D,,official_final_key,0,,,pdf_text,57,0,
+ADRE-2024-G3-P4-Degree-Q110,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,110,,In which sport did Monalisa Baruah (Mehta) and Tridib Duarah represent Assam ?,Badminton,Volleyball,Taekwondo,Table Tennis,D,,official_final_key,0,,,pdf_text,58,0,
+ADRE-2024-G3-P4-Degree-Q111,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,111,,"A person borrows a sum of ` 1,00,000 at a simple interest of 6% per annum for 2 years and invests
 the amount at a compound interest of 6% per annum for 2 years. After returning the borrowed
-amount with interest, the person earns a profit of :",` 360,` 120,` 480,` 240,,,,,,,A,,official_final_key,0,,,58,58,0,
-ADRE-2024-G3-P4-Degree-Q112,ADRE,2024,III,IV,A,112,,Identify the correct mirror image of the figure.,,,,,,,,,,,B,,official_final_key,1,drawing|option_images|text_mentions_visual,exams/ADRE/2024/figures/G3-P4-Degree/q112.png,59,59,1,
-ADRE-2024-G3-P4-Degree-Q113,ADRE,2024,III,IV,A,113,,Which of the following is an award exclusively for music industry ?,The Oscars,Emmy Awards,Golden Globe,Grammy Awards,,,,,,,D,,official_final_key,0,,,61,61,0,
-ADRE-2024-G3-P4-Degree-Q114,ADRE,2024,III,IV,A,114,,"A person purchases x number of items at the rate of ` x per item. The shop-keeper gives him a total
-discount of ` x after which he pays ` 156. The cost per item after the discount is :",` 13,` 12,` 16,` 14,,,,,,,B,,official_final_key,0,,,61,61,0,
-ADRE-2024-G3-P4-Degree-Q115,ADRE,2024,III,IV,A,115,,Which type of Democracy is presently being practised in India ?,Direct Democracy,Representative Democracy,Social Democracy,Totalitarian Democracy,,,,,,,B,,official_final_key,0,,,62,62,0,
-ADRE-2024-G3-P4-Degree-Q116,ADRE,2024,III,IV,A,116,,"225 − 25 − 16 =
+amount with interest, the person earns a profit of :",` 360,` 120,` 480,` 240,A,,official_final_key,0,,,pdf_text,58,0,
+ADRE-2024-G3-P4-Degree-Q112,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,112,,Identify the correct mirror image of the figure.,,,,,B,,official_final_key,1,drawing|option_images|text_mentions_visual,exams/ADRE/2024/figures/G3-P4-Degree/q112.png,pdf_text,59,1,
+ADRE-2024-G3-P4-Degree-Q113,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,113,,Which of the following is an award exclusively for music industry ?,The Oscars,Emmy Awards,Golden Globe,Grammy Awards,D,,official_final_key,0,,,pdf_text,61,0,
+ADRE-2024-G3-P4-Degree-Q114,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,114,,"A person purchases x number of items at the rate of ` x per item. The shop-keeper gives him a total
+discount of ` x after which he pays ` 156. The cost per item after the discount is :",` 13,` 12,` 16,` 14,B,,official_final_key,0,,,pdf_text,61,0,
+ADRE-2024-G3-P4-Degree-Q115,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,115,,Which type of Democracy is presently being practised in India ?,Direct Democracy,Representative Democracy,Social Democracy,Totalitarian Democracy,B,,official_final_key,0,,,pdf_text,62,0,
+ADRE-2024-G3-P4-Degree-Q116,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,116,,"225 − 25 − 16 =
 729 144 81 ?
-− 7	− 20	− 5	− 11",12,27,9,36,,,,,,,D,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G3-P4-Degree/q116.png,62,62,1,
-ADRE-2024-G3-P4-Degree-Q117,ADRE,2024,III,IV,A,117,,Which of the following is incorrect in regards of the ICC Men’s ODI Cricket World Cup ?,India has won the Cup twice.,Australia has won the maximum number of times.,England won the Cup in the first tournament.,Bangladesh has never won the Cup.,,,,,,,C,,official_final_key,0,,,63,63,0,
-ADRE-2024-G3-P4-Degree-Q118,ADRE,2024,III,IV,A,118,,In which country was Christopher Columbus born ?,Spain,England,Portugal,Italy,,,,,,,D,,official_final_key,0,,,64,64,0,
-ADRE-2024-G3-P4-Degree-Q119,ADRE,2024,III,IV,A,119,,How many times has Brazil won the Football World Cup ?,Three,Five,Four,Seven,,,,,,,B,,official_final_key,0,,,65,65,0,
-ADRE-2024-G3-P4-Degree-Q120,ADRE,2024,III,IV,A,120,,"Which of the following diagrams best represents Writers, Teachers and Musicians of our society ?",,,,,,,,,,,D,,official_final_key,1,drawing|option_images,exams/ADRE/2024/figures/G3-P4-Degree/q120.png,65,65,0,
-ADRE-2024-G3-P4-Degree-Q121,ADRE,2024,III,IV,A,121,,Who has been honoured with Assam Baibhav in 2024 ?,Ratan Tata,Ranjan Gogoi,Tapan Saikia,Ranjit Shekhar Mooshahary,,,,,,,B,,official_final_key,0,,,67,67,0,
-ADRE-2024-G3-P4-Degree-Q122,ADRE,2024,III,IV,A,122,,"A geometric figure has two pairs of parallel lines, intersecting at right angle. One pair is of length
+− 7	− 20	− 5	− 11",12,27,9,36,D,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G3-P4-Degree/q116.png,pdf_text,62,1,
+ADRE-2024-G3-P4-Degree-Q117,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,117,,Which of the following is incorrect in regards of the ICC Men’s ODI Cricket World Cup ?,India has won the Cup twice.,Australia has won the maximum number of times.,England won the Cup in the first tournament.,Bangladesh has never won the Cup.,C,,official_final_key,0,,,pdf_text,63,0,
+ADRE-2024-G3-P4-Degree-Q118,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,118,,In which country was Christopher Columbus born ?,Spain,England,Portugal,Italy,D,,official_final_key,0,,,pdf_text,64,0,
+ADRE-2024-G3-P4-Degree-Q119,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,119,,How many times has Brazil won the Football World Cup ?,Three,Five,Four,Seven,B,,official_final_key,0,,,pdf_text,65,0,
+ADRE-2024-G3-P4-Degree-Q120,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,120,,"Which of the following diagrams best represents Writers, Teachers and Musicians of our society ?",,,,,D,,official_final_key,1,drawing|option_images,exams/ADRE/2024/figures/G3-P4-Degree/q120.png,pdf_text,65,0,
+ADRE-2024-G3-P4-Degree-Q121,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,121,,Who has been honoured with Assam Baibhav in 2024 ?,Ratan Tata,Ranjan Gogoi,Tapan Saikia,Ranjit Shekhar Mooshahary,B,,official_final_key,0,,,pdf_text,67,0,
+ADRE-2024-G3-P4-Degree-Q122,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,122,,"A geometric figure has two pairs of parallel lines, intersecting at right angle. One pair is of length
 8 cm each, and the other pair is of 6 cm. If the longer pair size is increased by 2 cm each, while the
-shorter pair is reduced by 2 cm, which of the following statements is correct ?",Area of the figure decreases,Perimeter of the figure increases,Perimeter of the figure decreases,Area of the figure increases,,,,,,,A,,official_final_key,0,text_mentions_visual,exams/ADRE/2024/figures/G3-P4-Degree/q122.png,67,67,1,
-ADRE-2024-G3-P4-Degree-Q123,ADRE,2024,III,IV,A,123,,Which of the following places does not host IPL matches ?,Mumbai,Dharamshala,Patna,Hyderabad,,,,,,,C,,official_final_key,0,,,68,68,0,
-ADRE-2024-G3-P4-Degree-Q124,ADRE,2024,III,IV,A,124,,Who is the Director of the movie “Village Rockstars” ?,Rima Das,Hima Das,Munin Das,Queen Das,,,,,,,A,,official_final_key,0,,,69,69,0,
-ADRE-2024-G3-P4-Degree-Q125,ADRE,2024,III,IV,A,125,,"Apart from Jaipur, which was the home ground of Rajasthan Royals during IPL 2023 ?",Guwahati,Dharamshala,Bhubaneshwar,Panaji,,,,,,,A,,official_final_key,0,,,69,69,0,
-ADRE-2024-G3-P4-Degree-Q126,ADRE,2024,III,IV,A,126,,Previous climbers had cut steps in the ice.,Steps had been cut in the ice,Steps were cut in the ice,Climbers cut steps in the ice,Steps cut in the ice by climbers,,,,,,,A,,official_final_key,0,,,70,,0,
-ADRE-2024-G3-P4-Degree-Q127,ADRE,2024,III,IV,A,127,,No one can do anything unless someone gives us more information.,Nothing can be done without giving information.,Nothing can be done unless we are given more information.,Nothing can be done unless someone gives more information.,Nothing can be done without information.,,,,,,,B,,official_final_key,0,,,70,,0,
-ADRE-2024-G3-P4-Degree-Q128,ADRE,2024,III,IV,A,128,,Which word from the following is similar to beckon ?,light,beg,motion,hear,,,,,,,C,,official_final_key,0,,,70,,0,
-ADRE-2024-G3-P4-Degree-Q129,ADRE,2024,III,IV,A,129,,Which of these words is closest in meaning to the word kin ?,exult,twist,friend,relative,,,,,,,D,,official_final_key,0,,,70,,0,
-ADRE-2024-G3-P4-Degree-Q130,ADRE,2024,III,IV,A,130,,What would be the synonym for the word educe ?,demand,elicit,ideal,unlawful,,,,,,,B,,official_final_key,0,,,70,,0,
-ADRE-2024-G3-P4-Degree-Q131,ADRE,2024,III,IV,A,131,,Choose the sentence that correctly communicates the meaning in the following sentence.,Barua was usually able to catch the six thirty-five train from Guwahati,Barua was usually able to catch a six thirty-five train from Guwahati,Barua was usually able to catch on six thirty-five train from Guwahati,Barua was usually able to latch the six thirty-five train from Guwahati,,,,,,,A,,official_final_key,0,,,70,,0,
-ADRE-2024-G3-P4-Degree-Q132,ADRE,2024,III,IV,A,132,,"Put the verb in brackets into the present perfect tense, and fill the space by repeating the auxiliary.
+shorter pair is reduced by 2 cm, which of the following statements is correct ?",Area of the figure decreases,Perimeter of the figure increases,Perimeter of the figure decreases,Area of the figure increases,A,,official_final_key,0,text_mentions_visual,exams/ADRE/2024/figures/G3-P4-Degree/q122.png,pdf_text,67,1,
+ADRE-2024-G3-P4-Degree-Q123,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,123,,Which of the following places does not host IPL matches ?,Mumbai,Dharamshala,Patna,Hyderabad,C,,official_final_key,0,,,pdf_text,68,0,
+ADRE-2024-G3-P4-Degree-Q124,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,124,,Who is the Director of the movie “Village Rockstars” ?,Rima Das,Hima Das,Munin Das,Queen Das,A,,official_final_key,0,,,pdf_text,69,0,
+ADRE-2024-G3-P4-Degree-Q125,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,125,,"Apart from Jaipur, which was the home ground of Rajasthan Royals during IPL 2023 ?",Guwahati,Dharamshala,Bhubaneshwar,Panaji,A,,official_final_key,0,,,pdf_text,69,0,
+ADRE-2024-G3-P4-Degree-Q126,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,126,,Previous climbers had cut steps in the ice.,Steps had been cut in the ice,Steps were cut in the ice,Climbers cut steps in the ice,Steps cut in the ice by climbers,A,,official_final_key,0,,,pdf_text,70,0,
+ADRE-2024-G3-P4-Degree-Q127,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,127,,No one can do anything unless someone gives us more information.,Nothing can be done without giving information.,Nothing can be done unless we are given more information.,Nothing can be done unless someone gives more information.,Nothing can be done without information.,B,,official_final_key,0,,,pdf_text,70,0,
+ADRE-2024-G3-P4-Degree-Q128,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,128,,Which word from the following is similar to beckon ?,light,beg,motion,hear,C,,official_final_key,0,,,pdf_text,70,0,
+ADRE-2024-G3-P4-Degree-Q129,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,129,,Which of these words is closest in meaning to the word kin ?,exult,twist,friend,relative,D,,official_final_key,0,,,pdf_text,70,0,
+ADRE-2024-G3-P4-Degree-Q130,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,130,,What would be the synonym for the word educe ?,demand,elicit,ideal,unlawful,B,,official_final_key,0,,,pdf_text,70,0,
+ADRE-2024-G3-P4-Degree-Q131,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,131,,Choose the sentence that correctly communicates the meaning in the following sentence.,Barua was usually able to catch the six thirty-five train from Guwahati,Barua was usually able to catch a six thirty-five train from Guwahati,Barua was usually able to catch on six thirty-five train from Guwahati,Barua was usually able to latch the six thirty-five train from Guwahati,A,,official_final_key,0,,,pdf_text,70,0,
+ADRE-2024-G3-P4-Degree-Q132,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,132,,"Put the verb in brackets into the present perfect tense, and fill the space by repeating the auxiliary.
 Where you (be)? —
-I (be) to the dentist.","have you had, I have been","have you gone, I have been","have you been, I’ve been","went, I went",,,,,,,C,,official_final_key,0,,,70,,0,
-ADRE-2024-G3-P4-Degree-Q133,ADRE,2024,III,IV,A,133,"Read the following passage and answer the questions (133-136) that follow :
+I (be) to the dentist.","have you had, I have been","have you gone, I have been","have you been, I’ve been","went, I went",C,,official_final_key,0,,,pdf_text,70,0,
+ADRE-2024-G3-P4-Degree-Q133,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,133,"Read the following passage and answer the questions (133-136) that follow :
 The Okapi, a forest mammal of Central Africa, has presented zoologists with a number of difficult
 questions since they first learned of its existence in 1900. The first was how to classify it. Because it was
 horselike in dimension, and bore patches of striped hide similar to a zebra’s (a relative of the horse),
@@ -218,8 +218,8 @@ pushed into the forest by competition with other large, hoofed animals, such as 
 that specialize on the forest edges and graze them more efficiently. Another question is why Okapis are
 absent from other nearby forest regions that would seem hospitable to them. Zoologists theorize that
 Okapis are relics of an era when forestland was scarce and that they continue to respect those borders
-even though available forestland has long since expanded.",The word hide in the first paragraph means :,smell,evade,skin,land,,,,,,,C,,official_final_key,0,,,72,,0,
-ADRE-2024-G3-P4-Degree-Q134,ADRE,2024,III,IV,A,134,"Read the following passage and answer the questions (133-136) that follow :
+even though available forestland has long since expanded.",The word hide in the first paragraph means :,smell,evade,skin,land,C,,official_final_key,0,,,pdf_text,72,0,
+ADRE-2024-G3-P4-Degree-Q134,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,134,"Read the following passage and answer the questions (133-136) that follow :
 The Okapi, a forest mammal of Central Africa, has presented zoologists with a number of difficult
 questions since they first learned of its existence in 1900. The first was how to classify it. Because it was
 horselike in dimension, and bore patches of striped hide similar to a zebra’s (a relative of the horse),
@@ -250,8 +250,8 @@ pushed into the forest by competition with other large, hoofed animals, such as 
 that specialize on the forest edges and graze them more efficiently. Another question is why Okapis are
 absent from other nearby forest regions that would seem hospitable to them. Zoologists theorize that
 Okapis are relics of an era when forestland was scarce and that they continue to respect those borders
-even though available forestland has long since expanded.",The function of the third paragraph is to :,pose a question about Okapi behaviour,rebut a theory about Okapi behaviour,counter the assertion that Okapis are rare,explain why Okapis appeared to be rare,,,,,,,D,,official_final_key,0,,,72,,0,
-ADRE-2024-G3-P4-Degree-Q135,ADRE,2024,III,IV,A,135,"Read the following passage and answer the questions (133-136) that follow :
+even though available forestland has long since expanded.",The function of the third paragraph is to :,pose a question about Okapi behaviour,rebut a theory about Okapi behaviour,counter the assertion that Okapis are rare,explain why Okapis appeared to be rare,D,,official_final_key,0,,,pdf_text,72,0,
+ADRE-2024-G3-P4-Degree-Q135,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,135,"Read the following passage and answer the questions (133-136) that follow :
 The Okapi, a forest mammal of Central Africa, has presented zoologists with a number of difficult
 questions since they first learned of its existence in 1900. The first was how to classify it. Because it was
 horselike in dimension, and bore patches of striped hide similar to a zebra’s (a relative of the horse),
@@ -282,8 +282,8 @@ pushed into the forest by competition with other large, hoofed animals, such as 
 that specialize on the forest edges and graze them more efficiently. Another question is why Okapis are
 absent from other nearby forest regions that would seem hospitable to them. Zoologists theorize that
 Okapis are relics of an era when forestland was scarce and that they continue to respect those borders
-even though available forestland has long since expanded.",Okapis stay within the forest interior. The passage relates this to the __________ of the Okapi.,scarcity,mind,culture,size,,,,,,,A,,official_final_key,0,,,72,,0,
-ADRE-2024-G3-P4-Degree-Q136,ADRE,2024,III,IV,A,136,"Read the following passage and answer the questions (133-136) that follow :
+even though available forestland has long since expanded.",Okapis stay within the forest interior. The passage relates this to the __________ of the Okapi.,scarcity,mind,culture,size,A,,official_final_key,0,,,pdf_text,72,0,
+ADRE-2024-G3-P4-Degree-Q136,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,136,"Read the following passage and answer the questions (133-136) that follow :
 The Okapi, a forest mammal of Central Africa, has presented zoologists with a number of difficult
 questions since they first learned of its existence in 1900. The first was how to classify it. Because it was
 horselike in dimension, and bore patches of striped hide similar to a zebra’s (a relative of the horse),
@@ -314,14 +314,14 @@ pushed into the forest by competition with other large, hoofed animals, such as 
 that specialize on the forest edges and graze them more efficiently. Another question is why Okapis are
 absent from other nearby forest regions that would seem hospitable to them. Zoologists theorize that
 Okapis are relics of an era when forestland was scarce and that they continue to respect those borders
-even though available forestland has long since expanded.",Zoologists assume that Okapis are relics and they respect the forestland borders. It means :,Okapis are humanoid creatures,They are culturally inclusive,They communicate with other bordering creatures,None of the above,,,,,,,D,,official_final_key,0,,,72,,0,
-ADRE-2024-G3-P4-Degree-Q137,ADRE,2024,III,IV,A,137,"Read the following sentences (137 & 138) and try to choose the best definition for the italicized word by
+even though available forestland has long since expanded.",Zoologists assume that Okapis are relics and they respect the forestland borders. It means :,Okapis are humanoid creatures,They are culturally inclusive,They communicate with other bordering creatures,None of the above,D,,official_final_key,0,,,pdf_text,72,0,
+ADRE-2024-G3-P4-Degree-Q137,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,137,"Read the following sentences (137 & 138) and try to choose the best definition for the italicized word by
 searching for context clues in the sentence.","Mr. Powers was so gullible that he believed even the most outlandish excuses of his insincere
-employees.",intelligent,naive,dishonest,critical,,,,,,,B,,official_final_key,0,,,72,,0,
-ADRE-2024-G3-P4-Degree-Q138,ADRE,2024,III,IV,A,138,"Read the following sentences (137 & 138) and try to choose the best definition for the italicized word by
+employees.",intelligent,naive,dishonest,critical,B,,official_final_key,0,,,pdf_text,72,0,
+ADRE-2024-G3-P4-Degree-Q138,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,138,"Read the following sentences (137 & 138) and try to choose the best definition for the italicized word by
 searching for context clues in the sentence.","The new shipping and receiving building is an expansive facility, large enough to meet our growing
-needs.",obsolete,meagre,spacious,costly,,,,,,,C,,official_final_key,0,,,72,,0,
-ADRE-2024-G3-P4-Degree-Q139,ADRE,2024,III,IV,A,139,"Read the following passage and answer the questions (139-142) that follow :
+needs.",obsolete,meagre,spacious,costly,C,,official_final_key,0,,,pdf_text,72,0,
+ADRE-2024-G3-P4-Degree-Q139,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,139,"Read the following passage and answer the questions (139-142) that follow :
 Today, bicycles are elegantly simple machines that are common around the world. Many people ride
 bicycles for recreation, whereas others use them as a means of transportation. The first bicycle, called a
 draisienne, was invented in Germany in 1818 by Baron Karl de Drais de Sauerbrun. Because it was made
@@ -348,8 +348,8 @@ had equal-sized wheels, which made it much less prone to toppling over. Lawson a
 to the pedals to drive the rear wheel. By 1893, the safety bicycle had been further improved with air-
 filled rubber tyres, a diamond-shaped frame, and easy braking. With the improvements provided by
 Lawson, bicycles became extremely popular and useful for transportation. Today, they are built, used,
-and enjoyed all over the world.",The first person to use a gear system on bicycles was :,H.J. Lawson,Kirkpatrick Macmillan,Pierre Michaux,James Starley,,,,,,,D,,official_final_key,0,,,73,,0,
-ADRE-2024-G3-P4-Degree-Q140,ADRE,2024,III,IV,A,140,"Read the following passage and answer the questions (139-142) that follow :
+and enjoyed all over the world.",The first person to use a gear system on bicycles was :,H.J. Lawson,Kirkpatrick Macmillan,Pierre Michaux,James Starley,D,,official_final_key,0,,,pdf_text,73,0,
+ADRE-2024-G3-P4-Degree-Q140,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,140,"Read the following passage and answer the questions (139-142) that follow :
 Today, bicycles are elegantly simple machines that are common around the world. Many people ride
 bicycles for recreation, whereas others use them as a means of transportation. The first bicycle, called a
 draisienne, was invented in Germany in 1818 by Baron Karl de Drais de Sauerbrun. Because it was made
@@ -376,8 +376,8 @@ had equal-sized wheels, which made it much less prone to toppling over. Lawson a
 to the pedals to drive the rear wheel. By 1893, the safety bicycle had been further improved with air-
 filled rubber tyres, a diamond-shaped frame, and easy braking. With the improvements provided by
 Lawson, bicycles became extremely popular and useful for transportation. Today, they are built, used,
-and enjoyed all over the world.",Which of the following statements from the passage represents the writer’s opinion ?,The safety bicycle would look familiar to today’s cyclists.,"Two hundred years ago, bicycles didn’t even exist.",The Michaux brothers called their bicycle a vélocipède.,Macmillan’s machine had tyres with iron rims.,,,,,,,A,,official_final_key,0,,,74,,0,
-ADRE-2024-G3-P4-Degree-Q141,ADRE,2024,III,IV,A,141,"Read the following passage and answer the questions (139-142) that follow :
+and enjoyed all over the world.",Which of the following statements from the passage represents the writer’s opinion ?,The safety bicycle would look familiar to today’s cyclists.,"Two hundred years ago, bicycles didn’t even exist.",The Michaux brothers called their bicycle a vélocipède.,Macmillan’s machine had tyres with iron rims.,A,,official_final_key,0,,,pdf_text,74,0,
+ADRE-2024-G3-P4-Degree-Q141,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,141,"Read the following passage and answer the questions (139-142) that follow :
 Today, bicycles are elegantly simple machines that are common around the world. Many people ride
 bicycles for recreation, whereas others use them as a means of transportation. The first bicycle, called a
 draisienne, was invented in Germany in 1818 by Baron Karl de Drais de Sauerbrun. Because it was made
@@ -407,8 +407,8 @@ Lawson, bicycles became extremely popular and useful for transportation. Today, 
 and enjoyed all over the world.","Read the following sentence from the fourth paragraph :
 Ten years later, James Starley, an English inventor, made several innovations that revolutionized
 bicycle design.
-As it is used in the sentence, the underlined word revolutionized means :",cancelled,changed drastically,became outdated,exercised control over,,,,,,,B,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q141.png,74,,1,
-ADRE-2024-G3-P4-Degree-Q142,ADRE,2024,III,IV,A,142,"Read the following passage and answer the questions (139-142) that follow :
+As it is used in the sentence, the underlined word revolutionized means :",cancelled,changed drastically,became outdated,exercised control over,B,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P4-Degree/q141.png,pdf_text,74,1,
+ADRE-2024-G3-P4-Degree-Q142,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,142,"Read the following passage and answer the questions (139-142) that follow :
 Today, bicycles are elegantly simple machines that are common around the world. Many people ride
 bicycles for recreation, whereas others use them as a means of transportation. The first bicycle, called a
 draisienne, was invented in Germany in 1818 by Baron Karl de Drais de Sauerbrun. Because it was made
@@ -435,23 +435,23 @@ had equal-sized wheels, which made it much less prone to toppling over. Lawson a
 to the pedals to drive the rear wheel. By 1893, the safety bicycle had been further improved with air-
 filled rubber tyres, a diamond-shaped frame, and easy braking. With the improvements provided by
 Lawson, bicycles became extremely popular and useful for transportation. Today, they are built, used,
-and enjoyed all over the world.",Macmillan added iron rims to the tyres of his bicycle to :,add weight to the bicycle,make the tyres last longer,make the ride less bumpy,make the ride less tiring,,,,,,,B,,official_final_key,0,,,74,,0,
-ADRE-2024-G3-P4-Degree-Q143,ADRE,2024,III,IV,A,143,,"Find the analogy of the relation between the words from those given below on the basis of the
+and enjoyed all over the world.",Macmillan added iron rims to the tyres of his bicycle to :,add weight to the bicycle,make the tyres last longer,make the ride less bumpy,make the ride less tiring,B,,official_final_key,0,,,pdf_text,74,0,
+ADRE-2024-G3-P4-Degree-Q143,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,143,,"Find the analogy of the relation between the words from those given below on the basis of the
 indicative uppercase word-pair preceding the choices.
-SHELF : BOOKCASE",arm : leg,stage : curtain,bench : chair,key : piano,,,,,,,D,,official_final_key,0,,,74,,0,
-ADRE-2024-G3-P4-Degree-Q144,ADRE,2024,III,IV,A,144,,This application was written __________ a pen.,by,with,off,nib,,,,,,,B,,official_final_key,0,,,75,,0,
-ADRE-2024-G3-P4-Degree-Q145,ADRE,2024,III,IV,A,145,,"Choose the correct pair to fill up the blanks :
-He put some __________ on the hinge, so that it should not __________.","oil, squeak","water, spill","colour, stand","paper, seat",,,,,,,A,,official_final_key,0,,,75,,0,
-ADRE-2024-G3-P4-Degree-Q146,ADRE,2024,III,IV,A,146,,"Read the following passage and answer the question that follows :
+SHELF : BOOKCASE",arm : leg,stage : curtain,bench : chair,key : piano,D,,official_final_key,0,,,pdf_text,74,0,
+ADRE-2024-G3-P4-Degree-Q144,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,144,,This application was written __________ a pen.,by,with,off,nib,B,,official_final_key,0,,,pdf_text,75,0,
+ADRE-2024-G3-P4-Degree-Q145,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,145,,"Choose the correct pair to fill up the blanks :
+He put some __________ on the hinge, so that it should not __________.","oil, squeak","water, spill","colour, stand","paper, seat",A,,official_final_key,0,,,pdf_text,75,0,
+ADRE-2024-G3-P4-Degree-Q146,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,146,,"Read the following passage and answer the question that follows :
 Light pollution is a growing problem worldwide. Like other forms of pollution, light pollution
 degrades the quality of the environment. Where it was once possible to look up at the night sky
 and see thousands of twinkling stars in the inky blackness, one now sees little more than the
 yellow glare of urban sky-glow. When we lose the ability to connect visually with the vastness of
 the universe by looking up at the night sky, we lose our connection with something profoundly
 important to the human spirit, our sense of wonder.
-The passage implies that the most serious damage done by light pollution is to our :",art history,sense of paleness,cultural advancement,questing spirit,,,,,,,D,,official_final_key,0,,,75,,0,
-ADRE-2024-G3-P4-Degree-Q147,ADRE,2024,III,IV,A,147,,Everyone admired ___________ his courage.,at,of,for,no word required,,,,,,,D,,official_final_key,0,,,75,,0,
-ADRE-2024-G3-P4-Degree-Q148,ADRE,2024,III,IV,A,148,"Read the passage and answer the questions (148-150) that follow :
+The passage implies that the most serious damage done by light pollution is to our :",art history,sense of paleness,cultural advancement,questing spirit,D,,official_final_key,0,,,pdf_text,75,0,
+ADRE-2024-G3-P4-Degree-Q147,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,147,,Everyone admired ___________ his courage.,at,of,for,no word required,D,,official_final_key,0,,,pdf_text,75,0,
+ADRE-2024-G3-P4-Degree-Q148,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,148,"Read the passage and answer the questions (148-150) that follow :
 Reality for human beings is not action or feeling but meaning. Humans are symbol using creatures; a
 symbol is anything that carries a particular meaning recognised by the people who share culture. A
 whistle, a wall of graffiti, a flashing red light, a fist raised in the air—all serve as symbols. We see the
@@ -462,8 +462,8 @@ someone uses it in an unconventional way. Entering an unfamiliar culture also re
 of symbols; culture shock is nothing more than the inability to “read” meaning in one’s surroundings.
 We feel lost, unsure of how to act, and sometimes frightened—a consequence of slipping outside the
 symbolic web of culture. Culture shock is both what travellers experience and what they inflict on
-others by acting in ways that may offend them.",How is reality defined as in the passage ?,meaning,action,feeling,web,,,,,,,A,,official_final_key,0,,,76,,0,
-ADRE-2024-G3-P4-Degree-Q149,ADRE,2024,III,IV,A,149,"Read the passage and answer the questions (148-150) that follow :
+others by acting in ways that may offend them.",How is reality defined as in the passage ?,meaning,action,feeling,web,A,,official_final_key,0,,,pdf_text,76,0,
+ADRE-2024-G3-P4-Degree-Q149,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,149,"Read the passage and answer the questions (148-150) that follow :
 Reality for human beings is not action or feeling but meaning. Humans are symbol using creatures; a
 symbol is anything that carries a particular meaning recognised by the people who share culture. A
 whistle, a wall of graffiti, a flashing red light, a fist raised in the air—all serve as symbols. We see the
@@ -474,8 +474,8 @@ someone uses it in an unconventional way. Entering an unfamiliar culture also re
 of symbols; culture shock is nothing more than the inability to “read” meaning in one’s surroundings.
 We feel lost, unsure of how to act, and sometimes frightened—a consequence of slipping outside the
 symbolic web of culture. Culture shock is both what travellers experience and what they inflict on
-others by acting in ways that may offend them.","In the context of the passage, which of the following does not serve as a symbol ?",whistle,graffiti,flashing red light,culture shock,,,,,,,D,,official_final_key,0,,,76,,0,
-ADRE-2024-G3-P4-Degree-Q150,ADRE,2024,III,IV,A,150,"Read the passage and answer the questions (148-150) that follow :
+others by acting in ways that may offend them.","In the context of the passage, which of the following does not serve as a symbol ?",whistle,graffiti,flashing red light,culture shock,D,,official_final_key,0,,,pdf_text,76,0,
+ADRE-2024-G3-P4-Degree-Q150,ADRE,2024,G3-P4-Degree,Grade III Paper IV: Graduate,A,150,"Read the passage and answer the questions (148-150) that follow :
 Reality for human beings is not action or feeling but meaning. Humans are symbol using creatures; a
 symbol is anything that carries a particular meaning recognised by the people who share culture. A
 whistle, a wall of graffiti, a flashing red light, a fist raised in the air—all serve as symbols. We see the
@@ -486,4 +486,4 @@ someone uses it in an unconventional way. Entering an unfamiliar culture also re
 of symbols; culture shock is nothing more than the inability to “read” meaning in one’s surroundings.
 We feel lost, unsure of how to act, and sometimes frightened—a consequence of slipping outside the
 symbolic web of culture. Culture shock is both what travellers experience and what they inflict on
-others by acting in ways that may offend them.","In the context of the topic of the passage, when do we feel lost, or frightened ?",When we lose in a competition,When we slip outside the symbolic web of culture,When we cannot locate our action,None of the above - o O o -,,,,,,,B,,official_final_key,0,,,76,,0,
+others by acting in ways that may offend them.","In the context of the topic of the passage, when do we feel lost, or frightened ?",When we lose in a competition,When we slip outside the symbolic web of culture,When we cannot locate our action,None of the above - o O o -,B,,official_final_key,0,,,pdf_text,76,0,

@@ -4,306 +4,263 @@
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 1,
-  "context_en": null,
-  "question_en": "Which word is the antonym of “Arrival” ?",
-  "options_en": {
+  "context": null,
+  "question": "Which word is the antonym of “Arrival” ?",
+  "options": {
    "A": "Conquer",
    "B": "Enemy",
    "C": "Departure",
    "D": "Welcome"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 6,
-  "page_as": null,
+  "page": 6,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q002",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 2,
-  "context_en": null,
-  "question_en": "Choose the correct punctuation mark for the sentence.\n“Have you seen my school bag”",
-  "options_en": {
+  "context": null,
+  "question": "Choose the correct punctuation mark for the sentence.\n“Have you seen my school bag”",
+  "options": {
    "A": "{.}",
    "B": "{;}",
    "C": "{?}",
    "D": "{!}"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 6,
-  "page_as": null,
+  "page": 6,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q003",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 3,
-  "context_en": null,
-  "question_en": "Identify the appropriate collective noun for bees.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the appropriate collective noun for bees.",
+  "options": {
    "A": "herd",
    "B": "swarm",
    "C": "group",
    "D": "bunch"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 6,
-  "page_as": null,
+  "page": 6,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q004",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 4,
-  "context_en": null,
-  "question_en": "What does “hang up the boots” mean ?",
-  "options_en": {
+  "context": null,
+  "question": "What does “hang up the boots” mean ?",
+  "options": {
    "A": "Place the boots for cleaning",
    "B": "Kill someone by hanging",
    "C": "Retire from active life",
    "D": "Peace after a war"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 6,
-  "page_as": null,
+  "page": 6,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q005",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 5,
-  "context_en": null,
-  "question_en": "Identify the synonym of “Accurate”.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the synonym of “Accurate”.",
+  "options": {
    "A": "Total",
    "B": "Pedigree",
    "C": "Sincere",
    "D": "Correct"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 6,
-  "page_as": null,
+  "page": 6,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q006",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 6,
-  "context_en": null,
-  "question_en": "Which is the correct spelling for an annual day-date list ?",
-  "options_en": {
+  "context": null,
+  "question": "Which is the correct spelling for an annual day-date list ?",
+  "options": {
    "A": "Calandar",
    "B": "Calendar",
    "C": "Callendar",
    "D": "Calender"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 6,
-  "page_as": null,
+  "page": 6,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q007",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 7,
-  "context_en": null,
-  "question_en": "Fill in the blank :\nYasmin __________ on paying the bill for her whole group.",
-  "options_en": {
+  "context": null,
+  "question": "Fill in the blank :\nYasmin __________ on paying the bill for her whole group.",
+  "options": {
    "A": "requested",
    "B": "promised",
    "C": "suggested",
    "D": "insisted"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 6,
-  "page_as": null,
+  "page": 6,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q008",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 8,
-  "context_en": null,
-  "question_en": "Which word in the following list is a Verb ?",
-  "options_en": {
+  "context": null,
+  "question": "Which word in the following list is a Verb ?",
+  "options": {
    "A": "Run",
    "B": "Black",
    "C": "Faster",
    "D": "Human"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 6,
-  "page_as": null,
+  "page": 6,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q009",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 9,
-  "context_en": null,
-  "question_en": "Which single word would mean the same as underlined portion of “The vaccine made the\nperson resistant to infection from Covid-19 Virus”.",
-  "options_en": {
+  "context": null,
+  "question": "Which single word would mean the same as underlined portion of “The vaccine made the\nperson resistant to infection from Covid-19 Virus”.",
+  "options": {
    "A": "Immune",
    "B": "Healthy",
    "C": "Doctor",
    "D": "Medicine"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing",
    "math"
@@ -315,1531 +272,992 @@
    "exams/ADRE/2024/figures/G4-P1-HSLC/q009.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 6,
-  "page_as": null,
+  "page": 6,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q010",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 10,
-  "context_en": null,
-  "question_en": "Identify the preposition in :\nThe man is sleeping on a cot.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the preposition in :\nThe man is sleeping on a cot.",
+  "options": {
    "A": "on",
    "B": "man",
    "C": "is",
    "D": "the"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 6,
-  "page_as": null,
+  "page": 6,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q011",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 11,
-  "context_en": null,
-  "question_en": "Which kingdom of India had influence extended to Southeast Asian region ?",
-  "options_en": {
+  "context": null,
+  "question": "Which kingdom of India had influence extended to Southeast Asian region ?",
+  "options": {
    "A": "Chauhan",
    "B": "Rajput",
    "C": "Gupta",
    "D": "Chola"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 7,
-  "page_as": 7,
+  "page": 7,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ˆ¬±1Ó¬¬ı¯∏«1 Œﬂ¬±Ú‡Ú ¸±•⁄±Ê…1 √õ∂ˆ¬±ª øé¬Ì-¬Û”¬ı ¤øÂ˚˛± ’=˘Õ˘ ø¬ıô¶‘Ó¬ ∆˝øÂ˘ ∑",
-   "options": {
-    "A": "Œ‰¬Ã˝±Ú",
-    "B": "1±Ê¬Û≈Ó¬",
-    "C": "&5",
-    "D": "Œ‰¬±˘"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 7
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q012",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 12,
-  "context_en": null,
-  "question_en": "Which of the following Muslim commanders did Mula Gabharu fight with ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following Muslim commanders did Mula Gabharu fight with ?",
+  "options": {
    "A": "Mir Quasim",
    "B": "Turbak",
    "C": "Iltutmish",
    "D": "Abeidullah"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 7,
-  "page_as": 7,
+  "page": 7,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ Œﬂ¬±ÚÊÚ ˜≈Â˘˜±Ú Œ¸Ú±¬ÛøÓ¬1 ø¬ı¬ÛÀé¬ ˜”˘± ·±ˆ¬1nÀª ˚≈X√ ﬂ¬ø1øÂ˘ ∑",
-   "options": {
-    "A": "ø˜1 ﬂ¬±ø‰¬˜",
-    "B": "Ó¬≈¬ıﬂ« ¬",
-    "C": "˝◊˘Ó≈¬»ø˜Â",
-    "D": "Î◊¬Õ¬ı≈~±˝"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 7
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q013",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 13,
-  "context_en": null,
-  "question_en": "Which of the following has the NITI Aayog replaced ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following has the NITI Aayog replaced ?",
+  "options": {
    "A": "Competition Commission of India",
    "B": "Staff Selection Commission",
    "C": "Union Public Service Commission",
    "D": "Planning Commission"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 7,
-  "page_as": 7,
+  "page": 7,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ Œﬂ¬±ÚÀÈ¬±1 Í¬±˝◊Ó¬ ÚœøÓ¬ ’±À˚˛±· ¬ı˘¬ı» ﬂ¬1± ∆˝ÀÂ ∑",
-   "options": {
-    "A": "ˆ¬±1Ó¬1 √õ∂øÓ¬À˚±ø·Ó¬± ’±À˚˛±·",
-    "B": "ﬂ¬˜«‰¬±1œ øÚ¬ı«±‰¬Ú ’±À˚˛±·",
-    "C": "Œﬂ¬fœ˚˛ Œ˘±ﬂ¬À¸ª± ’±À˚˛±·",
-    "D": "¬Ûø1ﬂ¬äÚ± ’±À˚˛±·"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 7
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q014",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 14,
-  "context_en": null,
-  "question_en": "Which of the following is the Capital City of Chhattisgarh ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is the Capital City of Chhattisgarh ?",
+  "options": {
    "A": "Raipur",
    "B": "Ranchi",
    "C": "Bhagalpur",
    "D": "Dehradun"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 8,
-  "page_as": 8,
+  "page": 8,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ ¸˜”˝1 Œﬂ¬±Ú‡Ú ÂøM˙·Î¬ˇ1 1±ÊÒ±Úœ ‰¬˝1 ∑",
-   "options": {
-    "A": "1±˚˛¬Û≈1",
-    "B": "1±“‰¬œ",
-    "C": "ˆ¬±·˘¬Û≈1",
-    "D": "ŒÎ¬1±Î≈¬Ú"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 8
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q015",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 15,
-  "context_en": null,
-  "question_en": "Alexander (the Great) was from which ancient kingdom ?",
-  "options_en": {
+  "context": null,
+  "question": "Alexander (the Great) was from which ancient kingdom ?",
+  "options": {
    "A": "Persia",
    "B": "Byzantine",
    "C": "Macedonia",
    "D": "Ottoman"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 8,
-  "page_as": 8,
+  "page": 8,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "’±À˘ﬂ¬ÀÊG±1 Œﬂ¬±Ú‡Ú √õ∂±‰¬œÚ 1±Ê…1 ’±øÂ˘ ∑",
-   "options": {
-    "A": "¬Û±ø‰«¬˚˛± [¬Û±1¸…]",
-    "B": "ø¬ıÊ±øôLÚ",
-    "C": "Œ˜ø‰¬ÀÎ¬±øÚ˚˛±",
-    "D": "’íÈ¬í˜±Ú"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 8
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q016",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 16,
-  "context_en": null,
-  "question_en": "Which of the following countries does Assam share international border with ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following countries does Assam share international border with ?",
+  "options": {
    "A": "Thailand",
    "B": "Bhutan",
    "C": "China",
    "D": "Nepal"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 9,
-  "page_as": 9,
+  "page": 9,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ Œﬂ¬±Ú‡Ú Œ˙1 ∆¸ÀÓ¬ ’¸˜ ’±ôL–1±©Üòœ˚˛ ¸œ˜±1 Î◊¬Õ˜˝Ó¬œ˚˛± ’—˙œ±1 ∑",
-   "options": {
-    "A": "Ô±˝◊À˘G",
-    "B": "ˆ”¬È¬±Ú",
-    "C": "‰¬œÚ",
-    "D": "ŒÚ¬Û±˘"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 9
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q017",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 17,
-  "context_en": null,
-  "question_en": "The Upper House of the Parliament of India is called :",
-  "options_en": {
+  "context": null,
+  "question": "The Upper House of the Parliament of India is called :",
+  "options": {
    "A": "Lok Sabha",
    "B": "Rajya Sabha",
    "C": "Vidhan Sabha",
    "D": "Vidhan Parishad"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 9,
-  "page_as": 9,
+  "page": 9,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¸—¸1 Î◊¬2‰¬ ¸Úﬂ¬ Œﬂ¬±ª± ˝˚˛ –",
-   "options": {
-    "A": "Œ˘±ﬂ¬¸ˆ¬±",
-    "B": "1±Ê…¸ˆ¬±",
-    "C": "ø¬ıÒ±Ú ¸ˆ¬±",
-    "D": "ø¬ıÒ±Ú ¬Ûø1¯∏"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 9
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q018",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 18,
-  "context_en": null,
-  "question_en": "Which of the following words is NOT in the Preamble of the Constitution of India ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following words is NOT in the Preamble of the Constitution of India ?",
+  "options": {
    "A": "Fraternity",
    "B": "Dignity",
    "C": "Modesty",
    "D": "Liberty"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 10,
-  "page_as": 10,
+  "page": 10,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ Œﬂ¬±ÚÀÈ¬± ˙s ˆ¬±1Ó¬1 ¸—ø¬ıÒ±Ú1 √õ∂ô¶±ªÚ±Ó¬ Ú±˝◊ ∑",
-   "options": {
-    "A": "ˆ¬±Ó‘¬QÀ¬ı±Ò",
-    "B": "˜˚«±±",
-    "C": "ø¬ıÚ˚˛",
-    "D": "¶§±ÒœÚÓ¬±"
-   },
-   "fonts": [
-    "Geetanjalibold",
-    "Geetanjalilight"
-   ],
-   "page": 10
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q019",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 19,
-  "context_en": null,
-  "question_en": "Which mountain range passes through Delhi, Haryana, Rajasthan and Gujarat ?",
-  "options_en": {
+  "context": null,
+  "question": "Which mountain range passes through Delhi, Haryana, Rajasthan and Gujarat ?",
+  "options": {
    "A": "Shivalik range",
    "B": "Borail range",
    "C": "Satpura range",
    "D": "Aravalli range"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 10,
-  "page_as": 10,
+  "page": 10,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Œﬂ¬±ÚÀÈ¬± ¬Û¬ı«Ó¬˜±˘± ø~œ, ˝±ø1˚˛±Ú±, 1±Ê¶ö±Ú ’±1n &Ê1±È¬1 ˜±ÀÊÀ1 ¬Û±1 ∆˝ ∆·ÀÂ˛ ∑",
-   "options": {
-    "A": "ø˙ª±ø˘ﬂ¬ ¬Û¬ı«Ó¬˜±˘±",
-    "B": "¬ı1±˝◊˘ ¬Û¬ı«Ó¬˜±˘±",
-    "C": "¸±Ó¬¬Û≈1± ¬Û¬ı«Ó¬˜±˘±",
-    "D": "’±1±ª˘œ ¬Û¬ı«Ó¬˜±˘±"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 10
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q020",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 20,
-  "context_en": null,
-  "question_en": "Which of the following districts of Assam is in the Barak Valley ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following districts of Assam is in the Barak Valley ?",
+  "options": {
    "A": "Hailakandi",
    "B": "South Salmara-Mankachar",
    "C": "Chirang",
    "D": "Morigaon"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 10,
-  "page_as": 10,
+  "page": 10,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ Œﬂ¬±Ú‡Ú øÊ˘± ¬ı1±ﬂ¬ Î◊¬¬ÛÓ¬…ﬂ¬±Ó¬ ’ªø¶öÓ¬ ∑",
-   "options": {
-    "A": "˝±˝◊˘±ﬂ¬±øµ",
-    "B": "øé¬Ì ˙±˘˜1± - ˜±Úﬂ¬±Â±1",
-    "C": "ø‰¬1±—",
-    "D": "˜ø1·±“›"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 10
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q021",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 21,
-  "context_en": null,
-  "question_en": "Who was the first Vice Chancellor of Gauhati University ?",
-  "options_en": {
+  "context": null,
+  "question": "Who was the first Vice Chancellor of Gauhati University ?",
+  "options": {
    "A": "Nabin Chandra Bordoloi",
    "B": "Gopinath Bordoloi",
    "C": "Kamalakanta Bhattacharyya",
    "D": "Krishnakanta Handique"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 11,
-  "page_as": 11,
+  "page": 11,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "&ª±˝√±È¬œ ø¬ıù´ø¬ı√…±˘˚˛1 õ∂Ô˜·1±ﬂ¡œ Î◊¬¬Û±‰¬±˚« Œﬂ¡±Ú ’±øÂ√˘∑",
-   "options": {
-    "A": "Ú¬ıœÚ ‰¬f ¬ı1√Õ˘",
-    "B": "Œ·±¬ÛœÚ±Ô ¬ı1√Õ˘",
-    "C": "ﬂ¡˜˘±ﬂ¡±ôL ˆ¬A±‰¬±˚«",
-    "D": "ﬂ‘¡¯∏ûﬂ¡±ôL ¸øµÕﬂ¡"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 11
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q022",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 22,
-  "context_en": null,
-  "question_en": "Which instrument is used for measuring atmospheric pressure ?",
-  "options_en": {
+  "context": null,
+  "question": "Which instrument is used for measuring atmospheric pressure ?",
+  "options": {
    "A": "Hydrometer",
    "B": "Altimeter",
    "C": "Barometer",
    "D": "Thermometer"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 11,
-  "page_as": 11,
+  "page": 11,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¬ı±˚˛≈˜G˘1 ‰¬±¬Û Ê≈ø‡¬ıÕ˘ Œﬂ¬±Úø¬ıÒ ˚La ¬ı…ª˝±1 ﬂ¬1± ˝˚˛ ∑",
-   "options": {
-    "A": "˝±˝◊Eíø˜È¬±1",
-    "B": "’øåÈ¬ø˜È¬±1",
-    "C": "Œ¬ı1íø˜È¬±1",
-    "D": "Ô±˜«íø˜È¬±1"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 11
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q023",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 23,
-  "context_en": null,
-  "question_en": "Ali Aye Ligang is a festival of which community ?",
-  "options_en": {
+  "context": null,
+  "question": "Ali Aye Ligang is a festival of which community ?",
+  "options": {
    "A": "Khamti",
    "B": "Mishing",
    "C": "Karbi",
    "D": "Dimasa"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 12,
-  "page_as": 12,
+  "page": 12,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "’±ø˘ ’±–À˚˛ ˘‘·±— Œﬂ¬±Ú ¸•x±˚˛1 Î◊¬»¸ª ∑",
-   "options": {
-    "A": "‡±˜øÓ¬",
-    "B": "ø˜øÂ—",
-    "C": "ﬂ¬±ø¬ı«",
-    "D": "øÎ¬˜±Â±"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 12
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q024",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 24,
-  "context_en": null,
-  "question_en": "What is the main component of a glacier ?",
-  "options_en": {
+  "context": null,
+  "question": "What is the main component of a glacier ?",
+  "options": {
    "A": "Lava",
    "B": "Salt water",
    "C": "Ice",
    "D": "Rain forest"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 12,
-  "page_as": 12,
+  "page": 12,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ø˝˜¬ı±˝1 √õ∂Ò±Ú Î◊¬¬Û±±Ú øﬂ¬ ∑",
-   "options": {
-    "A": "˘±ˆ¬±",
-    "B": "˘≈Ìœ˚˛± Ê˘",
-    "C": "¬ı1Ù¬",
-    "D": "¬ı¯∏«±1Ì…"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 12
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q025",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 25,
-  "context_en": null,
-  "question_en": "How many countries does India share land borders with ?",
-  "options_en": {
+  "context": null,
+  "question": "How many countries does India share land borders with ?",
+  "options": {
    "A": "Six",
    "B": "Seven",
    "C": "Eight",
    "D": "Nine"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 12,
-  "page_as": 12,
+  "page": 12,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ˆ¬±1Ó¬¬ı¯∏«˝◊ Œﬂ¬˝◊‡Ú Œ˙1 ¶ö˘ ¸œ˜± ¶Û˙« ﬂ¬À1 ∑",
-   "options": {
-    "A": "Â˚˛",
-    "B": "¸±Ó¬",
-    "C": "’±Í¬",
-    "D": "Ú"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 12
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q026",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 26,
-  "context_en": null,
-  "question_en": "What was the former name of Karbi Anglong district ?",
-  "options_en": {
+  "context": null,
+  "question": "What was the former name of Karbi Anglong district ?",
+  "options": {
    "A": "Mikir Hills district",
    "B": "Lushai Hills district",
    "C": "Cachar Hills district",
    "D": "West Naga Hills district"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 13,
-  "page_as": 13,
+  "page": 13,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ﬂ¡±ø¬ı« ’±—˘— øÊ√˘±1 ¬Û”¬ı«1 Ú±˜ øﬂ¡ ’±øÂ√˘∑",
-   "options": {
-    "A": "ø˜øﬂ¡1 ¬Û±¬ı«Ó¬… øÊ√˘±",
-    "B": "˘≈‰¬±˝◊ ¬¬Û±¬ı«Ó¬… øÊ√˘±",
-    "C": "ﬂ¡±Â√±1 ¬Û±¬ı«Ó¬… øÊ√˘±",
-    "D": "¬Ûø(˜ Ú·± ¬¬Û±¬ı«Ó¬… øÊ√˘±"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 13
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q027",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 27,
-  "context_en": null,
-  "question_en": "McMahon line separates which two countries ?",
-  "options_en": {
+  "context": null,
+  "question": "McMahon line separates which two countries ?",
+  "options": {
    "A": "Afghanistan and Pakistan",
    "B": "Myanmar and Bangladesh",
    "C": "India and China",
    "D": "Vietnam and Thailand"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 13,
-  "page_as": 13,
+  "page": 13,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Œ˜ﬂ¬˜±˝Ú ¸œ˜±À1‡±˝◊ Œﬂ¬±Ú ≈‡Ú Œ˙ﬂ¬ ¬Û‘Ôﬂ¬ ﬂ¬À1 ∑",
-   "options": {
-    "A": "’±Ù¬·±øÚ¶ö±Ú ’±1n ¬Û±øﬂ¬¶ö±Ú",
-    "B": "˜…±Ú˜±1 ’±1n ¬ı±—˘±À˙",
-    "C": "ˆ¬±1Ó¬ ’±1n ‰¬œÚ",
-    "D": "øˆ¬À˚˛È¬Ú±˜ ’±1n Ô±˝◊À˘G"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 13
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q028",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 28,
-  "context_en": null,
-  "question_en": "Kathakali is a dance form of which State ?",
-  "options_en": {
+  "context": null,
+  "question": "Kathakali is a dance form of which State ?",
+  "options": {
    "A": "Gujarat",
    "B": "West Bengal",
    "C": "Kerala",
    "D": "Himachal Pradesh"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 13,
-  "page_as": 13,
+  "page": 13,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ﬂ¬Ô±ﬂ¬ø˘ Œﬂ¬±Ú‡Ú 1±Ê…1 ¤ﬂ¬ Ú‘Ó¬… ∆˙˘œ ∑",
-   "options": {
-    "A": "&Ê1±È¬",
-    "B": "¬Ûø(˜¬ıe",
-    "C": "Œﬂ¬1±˘±",
-    "D": "ø˝˜±‰¬˘ √õ∂À˙"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 13
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q029",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 29,
-  "context_en": null,
-  "question_en": "“Gobha Raja” is the titular king of which community ?",
-  "options_en": {
+  "context": null,
+  "question": "“Gobha Raja” is the titular king of which community ?",
+  "options": {
    "A": "Ahom",
    "B": "Mishing",
    "C": "Khamti",
    "D": "Tiwa"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 14,
-  "page_as": 14,
+  "page": 14,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ëëŒ·±ˆ¬± 1Ê±íí Œﬂ¬±Ú ¸•x±˚˛1 Î◊¬¬Û±øÒ 1Ê± ∑",
-   "options": {
-    "A": "’±À˝±˜",
-    "B": "ø˜øÂ—",
-    "C": "‡±˜øÓ¬",
-    "D": "øÓ¬ª±"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 14
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q030",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 30,
-  "context_en": null,
-  "question_en": "Which country is known as the “Cockpit of Europe” ?",
-  "options_en": {
+  "context": null,
+  "question": "Which country is known as the “Cockpit of Europe” ?",
+  "options": {
    "A": "Switzerland",
    "B": "Belgium",
    "C": "Spain",
    "D": "Portugal"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 14,
-  "page_as": 14,
+  "page": 14,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ Œﬂ¬±Ú‡Ú Œ˙ﬂ¬ ëë˝◊Î◊¬À1±¬Û1 ﬂ¬íﬂ¬ø¬ÛÈ¬íí 1+À¬Û ÊÚ± ˚±˚˛ ∑",
-   "options": {
-    "A": "‰≈¬˝◊Ê±1À˘G",
-    "B": "Œ¬ı˘øÊ˚˛±˜",
-    "C": "Œ¶Û˝◊Ú",
-    "D": "¬ÛÓ«≈¬·±˘"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 14
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q031",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 31,
-  "context_en": null,
-  "question_en": "Which of the following sea passages connects Asia with Europe ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following sea passages connects Asia with Europe ?",
+  "options": {
    "A": "Suez Canal",
    "B": "English Channel",
    "C": "Panama Canal",
    "D": "Strait of Malacca"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 15,
-  "page_as": 15,
+  "page": 15,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ Œﬂ¬±ÚÀÈ¬± ¸˜≈^¬ÛÀÔ ¤øÂ˚˛±ﬂ¬ ˝◊Î◊¬À1±¬Û1 ∆¸ÀÓ¬ ¸—À˚±· ﬂ¬À1 ∑",
-   "options": {
-    "A": "‰≈¬ÀªÊ ‡±˘",
-    "B": "˝◊—1±Ê ‡±˘",
-    "C": "¬Û±Ú±˜± ‡±˘",
-    "D": "˜±˘±ﬂ¬± √õ∂Ì±˘œ"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 15
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q032",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 32,
-  "context_en": null,
-  "question_en": "Which community of Assam has “Choklong” system of weddings ?",
-  "options_en": {
+  "context": null,
+  "question": "Which community of Assam has “Choklong” system of weddings ?",
+  "options": {
    "A": "Bodo",
    "B": "Dimasa",
    "C": "Mishing",
    "D": "Ahom"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 15,
-  "page_as": 15,
+  "page": 15,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "’¸˜1 Œﬂ¬±Ú ¸•x±˚˛Ó¬ ë‰¬ﬂ¬˘—í √õ∂Ô±À1 ø¬ı˚˛± ’Ú≈øá¬Ó¬ ˝˚˛ ∑",
-   "options": {
-    "A": "¬ıÀÎ¬ˇ±",
-    "B": "øÎ¬˜±Â±",
-    "C": "ø˜øÂ—",
-    "D": "’±À˝±˜"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 15
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q033",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 33,
-  "context_en": null,
-  "question_en": "Kurseong is a hill station in the state of :",
-  "options_en": {
+  "context": null,
+  "question": "Kurseong is a hill station in the state of :",
+  "options": {
    "A": "Sikkim",
    "B": "Arunachal Pradesh",
    "C": "West Bengal",
    "D": "Nagaland"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 15,
-  "page_as": 15,
+  "page": 15,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ﬂ¡±À‰¬«˚˛— ø˚‡Ú 1±Ê√…1 ¤ﬂ¡ ¬Û±¬ı«Ó¬… ’±¶ö±Ú –",
-   "options": {
-    "A": "ø‰¬ø!¡˜",
-    "B": "’1n∏Ì±‰¬˘ õ∂À√˙",
-    "C": "¬Ûø(˜¬ıe",
-    "D": "Ú·±À˘G"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 15
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q034",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 34,
-  "context_en": null,
-  "question_en": "Which of the following rulers had ascended the throne at Delhi ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following rulers had ascended the throne at Delhi ?",
+  "options": {
    "A": "Chand Bibi",
    "B": "Rani Ahilya Bai",
    "C": "Rezia Sultana",
    "D": "Rani Laxmi Bai"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 16,
-  "page_as": 16,
+  "page": 16,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ Œﬂ¬±Ú·1±ﬂ¬œ ˙±¸Àﬂ¬ ø~œ1 ø¸—˝±¸ÚÓ¬ ’±À1±˝Ì ﬂ¬ø1øÂ˘ ∑",
-   "options": {
-    "A": "‰¬±µ ø¬ıø¬ı",
-    "B": "1±Ìœ ’Õ˝˘…± ¬ı±÷",
-    "C": "Œ1øÊ˚˛± ‰≈¬˘Ó¬±Ú±",
-    "D": "1±Ìœ ˘Ñœ ¬ı±÷"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 16
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q035",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 35,
-  "context_en": null,
-  "question_en": "Which dynasty ruled the longest in ancient Assam region ?",
-  "options_en": {
+  "context": null,
+  "question": "Which dynasty ruled the longest in ancient Assam region ?",
+  "options": {
    "A": "The Ahoms",
    "B": "The Barmans",
    "C": "The Koch",
    "D": "The Sutiyas"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 16,
-  "page_as": 16,
+  "page": 16,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "√õ∂±‰¬œÚ ’¸˜ ˜≈˘≈ﬂ¬Ó¬ Œﬂ¬±Ú ¬ı—˙˝◊ ¸¬ı«±øÒﬂ¬ ﬂ¬±˘ ˙±¸Ú ﬂ¬ø1øÂ˘ ∑",
-   "options": {
-    "A": "’±À˝±˜",
-    "B": "¬ı˜«Ì",
-    "C": "Œﬂ¬±‰¬",
-    "D": "‰≈¬È¬œ˚˛±"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 16
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q036",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 36,
-  "context_en": null,
-  "question_en": "What is the introduction to Constitution of India called ?",
-  "options_en": {
+  "context": null,
+  "question": "What is the introduction to Constitution of India called ?",
+  "options": {
    "A": "The Preamble",
    "B": "The Preface",
    "C": "The Introduction",
    "D": "The First Page"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 17,
-  "page_as": 17,
+  "page": 17,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ˆ¬±1Ó¬œ˚˛ ¸—ø¬ıÒ±Ú1 ’±1yÌœ ’—˙ﬂ¬ øﬂ¬ ¬ı≈ø˘ Œﬂ¬±ª± ˝˚˛ ∑",
-   "options": {
-    "A": "√õ∂ô¶±ªÚ±",
-    "B": "’±·ﬂ¬Ô±",
-    "C": "¬Ûø1‰¬˚˛",
-    "D": "√õ∂Ô˜ ¬Û‘á ±"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 17
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q037",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 37,
-  "context_en": null,
-  "question_en": "Which of the following is not a criterion for citizenship of India ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is not a criterion for citizenship of India ?",
+  "options": {
    "A": "Acquisition of Territory",
    "B": "Buying property",
    "C": "Naturalization",
    "D": "Descent"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 17,
-  "page_as": 17,
+  "page": 17,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ ¸˜”˝1 Œﬂ¬±ÚÀÈ¬± ˆ¬±1Ó¬1 Ú±·ø1ﬂ¬Q1 ¬˜±¬Ûﬂ¬±øÍ¬ Ú˝˚˛ ∑",
-   "options": {
-    "A": "ˆ”¬ø˜ ’øÒ·Ë˝Ì",
-    "B": "¸•ÛøM Sê˚˛",
-    "C": "√õ∂±ﬂ‘¬øÓ¬ﬂ¬ﬂ¬1Ì",
-    "D": "¬ı—˙Ê"
-   },
-   "fonts": [
-    "Geetanjalibold",
-    "Geetanjalilight"
-   ],
-   "page": 17
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q038",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 38,
-  "context_en": null,
-  "question_en": "Which kingdom did Sati Sadhani belong to ?",
-  "options_en": {
+  "context": null,
+  "question": "Which kingdom did Sati Sadhani belong to ?",
+  "options": {
    "A": "Koch Kingdom",
    "B": "Ahom Kingdom",
    "C": "Dimasa Kingdom",
    "D": "Sutiya Kingdom"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 18,
-  "page_as": 18,
+  "page": 18,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¸Ó¬œ ¸±ÒÚœ Œﬂ¬±Ú‡Ú 1±Ê…1 ∆¸ÀÓ¬ ¸—˘ø¢üÓ¬ ’±øÂ˘ ∑",
-   "options": {
-    "A": "Œﬂ¬±‰¬ 1±Ê…",
-    "B": "’±À˝±˜ 1±Ê…",
-    "C": "øÎ¬˜±Â± 1±Ê…",
-    "D": "‰≈¬È¬œ˚˛± 1±Ê…"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 18
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q039",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 39,
-  "context_en": null,
-  "question_en": "Who was the first President of the United States of America ?",
-  "options_en": {
+  "context": null,
+  "question": "Who was the first President of the United States of America ?",
+  "options": {
    "A": "George Washington",
    "B": "Abraham Lincoln",
    "C": "Thomas Jefferson",
    "D": "Benjamin Franklin"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 18,
-  "page_as": 18,
+  "page": 18,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "’±À˜ø1ﬂ¬± ˚≈Mê1±©Üò1 √õ∂Ô˜ 1±©Üò¬ÛøÓ¬ Œﬂ¬±Ú ’±øÂ˘ ∑",
-   "options": {
-    "A": "ÊÊ« ª±øù´—È¬Ú",
-    "B": "’±¬ıË±˝±˜ ø˘—ﬂ¬Ú",
-    "C": "Ô˜±Â ŒÊÙ¬±1‰¬Ú",
-    "D": "Œ¬ı?±ø˜Ú ŒÙË¬—ﬂ¬ø˘Ú"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 18
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q040",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 40,
-  "context_en": null,
-  "question_en": "Identify the southernmost river amongst the following :",
-  "options_en": {
+  "context": null,
+  "question": "Identify the southernmost river amongst the following :",
+  "options": {
    "A": "Indus River",
    "B": "Godavari River",
    "C": "Brahmaputra River",
    "D": "Cauvery River"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 19,
-  "page_as": 19,
+  "page": 19,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ ¸˜”˝√1 ¬Û1± ’±È¬±˝◊Ó¬Õﬂ¡ √øé¬ÌÓ¬ ’ªø¶öÓ¬ Ú√œ‡Ú ø‰¬Ú±Mê ﬂ¡1ﬂ¡º",
-   "options": {
-    "A": "ø¸i§≈+ Ú√œ",
-    "B": "Œ·±√±ª1œ Ú√œ",
-    "C": "¬ıËp¡¬Û≈S Ú√œ",
-    "D": "ﬂ¡±À¬ı1œ Ú√œ"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 19
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q041",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 41,
-  "context_en": null,
-  "question_en": "The sum of the present age of the father and the son is 60 years. After 15 years, the father’s age\nwill be twice that of the son. The present age of the son is :",
-  "options_en": {
+  "context": null,
+  "question": "The sum of the present age of the father and the son is 60 years. After 15 years, the father’s age\nwill be twice that of the son. The present age of the son is :",
+  "options": {
    "A": "10 years",
    "B": "25 years",
    "C": "18 years",
    "D": "15 years"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 19,
-  "page_as": 19,
+  "page": 19,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ø¬ÛÓ‘¬ ’±1n ¬Û≈S1 ¬ıÓ«¬˜±Ú ¬ı˚˛¸1 Œ˚±·Ù¬˘ 60 ¬ıÂ1º 15 ¬ıÂ11 ø¬ÛÂÓ¬ ø¬ÛÓ‘¬1 ¬ı˚˛¸ ¬Û≈S1 ¬ı˚˛¸1 ≈&Ì ˝í¬ıº ¬Û≈S1 ¬ıÓ«¬˜±Ú ¬ı˚˛¸\n∆˝ÀÂ –",
-   "options": {
-    "A": "10 ¬ıÂ1",
-    "B": "25 ¬ıÂ1",
-    "C": "18 ¬ıÂ1",
-    "D": "15 ¬ıÂ1"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 19
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q042",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 42,
-  "context_en": null,
-  "question_en": "2m × 2⁶ × 2⁻⁴\nFind m if\t= 2¹²\n2−5",
-  "options_en": {
+  "context": null,
+  "question": "2m × 2⁶ × 2⁻⁴\nFind m if\t= 2¹²\n2−5",
+  "options": {
    "A": "5",
    "B": "3",
    "C": "8",
    "D": "7"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing",
    "math",
@@ -1852,143 +1270,92 @@
    "exams/ADRE/2024/figures/G4-P1-HSLC/q042.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 19,
-  "page_as": 19,
+  "page": 19,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "2m × 2⁶ × 2⁻⁴\n˚ø\t₋₅\t= 2¹², ŒÓ¬ÀôL m 1 ˜±Ú øÚX«√±1Ì ﬂ¬1ﬂ¬º",
-   "options": {
-    "A": "5",
-    "B": "3",
-    "C": "8",
-    "D": "7"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 19
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q043",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 43,
-  "context_en": null,
-  "question_en": "Two numbers are in the ratio 3 : 4 and their sum equals 49. The two numbers are :",
-  "options_en": {
+  "context": null,
+  "question": "Two numbers are in the ratio 3 : 4 and their sum equals 49. The two numbers are :",
+  "options": {
    "A": "16, 33",
    "B": "18, 31",
    "C": "21, 28",
    "D": "24, 25"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 20,
-  "page_as": 20,
+  "page": 20,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Œﬂ¬±ÀÚ± ≈È¬± ¸—‡…± 3 : 4 ’Ú≈¬Û±Ó¬Ó¬ ’±ÀÂ ’±1n ø¸˝“Ó¬1 Œ˚±·Ù¬˘ ∆˝ÀÂ 49 º ¸—‡…± ≈È¬± ˝í˘ –",
-   "options": {
-    "A": "16, 33",
-    "B": "18, 31",
-    "C": "21, 28",
-    "D": "24, 25"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 20
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q044",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 44,
-  "context_en": null,
-  "question_en": "(−1)⁵+(−1)⁶ equals :",
-  "options_en": {
+  "context": null,
+  "question": "(−1)⁵+(−1)⁶ equals :",
+  "options": {
    "A": "1",
    "B": "−1",
    "C": "0",
    "D": "−11"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 20,
-  "page_as": 20,
+  "page": 20,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "(−1)⁵+(−1)⁶ 1 ¸˜±Ú ∆˝ÀÂ –",
-   "options": {
-    "A": "1",
-    "B": "−1",
-    "C": "0",
-    "D": "−11"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 20
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q045",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 45,
-  "context_en": null,
-  "question_en": "The value of 1849 is :",
-  "options_en": {
+  "context": null,
+  "question": "The value of 1849 is :",
+  "options": {
    "A": "33",
    "B": "43",
    "C": "53",
    "D": "63"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing",
    "math"
@@ -2000,143 +1367,92 @@
    "exams/ADRE/2024/figures/G4-P1-HSLC/q045.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 21,
-  "page_as": 21,
+  "page": 21,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "1849 1 ˜±Ú ∆˝ÀÂ –",
-   "options": {
-    "A": "33",
-    "B": "43",
-    "C": "53",
-    "D": "63"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 21
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q046",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 46,
-  "context_en": null,
-  "question_en": "40% of 60 when added to 60% of 40 would result in :",
-  "options_en": {
+  "context": null,
+  "question": "40% of 60 when added to 60% of 40 would result in :",
+  "options": {
    "A": "40",
    "B": "48",
    "C": "60",
    "D": "64"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 21,
-  "page_as": 21,
+  "page": 21,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "60 1 40% 1 ∆¸ÀÓ¬ 40 1 60% Œ˚±· ﬂ¬ø1À˘ Ù¬˘±Ù¬˘ ˝¬ı –",
-   "options": {
-    "A": "40",
-    "B": "48",
-    "C": "60",
-    "D": "64"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 21
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q047",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 47,
-  "context_en": null,
-  "question_en": "Addition of two Roman numbers XIV+IV equals :",
-  "options_en": {
+  "context": null,
+  "question": "Addition of two Roman numbers XIV+IV equals :",
+  "options": {
    "A": "XXV",
    "B": "XVIII",
    "C": "XIX",
    "D": "XX"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 21,
-  "page_as": 21,
+  "page": 21,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "≈È¬± Œ1±˜±Ú ¸—‡…±1 Œ˚±·Ù¬˘ XIV+IV ∆˝ÀÂ –",
-   "options": {
-    "A": "XXV",
-    "B": "XVIII",
-    "C": "XIX",
-    "D": "XX"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 21
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q048",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 48,
-  "context_en": null,
-  "question_en": "(x²−3x−4)÷(x+1)=? (x ≠ −1)",
-  "options_en": {
+  "context": null,
+  "question": "(x²−3x−4)÷(x+1)=? (x ≠ −1)",
+  "options": {
    "A": "x−4",
    "B": "x−3",
    "C": "x−2",
    "D": "x−1"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "math"
   ],
@@ -2147,47 +1463,32 @@
    "exams/ADRE/2024/figures/G4-P1-HSLC/q048.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 22,
-  "page_as": 22,
+  "page": 22,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "(x²−3x−4)÷(x+1)=? (x ≠ −1)",
-   "options": {
-    "A": "x−4",
-    "B": "x−3",
-    "C": "x−2",
-    "D": "x−1"
-   },
-   "fonts": [],
-   "page": 22
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q049",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 49,
-  "context_en": null,
-  "question_en": "The fractional form of the recurring number 5.121212... is :\n507\t517\t517\t507",
-  "options_en": {
+  "context": null,
+  "question": "The fractional form of the recurring number 5.121212... is :\n507\t517\t517\t507",
+  "options": {
    "A": "90",
    "B": "99",
    "C": "90",
    "D": "99"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing",
    "math",
@@ -2200,284 +1501,182 @@
    "exams/ADRE/2024/figures/G4-P1-HSLC/q049.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 22,
-  "page_as": 22,
+  "page": 22,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Œ¬ÛÃÚ–¬Û≈øÚﬂ¬ ¸—‡…± 5.121212... 1 ˆ¬¢ü±—˙ 1+¬ÛÀÈ¬± ∆˝ÀÂ –\n507\t517\t517\t507",
-   "options": {
-    "A": "90",
-    "B": "99",
-    "C": "90",
-    "D": "99"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 22
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q050",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 50,
-  "context_en": null,
-  "question_en": "The total interest accrued on a Principal of ` 1000 over 1 year at compound interest of 10% per\nannum compounded 6 monthly, is :",
-  "options_en": {
+  "context": null,
+  "question": "The total interest accrued on a Principal of ` 1000 over 1 year at compound interest of 10% per\nannum compounded 6 monthly, is :",
+  "options": {
    "A": "` 105.20",
    "B": "` 102.20",
    "C": "` 102.50",
    "D": "` 105.50"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 22,
-  "page_as": 22,
+  "page": 22,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "√õ∂øÓ¬ 6 ˜±˝1 ˜”1Ó¬ ‰¬Sê¬ı‘øX√ ¸≈Ó¬ ø˝‰¬±¬ı ﬂ¬ø1À˘ ¬ıÂø1 10% ‰¬Sê¬ı‘øX√ ¸≈Ó¬1 ˝±1Ó¬ ` 1000 ˜”˘ÒÚ1 1 ¬ıÂ11 ˜”1Ó¬ Ê˜± Œ˝±ª± ˜≈Í¬\n¸≈Ó¬1 ¬Ûø1˜±Ì ∆˝ÀÂ –",
-   "options": {
-    "A": "` 105.20",
-    "B": "` 102.20",
-    "C": "` 102.50",
-    "D": "` 105.50"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 22
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q051",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 51,
-  "context_en": null,
-  "question_en": "If the Minute hand of a clock traverses an angle of 1808, the angle traversed by the Hour hand\nduring the time is :",
-  "options_en": {
+  "context": null,
+  "question": "If the Minute hand of a clock traverses an angle of 1808, the angle traversed by the Hour hand\nduring the time is :",
+  "options": {
    "A": "208",
    "B": "58",
    "C": "108",
    "D": "158"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 23,
-  "page_as": 23,
+  "page": 23,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "˚ø ‚Î¬ˇœ ¤È¬±1 ø˜øÚÈ¬1 ﬂ¬±“È¬± Î¬±À˘ 1808 Œﬂ¬±Ì ’øÓ¬Sê˜ ﬂ¬À1, ŒÓ¬ÀôL ¤Àﬂ¬ ¸˜˚˛Ó¬ ‚∞I◊±1 ﬂ¬±“È¬± Î¬±À˘ ’øÓ¬Sê˜ ﬂ¬1± Œﬂ¬±Ì\n∆˝ÀÂ –",
-   "options": {
-    "A": "208",
-    "B": "58",
-    "C": "108",
-    "D": "158"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 23
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q052",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 52,
-  "context_en": null,
-  "question_en": "The diagonal of a square is 10 cm. The area of the square is :",
-  "options_en": {
+  "context": null,
+  "question": "The diagonal of a square is 10 cm. The area of the square is :",
+  "options": {
    "A": "100 cm²",
    "B": "50 cm²",
    "C": "64 cm²",
    "D": "48 cm²"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 23,
-  "page_as": 23,
+  "page": 23,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¤È¬± ¬ı·«1 ﬂ¬Ì«1 ŒÊ±‡ 10 Œ‰¬.ø˜.º ¬ı·«ÀÈ¬±1 Œé¬SÙ¬˘ ∆˝ÀÂ –",
-   "options": {
-    "A": "100 Œ‰¬.ø˜. ²",
-    "B": "50 Œ‰¬.ø˜. ²",
-    "C": "64 Œ‰¬.ø˜. ²",
-    "D": "48 Œ‰¬.ø˜. ²"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 23
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q053",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 53,
-  "context_en": null,
-  "question_en": "The sum of any two integers is :",
-  "options_en": {
+  "context": null,
+  "question": "The sum of any two integers is :",
+  "options": {
    "A": "always a non-zero positive integer.",
    "B": "always a non-zero negative integer.",
    "C": "always either a non-zero positive or a non-zero negative integer.",
    "D": "always either a non-zero positive, a non-zero negative integer or 0."
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 24,
-  "page_as": 24,
+  "page": 24,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ø˚Àﬂ¬±ÀÚ± ≈È¬± ’‡G ¸—‡…±1 Œ˚±·Ù¬˘ –",
-   "options": {
-    "A": "¸±˚˛ ¤È¬± ’˙”Ú… ÒÚ±Rﬂ¬ ’‡G ¸—‡…± ˝í¬ıº",
-    "B": "¸±˚˛ ¤È¬± ’˙”Ú… Ÿ¡Ì±Rﬂ¬ ’‡G ¸—‡…± ˝í¬ıº",
-    "C": "¸±˚˛ ¤ﬂ¬ ’˙”Ú… ÒÚ±Rﬂ¬ ’Ô¬ı± ¤ﬂ¬ Ÿ¡Ì±Rﬂ¬ ’‡G ¸—‡…± ˝í¬ıº",
-    "D": "¸±˚˛ ¤ﬂ¬ ’˙”Ú… ÒÚ±Rﬂ¬, ¤ﬂ¬ ’˙”Ú… Ÿ¡Ì±Rﬂ¬ ’‡G ¸—‡…± ’Ô¬ı± 0 ˝í¬ıº"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 24
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q054",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 54,
-  "context_en": null,
-  "question_en": "The remainder when 2⁶ is divided by 5 is :",
-  "options_en": {
+  "context": null,
+  "question": "The remainder when 2⁶ is divided by 5 is :",
+  "options": {
    "A": "0",
    "B": "6",
    "C": "2",
    "D": "4"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 25,
-  "page_as": 25,
+  "page": 25,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "2⁶ ﬂ¬ 5 Œ1 ˝1Ì ﬂ¬ø1À˘ √õ∂±5 ˆ¬±·À˙¯∏ ˝í¬ı –",
-   "options": {
-    "A": "0",
-    "B": "6",
-    "C": "2",
-    "D": "4"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 25
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q055",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 55,
-  "context_en": null,
-  "question_en": "The square of a smaller number is subtracted from the square of a larger number and the result is\nequal to the difference of the larger and the smaller number. The sum of the two numbers is :",
-  "options_en": {
+  "context": null,
+  "question": "The square of a smaller number is subtracted from the square of a larger number and the result is\nequal to the difference of the larger and the smaller number. The sum of the two numbers is :",
+  "options": {
    "A": "0",
    "B": "2",
    "C": "1",
    "D": "2"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing",
    "math"
@@ -2489,2030 +1688,1292 @@
    "exams/ADRE/2024/figures/G4-P1-HSLC/q055.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 25,
-  "page_as": 25,
+  "page": 25,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Œﬂ¬±ÀÚ± ≈È¬± ¸—‡…±1 Î¬±„1ÀÈ¬±1 ¬ı·«1 ¬Û1± ¸1nÀÈ¬±1 ¬ı·«1 ˜±Ú ø¬ıÀ˚˛±· ﬂ¬ø1À˘ Ù¬˘±Ù¬˘ ¸—‡…± ≈È¬±1 ¬Û±Ô«ﬂ¬…1 ¸˜±Ú ˝˚˛º ¸—‡…±\n≈È¬±1 Œ˚±·Ù¬˘ ∆˝ÀÂ –",
-   "options": {
-    "A": "0",
-    "B": "2",
-    "C": "1",
-    "D": "2"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 25
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q056",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 56,
-  "context_en": null,
-  "question_en": "The sum of the odd numbers 1, 3, 5,..... upto 15 terms is :",
-  "options_en": {
+  "context": null,
+  "question": "The sum of the odd numbers 1, 3, 5,..... upto 15 terms is :",
+  "options": {
    "A": "225",
    "B": "125",
    "C": "169",
    "D": "196"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 26,
-  "page_as": 26,
+  "page": 26,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "’˚≈¢¨ ¸—‡…± 1, 3, 5,..... 1 15 È¬± ¬ÛÕ˘ ˜≈Í¬ Œ˚±·Ù¬˘ ∆˝ÀÂ –",
-   "options": {
-    "A": "225",
-    "B": "125",
-    "C": "169",
-    "D": "196"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 26
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q057",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 57,
-  "context_en": null,
-  "question_en": "The LCM and HCF of two numbers are 24 and 4 respectively. If one of the numbers is 12, then the\nother number is :",
-  "options_en": {
+  "context": null,
+  "question": "The LCM and HCF of two numbers are 24 and 4 respectively. If one of the numbers is 12, then the\nother number is :",
+  "options": {
    "A": "20",
    "B": "8",
    "C": "10",
    "D": "6"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 26,
-  "page_as": 26,
+  "page": 26,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "≈È¬± ¸—‡…±1 ˘¸±& ’±1n ·¸±& ˚Ô±SêÀ˜ 24 ’±1n 4. ¸—‡…± Z˚˛1 ¤È¬± ˚ø 12 ˝˚˛ ŒÓ¬ÀôL ’±ÚÀÈ¬± ¸—‡…± ˝í˘ –",
-   "options": {
-    "A": "20",
-    "B": "8",
-    "C": "10",
-    "D": "6"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 26
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q058",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 58,
-  "context_en": null,
-  "question_en": "Let all the months of a year is of 28 days. If January 1 falls on a Monday, then April 28 will fall\non a :",
-  "options_en": {
+  "context": null,
+  "question": "Let all the months of a year is of 28 days. If January 1 falls on a Monday, then April 28 will fall\non a :",
+  "options": {
    "A": "Friday",
    "B": "Sunday",
    "C": "Monday",
    "D": "Saturday"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 26,
-  "page_as": 26,
+  "page": 26,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Òø1 Œ˘±ª± ˝í˘ Œ˚ ¤È¬± ¬ıÂ11 ¸ﬂ¬À˘±øÈ¬ ˜±˝ 28 øÚ ˚≈Mê ˝˚˛º ˚ø 1 Ê±Ú≈ª±1œ1 øÚÀÈ¬± Œ¸±˜¬ı±1 ˝˚˛, ŒÓ¬ÀôL 28 ¤ø√õ∂˘1\nøÚÀÈ¬± ˝í¬ı –",
-   "options": {
-    "A": "qSê¬ı±1",
-    "B": "1ø¬ı¬ı±1",
-    "C": "Œ¸±˜¬ı±1",
-    "D": "˙øÚ¬ı±1"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 26
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q059",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 59,
-  "context_en": null,
-  "question_en": "If m is a digit and the number 46 m 23 is divisible by 9, then the digit m is equal to :",
-  "options_en": {
+  "context": null,
+  "question": "If m is a digit and the number 46 m 23 is divisible by 9, then the digit m is equal to :",
+  "options": {
    "A": "1",
    "B": "0",
    "C": "5",
    "D": "3"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 27,
-  "page_as": 27,
+  "page": 27,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "˚ø m ¬ÛX√øÓ¬1 ¤È¬± ’—ﬂ¬ ˝˚˛ ’±1n 46 m 23 ¸—‡…±ÀÈ¬± 9 Œ1 ø¬ıˆ¬±Ê… ˝˚˛, ŒÓ¬ÀôL m 1 ˜±Ú ¸˜±Ú ˝¬ı –",
-   "options": {
-    "A": "1",
-    "B": "0",
-    "C": "5",
-    "D": "3"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 27
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q060",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 60,
-  "context_en": null,
-  "question_en": "A garden has p numbers of trees. Every tree has q number of branches, every branch has r number\nof sub-branches and every sub-branch has s number of leaves. The total number of leaves in the\ngarden is :",
-  "options_en": {
+  "context": null,
+  "question": "A garden has p numbers of trees. Every tree has q number of branches, every branch has r number\nof sub-branches and every sub-branch has s number of leaves. The total number of leaves in the\ngarden is :",
+  "options": {
    "A": "p+q+r+s",
    "B": "pq+rs",
    "C": "pqr+s",
    "D": "pqrs"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 27,
-  "page_as": 27,
+  "page": 27,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Œﬂ¬±ÀÚ± ¤‡Ú ¬ı±ø·Â±Ó¬ p ŒÊ±¬Û± ·Â ’±ÀÂº √õ∂øÓ¬ÀÊ±¬Û± ·ÂÓ¬ q ¸—‡…ﬂ¬ ˙±‡±, √õ∂øÓ¬ÀÈ¬± ˙±‡±Ó¬ r ¸—‡…ﬂ¬ Î◊¬¬Û˙±‡± ’±1n\n√õ∂øÓ¬ÀÈ¬± Î◊¬¬Û˙±‡±Ó¬ s ¸—‡…ﬂ¬ ¬Û±Ó¬ ˘±ø· ’±ÀÂº ¬ı±ø·Â±‡ÚÓ¬ Ôﬂ¬± ¸¬ı«˜≈Í¬ ¬Û±Ó¬1 ¸—‡…± ∆˝ÀÂ –",
-   "options": {
-    "A": "p+q+r+s",
-    "B": "pq+rs",
-    "C": "pqr+s",
-    "D": "pqrs"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 27
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q061",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 61,
-  "context_en": null,
-  "question_en": "The first modern Olympic Games was held in :",
-  "options_en": {
+  "context": null,
+  "question": "The first modern Olympic Games was held in :",
+  "options": {
    "A": "Athens",
    "B": "Paris",
    "C": "London",
    "D": "Berlin"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 27,
-  "page_as": 27,
+  "page": 27,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "√õ∂Ô˜ ’±Ò≈øÚﬂ¬ ’ø˘ø•Ûﬂ¬ Œ‡˘ ﬂ¬íÓ¬ ’Ú≈øá¬Ó¬ ∆˝øÂ˘ ∑",
-   "options": {
-    "A": "¤ÀÔk",
-    "B": "Œ¬Ûø1Â",
-    "C": "˘GÚ",
-    "D": "¬ı±ø˘«Ú"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 27
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q062",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 62,
-  "context_en": null,
-  "question_en": "Which of the following statements is incorrect ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following statements is incorrect ?",
+  "options": {
    "A": "Thomas Alva Edison was deaf.",
    "B": "Apple is related to discovery of gravity.",
    "C": "The brightest planet as seen from earth is Venus.",
    "D": "The chemical symbol for sodium is Sd."
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 28,
-  "page_as": 28,
+  "page": 28,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ Œﬂ¬±ÚÀÈ¬± Î◊¬øMê ’qX√ ∑",
-   "options": {
-    "A": "Ô˜±Â ’±˘ˆ¬± ¤øÎ¬‰¬Ú ¬ıøÒ1 ’±øÂ˘º",
-    "B": "˜±Ò…±ﬂ¬¯∏«Ì ¬ı˘1 ’±øª©®±11 ∆¸ÀÓ¬ ’±À¬Û˘1 ¸•Ûﬂ«¬ ’±ÀÂº",
-    "C": "¬Û‘øÔªœ1 ¬Û1± Œ‡± ’±È¬±˝◊Ó¬Õﬂ¬ Î◊¬8˘ ·Ë˝ÀÈ¬± qSêº",
-    "D": "ÂøÎ¬˚˛±˜1 1±¸±˚˛øÚﬂ¬ ø‰¬˝êÀÈ¬± ∆˝ÀÂ Sd º"
-   },
-   "fonts": [
-    "Geetanjalibold",
-    "Geetanjalilight"
-   ],
-   "page": 28
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q063",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 63,
-  "context_en": null,
-  "question_en": "In a family, the sum of the present ages of the father, mother and the only son is x years. After y\nyears, the sum of their ages will be :",
-  "options_en": {
+  "context": null,
+  "question": "In a family, the sum of the present ages of the father, mother and the only son is x years. After y\nyears, the sum of their ages will be :",
+  "options": {
    "A": "3x+y years",
    "B": "3 (x+y) years",
    "C": "x+y years",
    "D": "x+3y years"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 29,
-  "page_as": 29,
+  "page": 29,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¤È¬± ¬Ûø1˚˛±˘Ó¬ ø¬ÛÓ‘¬, ˜±Ó‘¬ ’±1n∏ ¤ﬂ¡˜±S ¬Û≈S1 ¬ıÓ¬«˜±Ú ¬ı˚˛¸¸˜”˝√1 ˜≈Í¬ Œ˚±·Ù¬˘ x ¬ıÂ√1º y ¬ıÂ√11 ø¬ÛÂ√Ó¬ ŒÓ¬›“À˘±ﬂ¡1 ¬ı˚˛¸¸˜”˝√1\n˜≈Í¬ Œ˚±·Ù¬˘ ˝√í¬ı –",
-   "options": {
-    "A": "3x+y ¬ıÂ√1",
-    "B": "3 (x+y) ¬ıÂ√1",
-    "C": "x+y ¬ıÂ√1",
-    "D": "x+3y ¬ıÂ√1"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 29
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q064",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 64,
-  "context_en": null,
-  "question_en": "In which field did Bhogeshwar Baruah excel ?",
-  "options_en": {
+  "context": null,
+  "question": "In which field did Bhogeshwar Baruah excel ?",
+  "options": {
    "A": "Athletics",
    "B": "Swimming",
    "C": "Badminton",
    "D": "Football"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 29,
-  "page_as": 29,
+  "page": 29,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Œˆ¬±À·ù´1 ¬ı1nª±˝◊ Œﬂ¬±ÚÀÈ¬± Œé¬SÓ¬ ¬Û±1ø˙«Ó¬± ˘±ˆ¬ ﬂ¬ø1øÂ˘ ∑",
-   "options": {
-    "A": "¤ÔÀ˘øÈ¬'",
-    "B": "¸±“ÀÓ¬±1",
-    "C": "Œ¬ıÎ¬ø˜∞I◊Ú",
-    "D": "Ù≈¬È¬¬ı˘"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 29
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q065",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 65,
-  "context_en": null,
-  "question_en": "The Ramcharitmanas was written by :",
-  "options_en": {
+  "context": null,
+  "question": "The Ramcharitmanas was written by :",
+  "options": {
    "A": "Kabir",
    "B": "Veda Vyas",
    "C": "Adi Shankaracharya",
    "D": "Tulsidas"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 30,
-  "page_as": 30,
+  "page": 30,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "1±˜‰¬ø1Ó¬˜±Ú¸ 1‰¬Ú± ﬂ¬1± ¬ı…øMê·1±ﬂ¬œ ∆˝ÀÂ –",
-   "options": {
-    "A": "ﬂ¬¬ıœ1",
-    "B": "Œ¬ı ¬ı…±¸",
-    "C": "’±ø ˙—ﬂ¬1±‰¬±˚«",
-    "D": "Ó≈¬˘¸œ±¸"
-   },
-   "fonts": [
-    "Geetanjalilight",
-    "GeetanjalilightItalic"
-   ],
-   "page": 30
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q066",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 66,
-  "context_en": null,
-  "question_en": "In which Continent is the Amazonian Rain Forest found ?",
-  "options_en": {
+  "context": null,
+  "question": "In which Continent is the Amazonian Rain Forest found ?",
+  "options": {
    "A": "Europe",
    "B": "North America",
    "C": "Africa",
    "D": "South America"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 30,
-  "page_as": 30,
+  "page": 30,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "’±˜±ÊÚ1 ¬ı¯∏«±1Ì… Œﬂ¬±Ú‡Ú ˜˝±À˙Ó¬ ’ªø¶öÓ¬ ∑",
-   "options": {
-    "A": "˝◊Î◊¬À1±¬Û",
-    "B": "Î◊¬M1 ’±À˜ø1ﬂ¬±",
-    "C": "’±øÙË¬ﬂ¬±",
-    "D": "øé¬Ì ’±À˜ø1ﬂ¬±"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 30
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q067",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 67,
-  "context_en": null,
-  "question_en": "Which of the following is responsible for converting milk to curd ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is responsible for converting milk to curd ?",
+  "options": {
    "A": "Actinomyces",
    "B": "Lactobacillus",
    "C": "Fusobacteriota",
    "D": "Malassezia"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 31,
-  "page_as": 31,
+  "page": 31,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "·±‡œ1ﬂ¬ ∆ ∆˘ 1+¬Û±ôLø1Ó¬ ﬂ¬1±1 Œé¬SÓ¬ øÚ•ßø˘ø‡Ó¬ Œﬂ¬±Úø¬ıÀÒ ˆ”¬ø˜ﬂ¬± ·Ë˝Ì ﬂ¬À1 ∑",
-   "options": {
-    "A": "¤ø\"ÀÚ±˜±˝◊À‰¬Â",
-    "B": "Œ˘\"íÀ¬ıø‰¬˘±Â",
-    "C": "Ù≈¬ÂíÀ¬ıÀ\"ø1˚˛±È¬±",
-    "D": "˜±˘±À‰¬øÊ˚˛±"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 31
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q068",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 68,
-  "context_en": null,
-  "question_en": "Origami is the art of paper folding that originated in :",
-  "options_en": {
+  "context": null,
+  "question": "Origami is the art of paper folding that originated in :",
+  "options": {
    "A": "China",
    "B": "Korea",
    "C": "Japan",
    "D": "Cambodia"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 31,
-  "page_as": 31,
+  "page": 31,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ﬂ¬±·Ê ˆ¬±“Ê ﬂ¬1±1 ﬂ¬˘± ’ø1·±ø˜1 Î◊¬»¬ÛøM ø˚ÀÈ¬± Œ˙Ó¬ ∆˝øÂ˘ –",
-   "options": {
-    "A": "‰¬œÚ",
-    "B": "Œﬂ¬±ø1˚˛±",
-    "C": "Ê±¬Û±Ú",
-    "D": "ﬂ¬À•§±øÎ¬˚˛±"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 31
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q069",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 69,
-  "context_en": null,
-  "question_en": "Near which town is the Da Parbatia gate located ?",
-  "options_en": {
+  "context": null,
+  "question": "Near which town is the Da Parbatia gate located ?",
+  "options": {
    "A": "Tinsukia",
    "B": "Tezpur",
    "C": "Silchar",
    "D": "Barpeta"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 32,
-  "page_as": 32,
+  "page": 32,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Œﬂ¬±Ú‡Ú ‰¬˝11 ¸˜œ¬ÛÓ¬ í ¬Û¬ı«Ó¬œ˚˛± ŒÓ¬±1Ì ’ªø¶öÓ¬ ∑",
-   "options": {
-    "A": "øÓ¬øÚ‰≈¬ﬂ¬œ˚˛±",
-    "B": "ŒÓ¬Ê¬Û≈1",
-    "C": "ø˙˘‰¬1",
-    "D": "¬ı1À¬ÛÈ¬±"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 32
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q070",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 70,
-  "context_en": null,
-  "question_en": "What is the currency of Indonesia ?",
-  "options_en": {
+  "context": null,
+  "question": "What is the currency of Indonesia ?",
+  "options": {
    "A": "Ringgit",
    "B": "Dinar",
    "C": "Rupiah",
    "D": "Shilling"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 32,
-  "page_as": 32,
+  "page": 32,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "˝◊ÀG±ÀÚøÂ˚˛±1 ˜≈^±1 Ú±˜ øﬂ¬ ∑",
-   "options": {
-    "A": "ø1—ø·È¬",
-    "B": "øÚ±1",
-    "C": "1+ø¬Û˚˛±",
-    "D": "øù´ø˘—"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 32
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q071",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 71,
-  "context_en": null,
-  "question_en": "Which country is known as the “Land of Rising Sun” ?",
-  "options_en": {
+  "context": null,
+  "question": "Which country is known as the “Land of Rising Sun” ?",
+  "options": {
    "A": "China",
    "B": "Japan",
    "C": "New Zealand",
    "D": "Indonesia"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 33,
-  "page_as": 33,
+  "page": 33,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Œﬂ¬±Ú‡Ú Œ˙ ëëÎ◊¬œ˚˛˜±Ú ¸”˚«…1 Œ˙íí 1+À¬Û ÊÚ±Ê±Ó¬ ∑",
-   "options": {
-    "A": "‰¬œÚ",
-    "B": "Ê±¬Û±Ú",
-    "C": "øÚÎ◊¬øÊÀ˘G",
-    "D": "˝◊ÀG±ÀÚøÂ˚˛±"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 33
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q072",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 72,
-  "context_en": null,
-  "question_en": "Rabindranath Tagore was awarded Nobel Prize in Literature for :",
-  "options_en": {
+  "context": null,
+  "question": "Rabindranath Tagore was awarded Nobel Prize in Literature for :",
+  "options": {
    "A": "Ghare Baire",
    "B": "Gitimalya",
    "C": "Gitanjali",
    "D": "Gora"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 33,
-  "page_as": 33,
+  "page": 33,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Œﬂ¬±ÚÀÈ¬± ﬂ‘¬øÓ¬1 ¬ı±À¬ı 1¬ıœfÚ±Ô Í¬±ﬂ≈¬À1 ¸±ø˝Ó¬…1 ŒÚ±À¬ı˘ ¬ı“È¬± ˘±ˆ¬ ﬂ¬ø1øÂ˘ ∑",
-   "options": {
-    "A": "‚À1 ¬ı±˝◊À1",
-    "B": "·œøÓ¬˜±˘…",
-    "C": "·œÓ¬±?ø˘",
-    "D": "Œ·±1±"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 33
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q073",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 73,
-  "context_en": null,
-  "question_en": "The highest gallantry award of Indian military during war is :",
-  "options_en": {
+  "context": null,
+  "question": "The highest gallantry award of Indian military during war is :",
+  "options": {
    "A": "Maha Vir Chakra",
    "B": "Param Vir Chakra",
    "C": "Ati Vishisht Seva Medal",
    "D": "Ashoka Chakra"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 34,
-  "page_as": 34,
+  "page": 34,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "˚≈X√1 ¸˜˚˛Ó¬ ˆ¬±1Ó¬œ˚˛ ¸±˜ø1ﬂ¬ ¬ı±ø˝Úœ1 ¸À¬ı«±2‰¬ ¬ıœ1Q ¬ı“È¬± ∆˝ÀÂ –",
-   "options": {
-    "A": "˜˝± ¬ıœ1 ‰¬Sê",
-    "B": "¬Û1˜ ¬ıœ1 ‰¬Sê",
-    "C": "’øÓ¬ ø¬ıø˙©Ü Œ¸ª± ¬Ûﬂ¬",
-    "D": "’À˙±ﬂ¬ ‰¬Sê"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 34
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q074",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 74,
-  "context_en": null,
-  "question_en": "August Kranti with “Karenge Ya Marenge” slogan was related to which movement for India’s\nindependence ?",
-  "options_en": {
+  "context": null,
+  "question": "August Kranti with “Karenge Ya Marenge” slogan was related to which movement for India’s\nindependence ?",
+  "options": {
    "A": "Non Cooperation Movement",
    "B": "Quit India Movement",
    "C": "Khilafat Movement",
    "D": "The 1857 Sepoy Mutiney"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 34,
-  "page_as": 34,
+  "page": 34,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ëëﬂ¡À1—À· ˚˛± ˜À1—À·íí Œù≠±·±ÀÚÀ1 ’±·©Ü Sê±øôL ˆ¬±1Ó¬1 ¶§±ÒœÚÓ¬±1 ˝√Àﬂ¡ ﬂ¡1± Œﬂ¡±ÚÀÈ¬± ’±Àµ±˘Ú1 ∆¸ÀÓ¬ ¸•§øgÓ¬∑",
-   "options": {
-    "A": "’¸˝√À˚±· ’±Àµ±˘Ú",
-    "B": "ˆ¬±1Ó¬ Ó¬…±· ’±Àµ±˘Ú",
-    "C": "ø‡˘±Ù¬» ’±Àµ±˘Ú",
-    "D": "1857 ‰¬Ú1 ø‰¬¬Û±˝√œ ø¬ıÀ^±˝√"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 34
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q075",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 75,
-  "context_en": null,
-  "question_en": "The national flag of which country features a dragon ?",
-  "options_en": {
+  "context": null,
+  "question": "The national flag of which country features a dragon ?",
+  "options": {
    "A": "Bhutan",
    "B": "Singapore",
    "C": "Japan",
    "D": "Myanmar"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 35,
-  "page_as": 35,
+  "page": 35,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Œﬂ¬±Ú‡Ú Œ˙1 Ê±Ó¬œ˚˛ ¬ÛÓ¬±ﬂ¬±Ó¬ ŒE·Ú1 Âø¬ı ’±ÀÂ ∑",
-   "options": {
-    "A": "ˆ”¬È¬±Ú",
-    "B": "øÂ—·±¬Û≈1",
-    "C": "Ê±¬Û±Ú",
-    "D": "˜…±Ú˜±1"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 35
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q076",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 76,
-  "context_en": null,
-  "question_en": "Sharp pointed teeth inside human mouth are called :",
-  "options_en": {
+  "context": null,
+  "question": "Sharp pointed teeth inside human mouth are called :",
+  "options": {
    "A": "Molars",
    "B": "Canines",
    "C": "Incisors",
    "D": "Premolars"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 35,
-  "page_as": 35,
+  "page": 35,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "˜±Ú≈˝1 ˜≈‡1 øˆ¬Ó¬1Ó¬ Ôﬂ¬± Œ‰¬±ﬂ¬±, ŒÊ±„± ±“Ó¬À¬ı±1ﬂ¬ Œ¬ı±˘± ˝˚˛ –",
-   "options": {
-    "A": "Œ¬Û¯∏ﬂ¬ ±“Ó¬",
-    "B": "ŒÂﬂ¬ ±“Ó¬",
-    "C": "ﬂ‘¬ôLﬂ¬ ±“Ó¬",
-    "D": "¬Û≈1–À¬Û¯∏ﬂ¬ ±“Ó¬"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 35
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q077",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 77,
-  "context_en": null,
-  "question_en": "Who conferred the title of Kalaguru to Bishnu Prasad Rabha ?",
-  "options_en": {
+  "context": null,
+  "question": "Who conferred the title of Kalaguru to Bishnu Prasad Rabha ?",
+  "options": {
    "A": "Rabindranath Tagore",
    "B": "Bishnuram Medhi",
    "C": "Subhas Chandra Bose",
    "D": "Sarvapalli Radhakrishnan"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 35,
-  "page_as": 35,
+  "page": 35,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ø¬ı¯û≈√õ∂¸± 1±ˆ¬±ﬂ¬ ﬂ¬˘±&1n Î◊¬¬Û±øÒ Œﬂ¬±ÀÚ √õ∂±Ú ﬂ¬ø1øÂ˘ ∑",
-   "options": {
-    "A": "1¬ıœfÚ±Ô Í¬±ﬂ≈¬1",
-    "B": "ø¬ı¯û≈1±˜ Œ˜øÒ",
-    "C": "¸≈ˆ¬±¯∏ ‰¬f ¬ı¸≈",
-    "D": "¸¬ı«¬Û~œ 1±Ò±ﬂ‘¬¯ûÚ"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 35
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q078",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 78,
-  "context_en": null,
-  "question_en": "What is situated at the confluence of three streams Sandhya, Lalita and Kanta ?",
-  "options_en": {
+  "context": null,
+  "question": "What is situated at the confluence of three streams Sandhya, Lalita and Kanta ?",
+  "options": {
    "A": "Vasistha Ashram, near Guwahati",
    "B": "Ajan Pir Dargah, near Sibsagar",
    "C": "Malinithan temple, near Silapathar",
    "D": "Garampani hot water spring, near Golaghat"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 36,
-  "page_as": 36,
+  "page": 36,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¸g…±, ˘ø˘Ó¬± ’±1n∏ ﬂ¡±ôL± Ú±˜1 øÓ¬øÚÈ¬± Ê√˘Ò±1±1 ¸—·˜¶ö˘Ó¬ Œﬂ¡±ÚÀÈ¬± ’ªø¶öÓ¬∑",
-   "options": {
-    "A": "&ª±˝√±È¬œ1 ¸˜œ¬Û1 ¬ıø˙á¬ ’±|˜",
-    "B": "ø˙ª¸±·11 ¸˜œ¬Û1 ’±Ê√±Ú ¬Ûœ1 √1·±˝√",
-    "C": "ø‰¬˘±¬ÛÔ±11 ¸˜œ¬Û1 ˜±ø˘ÚœÔ±Ú ˜øµ1",
-    "D": "Œ·±˘±‚±È¬1 ¸˜œ¬Û1 ·1˜¬Û±Úœ Î◊¬¯∏û Ê√˘ Î◊¬“˝√"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 36
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q079",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 79,
-  "context_en": null,
-  "question_en": "As on 1st of January, 2022, which of the following is NOT a (administrative) Division of Assam ?",
-  "options_en": {
+  "context": null,
+  "question": "As on 1st of January, 2022, which of the following is NOT a (administrative) Division of Assam ?",
+  "options": {
    "A": "Lower Assam",
    "B": "Barak Valley",
    "C": "Hills and Central Assam",
    "D": "West Assam"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 37,
-  "page_as": 37,
+  "page": 37,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "2022 ¬ı¯∏«1 1 ˘± Ê±Ú≈ª±1œ ¸±À¬ÛÀé¬ øÚ•ßø˘ø‡Ó¬ Œﬂ¬±ÚÀÈ¬± ’¸˜1 [√õ∂˙±¸øÚﬂ¬] ¸—˜G˘ Ú˝˚˛ ∑",
-   "options": {
-    "A": "Ú±˜øÚ ’¸˜",
-    "B": "¬ı1±ﬂ¬ Î◊¬¬ÛÓ¬…ﬂ¬±",
-    "C": "¬Û±¬ı«Ó¬… › ˜Ò… ’¸˜",
-    "D": "¬Ûø(˜ ’¸˜"
-   },
-   "fonts": [
-    "Geetanjalibold",
-    "Geetanjalilight"
-   ],
-   "page": 37
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q080",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 80,
-  "context_en": null,
-  "question_en": "What is the name of the statue placed near Sardar Sarovar Dam in Gujarat ?",
-  "options_en": {
+  "context": null,
+  "question": "What is the name of the statue placed near Sardar Sarovar Dam in Gujarat ?",
+  "options": {
    "A": "Statue of Liberty",
    "B": "Shakti Vajra",
    "C": "Statue of Unity",
    "D": "Shanti Stambh"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 37,
-  "page_as": 37,
+  "page": 37,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "&Ê1±È¬1 ‰¬«±1 ¸À1±¬ı1 ¬ı±g1 ¸˜œ¬ÛÓ¬ ¶ö±¬ÛÚ ﬂ¬1± √õ∂øÓ¬˜”øÓ«¬ÀÈ¬±1 Ú±˜ øﬂ¬ ∑",
-   "options": {
-    "A": "Œ©Ü‰≈¬… ’¬ı ø˘¬ı±øÈ«¬",
-    "B": "˙øMê ¬ı<",
-    "C": "Œ©Ü‰≈¬… ’¬ı ˝◊Î◊¬øÚøÈ¬",
-    "D": "˙±øôL ô¶y¬"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 37
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q081",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 81,
-  "context_en": null,
-  "question_en": "Which country was involved with India in the Doklam incident of 2017 ?",
-  "options_en": {
+  "context": null,
+  "question": "Which country was involved with India in the Doklam incident of 2017 ?",
+  "options": {
    "A": "China",
    "B": "Afghanistan",
    "C": "Bangladesh",
    "D": "Myanmar"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 38,
-  "page_as": 38,
+  "page": 38,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "2017 ‰¬Ú1 Î¬íﬂ¬˘±˜ ﬂ¬±GÓ¬ ˆ¬±1Ó¬1 ∆¸ÀÓ¬ Œﬂ¬±Ú‡Ú Œ˙ ÊøÎ¬ˇÓ¬ ’±øÂ˘ ∑",
-   "options": {
-    "A": "‰¬œÚ",
-    "B": "’±Ù¬·±øÚô¶±Ú",
-    "C": "¬ı±—˘±À˙",
-    "D": "˜…±Ú˜±1"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 38
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q082",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 82,
-  "context_en": null,
-  "question_en": "Which of the following Novels was written by Kanchan Borooah ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following Novels was written by Kanchan Borooah ?",
+  "options": {
    "A": "Mrityunjoy",
    "B": "Oximot Jaar Heral Xima",
    "C": "Ontorip",
    "D": "Asol Manuh"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 38,
-  "page_as": 38,
+  "page": 38,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ Œﬂ¬±Ú‡Ú Î◊¬¬ÛÚ…±¸ ﬂ¬±=Ú ¬ı1nª±˝◊ 1‰¬Ú± ﬂ¬ø1øÂ˘ ∑",
-   "options": {
-    "A": "˜‘Ó≈¬…?˚˛",
-    "B": "’¸œ˜Ó¬ ˚±1 Œ˝1±˘ ¸œ˜±",
-    "C": "’ôL1œ¬Û",
-    "D": "’±‰¬˘ ˜±Ú≈˝"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 38
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q083",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 83,
-  "context_en": null,
-  "question_en": "Which of the following places of interest has been recently included in UNESCO World Heritage\nSite List ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following places of interest has been recently included in UNESCO World Heritage\nSite List ?",
+  "options": {
    "A": "Charaideo Moidams",
    "B": "Batadrava Than",
    "C": "Poa Mecca",
    "D": "Sonai Rupai Wildlife Sanctuary"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 39,
-  "page_as": 39,
+  "page": 39,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ Œﬂ¡±ÚÀÈ¬± ’±ﬂ¡¯∏«Ìœ˚˛ ¶ö±Úﬂ¡ Œ˙˝√Ó¬œ˚˛±Õﬂ¡ ˝◊Î◊¬ÀÚÀ¶®±1 ø¬ıù´ ‹øÓ¬˝√… Œé¬S1 Ó¬±ø˘ﬂ¡±Ó¬ ’ôLˆ≈¬«Mê ﬂ¡1± ∆˝√ÀÂ√∑",
-   "options": {
-    "A": "‰¬1±˝◊À√› ∆˜√±˜",
-    "B": "¬ıÈ¬^ª± Ô±Ú",
-    "C": "Œ¬Û±ª± ˜!¡±",
-    "D": "Œ¸±Ì±˝◊ 1+¬Û±˝◊ ¬ıÚ…õ∂±Ìœ ’ˆ¬˚˛±1Ì…"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 39
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q084",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 84,
-  "context_en": null,
-  "question_en": "In Assamese literature, who is known as “Ekhud Kokaideu” ?",
-  "options_en": {
+  "context": null,
+  "question": "In Assamese literature, who is known as “Ekhud Kokaideu” ?",
+  "options": {
    "A": "Nabakanta Baruah",
    "B": "Medini Mohan Choudhury",
    "C": "Kumud Chandra Hazarika",
    "D": "Kamalakanta Bhattacharyya"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 39,
-  "page_as": 39,
+  "page": 39,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "’¸˜œ˚˛± ¸±ø˝Ó¬…Ó¬ ëë¤‡≈ ﬂ¬ﬂ¬±˝◊À›íí Ú±À˜À1 ﬂ¬±ﬂ¬ ÊÚ± ˚±˚˛ ∑",
-   "options": {
-    "A": "Ú¬ıﬂ¬±ôL ¬ı1nª±",
-    "B": "Œ˜øÚœ Œ˜±˝Ú Œ‰¬ÃÒ≈1œ",
-    "C": "ﬂ≈¬˜≈ ‰¬f ˝±Êø1ﬂ¬±",
-    "D": "ﬂ¬˜˘±ﬂ¬±ôL ˆ¬A±‰¬±˚«"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 39
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q085",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 85,
-  "context_en": null,
-  "question_en": "Which of the following airlines does not exist anymore ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following airlines does not exist anymore ?",
+  "options": {
    "A": "Spicejet",
    "B": "Indigo",
    "C": "East West",
    "D": "Vistara"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 40,
-  "page_as": 40,
+  "page": 40,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ Œﬂ¬±ÚÀÈ¬± ø¬ı˜±Ú ¸—¶ö±1 ’øô¶Q ¬ıÓ«¬˜±Ú ¸˜˚˛Ó¬ Ú±˝◊ ∑",
-   "options": {
-    "A": "¶Û±˝◊‰¬ÀÊÈ¬",
-    "B": "˝◊øG·í",
-    "C": "˝◊©Ü Œª©Ü",
-    "D": "øˆ¬ô¶±1±"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 40
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q086",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 86,
-  "context_en": null,
-  "question_en": "Which sport is the Davis Cup played for ?",
-  "options_en": {
+  "context": null,
+  "question": "Which sport is the Davis Cup played for ?",
+  "options": {
    "A": "Badminton",
    "B": "Table Tennis",
    "C": "Lawn Tennis",
    "D": "Cricket"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 40,
-  "page_as": 40,
+  "page": 40,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ŒÎ¬øˆ¬Â ﬂ¬±¬Û Œﬂ¬±Úø¬ıÒ Œ‡˘1 ¬ı±À¬ı Œ‡˘± ˝˚˛ ∑",
-   "options": {
-    "A": "Œ¬ıÎ¬ø˜∞I◊Ú",
-    "B": "ŒÈ¬¬ı≈˘ ŒÈ¬øÚÂ",
-    "C": "˘Ú ŒÈ¬øÚÂ",
-    "D": "øSêÀﬂ¬È¬"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 40
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q087",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 87,
-  "context_en": null,
-  "question_en": "Sunlight helps in producing which Vitamin in a human body ?",
-  "options_en": {
+  "context": null,
+  "question": "Sunlight helps in producing which Vitamin in a human body ?",
+  "options": {
    "A": "Vitamin C",
    "B": "Vitamin B",
    "C": "Vitamin D",
    "D": "Vitamin A"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 41,
-  "page_as": 41,
+  "page": 41,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¸”˚«1 Œ¬Û±˝À1 ˜±Ú≈˝1 ˙1œ1Ó¬ Œﬂ¬±Úø¬ıÒ øˆ¬È¬±ø˜Ú Î◊¬»¬Û±ÚÓ¬ ¸˝±˚˛ ﬂ¬À1 ∑",
-   "options": {
-    "A": "øˆ¬È¬±ø˜Ú C",
-    "B": "øˆ¬È¬±ø˜Ú B",
-    "C": "øˆ¬È¬±ø˜Ú D",
-    "D": "øˆ¬È¬±ø˜Ú A"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 41
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q088",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 88,
-  "context_en": null,
-  "question_en": "Harihara also known as Hakka, and his brother Bukka Raya, founded which kingdom ?",
-  "options_en": {
+  "context": null,
+  "question": "Harihara also known as Hakka, and his brother Bukka Raya, founded which kingdom ?",
+  "options": {
    "A": "Chalukya Empire",
    "B": "Vijayanagara Empire",
    "C": "Chola Empire",
    "D": "Hoysale Empire"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 41,
-  "page_as": 41,
+  "page": 41,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "˝√±!¡± Ú±À˜À1› ¬Ûø1ø‰¬Ó¬ ˝√ø1˝√1 ’±1n∏ ŒÓ¬›“1 ˆ¬±Ó‘¬ ¬ı≈!¡ 1±˚˛±˝◊ Œﬂ¡±Ú‡Ú ¸±•⁄±Ê√… õ∂øÓ¬á¬± ﬂ¡ø1øÂ√˘∑",
-   "options": {
-    "A": "‰¬±˘≈ﬂ¡… ¸±•⁄±Ê√…",
-    "B": "ø¬ıÊ√˚˛Ú·1 ¸±•⁄±Ê√…",
-    "C": "Œ‰¬±˘ ¸±•⁄±Ê√…",
-    "D": "∆˝√˙±˘± ¸±•⁄±Ê√…"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 41
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q089",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 89,
-  "context_en": null,
-  "question_en": "Which of the following is a non-renewable source of energy ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is a non-renewable source of energy ?",
+  "options": {
    "A": "Wind power",
    "B": "Hydropower",
    "C": "Solar energy",
    "D": "Fossil fuel"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 42,
-  "page_as": 42,
+  "page": 42,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ ¸˜”˝1 Œﬂ¬±ÚÀÈ¬± ˙øMê1 ’Ú¬ıœﬂ¬1ÌÀ˚±·… Î◊¬»¸ ∑",
-   "options": {
-    "A": "¬ı±˚˛≈ ˙øMê",
-    "B": "Ê˘˙øMê",
-    "C": "À¸Ã1˙øMê",
-    "D": "Êœª±ù¨ ˝◊gÚ"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 42
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q090",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 90,
-  "context_en": null,
-  "question_en": "Saptakanda Ramayan was written by :",
-  "options_en": {
+  "context": null,
+  "question": "Saptakanda Ramayan was written by :",
+  "options": {
    "A": "Horibor Bipro",
    "B": "Madhava Kandali",
    "C": "Ananta Kandali",
    "D": "Hemo Saraswati"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 42,
-  "page_as": 42,
+  "page": 42,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¸5ﬂ¬±G 1±˜±˚˛Ì Œﬂ¬±ÀÚ ø˘ø‡øÂ˘ ∑",
-   "options": {
-    "A": "˝ø1¬ı1 ø¬ı√õ∂",
-    "B": "˜±Òª ﬂ¬µø˘",
-    "C": "’ÚôL ﬂ¬µø˘",
-    "D": "Œ˝˜ ¸1¶§Ó¬œ"
-   },
-   "fonts": [
-    "Geetanjalilight",
-    "GeetanjalilightItalic"
-   ],
-   "page": 42
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q091",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 91,
-  "context_en": null,
-  "question_en": "Which of the following countries is NOT a permanent member of the United Nations Security\nCouncil ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following countries is NOT a permanent member of the United Nations Security\nCouncil ?",
+  "options": {
    "A": "France",
    "B": "China",
    "C": "India",
    "D": "United States of America"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 43,
-  "page_as": 43,
+  "page": 43,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ Œﬂ¬±Ú‡Ú Œ˙ 1±©Üò¸—‚1 øÚ1±¬ÛM± ¬Ûø1¯∏1 ¶ö±˚˛œ ¸¸… Ú˝˚˛ ∑",
-   "options": {
-    "A": "ÙË¬±k",
-    "B": "‰¬œÚ",
-    "C": "ˆ¬±1Ó¬",
-    "D": "’±À˜ø1ﬂ¬± ˚≈Mê1±©Üò"
-   },
-   "fonts": [
-    "Geetanjalibold",
-    "Geetanjalilight"
-   ],
-   "page": 43
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q092",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 92,
-  "context_en": null,
-  "question_en": "Which of the following movies was not released in 2023 ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following movies was not released in 2023 ?",
+  "options": {
    "A": "Jawan",
    "B": "Animal",
    "C": "Pathaan",
    "D": "The Kashmir Files"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 43,
-  "page_as": 43,
+  "page": 43,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ Œﬂ¬±Ú‡Ú ‰¬˘ø2‰¬S 2023 ‰¬ÚÓ¬ ˜≈øMê Œ¬Û±ª± Ú±øÂ˘ ∑",
-   "options": {
-    "A": "Êª±Ú",
-    "B": "¤øÚÀ˜˘",
-    "C": "¬Û±Í¬±Ú",
-    "D": "… ﬂ¬±ù¨œ1 Ù¬±˝◊˘Â"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 43
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q093",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 93,
-  "context_en": null,
-  "question_en": "As on 1st of January, 2024, who holds the portfolio for External Affairs in Narendra Modi’s Council\nof Ministers ?",
-  "options_en": {
+  "context": null,
+  "question": "As on 1st of January, 2024, who holds the portfolio for External Affairs in Narendra Modi’s Council\nof Ministers ?",
+  "options": {
    "A": "Dr. Subrahmanyam Jaishankar",
    "B": "Smt. Nirmala Sitharaman",
    "C": "Smt. Smriti Zubin Irani",
    "D": "Shri Kiren Rijiju"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 44,
-  "page_as": 44,
+  "page": 44,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "2024 ‰¬Ú1 1 ˘± Ê±Ú≈ª±1œ ¸±À¬ÛÀé¬ ÚÀ1f Œ˜±Î¬œ1 ˜Laœ ¬Ûø1¯∏Ó¬ ∆¬ıÀø˙ﬂ¬ ¬Ûø1Sê˜±1 51 ﬂ¬±1 ›¬Û1Ó¬ Ú…ô¶ ’±ÀÂ ∑",
-   "options": {
-    "A": "Î¬0 ¸≈¬ıËpÌ…˜ Ê˚˛˙Ç1",
-    "B": "¿˜Ó¬œ øÚ˜«˘± ¸œÓ¬±1˜Ì",
-    "C": "¿˜Ó¬œ ¶ú‘øÓ¬ Ê≈ø¬ıÚ ˝◊1±Ìœ",
-    "D": "¿ øﬂ¬À1Ú ø1øÊÊ≈"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 44
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q094",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 94,
-  "context_en": null,
-  "question_en": "Which of the following is NOT an IPL team ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is NOT an IPL team ?",
+  "options": {
    "A": "Delhi Capitals",
    "B": "Gujarat Giants",
    "C": "Sunrisers Hyderabad",
    "D": "Lucknow Super Giants"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 45,
-  "page_as": 45,
+  "page": 45,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ ¸˜”˝1 Œﬂ¬±ÚÀÈ¬± ’±˝◊ø¬Û¤˘ ˘ Ú˝˚˛ ∑",
-   "options": {
-    "A": "ø~œ Œﬂ¬ø¬ÛÀÈ¬˘Â",
-    "B": "&Ê1±È¬ Ê±À˚˛KÈ¬Â",
-    "C": "Â±Ú1±˝◊Ê±Â« ˝±˚˛1±¬ı±",
-    "D": "˘ÀéÆ¬Ã Â≈¬Û±1 Ê±À˚˛∞I◊Â"
-   },
-   "fonts": [
-    "Geetanjalibold",
-    "Geetanjalilight"
-   ],
-   "page": 45
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q095",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 95,
-  "context_en": null,
-  "question_en": "Which of the following is highest, among ranks of the Indian Army ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is highest, among ranks of the Indian Army ?",
+  "options": {
    "A": "Brigadier",
    "B": "Lieutenant General",
    "C": "Major General",
    "D": "Lieutenant Colonel"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 45,
-  "page_as": 45,
+  "page": 45,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ˆ¬±1Ó¬œ˚˛ Œ¸Ú±1 ¬Û√¬ıœ¸˜”˝√1 øˆ¬Ó¬1Ó¬ øÚ•ßø˘ø‡Ó¬ Œﬂ¡±ÚÀÈ¬± ¸À¬ı«±2‰¬ ¬Û√∑",
-   "options": {
-    "A": "ø¬ıËÀ·øÎ¬˚˛±1",
-    "B": "Œ˘Ù¬ÀÈ¬ÀÚ∞È¬ ŒÊ√ÀÚÀ1˘",
-    "C": "Œ˜Ê√1 ŒÊ√ÀÚÀ1˘",
-    "D": "Œ˘Ù¬ÀÈ¬ÀÚ∞È¬ ﬂ¡ÀÌ«˘"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 45
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q096",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 96,
-  "context_en": null,
-  "question_en": "What letters would fill the blanks in\nAO__BPP__ __QDR__ __SSFTT",
-  "options_en": {
+  "context": null,
+  "question": "What letters would fill the blanks in\nAO__BPP__ __QDR__ __SSFTT",
+  "options": {
    "A": "OCREQ",
    "B": "OCQER",
    "C": "OCQRE",
    "D": "ORQCE"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 46,
-  "page_as": 46,
+  "page": 46,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Œﬂ¬±ÚÀÈ¬± ¬ıÌ« ¸˜±˝±À1 AO__BPP__ __QDR__ __SSFTT 1 ø1Mê ¶ö±Ú¸˜”˝ ¬Û”1 ﬂ¬ø1¬ı ∑",
-   "options": {
-    "A": "OCREQ",
-    "B": "OCQER",
-    "C": "OCQRE",
-    "D": "ORQCE"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 46
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q097",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 97,
-  "context_en": null,
-  "question_en": "Statements : I. Non-metro cities in the country have been suffering due to load shedding\nfor quite some time.\nII. If the Government is not able to overcome the power crisis, load shedding\nwill be extended even to the metro cities.\nWhich of the following conclusions can be drawn ?",
-  "options_en": {
+  "context": null,
+  "question": "Statements : I. Non-metro cities in the country have been suffering due to load shedding\nfor quite some time.\nII. If the Government is not able to overcome the power crisis, load shedding\nwill be extended even to the metro cities.\nWhich of the following conclusions can be drawn ?",
+  "options": {
    "A": "Both Statement I and Statement II are effects of independent causes.",
    "B": "Both Statement I and Statement II are effects of some common cause.",
    "C": "Statement I is the cause and Statement II is its effect.",
    "D": "Statement II is the cause and Statement I is its effect."
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 46,
-  "page_as": 46,
+  "page": 46,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Î◊¬øMê – I. Œ˙1 Œ˜ÀÈ¬™± ø¬ı˝œÚ ‰¬˝1 ¸˜”À˝ Œ˘±Î¬ Œù´øÎ¬„1 ¬ı±À¬ı ˚ÀÔ©Ü øÚ1 ¬Û1± ﬂ¬©Ü ˆ≈¬ø· ’±ø˝ÀÂº\nII. ˚ø ‰¬1ﬂ¬±À1 ø¬ı≈…Ó¬1 ¸—ﬂ¬È¬ ”1 ﬂ¬ø1¬ı ŒÚ±ª±À1, ŒÓ¬ÀôL Œ˜ÀÈ¬™± ‰¬˝1 ¸˜”˝Õ˘› Œ˘±Î¬ Œù´øÎ¬— ¸•x¸±ø1Ó¬\n˝í¬ıº\nøÚ•ßø˘ø‡Ó¬ Œﬂ¬±ÚÀÈ¬± ø¸X√±ôLÓ¬ Î◊¬¬ÛÚœÓ¬ ˝í¬ı ¬Û±ø1 ∑",
-   "options": {
-    "A": "Î◊¬øMê I ’±1n Î◊¬øMê II ≈À˚˛±È¬± ¶§Ó¬La ﬂ¬±1Ì1 ¬ı±À¬ı Œ˝±ª± √õ∂ˆ¬±ªº",
-    "B": "Î◊¬øMê I ’±1n Î◊¬øMê II ≈À˚˛±È¬± Œﬂ¬±ÀÚ± Î◊¬Õ˜˝Ó¬œ˚˛± ﬂ¬±1Ì1 ¬ı±À¬ı Œ˝±ª± √õ∂ˆ¬±ªº",
-    "C": "Î◊¬øMê I ∆˝ÀÂ ﬂ¬±1Ì ’±1n Î◊¬øMê II ∆˝ÀÂ ˝◊˚˛±1 √õ∂ˆ¬±ªº",
-    "D": "Î◊¬øMê II ∆˝ÀÂ ﬂ¬±1Ì ’±1n Î◊¬øMê I ∆˝ÀÂ ˝◊˚˛±1 √õ∂ˆ¬±ªº"
-   },
-   "fonts": [
-    "Geetanjalibold",
-    "Geetanjalilight"
-   ],
-   "page": 46
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q098",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 98,
-  "context_en": null,
-  "question_en": "Five cadets Charles, Harmit, Om, Piyush and Tapan were asked to pick up one each of the geometric\nfigures : a circle, a pentagon, a trapezoid, a hexagon and an octagon. They had a condition that\none cannot draw a figure which has a name with same first letter as that person’s name. Om’s\nitem has exactly one pair of parallel lines. Charles, Piyush and Tapan picked figures with more\nsides than a quadrilateral. Piyush as well as Tapan’s figures had lesser sides than Charles’figure.\nWho picked up the circle ?",
-  "options_en": {
+  "context": null,
+  "question": "Five cadets Charles, Harmit, Om, Piyush and Tapan were asked to pick up one each of the geometric\nfigures : a circle, a pentagon, a trapezoid, a hexagon and an octagon. They had a condition that\none cannot draw a figure which has a name with same first letter as that person’s name. Om’s\nitem has exactly one pair of parallel lines. Charles, Piyush and Tapan picked figures with more\nsides than a quadrilateral. Piyush as well as Tapan’s figures had lesser sides than Charles’figure.\nWho picked up the circle ?",
+  "options": {
    "A": "Harmit",
    "B": "Charles",
    "C": "Piyush",
    "D": "Om"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [
    "text_mentions_visual"
   ],
@@ -4521,238 +2982,152 @@
   ],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 47,
-  "page_as": 48,
+  "page": 47,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¬Û±“‰¬ ·1±ﬂ¬œ Œﬂ¬ÀÎ¬È¬ Charles, Harmit, Om, Piyush ’±1n Tapan ﬂ¬ Circle [¬ı‘M], Pentagon [¬Û=ˆ”¬Ê], Trapezoid\n[ŒÈ¬™ø¬ÛøÊ˚˛±˜], Hexagon [¯∏Î¬ˇˆ”¬Ê] ’±1n Octagon [’©Üˆ”¬Ê] ’±ø Ê…±ø˜øÓ¬ﬂ¬ ø‰¬S¸˜”˝1 ¤Àﬂ¬±È¬±Õﬂ¬ ¬ı±ø‰¬ ˘í¬ıÕ˘ Œﬂ¬±ª±\n˝í˘º ‰¬Ó«¬ ˝í˘ Œ˚ ŒÓ¬›“À˘±ﬂ¬1 ˝◊—1±Êœ Ú±˜1 ’±…¬ıÌ«1 ∆¸ÀÓ¬ ŒÓ¬›“À˘±Àﬂ¬ ¬ı±ø‰¬ Œ˘±ª± ø‰¬S1 ˝◊—1±Êœ Ú±˜1 ’±…¬ıÌ« ø˜ø˘¬ı\nŒÚ±ª±ø1¬ıº Œ‡± ·í˘ Œ˚ Om 1 ø‰¬SÓ¬ øÍ¬ﬂ¬ ¤À˚±1 ¸˜±ôL1±˘ Œ1‡± Ô±Àﬂ¬º Charles, Piyush ’±1n Tapan 1 ø‰¬SÓ¬ Ôﬂ¬±\n¬ı±U¸—‡…± ‰¬Ó≈¬ˆ«≈¬Ê1 ¬ı±U¸—‡…±Ó¬Õﬂ¬ ’øÒﬂ¬º Piyush ’±1n Tapan 1 ø‰¬SÓ¬ Charles 1 ø‰¬SÓ¬Õﬂ¬ ﬂ¬˜ ¸—‡…ﬂ¬ ¬ı±U Ô±Àﬂ¬º\nCircle [¬ı‘M] ÀÈ¬± Œﬂ¬±ÀÚ ¬ı±ø‰¬ ∆˘øÂ˘ ∑",
-   "options": {
-    "A": "Harmit",
-    "B": "Charles",
-    "C": "Piyush",
-    "D": "Om"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 48
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q099",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 99,
-  "context_en": null,
-  "question_en": "Soniya drives four km towards the west from her home, where she crosses a bridge. She takes a\nleft turn and the drives for six kms, till she arrives at the town center. Here she takes left again to\ndrive for another twelve kms to reach her office. If she decides to take a shortcut on bicycle, what\nwould be the shortest possible distance between her home and office ?",
-  "options_en": {
+  "context": null,
+  "question": "Soniya drives four km towards the west from her home, where she crosses a bridge. She takes a\nleft turn and the drives for six kms, till she arrives at the town center. Here she takes left again to\ndrive for another twelve kms to reach her office. If she decides to take a shortcut on bicycle, what\nwould be the shortest possible distance between her home and office ?",
+  "options": {
    "A": "18 km",
    "B": "12 km",
    "C": "9 km",
    "D": "10 km"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 48,
-  "page_as": 48,
+  "page": 48,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ŒÂ√±øÚ˚˛±˝◊ ‚11 ¬Û1± ¬Ûø(˜ ø√˙Õ˘ ‰¬±ø1 øﬂ¡.ø˜ ·±Î¬ˇœ ‰¬˘±˝◊ ¤‡Ú √˘— ¬Û±1 ˝√˚˛º Ó¬±˝◊ ¬ı±›“Ù¬±À˘ ‚”ø1 Â√˚˛ øﬂ¡.ø˜. ’±·¬ı±øÏ¬ˇ È¬±Î◊¬Ú\nŒ‰¬∞È¬±1Ó¬ Î◊¬¬Ûø¶öÓ¬ ˝√˚˛º ˝◊˚˛±Ó¬ Ó¬±˝◊ ¬Û≈Ú1 ¬ı±›“ ø√À˙ ‚”ø1 ’±1n∏ ¬ı±1 øﬂ¡.ø˜. ·±Î¬ˇœ ‰¬˘±˝◊ Ó¬±˝◊1 ’øÙ¬‰¬ ¬Û±˚˛Õ·º ˚ø√ Ó¬±˝◊ ‰¬˜≈ ¬ı±ÀÈ¬À1\n‰¬±˝◊Àﬂ¡˘Ó¬ Œ˚±ª±1 ø¸X±ôL ˘˚˛, ŒÓ¬ÀôL Ó¬±˝◊1 ‚1 ’±1n∏ ’øÙ¬‰¬1 ˜±Ê√1 Ú≈…ÚÓ¬˜ ¸yª¬Û1 ”√1Q øﬂ¡˜±Ú ˝√í¬ı∑",
-   "options": {
-    "A": "18 øﬂ¡.ø˜.",
-    "B": "12 øﬂ¡.ø˜.",
-    "C": "9 øﬂ¡.ø˜.",
-    "D": "10 øﬂ¡.ø˜."
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 48
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q100",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 100,
-  "context_en": null,
-  "question_en": "Of the following words, which would be the last to appear in a standard English dictionary ?",
-  "options_en": {
+  "context": null,
+  "question": "Of the following words, which would be the last to appear in a standard English dictionary ?",
+  "options": {
    "A": "CONTINENT",
    "B": "CONSTANT",
    "C": "CONSIDER",
    "D": "CONTINUE"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 49,
-  "page_as": 49,
+  "page": 49,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¤ﬂ¬ ˜±Úﬂ¬ ˝◊—1±Êœ ’øˆ¬Ò±ÚÓ¬ øÚ•ßø˘ø‡Ó¬ ˙s¸˜”˝1 Œﬂ¬±ÚÀÈ¬± ˙s ¸¬ı«À˙¯∏Ó¬ Ô±øﬂ¬¬ı ∑",
-   "options": {
-    "A": "CONTINENT",
-    "B": "CONSTANT",
-    "C": "CONSIDER",
-    "D": "CONTINUE"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 49
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q101",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 101,
-  "context_en": null,
-  "question_en": "Identify the set that does NOT follow the common rule as others.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the set that does NOT follow the common rule as others.",
+  "options": {
    "A": "2 : 8 : 64",
    "B": "4 : 64 : 216",
    "C": "6 : 216 : 512",
    "D": "5 : 125 : 345"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 49,
-  "page_as": 49,
+  "page": 49,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "’±Ú¸˜”˝1 Î◊¬Õ˜˝Ó¬œ˚˛± øÚ˚˛˜ ’Ú≈¸1Ì Úﬂ¬1± ø¬ıﬂ¬äÀÈ¬± ø‰¬Ú±Mê ﬂ¬1ﬂ¬º",
-   "options": {
-    "A": "2 : 8 : 64",
-    "B": "4 : 64 : 216",
-    "C": "6 : 216 : 512",
-    "D": "5 : 125 : 345"
-   },
-   "fonts": [
-    "Geetanjalibold",
-    "Geetanjalilight"
-   ],
-   "page": 49
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q102",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 102,
-  "context_en": null,
-  "question_en": "A six-faced regular die always has the total of dots in opposite faces as 7. Four such dice are\nthrown, and the top of them shows 3, 3, 2, 6. What would be the total of the dots in the faces\ntouching ground ?",
-  "options_en": {
+  "context": null,
+  "question": "A six-faced regular die always has the total of dots in opposite faces as 7. Four such dice are\nthrown, and the top of them shows 3, 3, 2, 6. What would be the total of the dots in the faces\ntouching ground ?",
+  "options": {
    "A": "15",
    "B": "14",
    "C": "21",
    "D": "17"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 50,
-  "page_as": 50,
+  "page": 50,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¤ﬂ¬ Â˚˛-ø¬ÛøÍ¬ ˚≈Mê ¸≈¯∏˜ ¬Û±˙±&øÈ¬1 ø¬ÛøÍ¬¸˜”˝Ó¬ Ôﬂ¬± ø¬ıµ≈1 ¸—‡…± ¤ÀÚÀ1 ’±ÀÂ ˚±ÀÓ¬ √õ∂øÓ¬ ø¬ı¬Û1œÓ¬ ø¬ÛøÍ¬¸˜”˝1 ¸—‡…±1 ˜≈Í¬\nŒ˚±·Ù¬˘ ¸±˚˛ 7 ˝˚˛º ‰¬±ø1È¬± ¸‘˙ Ò1Ì1 ¬Û±˙±&øÈ¬ ø˘›ª±Ó¬ ›¬Û1˜≈ª± ø¬ÛøÍ¬¸˜”˝Ó¬ SêÀ˜ 3, 3, 2, 6 ø¬ıµ≈1 ¸—‡…± Œ‡±\n·í˘º ¬Û±˙±&øÈ¬ Œﬂ¬˝◊È¬±1 ˆ”¬ø˜ ¶Û˙« ﬂ¬1± ø¬ÛøÍ¬¸˜”˝Ó¬ Ôﬂ¬± ø¬ıµ≈ ¸—‡…±1 ˜≈Í¬ Œ˚±·Ù¬˘ øﬂ¬˜±Ú ∑",
-   "options": {
-    "A": "15",
-    "B": "14",
-    "C": "21",
-    "D": "17"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 50
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q103",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 103,
-  "context_en": null,
-  "question_en": "What should be the missing number ?\n6 9 15\n8 12 ?\n4 6 10",
-  "options_en": {
+  "context": null,
+  "question": "What should be the missing number ?\n6 9 15\n8 12 ?\n4 6 10",
+  "options": {
    "A": "18",
    "B": "16",
    "C": "24",
    "D": "20"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing",
    "math"
@@ -4764,190 +3139,122 @@
    "exams/ADRE/2024/figures/G4-P1-HSLC/q103.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 50,
-  "page_as": 50,
+  "page": 50,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "’Ú≈¬Ûø¶öÓ¬ ¸—‡…±ÀÈ¬± øﬂ¡ ˝√í¬ı ˘±ø·¬ı∑\n6 9 15\n8 12 ?\n4 6 10",
-   "options": {
-    "A": "18",
-    "B": "16",
-    "C": "24",
-    "D": "20"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 50
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q104",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 104,
-  "context_en": null,
-  "question_en": "Michael needs to go to university for his test. He started from the East and came to a crossing. The\nroad to the left ends in a Railway station, straight ahead is the Museum. In which direction is the\nuniversity ?",
-  "options_en": {
+  "context": null,
+  "question": "Michael needs to go to university for his test. He started from the East and came to a crossing. The\nroad to the left ends in a Railway station, straight ahead is the Museum. In which direction is the\nuniversity ?",
+  "options": {
    "A": "South",
    "B": "East",
    "C": "West",
    "D": "North"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 51,
-  "page_as": 51,
+  "page": 51,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "˜±˝◊Àﬂ¬À˘ ¬Û1œé¬±1 ¬ı±À¬ı ø¬ıù´ø¬ı…±˘˚˛Õ˘ ˚±¬ı ˘±À·º ŒÓ¬›“ ¬Û”¬ıø˙1 ¬Û1± ˚±S± ’±1y¬ ﬂ¬ø1 ¤È¬± ‰¬±ø1’±ø˘Ó¬ Î◊¬¬Ûø¶öÓ¬ ˝í˘º\nŒÓ¬›“1 ¬ı±›“ Ù¬±˘1 ¬ÛÔÀÈ¬± ¤È¬± Œ1í˘Àª Œ©Ü‰¬ÚÓ¬ Œ˙¯∏ ∆˝ÀÂ‰ƒ Œ¬Û±ÀÚ Œ¬Û±ÀÚ ’±·Õ˘ ·íÀ˘ ¤È¬± ø˜Î◊¬øÊ˚˛±˜ ’±ÀÂº ø¬ıù´ø¬ı…±˘˚˛‡Ú\nŒﬂ¬±ÚÀÈ¬± ø˙Ó¬ ’ªø¶öÓ¬ ∑",
-   "options": {
-    "A": "øé¬Ì",
-    "B": "¬Û”¬ı",
-    "C": "¬Ûø(˜",
-    "D": "Î¬◊M1"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 51
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q105",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 105,
-  "context_en": null,
-  "question_en": "How many milligrams make one kilogram ?",
-  "options_en": {
+  "context": null,
+  "question": "How many milligrams make one kilogram ?",
+  "options": {
    "A": "10",
    "B": "10³",
    "C": "10⁴",
    "D": "10⁶"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 51,
-  "page_as": 51,
+  "page": 51,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¤ﬂ¡ øﬂ¡À˘±¢∂±˜Ó¬ ˜≈Í¬ øﬂ¡˜±Ú ø˜ø˘¢∂±˜ Ô±Àﬂ¡∑",
-   "options": {
-    "A": "10",
-    "B": "10³",
-    "C": "10⁴",
-    "D": "10⁶"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 51
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q106",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 106,
-  "context_en": null,
-  "question_en": "Which word features less than four different vowels ?",
-  "options_en": {
+  "context": null,
+  "question": "Which word features less than four different vowels ?",
+  "options": {
    "A": "Promotion",
    "B": "Sustainable",
    "C": "Question",
    "D": "Potential"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 52,
-  "page_as": 52,
+  "page": 52,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Œﬂ¬±ÚÀÈ¬± ˙sÓ¬ ‰¬±ø1È¬±Ó¬Õﬂ¬ ﬂ¬˜ ¸—‡…ﬂ¬ øˆ¬Ú øˆ¬Ú ¶§1¬ıÌ« ’±ÀÂ ∑",
-   "options": {
-    "A": "Promotion",
-    "B": "Sustainable",
-    "C": "Question",
-    "D": "Potential"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 52
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q107",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 107,
-  "context_en": null,
-  "question_en": "How many squares can be identified in the figure ?",
-  "options_en": {
+  "context": null,
+  "question": "How many squares can be identified in the figure ?",
+  "options": {
    "A": "21",
    "B": "18",
    "C": "19",
    "D": "26"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing",
    "text_mentions_visual"
@@ -4959,426 +3266,272 @@
    "exams/ADRE/2024/figures/G4-P1-HSLC/q107.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 52,
-  "page_as": 52,
+  "page": 52,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Ó¬˘1 ø‰¬SÀÈ¬±Ó¬ øﬂ¬˜±ÚÈ¬± ¬ı·«Àé¬S Œ¬Û±ª± ˚±¬ı ∑",
-   "options": {
-    "A": "21",
-    "B": "18",
-    "C": "19",
-    "D": "26"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 52
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q108",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 108,
-  "context_en": null,
-  "question_en": "Which of the following is different from others ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is different from others ?",
+  "options": {
    "A": "Ammeter",
    "B": "Perimeter",
    "C": "Altimeter",
    "D": "Anemometer"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 53,
-  "page_as": 53,
+  "page": 53,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ ¸˜”˝1 Œﬂ¬±ÚÀÈ¬± ’±ÚÀ¬ı±1Ó¬Õﬂ¬ ¬Û‘Ôﬂ¬ ∑",
-   "options": {
-    "A": "¤ø˜È¬±1",
-    "B": "Œ¬Ûø1ø˜È¬±1",
-    "C": "’øåÈ¬ø˜È¬±1",
-    "D": "¤ÀÚ˜íø˜È¬±1"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 53
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q109",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 109,
-  "context_en": null,
-  "question_en": "Total age of three friends – John, Johnny and Janardhan, whose birthday is on same day – is 84\nyears. What was their total age four years ago ?",
-  "options_en": {
+  "context": null,
+  "question": "Total age of three friends – John, Johnny and Janardhan, whose birthday is on same day – is 84\nyears. What was their total age four years ago ?",
+  "options": {
    "A": "72 years",
    "B": "80 years",
    "C": "78 years",
    "D": "76 years"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 53,
-  "page_as": 53,
+  "page": 53,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¤Àﬂ¡È¬± ø√ÚÀÓ¬ Ê√ij Œ˝√±ª± øÓ¬øÚ ¬ıi§≈+ñ Ê√íÚ, Ê√íøÚ ’±1n∏ Ê√Ú±√«Ú1 ¬ı˚˛¸1 ˜≈Í¬ Œ˚±·Ù¬˘ 84 ¬ıÂ√1º ‰¬±ø1 ¬ıÂ√1 ¬Û”À¬ı« ŒÓ¬›“À˘±ﬂ¡1\n¬ı˚˛¸1 ˜≈Í¬ Œ˚±·Ù¬˘ øﬂ¡˜±Ú ’±øÂ√˘∑",
-   "options": {
-    "A": "72 ¬ıÂ√1",
-    "B": "80 ¬ıÂ√1",
-    "C": "78 ¬ıÂ√1",
-    "D": "76 ¬ıÂ√1"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 53
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q110",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 110,
-  "context_en": null,
-  "question_en": "Philately is related to :",
-  "options_en": {
+  "context": null,
+  "question": "Philately is related to :",
+  "options": {
    "A": "collection of match box",
    "B": "collection of postage stamps",
    "C": "collection of currency notes",
    "D": "collection of fountain pens"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 54,
-  "page_as": 54,
+  "page": 54,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÙ¬˘±ÀÈ¬ø˘ ¬ı≈ø˘À˘ ø˚ÀÈ¬± Ê√øÎ¬ˇÓ¬ –",
-   "options": {
-    "A": "ø√˚˛±‰¬˘±˝◊ ¬ı±ﬂ¡‰¬ ¸—¢∂˝√",
-    "B": "Î¬±ﬂ¡ øÈ¬ﬂ¡È¬ ¸—¢∂˝√",
-    "C": "˜≈^±1 ŒÚ±È¬ ¸—¢∂˝√",
-    "D": "Ù¬±Î◊¬ÀKI◊˝◊Ú Œ¬ÛÚ ¸—¢∂˝√"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 54
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q111",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 111,
-  "context_en": null,
-  "question_en": "Which two terms would come next in the series :\n24, 26, 35, 63, 48, 124, 63, 215, ?, ?",
-  "options_en": {
+  "context": null,
+  "question": "Which two terms would come next in the series :\n24, 26, 35, 63, 48, 124, 63, 215, ?, ?",
+  "options": {
    "A": "76, 430",
    "B": "83, 310",
    "C": "99, 511",
    "D": "80, 342"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 54,
-  "page_as": 54,
+  "page": 54,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "24, 26, 35, 63, 48, 124, 63, 215, ?, ? ˙‘—‡˘±ÀÈ¬±1 ¬Û1¬ıÓ«¬œ ¶ö±ÚÓ¬ Œﬂ¬±Ú ≈È¬± ¸—‡…± ¬ıø˝¬ı ∑",
-   "options": {
-    "A": "76, 430",
-    "B": "83, 310",
-    "C": "99, 511",
-    "D": "80, 342"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 54
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q112",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 112,
-  "context_en": null,
-  "question_en": "Statements : All pencils are pens.\nAll the pens are inks.\nConclusions : 1. All the pencils are inks.\n2. Some inks are pencils.",
-  "options_en": {
+  "context": null,
+  "question": "Statements : All pencils are pens.\nAll the pens are inks.\nConclusions : 1. All the pencils are inks.\n2. Some inks are pencils.",
+  "options": {
    "A": "Only 1 conclusion follows",
    "B": "Only 2 conclusion follows",
    "C": "Either conclusion 1 or conclusion 2 follows",
    "D": "Both conclusion 1 and conclusion 2 follow"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 55,
-  "page_as": 55,
+  "page": 55,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Î◊¬øMê – ¸ﬂ¬À˘±À¬ı±1 Œ¬Ûø=À˘˝◊ ﬂ¬˘˜º\n¸ﬂ¬À˘±À¬ı±1 ﬂ¬˘À˜˝◊ ø‰¬˚“˛±˝œº\nø¸X√±ôL – 1. ¸ﬂ¬À˘±À¬ı±1 Œ¬Ûø=À˘˝◊ ø‰¬˚˛“±˝œº\n2. øﬂ¬Â≈˜±Ú ø‰¬˚˛±“˝œ ∆˝ÀÂ Œ¬Ûø=˘º",
-   "options": {
-    "A": "Œﬂ¬ª˘ ø¸X√±ôL 1 Ó¬ Î◊¬¬ÛÚœÓ¬ ˝í¬ı ¬Û±ø1º",
-    "B": "Œﬂ¬ª˘ ø¸X√±ôL 2 Ó¬ Î◊¬¬ÛÚœÓ¬ ˝í¬ı ¬Û±ø1º",
-    "C": "ø¸X√±ôL 1 ’Ô¬ı± 2 Ó¬ Î◊¬¬ÛÚœÓ¬ ˝í¬ı ¬Û±ø1º",
-    "D": "1 ’±1n 2 Î◊¬ˆ¬˚˛ ø¸X√±ôLÀÓ¬ Î◊¬¬ÛÚœÓ¬ ˝í¬ı ¬Û±ø1º"
-   },
-   "fonts": [
-    "Geetanjalibold",
-    "Geetanjalilight"
-   ],
-   "page": 55
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q113",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 113,
-  "context_en": null,
-  "question_en": "Identify the next set in the series :\nL3P, R4W, Y5E, G6N, ?",
-  "options_en": {
+  "context": null,
+  "question": "Identify the next set in the series :\nL3P, R4W, Y5E, G6N, ?",
+  "options": {
    "A": "O7V",
    "B": "R7W",
    "C": "Q7W",
    "D": "P7X"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 56,
-  "page_as": 56,
+  "page": 56,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "L3P, R4W, Y5E, G6N ˙‘—‡˘±ÀÈ¬±1 ¬Û1ªÓ«¬œ ¸—˝øÓ¬ÀÈ¬± ø‰¬Ú±Mê ﬂ¬1ﬂ¬º",
-   "options": {
-    "A": "O7V",
-    "B": "R7W",
-    "C": "Q7W",
-    "D": "P7X"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 56
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q114",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 114,
-  "context_en": null,
-  "question_en": "Identify the incorrect Roman number.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the incorrect Roman number.",
+  "options": {
    "A": "Thirty six : XXXVI",
    "B": "Ninety nine : XCIX",
    "C": "Seventy four : DXXIV",
    "D": "Nine hundred : CM"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 56,
-  "page_as": 57,
+  "page": 56,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "’qX√ Œ1±˜±Ú ¸—‡…±ÀÈ¬± ø‰¬Ú±Mê ﬂ¬1ﬂ¬º",
-   "options": {
-    "A": "Â˚˛øS˙ – XXXVI",
-    "B": "øÚ1±ÚÕ¬ıı – XCIX",
-    "C": "Œ‰¬Ã¸M1 – DXXIV",
-    "D": "Ú˙ – CM"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 57
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q115",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 115,
-  "context_en": null,
-  "question_en": "Ramya’s mother is the only daughter of Prachi’s father. How is Prachi’s husband related to Ramya ?",
-  "options_en": {
+  "context": null,
+  "question": "Ramya’s mother is the only daughter of Prachi’s father. How is Prachi’s husband related to Ramya ?",
+  "options": {
    "A": "Father",
    "B": "Brother",
    "C": "Paternal uncle",
    "D": "Grandfather"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 57,
-  "page_as": 57,
+  "page": 57,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "1˜…±1 ˜±Ó‘¬ √õ∂±‰¬œ1 ø¬ÛÓ‘¬1 ¤ﬂ¬˜±S Êœ˚˛±1œº √õ∂±‰¬œ1 ¶§±˜œ 1˜…±1 ∆¸ÀÓ¬ Œﬂ¬ÀÚ ¸•§gÀ1 ¸•Ûøﬂ«¬Ó¬ ∑",
-   "options": {
-    "A": "ø¬ÛÓ‘¬",
-    "B": "ˆ¬±Ó‘¬",
-    "C": "‡≈1±",
-    "D": "ﬂ¬ﬂ¬±"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 57
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q116",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 116,
-  "context_en": null,
-  "question_en": "Which one of the figures is different from the rest ?",
-  "options_en": {
+  "context": null,
+  "question": "Which one of the figures is different from the rest ?",
+  "options": {
    "A": "2",
    "B": "4",
    "C": "1",
    "D": "3"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing",
    "text_mentions_visual"
@@ -5390,49 +3543,32 @@
    "exams/ADRE/2024/figures/G4-P1-HSLC/q116.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 57,
-  "page_as": 57,
+  "page": 57,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Œﬂ¡±ÚÀÈ¬± ø‰¬S ’±ÚÀ¬ı±11 ∆¸ÀÓ¬ ø¬ı¸‘√˙∑",
-   "options": {
-    "A": "2",
-    "B": "4",
-    "C": "1",
-    "D": "3"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 57
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q117",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 117,
-  "context_en": null,
-  "question_en": "Which set of letters would fill the gaps in :\nMAK, LEL,\t, JON, IUO",
-  "options_en": {
+  "context": null,
+  "question": "Which set of letters would fill the gaps in :\nMAK, LEL,\t, JON, IUO",
+  "options": {
    "A": "JKL",
    "B": "KIN",
    "C": "KIM",
    "D": "JLK"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing",
    "table_layout"
@@ -5444,190 +3580,122 @@
    "exams/ADRE/2024/figures/G4-P1-HSLC/q117.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 58,
-  "page_as": 58,
+  "page": 58,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "MAK, LEL,\t, JON, IUO 1 ø1Mê ¶ö±Ú¸˜”˝ Œﬂ¬±ÚÀÈ¬± ¬ıÌ«¸—˝øÓ¬À˚˛ ¬Û”1 ﬂ¬ø1¬ı ∑",
-   "options": {
-    "A": "JKL",
-    "B": "KIN",
-    "C": "KIM",
-    "D": "JLK"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 58
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q118",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 118,
-  "context_en": null,
-  "question_en": "Which of the following is correct when calculated from left to right, ignoring BODMAS, if the rule\nsays, 5+2=3, 5−2=7, 10÷2=20 and 10×2=5 ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is correct when calculated from left to right, ignoring BODMAS, if the rule\nsays, 5+2=3, 5−2=7, 10÷2=20 and 10×2=5 ?",
+  "options": {
    "A": "9×3−1÷2=18",
    "B": "5+1÷4−3=19",
    "C": "6×2−1+2=12",
    "D": "7÷2+4−2=14"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 58,
-  "page_as": 59,
+  "page": 58,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "BODMAS øÚ˚˛˜ ’±›ﬂ¬±Ì ﬂ¬ø1 ˚ø 5+2=3, 5−2=7, 10÷2=20 ’±1n 10×2=5 1 À1 øÚ˚˛˜ ’Ú≈¸1Ì ﬂ¬1± ˝˚˛,\nŒÓ¬ÀôL ¬ı±›“ø˙1 ¬Û1± Œ¸“±ø˙Õ˘ ·ÌÚ± ﬂ¬ø1À˘ øÚ•ßø˘ø‡Ó¬ ¸˜”˝1 Œﬂ¬±ÚÀÈ¬± Î◊¬øMê qX√ ∑",
-   "options": {
-    "A": "9×3−1÷2=18",
-    "B": "5+1÷4−3=19",
-    "C": "6×2−1+2=12",
-    "D": "7÷2+4−2=14"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 59
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q119",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 119,
-  "context_en": null,
-  "question_en": "Identify the odd pair.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the odd pair.",
+  "options": {
    "A": "Pacific : Water",
    "B": "Himalaya : Mountain",
    "C": "Vesuvius : Volcano",
    "D": "Mississippi : River"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 59,
-  "page_as": 59,
+  "page": 59,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "’ø˜˘ Œ˚±1ÀÈ¬± ø‰¬Ú±Mê ﬂ¬1ﬂ¬º",
-   "options": {
-    "A": "√õ∂˙±ôL – Ê˘",
-    "B": "ø˝˜±˘˚˛ – ¬Û¬ı«Ó¬",
-    "C": "ø¬ıÂ≈ø¬ı˚˛±Â – ’±À¢ü˚˛ø·ø1",
-    "D": "ø˜øÂøÂø¬Û – Úœ"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 59
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q120",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 120,
-  "context_en": null,
-  "question_en": "What mathematical signs can be inserted respectively to get a correct equation (calculated left to\nright ignoring BODMAS) ?\n65 c 30 c 7 c 15 c 5 =15",
-  "options_en": {
+  "context": null,
+  "question": "What mathematical signs can be inserted respectively to get a correct equation (calculated left to\nright ignoring BODMAS) ?\n65 c 30 c 7 c 15 c 5 =15",
+  "options": {
    "A": "−, ÷, +, −",
    "B": "−, ×, +, −",
    "C": "+, −, ×, ÷",
    "D": "+, ÷, −, −"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 60,
-  "page_as": 60,
+  "page": 60,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[¬ı±›“ ø˙1 ¬Û1± Œ¸“± ø˙Õ˘ ·ÌÚ± ﬂ¬ø1 Ó¬Ô± BODMAS øÚ˚˛˜ ’±›ﬂ¬±Ì ﬂ¬ø1] 65 c 30 c 7 c 15 c 5 =15 Ó¬\n¤ﬂ¬ qX√ ¸˜œﬂ¬1Ì ¬Û±¬ıÕ˘ Œﬂ¬±ÚÀ¬ı±1 ·±øÌøÓ¬ﬂ¬ ø‰¬˝ê ˚Ô±SêÀ˜ ’ôLˆ«≈¬Mê ﬂ¬ø1¬ı ˘±ø·¬ı ∑",
-   "options": {
-    "A": "−, ÷, +, −",
-    "B": "−, ×, +, −",
-    "C": "+, −, ×, ÷",
-    "D": "+, ÷, −, −"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 60
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q121",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 121,
-  "context_en": null,
-  "question_en": "What would replace ?? in the triangle set ?",
-  "options_en": {
+  "context": null,
+  "question": "What would replace ?? in the triangle set ?",
+  "options": {
    "A": "9",
    "B": "11",
    "C": "10",
    "D": "12"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing"
   ],
@@ -5638,682 +3706,428 @@
    "exams/ADRE/2024/figures/G4-P1-HSLC/q121.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 60,
-  "page_as": 61,
+  "page": 60,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øSˆ≈¬Ê ¸—˝øÓ¬ÀÈ¬±1 ?? ¶ö±ÚÓ¬ øﬂ¬ ¬ıUª±¬ı ˘±ø·¬ı ∑",
-   "options": {
-    "A": "9",
-    "B": "11",
-    "C": "10",
-    "D": "12"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 61
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q122",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 122,
-  "context_en": null,
-  "question_en": "Which of the following words is correctly spelt ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following words is correctly spelt ?",
+  "options": {
    "A": "Jeography",
    "B": "Jeometry",
    "C": "Jeopardy",
    "D": "Jeology"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 62,
-  "page_as": 62,
+  "page": 62,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ Œﬂ¬±ÚÀÈ¬± ˙s1 ¬ı±Ú±Ú qX√Õﬂ¬ ø˘‡± ’±ÀÂ ∑",
-   "options": {
-    "A": "Jeography",
-    "B": "Jeometry",
-    "C": "Jeopardy",
-    "D": "Jeology"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 62
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q123",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 123,
-  "context_en": null,
-  "question_en": "What would be the Arabic numeral for MMCDXLVII ?",
-  "options_en": {
+  "context": null,
+  "question": "What would be the Arabic numeral for MMCDXLVII ?",
+  "options": {
    "A": "2,567",
    "B": "2,457",
    "C": "2,477",
    "D": "2,447"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 62,
-  "page_as": 62,
+  "page": 62,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "MMCDXLVII 1 ¬ı±À¬ı ’±1¬ıœ ¸—‡…±ÀÈ¬± øﬂ¬ ˝í¬ı ∑",
-   "options": {
-    "A": "2,567",
-    "B": "2,457",
-    "C": "2,477",
-    "D": "2,447"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 62
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q124",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 124,
-  "context_en": null,
-  "question_en": "If ROCKET is written as TQEMGV, then what would be the last letter when RAINBOW is written\nby the same code ?",
-  "options_en": {
+  "context": null,
+  "question": "If ROCKET is written as TQEMGV, then what would be the last letter when RAINBOW is written\nby the same code ?",
+  "options": {
    "A": "Z",
    "B": "Y",
    "C": "A",
    "D": "U"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 62,
-  "page_as": 62,
+  "page": 62,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "˚ø ROCKET ﬂ¬ TQEMGV ø˝‰¬±À¬ı ﬂ¬íÎ¬ ﬂ¬1± ˝˚˛, ŒÓ¬ÀôL ¤Àﬂ¬È¬± ﬂ¬íÎ¬Ó¬ RAINBOW ø˘ø‡À˘ ˝◊˚˛±1 ’øôL˜ ¬ıÌ«ÀÈ¬± øﬂ¬\n˝í¬ı ∑",
-   "options": {
-    "A": "Z",
-    "B": "Y",
-    "C": "A",
-    "D": "U"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 62
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q125",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 125,
-  "context_en": null,
-  "question_en": "What would be the digit exactly in the middle when 65749 is subtracted from twice of itself ?",
-  "options_en": {
+  "context": null,
+  "question": "What would be the digit exactly in the middle when 65749 is subtracted from twice of itself ?",
+  "options": {
    "A": "9",
    "B": "2",
    "C": "7",
    "D": "8"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 63,
-  "page_as": 63,
+  "page": 63,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "˚ø 65749 ¸—‡…±ÀÈ¬±ﬂ¬ ˝◊˚˛±1 ≈&Ì ¸—‡…±1 ¬Û1± ø¬ıÀ˚˛±· ﬂ¬1± ˝˚˛, ŒÓ¬ÀôL Ù¬˘±Ù¬˘ÀÈ¬±1 øÍ¬ﬂ¬ Œ¸“±˜±ÊÓ¬ Ôﬂ¬± ’—ﬂ¬ÀÈ¬± øﬂ¬ ˝í¬ı ∑",
-   "options": {
-    "A": "9",
-    "B": "2",
-    "C": "7",
-    "D": "8"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 63
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q126",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 126,
-  "context_en": null,
-  "question_en": "Raj has to catch a train at fifteen minutes past three in the afternoon. What would be the time on\na 24-hours scale ?",
-  "options_en": {
+  "context": null,
+  "question": "Raj has to catch a train at fifteen minutes past three in the afternoon. What would be the time on\na 24-hours scale ?",
+  "options": {
    "A": "03:15 hours",
    "B": "15:15 hours",
    "C": "13:15 hours",
    "D": "23:15 hours"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 63,
-  "page_as": 63,
+  "page": 63,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "1±ÀÊ ø¬ı˚˛ø˘ øÓ¬øÚ ¬ı±øÊ Œ¬Û±g1 ø˜øÚÈ¬Ó¬ ¤‡Ú Œ1í˘·±Î¬ˇœ Òø1¬ı ˘·± ’±ÀÂº 24 - ‚∞I◊±1 ‚Î¬ˇœ˜±¬ÛÓ¬ ¤˝◊ ¸˜˚˛ øﬂ¬ ˝í¬ı ∑",
-   "options": {
-    "A": "03:15 ‚∞I◊±",
-    "B": "15:15 ‚∞I◊±",
-    "C": "13:15 ‚∞I◊±",
-    "D": "23:15 ‚∞I◊±"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 63
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q127",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 127,
-  "context_en": null,
-  "question_en": "If 9 < x² < 25, then the correct value/values of x is/are :",
-  "options_en": {
+  "context": null,
+  "question": "If 9 < x² < 25, then the correct value/values of x is/are :",
+  "options": {
    "A": "3, 4, 5",
    "B": "4, 5",
    "C": "3, 4",
    "D": "4"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 64,
-  "page_as": 64,
+  "page": 64,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "˚ø√ 9 < x² < 25, ŒÓ¬ÀôL x 1 qX ˜±Ú ˚ ˜±Ú¸˜”˝√ ∆˝√ÀÂ√ ñ",
-   "options": {
-    "A": "3, 4, 5",
-    "B": "4, 5",
-    "C": "3, 4",
-    "D": "4"
-   },
-   "fonts": [
-    "Geetanjalilight",
-    "Geetanjalip"
-   ],
-   "page": 64
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q128",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 128,
-  "context_en": null,
-  "question_en": "What would be the middlemost digit in the smallest number that can be made using all the digits\nof 8936217 ?",
-  "options_en": {
+  "context": null,
+  "question": "What would be the middlemost digit in the smallest number that can be made using all the digits\nof 8936217 ?",
+  "options": {
    "A": "3",
    "B": "6",
    "C": "7",
    "D": "9"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 64,
-  "page_as": 64,
+  "page": 64,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "8936217 ¸—‡…±ÀÈ¬±1 ’—ﬂ¬Àﬂ¬˝◊È¬± ¬ı…ª˝±1 ﬂ¬ø1 ·Í¬Ú ﬂ¬ø1¬ı ¬Û1± Ú≈…ÚÓ¬˜ ¸—‡…±ÀÈ¬±1 øÍ¬ﬂ¬ Œ¸“±˜±ÊÓ¬ Œﬂ¬±ÚÀÈ¬± ’—ﬂ¬ Ô±øﬂ¬¬ı ∑",
-   "options": {
-    "A": "3",
-    "B": "6",
-    "C": "7",
-    "D": "9"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 64
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q129",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 129,
-  "context_en": null,
-  "question_en": "Lohit walks from Black to Pink, which are 9 meters apart. At Pink, he takes a right turn and walks\n4 meters to Blue. He takes another right turn and walks a distance of 9 meters to Red. At Red he\ntakes a left turn and walks 2 meters. How far is Lohit away from Black ?",
-  "options_en": {
+  "context": null,
+  "question": "Lohit walks from Black to Pink, which are 9 meters apart. At Pink, he takes a right turn and walks\n4 meters to Blue. He takes another right turn and walks a distance of 9 meters to Red. At Red he\ntakes a left turn and walks 2 meters. How far is Lohit away from Black ?",
+  "options": {
    "A": "4 meters",
    "B": "13 meters",
    "C": "22 meters",
    "D": "6 meters"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 65,
-  "page_as": 65,
+  "page": 65,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Œ˘±ø˝ÀÓ¬ Œ¬ıvﬂ¬ ¶ö±Ú1 ¬Û1± 9 ø˜È¬±1 ”1QÓ¬ Ôﬂ¬± ø¬Û—ﬂ¬ ¶ö±ÚÕ˘ Œ‡±Êﬂ¬±øÏ¬ˇ ˚±˚˛º ø¬Û—ﬂ¬ ¶ö±ÚÓ¬ ŒÓ¬›“ Œ¸“±˝±ÀÓ¬ ‚”À1 ’±1n 4 ø˜È¬±1\nŒ‡±Êﬂ¬±øÏ¬ˇ ¬ıv≈ ¶ö±Ú ¬Û±˚˛Õ·º ˝◊˚˛±Ó¬ ŒÓ¬›“ ¬Û≈Ú1 Œ¸“±˝±ÀÓ¬ ‚”À1 ’±1n 9 ø˜È¬±1 Œ‡±Êﬂ¬±øÏ¬ˇ Œ1Î¬ ¶ö±Ú ¬Û±˚˛º Œ1Î¬ ¶ö±ÚÓ¬ ŒÓ¬›“\n¬ı±›“˝±ÀÓ¬ ‚”À1 ’±1n 2 ø˜È¬±1 Œ‡±Ê ﬂ¬±ÀÏ¬ˇº Œ˘±ø˝Ó¬ ¤øÓ¬˚˛± Œ¬ıvﬂ¬ ¶ö±Ú1 ¬Û1± øﬂ¬˜±Ú ”1QÓ¬ Ô±øﬂ¬¬ı ∑",
-   "options": {
-    "A": "4 ø˜È¬±1",
-    "B": "13 ø˜È¬±1",
-    "C": "22 ø˜È¬±1",
-    "D": "6 ø˜È¬±1"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 65
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q130",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 130,
-  "context_en": null,
-  "question_en": "Identify the word with no pair of consecutive letters placed together.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the word with no pair of consecutive letters placed together.",
+  "options": {
    "A": "Alphabet",
    "B": "Partner",
    "C": "Rightness",
    "D": "Station"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 65,
-  "page_as": 65,
+  "page": 65,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Œﬂ¬±ÀÚ± ¤À˚±1 Sêø˜ﬂ¬ ¬ıÌ« ¤Àﬂ¬˘À· ÚÔﬂ¬± ˙sÀÈ¬± ø‰¬Ú±Mê ﬂ¬1ﬂ¬º",
-   "options": {
-    "A": "Alphabet",
-    "B": "Partner",
-    "C": "Rightness",
-    "D": "Station"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 65
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q131",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 131,
-  "context_en": null,
-  "question_en": "If A=26, B=25, and so on till Z=1, then what would be the sum of STAR ?",
-  "options_en": {
+  "context": null,
+  "question": "If A=26, B=25, and so on till Z=1, then what would be the sum of STAR ?",
+  "options": {
    "A": "32",
    "B": "67",
    "C": "50",
    "D": "55"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 66,
-  "page_as": 66,
+  "page": 66,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "˚ø√ A=26, B=25, ’±1n∏ ¤Àﬂ¡√À1 ’±·¬ı±øÏ¬ˇ ∆· Z=1 ˝√˚˛, ŒÓ¬ÀôL STAR 1 ˜≈Í¬ Œ˚±·Ù¬˘ øﬂ¡˜±Ú ˝√í¬ı∑",
-   "options": {
-    "A": "32",
-    "B": "67",
-    "C": "50",
-    "D": "55"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 66
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q132",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 132,
-  "context_en": null,
-  "question_en": "Which of the following is NOT of the same set ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is NOT of the same set ?",
+  "options": {
    "A": "Cash Payment",
    "B": "Mobile Banking",
    "C": "Debit Card",
    "D": "Net Banking"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 66,
-  "page_as": 66,
+  "page": 66,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "øÚ•ßø˘ø‡Ó¬ ¸˜”˝1 Œﬂ¬±ÚÀÈ¬± ¤Àﬂ¬ Œ·±È¬1 ’ôLˆ«≈¬Mê Ú˝˚˛ ∑",
-   "options": {
-    "A": "Ú· ¬Ûø1À˙±Ò",
-    "B": "Œ˜±¬ı±˝◊˘ Œ¬ı—øﬂ¬—",
-    "C": "ŒÎ¬ø¬ıÈ¬ ﬂ¬±Î«¬",
-    "D": "ŒÚÈ¬ Œ¬ı—øﬂ¬—"
-   },
-   "fonts": [
-    "Geetanjalibold",
-    "Geetanjalilight"
-   ],
-   "page": 66
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q133",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 133,
-  "context_en": null,
-  "question_en": "Identify the word which cannot be made from CARBOHYDRATE.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the word which cannot be made from CARBOHYDRATE.",
+  "options": {
    "A": "AHEAD",
    "B": "RETRO",
    "C": "YACHT",
    "D": "HYPER"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 67,
-  "page_as": 67,
+  "page": 67,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "CARBOHYDRATE 1 ¬Û1± ’±˝1Ì ﬂ¬ø1¬ı ŒÚ±ª±1± ˙sÀÈ¬± ø‰¬Ú±Mê ﬂ¬1ﬂ¬º",
-   "options": {
-    "A": "AHEAD",
-    "B": "RETRO",
-    "C": "YACHT",
-    "D": "HYPER"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 67
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q134",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 134,
-  "context_en": null,
-  "question_en": "Which of the four given sequences would be meaningful for the words ?\n1. House 2. Street 3. Room 4. Town 5. District",
-  "options_en": {
+  "context": null,
+  "question": "Which of the four given sequences would be meaningful for the words ?\n1. House 2. Street 3. Room 4. Town 5. District",
+  "options": {
    "A": "3, 1, 2, 4, 5",
    "B": "5, 4, 1, 3, 2",
    "C": "3, 1, 4, 2, 5",
    "D": "5, 4, 3, 1, 2"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 67,
-  "page_as": 67,
+  "page": 67,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "1. ‚1\t2. 1±ô¶±\t3. Œﬂ¬±Í¬±\t4. Ú·1\t5. øÊ˘± :\n¤˝◊ ˙s¸˜”˝1 ¬ı±À¬ı √õ∂M Sê˜¸˜”˝1 Œﬂ¬±ÚÀÈ¬± Sê˜ ’Ô«¬ı˝ ˝í¬ı ∑",
-   "options": {
-    "A": "3, 1, 2, 4, 5",
-    "B": "5, 4, 1, 3, 2",
-    "C": "3, 1, 4, 2, 5",
-    "D": "5, 4, 3, 1, 2"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 67
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q135",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "I",
-  "paper_title": "HSLC (Class X) passed",
+  "paper_code": "G4-P1-HSLC",
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
   "booklet_set": "A",
   "q_no": 135,
-  "context_en": null,
-  "question_en": "If the code for WATER is 67 and for DRINK is 56, then the code for RIVER is :",
-  "options_en": {
+  "context": null,
+  "question": "If the code for WATER is 67 and for DRINK is 56, then the code for RIVER is :",
+  "options": {
    "A": "48",
    "B": "98",
    "C": "72",
    "D": "35"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
-  "page_en": 68,
-  "page_as": 68,
+  "page": 68,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "˚ø WATER 1 ¬ı±À¬ı ﬂ¬íÎ¬¸—‡…± 67 ’±1n DRINK 1 ¬ı±À¬ı ﬂ¬íÎ¬ ¸—‡…± 56 ˝˚˛, ŒÓ¬ÀôL RIVER 1 ¬ı±À¬ı ﬂ¬íÎ¬ ¸—‡…± ∆˝ÀÂ –",
-   "options": {
-    "A": "48",
-    "B": "98",
-    "C": "72",
-    "D": "35"
-   },
-   "fonts": [
-    "Geetanjalilight"
-   ],
-   "page": 68
-  }
+  "review_notes": []
  }
 ]

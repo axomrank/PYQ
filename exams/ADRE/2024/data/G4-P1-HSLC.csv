@@ -1,192 +1,192 @@
-id,exam,year,grade,paper,booklet_set,q_no,context_en,question_en,option_a_en,option_b_en,option_c_en,option_d_en,context_as,question_as,option_a_as,option_b_as,option_c_as,option_d_as,answer,answer_note,answer_source,has_visual,visual_types,images,page_en,page_as,needs_review,review_notes
-ADRE-2024-G4-P1-HSLC-Q001,ADRE,2024,IV,I,A,1,,Which word is the antonym of “Arrival” ?,Conquer,Enemy,Departure,Welcome,,,,,,,C,,official_final_key,0,,,6,,0,
-ADRE-2024-G4-P1-HSLC-Q002,ADRE,2024,IV,I,A,2,,"Choose the correct punctuation mark for the sentence.
-“Have you seen my school bag”",{.},{;},{?},{!},,,,,,,C,,official_final_key,0,,,6,,0,
-ADRE-2024-G4-P1-HSLC-Q003,ADRE,2024,IV,I,A,3,,Identify the appropriate collective noun for bees.,herd,swarm,group,bunch,,,,,,,B,,official_final_key,0,,,6,,0,
-ADRE-2024-G4-P1-HSLC-Q004,ADRE,2024,IV,I,A,4,,What does “hang up the boots” mean ?,Place the boots for cleaning,Kill someone by hanging,Retire from active life,Peace after a war,,,,,,,C,,official_final_key,0,,,6,,0,
-ADRE-2024-G4-P1-HSLC-Q005,ADRE,2024,IV,I,A,5,,Identify the synonym of “Accurate”.,Total,Pedigree,Sincere,Correct,,,,,,,D,,official_final_key,0,,,6,,0,
-ADRE-2024-G4-P1-HSLC-Q006,ADRE,2024,IV,I,A,6,,Which is the correct spelling for an annual day-date list ?,Calandar,Calendar,Callendar,Calender,,,,,,,B,,official_final_key,0,,,6,,0,
-ADRE-2024-G4-P1-HSLC-Q007,ADRE,2024,IV,I,A,7,,"Fill in the blank :
-Yasmin __________ on paying the bill for her whole group.",requested,promised,suggested,insisted,,,,,,,D,,official_final_key,0,,,6,,0,
-ADRE-2024-G4-P1-HSLC-Q008,ADRE,2024,IV,I,A,8,,Which word in the following list is a Verb ?,Run,Black,Faster,Human,,,,,,,A,,official_final_key,0,,,6,,0,
-ADRE-2024-G4-P1-HSLC-Q009,ADRE,2024,IV,I,A,9,,"Which single word would mean the same as underlined portion of “The vaccine made the
-person resistant to infection from Covid-19 Virus”.",Immune,Healthy,Doctor,Medicine,,,,,,,A,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G4-P1-HSLC/q009.png,6,,1,
-ADRE-2024-G4-P1-HSLC-Q010,ADRE,2024,IV,I,A,10,,"Identify the preposition in :
-The man is sleeping on a cot.",on,man,is,the,,,,,,,A,,official_final_key,0,,,6,,0,
-ADRE-2024-G4-P1-HSLC-Q011,ADRE,2024,IV,I,A,11,,Which kingdom of India had influence extended to Southeast Asian region ?,Chauhan,Rajput,Gupta,Chola,,,,,,,D,,official_final_key,0,,,7,7,0,
-ADRE-2024-G4-P1-HSLC-Q012,ADRE,2024,IV,I,A,12,,Which of the following Muslim commanders did Mula Gabharu fight with ?,Mir Quasim,Turbak,Iltutmish,Abeidullah,,,,,,,B,,official_final_key,0,,,7,7,0,
-ADRE-2024-G4-P1-HSLC-Q013,ADRE,2024,IV,I,A,13,,Which of the following has the NITI Aayog replaced ?,Competition Commission of India,Staff Selection Commission,Union Public Service Commission,Planning Commission,,,,,,,D,,official_final_key,0,,,7,7,0,
-ADRE-2024-G4-P1-HSLC-Q014,ADRE,2024,IV,I,A,14,,Which of the following is the Capital City of Chhattisgarh ?,Raipur,Ranchi,Bhagalpur,Dehradun,,,,,,,A,,official_final_key,0,,,8,8,0,
-ADRE-2024-G4-P1-HSLC-Q015,ADRE,2024,IV,I,A,15,,Alexander (the Great) was from which ancient kingdom ?,Persia,Byzantine,Macedonia,Ottoman,,,,,,,C,,official_final_key,0,,,8,8,0,
-ADRE-2024-G4-P1-HSLC-Q016,ADRE,2024,IV,I,A,16,,Which of the following countries does Assam share international border with ?,Thailand,Bhutan,China,Nepal,,,,,,,B,,official_final_key,0,,,9,9,0,
-ADRE-2024-G4-P1-HSLC-Q017,ADRE,2024,IV,I,A,17,,The Upper House of the Parliament of India is called :,Lok Sabha,Rajya Sabha,Vidhan Sabha,Vidhan Parishad,,,,,,,B,,official_final_key,0,,,9,9,0,
-ADRE-2024-G4-P1-HSLC-Q018,ADRE,2024,IV,I,A,18,,Which of the following words is NOT in the Preamble of the Constitution of India ?,Fraternity,Dignity,Modesty,Liberty,,,,,,,C,,official_final_key,0,,,10,10,0,
-ADRE-2024-G4-P1-HSLC-Q019,ADRE,2024,IV,I,A,19,,"Which mountain range passes through Delhi, Haryana, Rajasthan and Gujarat ?",Shivalik range,Borail range,Satpura range,Aravalli range,,,,,,,D,,official_final_key,0,,,10,10,0,
-ADRE-2024-G4-P1-HSLC-Q020,ADRE,2024,IV,I,A,20,,Which of the following districts of Assam is in the Barak Valley ?,Hailakandi,South Salmara-Mankachar,Chirang,Morigaon,,,,,,,A,,official_final_key,0,,,10,10,0,
-ADRE-2024-G4-P1-HSLC-Q021,ADRE,2024,IV,I,A,21,,Who was the first Vice Chancellor of Gauhati University ?,Nabin Chandra Bordoloi,Gopinath Bordoloi,Kamalakanta Bhattacharyya,Krishnakanta Handique,,,,,,,D,,official_final_key,0,,,11,11,0,
-ADRE-2024-G4-P1-HSLC-Q022,ADRE,2024,IV,I,A,22,,Which instrument is used for measuring atmospheric pressure ?,Hydrometer,Altimeter,Barometer,Thermometer,,,,,,,C,,official_final_key,0,,,11,11,0,
-ADRE-2024-G4-P1-HSLC-Q023,ADRE,2024,IV,I,A,23,,Ali Aye Ligang is a festival of which community ?,Khamti,Mishing,Karbi,Dimasa,,,,,,,B,,official_final_key,0,,,12,12,0,
-ADRE-2024-G4-P1-HSLC-Q024,ADRE,2024,IV,I,A,24,,What is the main component of a glacier ?,Lava,Salt water,Ice,Rain forest,,,,,,,C,,official_final_key,0,,,12,12,0,
-ADRE-2024-G4-P1-HSLC-Q025,ADRE,2024,IV,I,A,25,,How many countries does India share land borders with ?,Six,Seven,Eight,Nine,,,,,,,B,,official_final_key,0,,,12,12,0,
-ADRE-2024-G4-P1-HSLC-Q026,ADRE,2024,IV,I,A,26,,What was the former name of Karbi Anglong district ?,Mikir Hills district,Lushai Hills district,Cachar Hills district,West Naga Hills district,,,,,,,A,,official_final_key,0,,,13,13,0,
-ADRE-2024-G4-P1-HSLC-Q027,ADRE,2024,IV,I,A,27,,McMahon line separates which two countries ?,Afghanistan and Pakistan,Myanmar and Bangladesh,India and China,Vietnam and Thailand,,,,,,,C,,official_final_key,0,,,13,13,0,
-ADRE-2024-G4-P1-HSLC-Q028,ADRE,2024,IV,I,A,28,,Kathakali is a dance form of which State ?,Gujarat,West Bengal,Kerala,Himachal Pradesh,,,,,,,C,,official_final_key,0,,,13,13,0,
-ADRE-2024-G4-P1-HSLC-Q029,ADRE,2024,IV,I,A,29,,“Gobha Raja” is the titular king of which community ?,Ahom,Mishing,Khamti,Tiwa,,,,,,,D,,official_final_key,0,,,14,14,0,
-ADRE-2024-G4-P1-HSLC-Q030,ADRE,2024,IV,I,A,30,,Which country is known as the “Cockpit of Europe” ?,Switzerland,Belgium,Spain,Portugal,,,,,,,B,,official_final_key,0,,,14,14,0,
-ADRE-2024-G4-P1-HSLC-Q031,ADRE,2024,IV,I,A,31,,Which of the following sea passages connects Asia with Europe ?,Suez Canal,English Channel,Panama Canal,Strait of Malacca,,,,,,,A,,official_final_key,0,,,15,15,0,
-ADRE-2024-G4-P1-HSLC-Q032,ADRE,2024,IV,I,A,32,,Which community of Assam has “Choklong” system of weddings ?,Bodo,Dimasa,Mishing,Ahom,,,,,,,D,,official_final_key,0,,,15,15,0,
-ADRE-2024-G4-P1-HSLC-Q033,ADRE,2024,IV,I,A,33,,Kurseong is a hill station in the state of :,Sikkim,Arunachal Pradesh,West Bengal,Nagaland,,,,,,,C,,official_final_key,0,,,15,15,0,
-ADRE-2024-G4-P1-HSLC-Q034,ADRE,2024,IV,I,A,34,,Which of the following rulers had ascended the throne at Delhi ?,Chand Bibi,Rani Ahilya Bai,Rezia Sultana,Rani Laxmi Bai,,,,,,,C,,official_final_key,0,,,16,16,0,
-ADRE-2024-G4-P1-HSLC-Q035,ADRE,2024,IV,I,A,35,,Which dynasty ruled the longest in ancient Assam region ?,The Ahoms,The Barmans,The Koch,The Sutiyas,,,,,,,A,,official_final_key,0,,,16,16,0,
-ADRE-2024-G4-P1-HSLC-Q036,ADRE,2024,IV,I,A,36,,What is the introduction to Constitution of India called ?,The Preamble,The Preface,The Introduction,The First Page,,,,,,,A,,official_final_key,0,,,17,17,0,
-ADRE-2024-G4-P1-HSLC-Q037,ADRE,2024,IV,I,A,37,,Which of the following is not a criterion for citizenship of India ?,Acquisition of Territory,Buying property,Naturalization,Descent,,,,,,,B,,official_final_key,0,,,17,17,0,
-ADRE-2024-G4-P1-HSLC-Q038,ADRE,2024,IV,I,A,38,,Which kingdom did Sati Sadhani belong to ?,Koch Kingdom,Ahom Kingdom,Dimasa Kingdom,Sutiya Kingdom,,,,,,,D,,official_final_key,0,,,18,18,0,
-ADRE-2024-G4-P1-HSLC-Q039,ADRE,2024,IV,I,A,39,,Who was the first President of the United States of America ?,George Washington,Abraham Lincoln,Thomas Jefferson,Benjamin Franklin,,,,,,,A,,official_final_key,0,,,18,18,0,
-ADRE-2024-G4-P1-HSLC-Q040,ADRE,2024,IV,I,A,40,,Identify the southernmost river amongst the following :,Indus River,Godavari River,Brahmaputra River,Cauvery River,,,,,,,D,,official_final_key,0,,,19,19,0,
-ADRE-2024-G4-P1-HSLC-Q041,ADRE,2024,IV,I,A,41,,"The sum of the present age of the father and the son is 60 years. After 15 years, the father’s age
-will be twice that of the son. The present age of the son is :",10 years,25 years,18 years,15 years,,,,,,,D,,official_final_key,0,,,19,19,0,
-ADRE-2024-G4-P1-HSLC-Q042,ADRE,2024,IV,I,A,42,,"2m × 2⁶ × 2⁻⁴
+id,exam,year,paper_code,paper_title,booklet_set,q_no,context,question,option_a,option_b,option_c,option_d,answer,answer_note,answer_source,has_visual,visual_types,images,text_source,page,needs_review,review_notes
+ADRE-2024-G4-P1-HSLC-Q001,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,1,,Which word is the antonym of “Arrival” ?,Conquer,Enemy,Departure,Welcome,C,,official_final_key,0,,,pdf_text,6,0,
+ADRE-2024-G4-P1-HSLC-Q002,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,2,,"Choose the correct punctuation mark for the sentence.
+“Have you seen my school bag”",{.},{;},{?},{!},C,,official_final_key,0,,,pdf_text,6,0,
+ADRE-2024-G4-P1-HSLC-Q003,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,3,,Identify the appropriate collective noun for bees.,herd,swarm,group,bunch,B,,official_final_key,0,,,pdf_text,6,0,
+ADRE-2024-G4-P1-HSLC-Q004,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,4,,What does “hang up the boots” mean ?,Place the boots for cleaning,Kill someone by hanging,Retire from active life,Peace after a war,C,,official_final_key,0,,,pdf_text,6,0,
+ADRE-2024-G4-P1-HSLC-Q005,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,5,,Identify the synonym of “Accurate”.,Total,Pedigree,Sincere,Correct,D,,official_final_key,0,,,pdf_text,6,0,
+ADRE-2024-G4-P1-HSLC-Q006,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,6,,Which is the correct spelling for an annual day-date list ?,Calandar,Calendar,Callendar,Calender,B,,official_final_key,0,,,pdf_text,6,0,
+ADRE-2024-G4-P1-HSLC-Q007,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,7,,"Fill in the blank :
+Yasmin __________ on paying the bill for her whole group.",requested,promised,suggested,insisted,D,,official_final_key,0,,,pdf_text,6,0,
+ADRE-2024-G4-P1-HSLC-Q008,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,8,,Which word in the following list is a Verb ?,Run,Black,Faster,Human,A,,official_final_key,0,,,pdf_text,6,0,
+ADRE-2024-G4-P1-HSLC-Q009,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,9,,"Which single word would mean the same as underlined portion of “The vaccine made the
+person resistant to infection from Covid-19 Virus”.",Immune,Healthy,Doctor,Medicine,A,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G4-P1-HSLC/q009.png,pdf_text,6,1,
+ADRE-2024-G4-P1-HSLC-Q010,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,10,,"Identify the preposition in :
+The man is sleeping on a cot.",on,man,is,the,A,,official_final_key,0,,,pdf_text,6,0,
+ADRE-2024-G4-P1-HSLC-Q011,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,11,,Which kingdom of India had influence extended to Southeast Asian region ?,Chauhan,Rajput,Gupta,Chola,D,,official_final_key,0,,,pdf_text,7,0,
+ADRE-2024-G4-P1-HSLC-Q012,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,12,,Which of the following Muslim commanders did Mula Gabharu fight with ?,Mir Quasim,Turbak,Iltutmish,Abeidullah,B,,official_final_key,0,,,pdf_text,7,0,
+ADRE-2024-G4-P1-HSLC-Q013,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,13,,Which of the following has the NITI Aayog replaced ?,Competition Commission of India,Staff Selection Commission,Union Public Service Commission,Planning Commission,D,,official_final_key,0,,,pdf_text,7,0,
+ADRE-2024-G4-P1-HSLC-Q014,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,14,,Which of the following is the Capital City of Chhattisgarh ?,Raipur,Ranchi,Bhagalpur,Dehradun,A,,official_final_key,0,,,pdf_text,8,0,
+ADRE-2024-G4-P1-HSLC-Q015,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,15,,Alexander (the Great) was from which ancient kingdom ?,Persia,Byzantine,Macedonia,Ottoman,C,,official_final_key,0,,,pdf_text,8,0,
+ADRE-2024-G4-P1-HSLC-Q016,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,16,,Which of the following countries does Assam share international border with ?,Thailand,Bhutan,China,Nepal,B,,official_final_key,0,,,pdf_text,9,0,
+ADRE-2024-G4-P1-HSLC-Q017,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,17,,The Upper House of the Parliament of India is called :,Lok Sabha,Rajya Sabha,Vidhan Sabha,Vidhan Parishad,B,,official_final_key,0,,,pdf_text,9,0,
+ADRE-2024-G4-P1-HSLC-Q018,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,18,,Which of the following words is NOT in the Preamble of the Constitution of India ?,Fraternity,Dignity,Modesty,Liberty,C,,official_final_key,0,,,pdf_text,10,0,
+ADRE-2024-G4-P1-HSLC-Q019,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,19,,"Which mountain range passes through Delhi, Haryana, Rajasthan and Gujarat ?",Shivalik range,Borail range,Satpura range,Aravalli range,D,,official_final_key,0,,,pdf_text,10,0,
+ADRE-2024-G4-P1-HSLC-Q020,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,20,,Which of the following districts of Assam is in the Barak Valley ?,Hailakandi,South Salmara-Mankachar,Chirang,Morigaon,A,,official_final_key,0,,,pdf_text,10,0,
+ADRE-2024-G4-P1-HSLC-Q021,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,21,,Who was the first Vice Chancellor of Gauhati University ?,Nabin Chandra Bordoloi,Gopinath Bordoloi,Kamalakanta Bhattacharyya,Krishnakanta Handique,D,,official_final_key,0,,,pdf_text,11,0,
+ADRE-2024-G4-P1-HSLC-Q022,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,22,,Which instrument is used for measuring atmospheric pressure ?,Hydrometer,Altimeter,Barometer,Thermometer,C,,official_final_key,0,,,pdf_text,11,0,
+ADRE-2024-G4-P1-HSLC-Q023,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,23,,Ali Aye Ligang is a festival of which community ?,Khamti,Mishing,Karbi,Dimasa,B,,official_final_key,0,,,pdf_text,12,0,
+ADRE-2024-G4-P1-HSLC-Q024,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,24,,What is the main component of a glacier ?,Lava,Salt water,Ice,Rain forest,C,,official_final_key,0,,,pdf_text,12,0,
+ADRE-2024-G4-P1-HSLC-Q025,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,25,,How many countries does India share land borders with ?,Six,Seven,Eight,Nine,B,,official_final_key,0,,,pdf_text,12,0,
+ADRE-2024-G4-P1-HSLC-Q026,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,26,,What was the former name of Karbi Anglong district ?,Mikir Hills district,Lushai Hills district,Cachar Hills district,West Naga Hills district,A,,official_final_key,0,,,pdf_text,13,0,
+ADRE-2024-G4-P1-HSLC-Q027,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,27,,McMahon line separates which two countries ?,Afghanistan and Pakistan,Myanmar and Bangladesh,India and China,Vietnam and Thailand,C,,official_final_key,0,,,pdf_text,13,0,
+ADRE-2024-G4-P1-HSLC-Q028,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,28,,Kathakali is a dance form of which State ?,Gujarat,West Bengal,Kerala,Himachal Pradesh,C,,official_final_key,0,,,pdf_text,13,0,
+ADRE-2024-G4-P1-HSLC-Q029,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,29,,“Gobha Raja” is the titular king of which community ?,Ahom,Mishing,Khamti,Tiwa,D,,official_final_key,0,,,pdf_text,14,0,
+ADRE-2024-G4-P1-HSLC-Q030,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,30,,Which country is known as the “Cockpit of Europe” ?,Switzerland,Belgium,Spain,Portugal,B,,official_final_key,0,,,pdf_text,14,0,
+ADRE-2024-G4-P1-HSLC-Q031,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,31,,Which of the following sea passages connects Asia with Europe ?,Suez Canal,English Channel,Panama Canal,Strait of Malacca,A,,official_final_key,0,,,pdf_text,15,0,
+ADRE-2024-G4-P1-HSLC-Q032,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,32,,Which community of Assam has “Choklong” system of weddings ?,Bodo,Dimasa,Mishing,Ahom,D,,official_final_key,0,,,pdf_text,15,0,
+ADRE-2024-G4-P1-HSLC-Q033,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,33,,Kurseong is a hill station in the state of :,Sikkim,Arunachal Pradesh,West Bengal,Nagaland,C,,official_final_key,0,,,pdf_text,15,0,
+ADRE-2024-G4-P1-HSLC-Q034,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,34,,Which of the following rulers had ascended the throne at Delhi ?,Chand Bibi,Rani Ahilya Bai,Rezia Sultana,Rani Laxmi Bai,C,,official_final_key,0,,,pdf_text,16,0,
+ADRE-2024-G4-P1-HSLC-Q035,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,35,,Which dynasty ruled the longest in ancient Assam region ?,The Ahoms,The Barmans,The Koch,The Sutiyas,A,,official_final_key,0,,,pdf_text,16,0,
+ADRE-2024-G4-P1-HSLC-Q036,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,36,,What is the introduction to Constitution of India called ?,The Preamble,The Preface,The Introduction,The First Page,A,,official_final_key,0,,,pdf_text,17,0,
+ADRE-2024-G4-P1-HSLC-Q037,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,37,,Which of the following is not a criterion for citizenship of India ?,Acquisition of Territory,Buying property,Naturalization,Descent,B,,official_final_key,0,,,pdf_text,17,0,
+ADRE-2024-G4-P1-HSLC-Q038,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,38,,Which kingdom did Sati Sadhani belong to ?,Koch Kingdom,Ahom Kingdom,Dimasa Kingdom,Sutiya Kingdom,D,,official_final_key,0,,,pdf_text,18,0,
+ADRE-2024-G4-P1-HSLC-Q039,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,39,,Who was the first President of the United States of America ?,George Washington,Abraham Lincoln,Thomas Jefferson,Benjamin Franklin,A,,official_final_key,0,,,pdf_text,18,0,
+ADRE-2024-G4-P1-HSLC-Q040,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,40,,Identify the southernmost river amongst the following :,Indus River,Godavari River,Brahmaputra River,Cauvery River,D,,official_final_key,0,,,pdf_text,19,0,
+ADRE-2024-G4-P1-HSLC-Q041,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,41,,"The sum of the present age of the father and the son is 60 years. After 15 years, the father’s age
+will be twice that of the son. The present age of the son is :",10 years,25 years,18 years,15 years,D,,official_final_key,0,,,pdf_text,19,0,
+ADRE-2024-G4-P1-HSLC-Q042,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,42,,"2m × 2⁶ × 2⁻⁴
 Find m if	= 2¹²
-2−5",5,3,8,7,,,,,,,A,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G4-P1-HSLC/q042.png,19,19,1,
-ADRE-2024-G4-P1-HSLC-Q043,ADRE,2024,IV,I,A,43,,Two numbers are in the ratio 3 : 4 and their sum equals 49. The two numbers are :,"16, 33","18, 31","21, 28","24, 25",,,,,,,C,,official_final_key,0,,,20,20,0,
-ADRE-2024-G4-P1-HSLC-Q044,ADRE,2024,IV,I,A,44,,(−1)⁵+(−1)⁶ equals :,1,−1,0,−11,,,,,,,C,,official_final_key,0,,,20,20,0,
-ADRE-2024-G4-P1-HSLC-Q045,ADRE,2024,IV,I,A,45,,The value of 1849 is :,33,43,53,63,,,,,,,B,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G4-P1-HSLC/q045.png,21,21,1,
-ADRE-2024-G4-P1-HSLC-Q046,ADRE,2024,IV,I,A,46,,40% of 60 when added to 60% of 40 would result in :,40,48,60,64,,,,,,,B,,official_final_key,0,,,21,21,0,
-ADRE-2024-G4-P1-HSLC-Q047,ADRE,2024,IV,I,A,47,,Addition of two Roman numbers XIV+IV equals :,XXV,XVIII,XIX,XX,,,,,,,B,,official_final_key,0,,,21,21,0,
-ADRE-2024-G4-P1-HSLC-Q048,ADRE,2024,IV,I,A,48,,(x²−3x−4)÷(x+1)=? (x ≠ −1),x−4,x−3,x−2,x−1,,,,,,,A,,official_final_key,1,math,exams/ADRE/2024/figures/G4-P1-HSLC/q048.png,22,22,1,
-ADRE-2024-G4-P1-HSLC-Q049,ADRE,2024,IV,I,A,49,,"The fractional form of the recurring number 5.121212... is :
-507	517	517	507",90,99,90,99,,,,,,,D,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G4-P1-HSLC/q049.png,22,22,1,
-ADRE-2024-G4-P1-HSLC-Q050,ADRE,2024,IV,I,A,50,,"The total interest accrued on a Principal of ` 1000 over 1 year at compound interest of 10% per
-annum compounded 6 monthly, is :",` 105.20,` 102.20,` 102.50,` 105.50,,,,,,,C,,official_final_key,0,,,22,22,0,
-ADRE-2024-G4-P1-HSLC-Q051,ADRE,2024,IV,I,A,51,,"If the Minute hand of a clock traverses an angle of 1808, the angle traversed by the Hour hand
-during the time is :",208,58,108,158,,,,,,,D,,official_final_key,0,,,23,23,0,
-ADRE-2024-G4-P1-HSLC-Q052,ADRE,2024,IV,I,A,52,,The diagonal of a square is 10 cm. The area of the square is :,100 cm²,50 cm²,64 cm²,48 cm²,,,,,,,B,,official_final_key,0,,,23,23,0,
-ADRE-2024-G4-P1-HSLC-Q053,ADRE,2024,IV,I,A,53,,The sum of any two integers is :,always a non-zero positive integer.,always a non-zero negative integer.,always either a non-zero positive or a non-zero negative integer.,"always either a non-zero positive, a non-zero negative integer or 0.",,,,,,,D,,official_final_key,0,,,24,24,0,
-ADRE-2024-G4-P1-HSLC-Q054,ADRE,2024,IV,I,A,54,,The remainder when 2⁶ is divided by 5 is :,0,6,2,4,,,,,,,D,,official_final_key,0,,,25,25,0,
-ADRE-2024-G4-P1-HSLC-Q055,ADRE,2024,IV,I,A,55,,"The square of a smaller number is subtracted from the square of a larger number and the result is
-equal to the difference of the larger and the smaller number. The sum of the two numbers is :",0,2,1,2,,,,,,,C,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G4-P1-HSLC/q055.png,25,25,1,
-ADRE-2024-G4-P1-HSLC-Q056,ADRE,2024,IV,I,A,56,,"The sum of the odd numbers 1, 3, 5,..... upto 15 terms is :",225,125,169,196,,,,,,,A,,official_final_key,0,,,26,26,0,
-ADRE-2024-G4-P1-HSLC-Q057,ADRE,2024,IV,I,A,57,,"The LCM and HCF of two numbers are 24 and 4 respectively. If one of the numbers is 12, then the
-other number is :",20,8,10,6,,,,,,,B,,official_final_key,0,,,26,26,0,
-ADRE-2024-G4-P1-HSLC-Q058,ADRE,2024,IV,I,A,58,,"Let all the months of a year is of 28 days. If January 1 falls on a Monday, then April 28 will fall
-on a :",Friday,Sunday,Monday,Saturday,,,,,,,B,,official_final_key,0,,,26,26,0,
-ADRE-2024-G4-P1-HSLC-Q059,ADRE,2024,IV,I,A,59,,"If m is a digit and the number 46 m 23 is divisible by 9, then the digit m is equal to :",1,0,5,3,,,,,,,D,,official_final_key,0,,,27,27,0,
-ADRE-2024-G4-P1-HSLC-Q060,ADRE,2024,IV,I,A,60,,"A garden has p numbers of trees. Every tree has q number of branches, every branch has r number
+2−5",5,3,8,7,A,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G4-P1-HSLC/q042.png,pdf_text,19,1,
+ADRE-2024-G4-P1-HSLC-Q043,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,43,,Two numbers are in the ratio 3 : 4 and their sum equals 49. The two numbers are :,"16, 33","18, 31","21, 28","24, 25",C,,official_final_key,0,,,pdf_text,20,0,
+ADRE-2024-G4-P1-HSLC-Q044,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,44,,(−1)⁵+(−1)⁶ equals :,1,−1,0,−11,C,,official_final_key,0,,,pdf_text,20,0,
+ADRE-2024-G4-P1-HSLC-Q045,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,45,,The value of 1849 is :,33,43,53,63,B,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G4-P1-HSLC/q045.png,pdf_text,21,1,
+ADRE-2024-G4-P1-HSLC-Q046,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,46,,40% of 60 when added to 60% of 40 would result in :,40,48,60,64,B,,official_final_key,0,,,pdf_text,21,0,
+ADRE-2024-G4-P1-HSLC-Q047,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,47,,Addition of two Roman numbers XIV+IV equals :,XXV,XVIII,XIX,XX,B,,official_final_key,0,,,pdf_text,21,0,
+ADRE-2024-G4-P1-HSLC-Q048,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,48,,(x²−3x−4)÷(x+1)=? (x ≠ −1),x−4,x−3,x−2,x−1,A,,official_final_key,1,math,exams/ADRE/2024/figures/G4-P1-HSLC/q048.png,pdf_text,22,1,
+ADRE-2024-G4-P1-HSLC-Q049,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,49,,"The fractional form of the recurring number 5.121212... is :
+507	517	517	507",90,99,90,99,D,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G4-P1-HSLC/q049.png,pdf_text,22,1,
+ADRE-2024-G4-P1-HSLC-Q050,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,50,,"The total interest accrued on a Principal of ` 1000 over 1 year at compound interest of 10% per
+annum compounded 6 monthly, is :",` 105.20,` 102.20,` 102.50,` 105.50,C,,official_final_key,0,,,pdf_text,22,0,
+ADRE-2024-G4-P1-HSLC-Q051,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,51,,"If the Minute hand of a clock traverses an angle of 1808, the angle traversed by the Hour hand
+during the time is :",208,58,108,158,D,,official_final_key,0,,,pdf_text,23,0,
+ADRE-2024-G4-P1-HSLC-Q052,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,52,,The diagonal of a square is 10 cm. The area of the square is :,100 cm²,50 cm²,64 cm²,48 cm²,B,,official_final_key,0,,,pdf_text,23,0,
+ADRE-2024-G4-P1-HSLC-Q053,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,53,,The sum of any two integers is :,always a non-zero positive integer.,always a non-zero negative integer.,always either a non-zero positive or a non-zero negative integer.,"always either a non-zero positive, a non-zero negative integer or 0.",D,,official_final_key,0,,,pdf_text,24,0,
+ADRE-2024-G4-P1-HSLC-Q054,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,54,,The remainder when 2⁶ is divided by 5 is :,0,6,2,4,D,,official_final_key,0,,,pdf_text,25,0,
+ADRE-2024-G4-P1-HSLC-Q055,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,55,,"The square of a smaller number is subtracted from the square of a larger number and the result is
+equal to the difference of the larger and the smaller number. The sum of the two numbers is :",0,2,1,2,C,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G4-P1-HSLC/q055.png,pdf_text,25,1,
+ADRE-2024-G4-P1-HSLC-Q056,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,56,,"The sum of the odd numbers 1, 3, 5,..... upto 15 terms is :",225,125,169,196,A,,official_final_key,0,,,pdf_text,26,0,
+ADRE-2024-G4-P1-HSLC-Q057,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,57,,"The LCM and HCF of two numbers are 24 and 4 respectively. If one of the numbers is 12, then the
+other number is :",20,8,10,6,B,,official_final_key,0,,,pdf_text,26,0,
+ADRE-2024-G4-P1-HSLC-Q058,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,58,,"Let all the months of a year is of 28 days. If January 1 falls on a Monday, then April 28 will fall
+on a :",Friday,Sunday,Monday,Saturday,B,,official_final_key,0,,,pdf_text,26,0,
+ADRE-2024-G4-P1-HSLC-Q059,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,59,,"If m is a digit and the number 46 m 23 is divisible by 9, then the digit m is equal to :",1,0,5,3,D,,official_final_key,0,,,pdf_text,27,0,
+ADRE-2024-G4-P1-HSLC-Q060,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,60,,"A garden has p numbers of trees. Every tree has q number of branches, every branch has r number
 of sub-branches and every sub-branch has s number of leaves. The total number of leaves in the
-garden is :",p+q+r+s,pq+rs,pqr+s,pqrs,,,,,,,D,,official_final_key,0,,,27,27,0,
-ADRE-2024-G4-P1-HSLC-Q061,ADRE,2024,IV,I,A,61,,The first modern Olympic Games was held in :,Athens,Paris,London,Berlin,,,,,,,A,,official_final_key,0,,,27,27,0,
-ADRE-2024-G4-P1-HSLC-Q062,ADRE,2024,IV,I,A,62,,Which of the following statements is incorrect ?,Thomas Alva Edison was deaf.,Apple is related to discovery of gravity.,The brightest planet as seen from earth is Venus.,The chemical symbol for sodium is Sd.,,,,,,,D,,official_final_key,0,,,28,28,0,
-ADRE-2024-G4-P1-HSLC-Q063,ADRE,2024,IV,I,A,63,,"In a family, the sum of the present ages of the father, mother and the only son is x years. After y
-years, the sum of their ages will be :",3x+y years,3 (x+y) years,x+y years,x+3y years,,,,,,,D,,official_final_key,0,,,29,29,0,
-ADRE-2024-G4-P1-HSLC-Q064,ADRE,2024,IV,I,A,64,,In which field did Bhogeshwar Baruah excel ?,Athletics,Swimming,Badminton,Football,,,,,,,A,,official_final_key,0,,,29,29,0,
-ADRE-2024-G4-P1-HSLC-Q065,ADRE,2024,IV,I,A,65,,The Ramcharitmanas was written by :,Kabir,Veda Vyas,Adi Shankaracharya,Tulsidas,,,,,,,D,,official_final_key,0,,,30,30,0,
-ADRE-2024-G4-P1-HSLC-Q066,ADRE,2024,IV,I,A,66,,In which Continent is the Amazonian Rain Forest found ?,Europe,North America,Africa,South America,,,,,,,D,,official_final_key,0,,,30,30,0,
-ADRE-2024-G4-P1-HSLC-Q067,ADRE,2024,IV,I,A,67,,Which of the following is responsible for converting milk to curd ?,Actinomyces,Lactobacillus,Fusobacteriota,Malassezia,,,,,,,B,,official_final_key,0,,,31,31,0,
-ADRE-2024-G4-P1-HSLC-Q068,ADRE,2024,IV,I,A,68,,Origami is the art of paper folding that originated in :,China,Korea,Japan,Cambodia,,,,,,,C,,official_final_key,0,,,31,31,0,
-ADRE-2024-G4-P1-HSLC-Q069,ADRE,2024,IV,I,A,69,,Near which town is the Da Parbatia gate located ?,Tinsukia,Tezpur,Silchar,Barpeta,,,,,,,B,,official_final_key,0,,,32,32,0,
-ADRE-2024-G4-P1-HSLC-Q070,ADRE,2024,IV,I,A,70,,What is the currency of Indonesia ?,Ringgit,Dinar,Rupiah,Shilling,,,,,,,C,,official_final_key,0,,,32,32,0,
-ADRE-2024-G4-P1-HSLC-Q071,ADRE,2024,IV,I,A,71,,Which country is known as the “Land of Rising Sun” ?,China,Japan,New Zealand,Indonesia,,,,,,,B,,official_final_key,0,,,33,33,0,
-ADRE-2024-G4-P1-HSLC-Q072,ADRE,2024,IV,I,A,72,,Rabindranath Tagore was awarded Nobel Prize in Literature for :,Ghare Baire,Gitimalya,Gitanjali,Gora,,,,,,,C,,official_final_key,0,,,33,33,0,
-ADRE-2024-G4-P1-HSLC-Q073,ADRE,2024,IV,I,A,73,,The highest gallantry award of Indian military during war is :,Maha Vir Chakra,Param Vir Chakra,Ati Vishisht Seva Medal,Ashoka Chakra,,,,,,,B,,official_final_key,0,,,34,34,0,
-ADRE-2024-G4-P1-HSLC-Q074,ADRE,2024,IV,I,A,74,,"August Kranti with “Karenge Ya Marenge” slogan was related to which movement for India’s
-independence ?",Non Cooperation Movement,Quit India Movement,Khilafat Movement,The 1857 Sepoy Mutiney,,,,,,,B,,official_final_key,0,,,34,34,0,
-ADRE-2024-G4-P1-HSLC-Q075,ADRE,2024,IV,I,A,75,,The national flag of which country features a dragon ?,Bhutan,Singapore,Japan,Myanmar,,,,,,,A,,official_final_key,0,,,35,35,0,
-ADRE-2024-G4-P1-HSLC-Q076,ADRE,2024,IV,I,A,76,,Sharp pointed teeth inside human mouth are called :,Molars,Canines,Incisors,Premolars,,,,,,,B,,official_final_key,0,,,35,35,0,
-ADRE-2024-G4-P1-HSLC-Q077,ADRE,2024,IV,I,A,77,,Who conferred the title of Kalaguru to Bishnu Prasad Rabha ?,Rabindranath Tagore,Bishnuram Medhi,Subhas Chandra Bose,Sarvapalli Radhakrishnan,,,,,,,D,,official_final_key,0,,,35,35,0,
-ADRE-2024-G4-P1-HSLC-Q078,ADRE,2024,IV,I,A,78,,"What is situated at the confluence of three streams Sandhya, Lalita and Kanta ?","Vasistha Ashram, near Guwahati","Ajan Pir Dargah, near Sibsagar","Malinithan temple, near Silapathar","Garampani hot water spring, near Golaghat",,,,,,,A,,official_final_key,0,,,36,36,0,
-ADRE-2024-G4-P1-HSLC-Q079,ADRE,2024,IV,I,A,79,,"As on 1st of January, 2022, which of the following is NOT a (administrative) Division of Assam ?",Lower Assam,Barak Valley,Hills and Central Assam,West Assam,,,,,,,D,,official_final_key,0,,,37,37,0,
-ADRE-2024-G4-P1-HSLC-Q080,ADRE,2024,IV,I,A,80,,What is the name of the statue placed near Sardar Sarovar Dam in Gujarat ?,Statue of Liberty,Shakti Vajra,Statue of Unity,Shanti Stambh,,,,,,,C,,official_final_key,0,,,37,37,0,
-ADRE-2024-G4-P1-HSLC-Q081,ADRE,2024,IV,I,A,81,,Which country was involved with India in the Doklam incident of 2017 ?,China,Afghanistan,Bangladesh,Myanmar,,,,,,,A,,official_final_key,0,,,38,38,0,
-ADRE-2024-G4-P1-HSLC-Q082,ADRE,2024,IV,I,A,82,,Which of the following Novels was written by Kanchan Borooah ?,Mrityunjoy,Oximot Jaar Heral Xima,Ontorip,Asol Manuh,,,,,,,B,,official_final_key,0,,,38,38,0,
-ADRE-2024-G4-P1-HSLC-Q083,ADRE,2024,IV,I,A,83,,"Which of the following places of interest has been recently included in UNESCO World Heritage
-Site List ?",Charaideo Moidams,Batadrava Than,Poa Mecca,Sonai Rupai Wildlife Sanctuary,,,,,,,A,,official_final_key,0,,,39,39,0,
-ADRE-2024-G4-P1-HSLC-Q084,ADRE,2024,IV,I,A,84,,"In Assamese literature, who is known as “Ekhud Kokaideu” ?",Nabakanta Baruah,Medini Mohan Choudhury,Kumud Chandra Hazarika,Kamalakanta Bhattacharyya,,,,,,,A,,official_final_key,0,,,39,39,0,
-ADRE-2024-G4-P1-HSLC-Q085,ADRE,2024,IV,I,A,85,,Which of the following airlines does not exist anymore ?,Spicejet,Indigo,East West,Vistara,,,,,,,C,,official_final_key,0,,,40,40,0,
-ADRE-2024-G4-P1-HSLC-Q086,ADRE,2024,IV,I,A,86,,Which sport is the Davis Cup played for ?,Badminton,Table Tennis,Lawn Tennis,Cricket,,,,,,,C,,official_final_key,0,,,40,40,0,
-ADRE-2024-G4-P1-HSLC-Q087,ADRE,2024,IV,I,A,87,,Sunlight helps in producing which Vitamin in a human body ?,Vitamin C,Vitamin B,Vitamin D,Vitamin A,,,,,,,C,,official_final_key,0,,,41,41,0,
-ADRE-2024-G4-P1-HSLC-Q088,ADRE,2024,IV,I,A,88,,"Harihara also known as Hakka, and his brother Bukka Raya, founded which kingdom ?",Chalukya Empire,Vijayanagara Empire,Chola Empire,Hoysale Empire,,,,,,,B,,official_final_key,0,,,41,41,0,
-ADRE-2024-G4-P1-HSLC-Q089,ADRE,2024,IV,I,A,89,,Which of the following is a non-renewable source of energy ?,Wind power,Hydropower,Solar energy,Fossil fuel,,,,,,,D,,official_final_key,0,,,42,42,0,
-ADRE-2024-G4-P1-HSLC-Q090,ADRE,2024,IV,I,A,90,,Saptakanda Ramayan was written by :,Horibor Bipro,Madhava Kandali,Ananta Kandali,Hemo Saraswati,,,,,,,B,,official_final_key,0,,,42,42,0,
-ADRE-2024-G4-P1-HSLC-Q091,ADRE,2024,IV,I,A,91,,"Which of the following countries is NOT a permanent member of the United Nations Security
-Council ?",France,China,India,United States of America,,,,,,,C,,official_final_key,0,,,43,43,0,
-ADRE-2024-G4-P1-HSLC-Q092,ADRE,2024,IV,I,A,92,,Which of the following movies was not released in 2023 ?,Jawan,Animal,Pathaan,The Kashmir Files,,,,,,,D,,official_final_key,0,,,43,43,0,
-ADRE-2024-G4-P1-HSLC-Q093,ADRE,2024,IV,I,A,93,,"As on 1st of January, 2024, who holds the portfolio for External Affairs in Narendra Modi’s Council
-of Ministers ?",Dr. Subrahmanyam Jaishankar,Smt. Nirmala Sitharaman,Smt. Smriti Zubin Irani,Shri Kiren Rijiju,,,,,,,A,,official_final_key,0,,,44,44,0,
-ADRE-2024-G4-P1-HSLC-Q094,ADRE,2024,IV,I,A,94,,Which of the following is NOT an IPL team ?,Delhi Capitals,Gujarat Giants,Sunrisers Hyderabad,Lucknow Super Giants,,,,,,,B,,official_final_key,0,,,45,45,0,
-ADRE-2024-G4-P1-HSLC-Q095,ADRE,2024,IV,I,A,95,,"Which of the following is highest, among ranks of the Indian Army ?",Brigadier,Lieutenant General,Major General,Lieutenant Colonel,,,,,,,B,,official_final_key,0,,,45,45,0,
-ADRE-2024-G4-P1-HSLC-Q096,ADRE,2024,IV,I,A,96,,"What letters would fill the blanks in
-AO__BPP__ __QDR__ __SSFTT",OCREQ,OCQER,OCQRE,ORQCE,,,,,,,C,,official_final_key,0,,,46,46,0,
-ADRE-2024-G4-P1-HSLC-Q097,ADRE,2024,IV,I,A,97,,"Statements : I. Non-metro cities in the country have been suffering due to load shedding
+garden is :",p+q+r+s,pq+rs,pqr+s,pqrs,D,,official_final_key,0,,,pdf_text,27,0,
+ADRE-2024-G4-P1-HSLC-Q061,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,61,,The first modern Olympic Games was held in :,Athens,Paris,London,Berlin,A,,official_final_key,0,,,pdf_text,27,0,
+ADRE-2024-G4-P1-HSLC-Q062,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,62,,Which of the following statements is incorrect ?,Thomas Alva Edison was deaf.,Apple is related to discovery of gravity.,The brightest planet as seen from earth is Venus.,The chemical symbol for sodium is Sd.,D,,official_final_key,0,,,pdf_text,28,0,
+ADRE-2024-G4-P1-HSLC-Q063,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,63,,"In a family, the sum of the present ages of the father, mother and the only son is x years. After y
+years, the sum of their ages will be :",3x+y years,3 (x+y) years,x+y years,x+3y years,D,,official_final_key,0,,,pdf_text,29,0,
+ADRE-2024-G4-P1-HSLC-Q064,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,64,,In which field did Bhogeshwar Baruah excel ?,Athletics,Swimming,Badminton,Football,A,,official_final_key,0,,,pdf_text,29,0,
+ADRE-2024-G4-P1-HSLC-Q065,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,65,,The Ramcharitmanas was written by :,Kabir,Veda Vyas,Adi Shankaracharya,Tulsidas,D,,official_final_key,0,,,pdf_text,30,0,
+ADRE-2024-G4-P1-HSLC-Q066,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,66,,In which Continent is the Amazonian Rain Forest found ?,Europe,North America,Africa,South America,D,,official_final_key,0,,,pdf_text,30,0,
+ADRE-2024-G4-P1-HSLC-Q067,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,67,,Which of the following is responsible for converting milk to curd ?,Actinomyces,Lactobacillus,Fusobacteriota,Malassezia,B,,official_final_key,0,,,pdf_text,31,0,
+ADRE-2024-G4-P1-HSLC-Q068,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,68,,Origami is the art of paper folding that originated in :,China,Korea,Japan,Cambodia,C,,official_final_key,0,,,pdf_text,31,0,
+ADRE-2024-G4-P1-HSLC-Q069,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,69,,Near which town is the Da Parbatia gate located ?,Tinsukia,Tezpur,Silchar,Barpeta,B,,official_final_key,0,,,pdf_text,32,0,
+ADRE-2024-G4-P1-HSLC-Q070,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,70,,What is the currency of Indonesia ?,Ringgit,Dinar,Rupiah,Shilling,C,,official_final_key,0,,,pdf_text,32,0,
+ADRE-2024-G4-P1-HSLC-Q071,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,71,,Which country is known as the “Land of Rising Sun” ?,China,Japan,New Zealand,Indonesia,B,,official_final_key,0,,,pdf_text,33,0,
+ADRE-2024-G4-P1-HSLC-Q072,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,72,,Rabindranath Tagore was awarded Nobel Prize in Literature for :,Ghare Baire,Gitimalya,Gitanjali,Gora,C,,official_final_key,0,,,pdf_text,33,0,
+ADRE-2024-G4-P1-HSLC-Q073,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,73,,The highest gallantry award of Indian military during war is :,Maha Vir Chakra,Param Vir Chakra,Ati Vishisht Seva Medal,Ashoka Chakra,B,,official_final_key,0,,,pdf_text,34,0,
+ADRE-2024-G4-P1-HSLC-Q074,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,74,,"August Kranti with “Karenge Ya Marenge” slogan was related to which movement for India’s
+independence ?",Non Cooperation Movement,Quit India Movement,Khilafat Movement,The 1857 Sepoy Mutiney,B,,official_final_key,0,,,pdf_text,34,0,
+ADRE-2024-G4-P1-HSLC-Q075,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,75,,The national flag of which country features a dragon ?,Bhutan,Singapore,Japan,Myanmar,A,,official_final_key,0,,,pdf_text,35,0,
+ADRE-2024-G4-P1-HSLC-Q076,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,76,,Sharp pointed teeth inside human mouth are called :,Molars,Canines,Incisors,Premolars,B,,official_final_key,0,,,pdf_text,35,0,
+ADRE-2024-G4-P1-HSLC-Q077,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,77,,Who conferred the title of Kalaguru to Bishnu Prasad Rabha ?,Rabindranath Tagore,Bishnuram Medhi,Subhas Chandra Bose,Sarvapalli Radhakrishnan,D,,official_final_key,0,,,pdf_text,35,0,
+ADRE-2024-G4-P1-HSLC-Q078,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,78,,"What is situated at the confluence of three streams Sandhya, Lalita and Kanta ?","Vasistha Ashram, near Guwahati","Ajan Pir Dargah, near Sibsagar","Malinithan temple, near Silapathar","Garampani hot water spring, near Golaghat",A,,official_final_key,0,,,pdf_text,36,0,
+ADRE-2024-G4-P1-HSLC-Q079,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,79,,"As on 1st of January, 2022, which of the following is NOT a (administrative) Division of Assam ?",Lower Assam,Barak Valley,Hills and Central Assam,West Assam,D,,official_final_key,0,,,pdf_text,37,0,
+ADRE-2024-G4-P1-HSLC-Q080,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,80,,What is the name of the statue placed near Sardar Sarovar Dam in Gujarat ?,Statue of Liberty,Shakti Vajra,Statue of Unity,Shanti Stambh,C,,official_final_key,0,,,pdf_text,37,0,
+ADRE-2024-G4-P1-HSLC-Q081,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,81,,Which country was involved with India in the Doklam incident of 2017 ?,China,Afghanistan,Bangladesh,Myanmar,A,,official_final_key,0,,,pdf_text,38,0,
+ADRE-2024-G4-P1-HSLC-Q082,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,82,,Which of the following Novels was written by Kanchan Borooah ?,Mrityunjoy,Oximot Jaar Heral Xima,Ontorip,Asol Manuh,B,,official_final_key,0,,,pdf_text,38,0,
+ADRE-2024-G4-P1-HSLC-Q083,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,83,,"Which of the following places of interest has been recently included in UNESCO World Heritage
+Site List ?",Charaideo Moidams,Batadrava Than,Poa Mecca,Sonai Rupai Wildlife Sanctuary,A,,official_final_key,0,,,pdf_text,39,0,
+ADRE-2024-G4-P1-HSLC-Q084,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,84,,"In Assamese literature, who is known as “Ekhud Kokaideu” ?",Nabakanta Baruah,Medini Mohan Choudhury,Kumud Chandra Hazarika,Kamalakanta Bhattacharyya,A,,official_final_key,0,,,pdf_text,39,0,
+ADRE-2024-G4-P1-HSLC-Q085,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,85,,Which of the following airlines does not exist anymore ?,Spicejet,Indigo,East West,Vistara,C,,official_final_key,0,,,pdf_text,40,0,
+ADRE-2024-G4-P1-HSLC-Q086,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,86,,Which sport is the Davis Cup played for ?,Badminton,Table Tennis,Lawn Tennis,Cricket,C,,official_final_key,0,,,pdf_text,40,0,
+ADRE-2024-G4-P1-HSLC-Q087,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,87,,Sunlight helps in producing which Vitamin in a human body ?,Vitamin C,Vitamin B,Vitamin D,Vitamin A,C,,official_final_key,0,,,pdf_text,41,0,
+ADRE-2024-G4-P1-HSLC-Q088,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,88,,"Harihara also known as Hakka, and his brother Bukka Raya, founded which kingdom ?",Chalukya Empire,Vijayanagara Empire,Chola Empire,Hoysale Empire,B,,official_final_key,0,,,pdf_text,41,0,
+ADRE-2024-G4-P1-HSLC-Q089,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,89,,Which of the following is a non-renewable source of energy ?,Wind power,Hydropower,Solar energy,Fossil fuel,D,,official_final_key,0,,,pdf_text,42,0,
+ADRE-2024-G4-P1-HSLC-Q090,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,90,,Saptakanda Ramayan was written by :,Horibor Bipro,Madhava Kandali,Ananta Kandali,Hemo Saraswati,B,,official_final_key,0,,,pdf_text,42,0,
+ADRE-2024-G4-P1-HSLC-Q091,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,91,,"Which of the following countries is NOT a permanent member of the United Nations Security
+Council ?",France,China,India,United States of America,C,,official_final_key,0,,,pdf_text,43,0,
+ADRE-2024-G4-P1-HSLC-Q092,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,92,,Which of the following movies was not released in 2023 ?,Jawan,Animal,Pathaan,The Kashmir Files,D,,official_final_key,0,,,pdf_text,43,0,
+ADRE-2024-G4-P1-HSLC-Q093,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,93,,"As on 1st of January, 2024, who holds the portfolio for External Affairs in Narendra Modi’s Council
+of Ministers ?",Dr. Subrahmanyam Jaishankar,Smt. Nirmala Sitharaman,Smt. Smriti Zubin Irani,Shri Kiren Rijiju,A,,official_final_key,0,,,pdf_text,44,0,
+ADRE-2024-G4-P1-HSLC-Q094,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,94,,Which of the following is NOT an IPL team ?,Delhi Capitals,Gujarat Giants,Sunrisers Hyderabad,Lucknow Super Giants,B,,official_final_key,0,,,pdf_text,45,0,
+ADRE-2024-G4-P1-HSLC-Q095,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,95,,"Which of the following is highest, among ranks of the Indian Army ?",Brigadier,Lieutenant General,Major General,Lieutenant Colonel,B,,official_final_key,0,,,pdf_text,45,0,
+ADRE-2024-G4-P1-HSLC-Q096,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,96,,"What letters would fill the blanks in
+AO__BPP__ __QDR__ __SSFTT",OCREQ,OCQER,OCQRE,ORQCE,C,,official_final_key,0,,,pdf_text,46,0,
+ADRE-2024-G4-P1-HSLC-Q097,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,97,,"Statements : I. Non-metro cities in the country have been suffering due to load shedding
 for quite some time.
 II. If the Government is not able to overcome the power crisis, load shedding
 will be extended even to the metro cities.
-Which of the following conclusions can be drawn ?",Both Statement I and Statement II are effects of independent causes.,Both Statement I and Statement II are effects of some common cause.,Statement I is the cause and Statement II is its effect.,Statement II is the cause and Statement I is its effect.,,,,,,,B,,official_final_key,0,,,46,46,0,
-ADRE-2024-G4-P1-HSLC-Q098,ADRE,2024,IV,I,A,98,,"Five cadets Charles, Harmit, Om, Piyush and Tapan were asked to pick up one each of the geometric
+Which of the following conclusions can be drawn ?",Both Statement I and Statement II are effects of independent causes.,Both Statement I and Statement II are effects of some common cause.,Statement I is the cause and Statement II is its effect.,Statement II is the cause and Statement I is its effect.,B,,official_final_key,0,,,pdf_text,46,0,
+ADRE-2024-G4-P1-HSLC-Q098,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,98,,"Five cadets Charles, Harmit, Om, Piyush and Tapan were asked to pick up one each of the geometric
 figures : a circle, a pentagon, a trapezoid, a hexagon and an octagon. They had a condition that
 one cannot draw a figure which has a name with same first letter as that person’s name. Om’s
 item has exactly one pair of parallel lines. Charles, Piyush and Tapan picked figures with more
 sides than a quadrilateral. Piyush as well as Tapan’s figures had lesser sides than Charles’figure.
-Who picked up the circle ?",Harmit,Charles,Piyush,Om,,,,,,,A,,official_final_key,0,text_mentions_visual,,47,48,1,
-ADRE-2024-G4-P1-HSLC-Q099,ADRE,2024,IV,I,A,99,,"Soniya drives four km towards the west from her home, where she crosses a bridge. She takes a
+Who picked up the circle ?",Harmit,Charles,Piyush,Om,A,,official_final_key,0,text_mentions_visual,,pdf_text,47,1,
+ADRE-2024-G4-P1-HSLC-Q099,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,99,,"Soniya drives four km towards the west from her home, where she crosses a bridge. She takes a
 left turn and the drives for six kms, till she arrives at the town center. Here she takes left again to
 drive for another twelve kms to reach her office. If she decides to take a shortcut on bicycle, what
-would be the shortest possible distance between her home and office ?",18 km,12 km,9 km,10 km,,,,,,,D,,official_final_key,0,,,48,48,0,
-ADRE-2024-G4-P1-HSLC-Q100,ADRE,2024,IV,I,A,100,,"Of the following words, which would be the last to appear in a standard English dictionary ?",CONTINENT,CONSTANT,CONSIDER,CONTINUE,,,,,,,D,,official_final_key,0,,,49,49,0,
-ADRE-2024-G4-P1-HSLC-Q101,ADRE,2024,IV,I,A,101,,Identify the set that does NOT follow the common rule as others.,2 : 8 : 64,4 : 64 : 216,6 : 216 : 512,5 : 125 : 345,,,,,,,D,,official_final_key,0,,,49,49,0,
-ADRE-2024-G4-P1-HSLC-Q102,ADRE,2024,IV,I,A,102,,"A six-faced regular die always has the total of dots in opposite faces as 7. Four such dice are
+would be the shortest possible distance between her home and office ?",18 km,12 km,9 km,10 km,D,,official_final_key,0,,,pdf_text,48,0,
+ADRE-2024-G4-P1-HSLC-Q100,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,100,,"Of the following words, which would be the last to appear in a standard English dictionary ?",CONTINENT,CONSTANT,CONSIDER,CONTINUE,D,,official_final_key,0,,,pdf_text,49,0,
+ADRE-2024-G4-P1-HSLC-Q101,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,101,,Identify the set that does NOT follow the common rule as others.,2 : 8 : 64,4 : 64 : 216,6 : 216 : 512,5 : 125 : 345,D,,official_final_key,0,,,pdf_text,49,0,
+ADRE-2024-G4-P1-HSLC-Q102,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,102,,"A six-faced regular die always has the total of dots in opposite faces as 7. Four such dice are
 thrown, and the top of them shows 3, 3, 2, 6. What would be the total of the dots in the faces
-touching ground ?",15,14,21,17,,,,,,,B,,official_final_key,0,,,50,50,0,
-ADRE-2024-G4-P1-HSLC-Q103,ADRE,2024,IV,I,A,103,,"What should be the missing number ?
+touching ground ?",15,14,21,17,B,,official_final_key,0,,,pdf_text,50,0,
+ADRE-2024-G4-P1-HSLC-Q103,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,103,,"What should be the missing number ?
 6 9 15
 8 12 ?
-4 6 10",18,16,24,20,,,,,,,D,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G4-P1-HSLC/q103.png,50,50,1,
-ADRE-2024-G4-P1-HSLC-Q104,ADRE,2024,IV,I,A,104,,"Michael needs to go to university for his test. He started from the East and came to a crossing. The
+4 6 10",18,16,24,20,D,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G4-P1-HSLC/q103.png,pdf_text,50,1,
+ADRE-2024-G4-P1-HSLC-Q104,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,104,,"Michael needs to go to university for his test. He started from the East and came to a crossing. The
 road to the left ends in a Railway station, straight ahead is the Museum. In which direction is the
-university ?",South,East,West,North,,,,,,,D,,official_final_key,0,,,51,51,0,
-ADRE-2024-G4-P1-HSLC-Q105,ADRE,2024,IV,I,A,105,,How many milligrams make one kilogram ?,10,10³,10⁴,10⁶,,,,,,,D,,official_final_key,0,,,51,51,0,
-ADRE-2024-G4-P1-HSLC-Q106,ADRE,2024,IV,I,A,106,,Which word features less than four different vowels ?,Promotion,Sustainable,Question,Potential,,,,,,,A,,official_final_key,0,,,52,52,0,
-ADRE-2024-G4-P1-HSLC-Q107,ADRE,2024,IV,I,A,107,,How many squares can be identified in the figure ?,21,18,19,26,,,,,,,A,,official_final_key,1,drawing|text_mentions_visual,exams/ADRE/2024/figures/G4-P1-HSLC/q107.png,52,52,1,
-ADRE-2024-G4-P1-HSLC-Q108,ADRE,2024,IV,I,A,108,,Which of the following is different from others ?,Ammeter,Perimeter,Altimeter,Anemometer,,,,,,,B,,official_final_key,0,,,53,53,0,
-ADRE-2024-G4-P1-HSLC-Q109,ADRE,2024,IV,I,A,109,,"Total age of three friends – John, Johnny and Janardhan, whose birthday is on same day – is 84
-years. What was their total age four years ago ?",72 years,80 years,78 years,76 years,,,,,,,A,,official_final_key,0,,,53,53,0,
-ADRE-2024-G4-P1-HSLC-Q110,ADRE,2024,IV,I,A,110,,Philately is related to :,collection of match box,collection of postage stamps,collection of currency notes,collection of fountain pens,,,,,,,B,,official_final_key,0,,,54,54,0,
-ADRE-2024-G4-P1-HSLC-Q111,ADRE,2024,IV,I,A,111,,"Which two terms would come next in the series :
-24, 26, 35, 63, 48, 124, 63, 215, ?, ?","76, 430","83, 310","99, 511","80, 342",,,,,,,D,,official_final_key,0,,,54,54,0,
-ADRE-2024-G4-P1-HSLC-Q112,ADRE,2024,IV,I,A,112,,"Statements : All pencils are pens.
+university ?",South,East,West,North,D,,official_final_key,0,,,pdf_text,51,0,
+ADRE-2024-G4-P1-HSLC-Q105,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,105,,How many milligrams make one kilogram ?,10,10³,10⁴,10⁶,D,,official_final_key,0,,,pdf_text,51,0,
+ADRE-2024-G4-P1-HSLC-Q106,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,106,,Which word features less than four different vowels ?,Promotion,Sustainable,Question,Potential,A,,official_final_key,0,,,pdf_text,52,0,
+ADRE-2024-G4-P1-HSLC-Q107,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,107,,How many squares can be identified in the figure ?,21,18,19,26,A,,official_final_key,1,drawing|text_mentions_visual,exams/ADRE/2024/figures/G4-P1-HSLC/q107.png,pdf_text,52,1,
+ADRE-2024-G4-P1-HSLC-Q108,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,108,,Which of the following is different from others ?,Ammeter,Perimeter,Altimeter,Anemometer,B,,official_final_key,0,,,pdf_text,53,0,
+ADRE-2024-G4-P1-HSLC-Q109,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,109,,"Total age of three friends – John, Johnny and Janardhan, whose birthday is on same day – is 84
+years. What was their total age four years ago ?",72 years,80 years,78 years,76 years,A,,official_final_key,0,,,pdf_text,53,0,
+ADRE-2024-G4-P1-HSLC-Q110,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,110,,Philately is related to :,collection of match box,collection of postage stamps,collection of currency notes,collection of fountain pens,B,,official_final_key,0,,,pdf_text,54,0,
+ADRE-2024-G4-P1-HSLC-Q111,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,111,,"Which two terms would come next in the series :
+24, 26, 35, 63, 48, 124, 63, 215, ?, ?","76, 430","83, 310","99, 511","80, 342",D,,official_final_key,0,,,pdf_text,54,0,
+ADRE-2024-G4-P1-HSLC-Q112,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,112,,"Statements : All pencils are pens.
 All the pens are inks.
 Conclusions : 1. All the pencils are inks.
-2. Some inks are pencils.",Only 1 conclusion follows,Only 2 conclusion follows,Either conclusion 1 or conclusion 2 follows,Both conclusion 1 and conclusion 2 follow,,,,,,,D,,official_final_key,0,,,55,55,0,
-ADRE-2024-G4-P1-HSLC-Q113,ADRE,2024,IV,I,A,113,,"Identify the next set in the series :
-L3P, R4W, Y5E, G6N, ?",O7V,R7W,Q7W,P7X,,,,,,,D,,official_final_key,0,,,56,56,0,
-ADRE-2024-G4-P1-HSLC-Q114,ADRE,2024,IV,I,A,114,,Identify the incorrect Roman number.,Thirty six : XXXVI,Ninety nine : XCIX,Seventy four : DXXIV,Nine hundred : CM,,,,,,,C,,official_final_key,0,,,56,57,0,
-ADRE-2024-G4-P1-HSLC-Q115,ADRE,2024,IV,I,A,115,,Ramya’s mother is the only daughter of Prachi’s father. How is Prachi’s husband related to Ramya ?,Father,Brother,Paternal uncle,Grandfather,,,,,,,A,,official_final_key,0,,,57,57,0,
-ADRE-2024-G4-P1-HSLC-Q116,ADRE,2024,IV,I,A,116,,Which one of the figures is different from the rest ?,2,4,1,3,,,,,,,C,,official_final_key,1,drawing|text_mentions_visual,exams/ADRE/2024/figures/G4-P1-HSLC/q116.png,57,57,1,
-ADRE-2024-G4-P1-HSLC-Q117,ADRE,2024,IV,I,A,117,,"Which set of letters would fill the gaps in :
-MAK, LEL,	, JON, IUO",JKL,KIN,KIM,JLK,,,,,,,C,,official_final_key,1,drawing|table_layout,exams/ADRE/2024/figures/G4-P1-HSLC/q117.png,58,58,0,
-ADRE-2024-G4-P1-HSLC-Q118,ADRE,2024,IV,I,A,118,,"Which of the following is correct when calculated from left to right, ignoring BODMAS, if the rule
-says, 5+2=3, 5−2=7, 10÷2=20 and 10×2=5 ?",9×3−1÷2=18,5+1÷4−3=19,6×2−1+2=12,7÷2+4−2=14,,,,,,,B,,official_final_key,0,,,58,59,0,
-ADRE-2024-G4-P1-HSLC-Q119,ADRE,2024,IV,I,A,119,,Identify the odd pair.,Pacific : Water,Himalaya : Mountain,Vesuvius : Volcano,Mississippi : River,,,,,,,A,,official_final_key,0,,,59,59,0,
-ADRE-2024-G4-P1-HSLC-Q120,ADRE,2024,IV,I,A,120,,"What mathematical signs can be inserted respectively to get a correct equation (calculated left to
+2. Some inks are pencils.",Only 1 conclusion follows,Only 2 conclusion follows,Either conclusion 1 or conclusion 2 follows,Both conclusion 1 and conclusion 2 follow,D,,official_final_key,0,,,pdf_text,55,0,
+ADRE-2024-G4-P1-HSLC-Q113,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,113,,"Identify the next set in the series :
+L3P, R4W, Y5E, G6N, ?",O7V,R7W,Q7W,P7X,D,,official_final_key,0,,,pdf_text,56,0,
+ADRE-2024-G4-P1-HSLC-Q114,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,114,,Identify the incorrect Roman number.,Thirty six : XXXVI,Ninety nine : XCIX,Seventy four : DXXIV,Nine hundred : CM,C,,official_final_key,0,,,pdf_text,56,0,
+ADRE-2024-G4-P1-HSLC-Q115,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,115,,Ramya’s mother is the only daughter of Prachi’s father. How is Prachi’s husband related to Ramya ?,Father,Brother,Paternal uncle,Grandfather,A,,official_final_key,0,,,pdf_text,57,0,
+ADRE-2024-G4-P1-HSLC-Q116,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,116,,Which one of the figures is different from the rest ?,2,4,1,3,C,,official_final_key,1,drawing|text_mentions_visual,exams/ADRE/2024/figures/G4-P1-HSLC/q116.png,pdf_text,57,1,
+ADRE-2024-G4-P1-HSLC-Q117,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,117,,"Which set of letters would fill the gaps in :
+MAK, LEL,	, JON, IUO",JKL,KIN,KIM,JLK,C,,official_final_key,1,drawing|table_layout,exams/ADRE/2024/figures/G4-P1-HSLC/q117.png,pdf_text,58,0,
+ADRE-2024-G4-P1-HSLC-Q118,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,118,,"Which of the following is correct when calculated from left to right, ignoring BODMAS, if the rule
+says, 5+2=3, 5−2=7, 10÷2=20 and 10×2=5 ?",9×3−1÷2=18,5+1÷4−3=19,6×2−1+2=12,7÷2+4−2=14,B,,official_final_key,0,,,pdf_text,58,0,
+ADRE-2024-G4-P1-HSLC-Q119,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,119,,Identify the odd pair.,Pacific : Water,Himalaya : Mountain,Vesuvius : Volcano,Mississippi : River,A,,official_final_key,0,,,pdf_text,59,0,
+ADRE-2024-G4-P1-HSLC-Q120,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,120,,"What mathematical signs can be inserted respectively to get a correct equation (calculated left to
 right ignoring BODMAS) ?
-65 c 30 c 7 c 15 c 5 =15","−, ÷, +, −","−, ×, +, −","+, −, ×, ÷","+, ÷, −, −",,,,,,,A,,official_final_key,0,,,60,60,0,
-ADRE-2024-G4-P1-HSLC-Q121,ADRE,2024,IV,I,A,121,,What would replace ?? in the triangle set ?,9,11,10,12,,,,,,,C,,official_final_key,1,drawing,exams/ADRE/2024/figures/G4-P1-HSLC/q121.png,60,61,0,
-ADRE-2024-G4-P1-HSLC-Q122,ADRE,2024,IV,I,A,122,,Which of the following words is correctly spelt ?,Jeography,Jeometry,Jeopardy,Jeology,,,,,,,C,,official_final_key,0,,,62,62,0,
-ADRE-2024-G4-P1-HSLC-Q123,ADRE,2024,IV,I,A,123,,What would be the Arabic numeral for MMCDXLVII ?,"2,567","2,457","2,477","2,447",,,,,,,D,,official_final_key,0,,,62,62,0,
-ADRE-2024-G4-P1-HSLC-Q124,ADRE,2024,IV,I,A,124,,"If ROCKET is written as TQEMGV, then what would be the last letter when RAINBOW is written
-by the same code ?",Z,Y,A,U,,,,,,,B,,official_final_key,0,,,62,62,0,
-ADRE-2024-G4-P1-HSLC-Q125,ADRE,2024,IV,I,A,125,,What would be the digit exactly in the middle when 65749 is subtracted from twice of itself ?,9,2,7,8,,,,,,,C,,official_final_key,0,,,63,63,0,
-ADRE-2024-G4-P1-HSLC-Q126,ADRE,2024,IV,I,A,126,,"Raj has to catch a train at fifteen minutes past three in the afternoon. What would be the time on
-a 24-hours scale ?",03:15 hours,15:15 hours,13:15 hours,23:15 hours,,,,,,,B,,official_final_key,0,,,63,63,0,
-ADRE-2024-G4-P1-HSLC-Q127,ADRE,2024,IV,I,A,127,,"If 9 < x² < 25, then the correct value/values of x is/are :","3, 4, 5","4, 5","3, 4",4,,,,,,,D,,official_final_key,0,,,64,64,0,
-ADRE-2024-G4-P1-HSLC-Q128,ADRE,2024,IV,I,A,128,,"What would be the middlemost digit in the smallest number that can be made using all the digits
-of 8936217 ?",3,6,7,9,,,,,,,B,,official_final_key,0,,,64,64,0,
-ADRE-2024-G4-P1-HSLC-Q129,ADRE,2024,IV,I,A,129,,"Lohit walks from Black to Pink, which are 9 meters apart. At Pink, he takes a right turn and walks
+65 c 30 c 7 c 15 c 5 =15","−, ÷, +, −","−, ×, +, −","+, −, ×, ÷","+, ÷, −, −",A,,official_final_key,0,,,pdf_text,60,0,
+ADRE-2024-G4-P1-HSLC-Q121,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,121,,What would replace ?? in the triangle set ?,9,11,10,12,C,,official_final_key,1,drawing,exams/ADRE/2024/figures/G4-P1-HSLC/q121.png,pdf_text,60,0,
+ADRE-2024-G4-P1-HSLC-Q122,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,122,,Which of the following words is correctly spelt ?,Jeography,Jeometry,Jeopardy,Jeology,C,,official_final_key,0,,,pdf_text,62,0,
+ADRE-2024-G4-P1-HSLC-Q123,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,123,,What would be the Arabic numeral for MMCDXLVII ?,"2,567","2,457","2,477","2,447",D,,official_final_key,0,,,pdf_text,62,0,
+ADRE-2024-G4-P1-HSLC-Q124,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,124,,"If ROCKET is written as TQEMGV, then what would be the last letter when RAINBOW is written
+by the same code ?",Z,Y,A,U,B,,official_final_key,0,,,pdf_text,62,0,
+ADRE-2024-G4-P1-HSLC-Q125,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,125,,What would be the digit exactly in the middle when 65749 is subtracted from twice of itself ?,9,2,7,8,C,,official_final_key,0,,,pdf_text,63,0,
+ADRE-2024-G4-P1-HSLC-Q126,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,126,,"Raj has to catch a train at fifteen minutes past three in the afternoon. What would be the time on
+a 24-hours scale ?",03:15 hours,15:15 hours,13:15 hours,23:15 hours,B,,official_final_key,0,,,pdf_text,63,0,
+ADRE-2024-G4-P1-HSLC-Q127,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,127,,"If 9 < x² < 25, then the correct value/values of x is/are :","3, 4, 5","4, 5","3, 4",4,D,,official_final_key,0,,,pdf_text,64,0,
+ADRE-2024-G4-P1-HSLC-Q128,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,128,,"What would be the middlemost digit in the smallest number that can be made using all the digits
+of 8936217 ?",3,6,7,9,B,,official_final_key,0,,,pdf_text,64,0,
+ADRE-2024-G4-P1-HSLC-Q129,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,129,,"Lohit walks from Black to Pink, which are 9 meters apart. At Pink, he takes a right turn and walks
 4 meters to Blue. He takes another right turn and walks a distance of 9 meters to Red. At Red he
-takes a left turn and walks 2 meters. How far is Lohit away from Black ?",4 meters,13 meters,22 meters,6 meters,,,,,,,D,,official_final_key,0,,,65,65,0,
-ADRE-2024-G4-P1-HSLC-Q130,ADRE,2024,IV,I,A,130,,Identify the word with no pair of consecutive letters placed together.,Alphabet,Partner,Rightness,Station,,,,,,,B,,official_final_key,0,,,65,65,0,
-ADRE-2024-G4-P1-HSLC-Q131,ADRE,2024,IV,I,A,131,,"If A=26, B=25, and so on till Z=1, then what would be the sum of STAR ?",32,67,50,55,,,,,,,C,,official_final_key,0,,,66,66,0,
-ADRE-2024-G4-P1-HSLC-Q132,ADRE,2024,IV,I,A,132,,Which of the following is NOT of the same set ?,Cash Payment,Mobile Banking,Debit Card,Net Banking,,,,,,,A,,official_final_key,0,,,66,66,0,
-ADRE-2024-G4-P1-HSLC-Q133,ADRE,2024,IV,I,A,133,,Identify the word which cannot be made from CARBOHYDRATE.,AHEAD,RETRO,YACHT,HYPER,,,,,,,D,,official_final_key,0,,,67,67,0,
-ADRE-2024-G4-P1-HSLC-Q134,ADRE,2024,IV,I,A,134,,"Which of the four given sequences would be meaningful for the words ?
-1. House 2. Street 3. Room 4. Town 5. District","3, 1, 2, 4, 5","5, 4, 1, 3, 2","3, 1, 4, 2, 5","5, 4, 3, 1, 2",,,,,,,A,,official_final_key,0,,,67,67,0,
-ADRE-2024-G4-P1-HSLC-Q135,ADRE,2024,IV,I,A,135,,"If the code for WATER is 67 and for DRINK is 56, then the code for RIVER is :",48,98,72,35,,,,,,,C,,official_final_key,0,,,68,68,0,
+takes a left turn and walks 2 meters. How far is Lohit away from Black ?",4 meters,13 meters,22 meters,6 meters,D,,official_final_key,0,,,pdf_text,65,0,
+ADRE-2024-G4-P1-HSLC-Q130,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,130,,Identify the word with no pair of consecutive letters placed together.,Alphabet,Partner,Rightness,Station,B,,official_final_key,0,,,pdf_text,65,0,
+ADRE-2024-G4-P1-HSLC-Q131,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,131,,"If A=26, B=25, and so on till Z=1, then what would be the sum of STAR ?",32,67,50,55,C,,official_final_key,0,,,pdf_text,66,0,
+ADRE-2024-G4-P1-HSLC-Q132,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,132,,Which of the following is NOT of the same set ?,Cash Payment,Mobile Banking,Debit Card,Net Banking,A,,official_final_key,0,,,pdf_text,66,0,
+ADRE-2024-G4-P1-HSLC-Q133,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,133,,Identify the word which cannot be made from CARBOHYDRATE.,AHEAD,RETRO,YACHT,HYPER,D,,official_final_key,0,,,pdf_text,67,0,
+ADRE-2024-G4-P1-HSLC-Q134,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,134,,"Which of the four given sequences would be meaningful for the words ?
+1. House 2. Street 3. Room 4. Town 5. District","3, 1, 2, 4, 5","5, 4, 1, 3, 2","3, 1, 4, 2, 5","5, 4, 3, 1, 2",A,,official_final_key,0,,,pdf_text,67,0,
+ADRE-2024-G4-P1-HSLC-Q135,ADRE,2024,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,135,,"If the code for WATER is 67 and for DRINK is 56, then the code for RIVER is :",48,98,72,35,C,,official_final_key,0,,,pdf_text,68,0,

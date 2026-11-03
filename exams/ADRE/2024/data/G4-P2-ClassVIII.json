@@ -4,3135 +4,2010 @@
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 1,
-  "context_en": null,
-  "question_en": "Which of the following countries does Brazil not share international boundary\nwith?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following countries does Brazil not share international boundary\nwith?",
+  "options": {
    "A": "Chile",
    "B": "Argentina",
    "C": "Paraguay",
    "D": "Peru"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 6,
-  "page_as": 6,
+  "page": 6,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[>³—[º[Jt¡ ëA¡à>J> ëƒÅ¹ íÎìt¡ ¤øà[\\ìº \"à”\\z ¢à[t¡A¡ Îã³à ÑšÅ¢ >A¡ì¹?",
-   "options": {
-    "A": "[W¡[º",
-    "B": "\"àì\\¢[si¡>à",
-    "C": "ëš¹àP¡ì¯",
-    "D": "ëš¹ç¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Bold",
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 6
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q002",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 2,
-  "context_en": null,
-  "question_en": "Who is considered as ‘the father of zero’ ?",
-  "options_en": {
+  "context": null,
+  "question": "Who is considered as ‘the father of zero’ ?",
+  "options": {
    "A": "Chitragupta",
    "B": "Brahmadutta",
    "C": "Varahamihira",
    "D": "Aryabhatta"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 6,
-  "page_as": 6,
+  "page": 6,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ëA¡à>K¹àA¡ã ¤¸[v¡û¡A¡ Åè>¸¹ \\>A¡ ¹ê¡ìš [¤ì¤W¡>à A¡¹à ÒÚ?",
-   "options": {
-    "A": "[W¡yP¡œ¡",
-    "B": "¤øÕ¡ƒv¡",
-    "C": "¤¹àÒ[³[Ò¹",
-    "D": "\"à™¢®¡j¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 6
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q003",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 3,
-  "context_en": null,
-  "question_en": "Between which two major water bodies does the Suez Canal lie?",
-  "options_en": {
+  "context": null,
+  "question": "Between which two major water bodies does the Suez Canal lie?",
+  "options": {
    "A": "Mediterranean Sea and Atlantic Ocean",
    "B": "Atlantic Ocean and Pacific Ocean",
    "C": "Mediterranean Sea and Red Sea",
    "D": "Arabian Sea and Bay of Bengal"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 7,
-  "page_as": 7,
+  "page": 7,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Wå¡ì¯\\ Jàº ëA¡à> ƒåi¡à šø‹à> \\º®¡àK¹ ³à\\t¡ \"¯Ñ‚à> A¡ì¹?",
-   "options": {
-    "A": "®è¡³‹¸ÎàK¹ \"à¹ç¡ \"ài¡ºà[si¡A¡ ³ÒàÎàK¹",
-    "B": "\"ài¡ºà[si¡A¡ ³ÒàÎàK¹ \"à¹ç¡ šøÅà”z ³ÒàÎàK¹",
-    "C": "®¡è³‹¸ÎàK¹ \"à¹ç¡ ëºà[Òt¡ÎàK¹",
-    "D": "\"à¹¤ÎàK¹ \"à¹ç¡ ¤ìUàšÎàK¹"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 7
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q004",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 4,
-  "context_en": null,
-  "question_en": "The Ajan Peer Dargah is located in which district of Assam?",
-  "options_en": {
+  "context": null,
+  "question": "The Ajan Peer Dargah is located in which district of Assam?",
+  "options": {
    "A": "Dhemaji",
    "B": "Sivasagar",
    "C": "Jorhat",
    "D": "Dibrugarh"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 7,
-  "page_as": 7,
+  "page": 7,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "\"Î³¹ ëA¡à>J> [\\ºàt¡ \"à\\à> šã¹¹ ƒ¹KàÒ \"¯[Ñ‚t¡?",
-   "options": {
-    "A": "ë‹³à[\\",
-    "B": "[Å¯ÎàK¹",
-    "C": "ë™à¹Òài¡",
-    "D": "[l¡¤øåKØl¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 7
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q005",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 5,
-  "context_en": null,
-  "question_en": "Who discovered Penicillin?",
-  "options_en": {
+  "context": null,
+  "question": "Who discovered Penicillin?",
+  "options": {
    "A": "Edward Jenner",
    "B": "Alexander Fleming",
    "C": "Louis Pasteur",
    "D": "Isaac Newton"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 8,
-  "page_as": 8,
+  "page": 8,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ëš[>[W¡[º> ëA¡àì> \"à[¯ÍHà¹ A¡[¹[áº?",
-   "options": {
-    "A": "&l¡¯àl¢¡ ë\\>à¹",
-    "B": "\"àìºA¡ì\\r¡à¹ ëóÃ¡[³R¡",
-    "C": "ºåÒü šàÑñ¹",
-    "D": "\"àÒü\\àA¡ [>l¡üi¡>"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 8
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q006",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 6,
-  "context_en": null,
-  "question_en": "As on January 1, 2024, who is the Chairman and Managing Director of the\nReliance Group?",
-  "options_en": {
+  "context": null,
+  "question": "As on January 1, 2024, who is the Chairman and Managing Director of the\nReliance Group?",
+  "options": {
    "A": "Dhirubhai Ambani",
    "B": "Anil Ambani",
    "C": "Akash Ambani",
    "D": "Mukesh Ambani"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 8,
-  "page_as": 8,
+  "page": 8,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "2024 ¤È¢¹ 1 \\à>¯å à¹ã ÎàìšìÛ¡ [¹ºàìÚX Nøç¡š¹ \"‹¸Û¡ \"à¹ç¡ š[¹W¡àº> Îe¡àºA¡ ëA¡à>?",
-   "options": {
-    "A": "‹ã¹ç¡®¡àÒü \"à´¬à>ã",
-    "B": "\"[>º \"à´¬à>ã",
-    "C": "\"àA¡àÅ \"à´¬à>ã",
-    "D": "³åìA¡Å \"à´¬à>ã"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 8
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q007",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 7,
-  "context_en": null,
-  "question_en": "The 2024 Summer Olympics was held in",
-  "options_en": {
+  "context": null,
+  "question": "The 2024 Summer Olympics was held in",
+  "options": {
    "A": "Tokyo",
    "B": "London",
    "C": "Paris",
    "D": "Seoul"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 9,
-  "page_as": 9,
+  "page": 9,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "2024 ¤È¢¹ NøãÍ¶A¡àºã> \"[º[´šA¡ \">å[Ë¡t¡ íÒ[áº",
-   "options": {
-    "A": "i¡’[A¡\"’t¡",
-    "B": "ºr¡>t¡",
-    "C": "ëš[¹át¡",
-    "D": "[ál¡üºt¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 9
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q008",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 8,
-  "context_en": null,
-  "question_en": "By which community of Assam is the Tusu Puja celebrated?",
-  "options_en": {
+  "context": null,
+  "question": "By which community of Assam is the Tusu Puja celebrated?",
+  "options": {
    "A": "Tai-Ahom",
    "B": "Sonowal Kachari",
    "C": "Tea garden community",
    "D": "Karbi"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 9,
-  "page_as": 9,
+  "page": 9,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "iå¡áå šè\\à \"Î³¹ ëA¡à> \\>ìKàË¡ãìÚ šàº> A¡ì¹?",
-   "options": {
-    "A": "i¡àÒü-\"àìÒà³",
-    "B": "ëÎàìoà¯àº A¡áà¹ã",
-    "C": "W¡àÒ \\>ìKàË¡ã",
-    "D": "A¡à[¤¢"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 9
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q009",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 9,
-  "context_en": null,
-  "question_en": "Arjuna Award is awarded for excellence in",
-  "options_en": {
+  "context": null,
+  "question": "Arjuna Award is awarded for excellence in",
+  "options": {
    "A": "sports",
    "B": "cinema",
    "C": "literature",
    "D": "tribal art"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 10,
-  "page_as": 10,
+  "page": 10,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ëA¡à> ëÛ¡yt¡ ëÅøË¡Œ šøƒÅ¢>¹ ¤àì¤ \"\\¢å> ¤òi¡à šøƒà> A¡¹à ÒÚ?",
-   "options": {
-    "A": "yû¡ãØl¡à",
-    "B": "[W¡ì>³à",
-    "C": "Îà[Òt¡¸",
-    "D": "\\>\\àt¡ãÚ [W¡yA¡ºà"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 10
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q010",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 10,
-  "context_en": null,
-  "question_en": "Leonardo da Vinci was from which country?",
-  "options_en": {
+  "context": null,
+  "question": "Leonardo da Vinci was from which country?",
+  "options": {
    "A": "France",
    "B": "Germany",
    "C": "England",
    "D": "Italy"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 10,
-  "page_as": 10,
+  "page": 10,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[º*>àìl¢¡à ƒ¸ [®¡[X ëA¡à>J> ëƒÅ¹ \"à[áº?",
-   "options": {
-    "A": "óø¡àX",
-    "B": "\\à³¢à>ã",
-    "C": "Òü}ºr¡",
-    "D": "Òüi¡àºã"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 10
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q011",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 11,
-  "context_en": null,
-  "question_en": "Which of the following is a hill district of Assam?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is a hill district of Assam?",
+  "options": {
    "A": "Cachar",
    "B": "Dima Hasao",
    "C": "Karimganj",
    "D": "Golaghat"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 11,
-  "page_as": 11,
+  "page": 11,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[>³—[º[Jt¡Î³èÒ¹ ëA¡à>J> \"Î³¹ &A¡ šà¤¢t¡¸ [\\ºà?",
-   "options": {
-    "A": "A¡àáà¹",
-    "B": "[l¡³à Òàáà*",
-    "C": "A¡[¹³Kg",
-    "D": "ëKàºàQài¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 11
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q012",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 12,
-  "context_en": null,
-  "question_en": "Who is known as the ‘Iron Man of India’ ?",
-  "options_en": {
+  "context": null,
+  "question": "Who is known as the ‘Iron Man of India’ ?",
+  "options": {
    "A": "Mahatma Gandhi",
    "B": "Sardar Vallabhbhai Patel",
    "C": "Ishwar Chandra Vidyasagar",
    "D": "Radha Govinda Baruah"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 11,
-  "page_as": 11,
+  "page": 11,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ëA¡à>K¹àA¡ã ¤¸[v¡û¡A¡ ‘®¡à¹t¡¹ ëºïÒ³à>¯’ ¤å[º \\>à ™àÚ?",
-   "options": {
-    "A": "³Òàuà KàÞê¡ã",
-    "B": "W¡ƒ¢à¹ ¤À®¡®¡àÒü ëšìi¡º",
-    "C": "#Å«¹W¡–ƒø [¤ƒ¸àÎàK¹",
-    "D": "¹à‹àìKà[¤–ƒ ¤¹ç¡¯à"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 11
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q013",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 13,
-  "context_en": null,
-  "question_en": "How many spokes are there in the Chakra of our National Flag?",
-  "options_en": {
+  "context": null,
+  "question": "How many spokes are there in the Chakra of our National Flag?",
+  "options": {
    "A": "24",
    "B": "36",
    "C": "18",
    "D": "32"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 12,
-  "page_as": 12,
+  "page": 12,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "\"à³à¹ ¹àÊ¡öãÚ št¡àA¡à¹ W¡yû¡t¡ [A¡³à>l¡àº ƒr¡ \"àìá?",
-   "options": {
-    "A": "24 l¡àº",
-    "B": "36 l¡àº",
-    "C": "18 l¡àº",
-    "D": "32 l¡àº"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 12
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q014",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 14,
-  "context_en": null,
-  "question_en": "Who is presently the Supreme Commander of the Defence Forces of India?",
-  "options_en": {
+  "context": null,
+  "question": "Who is presently the Supreme Commander of the Defence Forces of India?",
+  "options": {
    "A": "Narendra Modi",
    "B": "Rajnath Singh",
    "C": "Droupadi Murmu",
    "D": "Anil Chauhan"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 12,
-  "page_as": 12,
+  "page": 12,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¤t¢¡³à> ®¡à¹t¡¹ šø[t¡¹Û¡à ¤à[Ò>ã¹ Î¤¢à[‹>àÚA¡ ëA¡à>?",
-   "options": {
-    "A": ">ì¹–ƒø ë³àƒã",
-    "B": "¹à\\>à= [Î}",
-    "C": "ë‰ïšƒã ³å³¢å",
-    "D": "\"[>º ëW¡ïÒà>"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 12
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q015",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 15,
-  "context_en": null,
-  "question_en": "As on 1st of January, 2024, which two countries are at war?",
-  "options_en": {
+  "context": null,
+  "question": "As on 1st of January, 2024, which two countries are at war?",
+  "options": {
    "A": "Israel and Saudi Arabia",
    "B": "Russia and Ukraine",
    "C": "India and Pakistan",
    "D": "North Korea and Vietnam"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 13,
-  "page_as": 13,
+  "page": 13,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "2024 ¤È¢¹ 1 \\à>¯å à¹ã ÎàìšìÛ¡ ëA¡à> ƒåJ> ëƒÅ ™‡å ý¡¹t¡ íÒ \"àìá?",
-   "options": {
-    "A": "Òü\\¹àÒüº \"à¹ç¡ ëW¡ï[ƒ \"à¹¤",
-    "B": "¹à[áÚà \"à¹ç¡ Òlü ¡üìyû¡Ò>ü",
-    "C": "®¡à¹t¡ \"à¹ç¡ šà[A¡Ñzà>",
-    "D": "l¡üv¡¹ ëA¡à[¹Úà \"à¹ç¡ [®¡ìÚi¡>à³"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 13
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q016",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 16,
-  "context_en": null,
-  "question_en": "Which of the following countries has ‘Ngultrum’ as its currency?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following countries has ‘Ngultrum’ as its currency?",
+  "options": {
    "A": "Myanmar",
    "B": "Indonesia",
    "C": "Bhutan",
    "D": "Vietnam"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 13,
-  "page_as": 13,
+  "page": 13,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "P¡ºi¡ö³ (Ngultrum) ëA¡à>J> ëƒÅ¹ ³å‰à¹ >à³?",
-   "options": {
-    "A": "³¸à>³à¹",
-    "B": "Òüìr¡àì>[áÚà",
-    "C": "®è¡i¡à>",
-    "D": "[®¡ìÚi¡>à³"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 13
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q017",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 17,
-  "context_en": null,
-  "question_en": "In which sport did Lovlina Borgohain win an Olympic medal?",
-  "options_en": {
+  "context": null,
+  "question": "In which sport did Lovlina Borgohain win an Olympic medal?",
+  "options": {
    "A": "Wrestling",
    "B": "Judo",
    "C": "Taekwondo",
    "D": "Boxing"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 14,
-  "page_as": 14,
+  "page": 14,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ëA¡à>ìi¡à ëJºt¡ ºà®¡[º>à ¤¹ìKàÒòàìÚ \"[º[´šA¡ šƒA¡ ºà®¡ A¡[¹[áº?",
-   "options": {
-    "A": "³À™åò\\",
-    "B": "\\åìl¡à",
-    "C": "i¡àÒüìA¡à¯àìr¡à",
-    "D": "³å[Ê¡™å‡ý¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 14
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q018",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 18,
-  "context_en": null,
-  "question_en": "The poem collection Xugondhi Pokhila was written by",
-  "options_en": {
+  "context": null,
+  "question": "The poem collection Xugondhi Pokhila was written by",
+  "options": {
    "A": "Nabakanta Baruah",
    "B": "Hiren Bhattacharyya",
    "C": "Nirmal Prabha Bordoloi",
    "D": "Nalinidhar Bhattacharyya"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 14,
-  "page_as": 14,
+  "page": 14,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "‘ÎåK[Þê¡ š[Jºà’ >à³¹ A¡[¤t¡à-Î}A¡º>J>¹ ¹W¡[Út¡à íÒìá",
-   "options": {
-    "A": ">¯A¡à” z ¤¹ç¡¯à",
-    "B": "Òãì¹> ®¡j¡àW¡à™¢",
-    "C": "[>³¢ºšø®¡à ¤¹ƒîº",
-    "D": ">[º>ã‹¹ ®¡j¡àW¡à™¢"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 14
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q019",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 19,
-  "context_en": null,
-  "question_en": "Which sport is the term ‘Ring’ associated with?",
-  "options_en": {
+  "context": null,
+  "question": "Which sport is the term ‘Ring’ associated with?",
+  "options": {
    "A": "Boxing",
    "B": "Football",
    "C": "Swimming",
    "D": "Volleyball"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 15,
-  "page_as": 15,
+  "page": 15,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "‘[¹}’ Å¦ìi¡à ëA¡à>[¤‹ ëJº¹ íÎìt¡ \\[Øl¡t¡?",
-   "options": {
-    "A": "³å[Ê¡™å‡ý¡",
-    "B": "óå¡i¡¤º",
-    "C": "Îòàìt¡à¹",
-    "D": "®¡ºã¤º"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 15
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q020",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 20,
-  "context_en": null,
-  "question_en": "Which of the following movies was not made by Bhabendra Nath Saikia?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following movies was not made by Bhabendra Nath Saikia?",
+  "options": {
    "A": "Krishnachura",
    "B": "Agnisnaan",
    "C": "Kolahal",
    "D": "Sandhya Raag"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 15,
-  "page_as": 15,
+  "page": 15,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[>³—[º[Jt¡ ëA¡à>J> ë¤àºá[¤ ®¡ì¤–ƒø >à= ÅÒüA¡ãÚà ëƒì¯ [>³¢ào A¡¹à >à[áº?",
-   "options": {
-    "A": "‘Aõ¡Ì¡Wè¡Øl¡à’",
-    "B": "‘\"[N—Ñ•à>’",
-    "C": "‘ëA¡àºàÒº’",
-    "D": "‘ÎÞê¡¸à ¹àK’"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Bold",
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 15
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q021",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 21,
-  "context_en": null,
-  "question_en": "As on December 31, 2023, which of the following was the highest denomination\ncurrency note of India?",
-  "options_en": {
+  "context": null,
+  "question": "As on December 31, 2023, which of the following was the highest denomination\ncurrency note of India?",
+  "options": {
    "A": "₹2,000",
    "B": "₹1,000",
    "C": "₹20,000",
    "D": "₹5,000"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 16,
-  "page_as": 16,
+  "page": 16,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "2023 W¡>¹ 31 [l¡ìW¡´¬¹ ÎàìšìÛ¡ ®¡à¹t¡t¡ šøW¡[ºt¡ Î¤¢à[‹A¡ ³èº¸¹ ³å‰à ë>ài¡ ëA¡à>J>?",
-   "options": {
-    "A": "₹2,000",
-    "B": "₹1,000",
-    "C": "₹20,000",
-    "D": "₹5,000"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 16
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q022",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 22,
-  "context_en": null,
-  "question_en": "‘Dokhona’ is the traditional dress for women of which community?",
-  "options_en": {
+  "context": null,
+  "question": "‘Dokhona’ is the traditional dress for women of which community?",
+  "options": {
    "A": "Tiwa",
    "B": "Khamti",
    "C": "Muttock",
    "D": "Bodo"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 17,
-  "page_as": 17,
+  "page": 17,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "‘ƒJ>à’ ëA¡à> Î´ßƒàÚ¹ ³[ÒºàÎA¡º¹ š¹´š¹àKt¡ Îà\\-ëšàáàA¡?",
-   "options": {
-    "A": "[t¡¯à",
-    "B": "Jà³ô[t¡",
-    "C": "³i¡A¡",
-    "D": "¤ìØl¡à"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 17
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q023",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 23,
-  "context_en": null,
-  "question_en": "Maniram Dewan was involved in which of the following?",
-  "options_en": {
+  "context": null,
+  "question": "Maniram Dewan was involved in which of the following?",
+  "options": {
    "A": "Peasants Uprising of Patharughat",
    "B": "Phulaguri Dhewa",
    "C": "1857 Rebellion",
    "D": "Quit India Movement"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 17,
-  "page_as": 17,
+  "page": 17,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "³[o¹à³ ëƒ¯à> [>³—[º[Jt¡ ëA¡à>ìi¡à¹ ºKt¡ \\[Øl¡t¡ \"à[áº?",
-   "options": {
-    "A": "š=¹ç¡Qài¡¹ Aõ¡ÈA¡ [¤ì‰àÒ",
-    "B": "óå¡ºP¡[¹¹ ë‹¯à",
-    "C": "1857 W¡>¹ [¤ì‰àÒ",
-    "D": "®¡à¹t¡ t¡¸àK \"àì–ƒàº>"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 17
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q024",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 24,
-  "context_en": null,
-  "question_en": "Name the State in which the Thar Desert is located.",
-  "options_en": {
+  "context": null,
+  "question": "Name the State in which the Thar Desert is located.",
+  "options": {
    "A": "Punjab",
    "B": "Haryana",
    "C": "Rajasthan",
    "D": "Maharashtra"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 18,
-  "page_as": 18,
+  "page": 18,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "=¹ ³¹ç¡®è¡[³ ëA¡à> ¹à\\¸t¡ \"¯[Ñ‚t¡?",
-   "options": {
-    "A": "šgà¯",
-    "B": "Òà[¹Úà>à",
-    "C": "¹à\\Ñ‚à>",
-    "D": "³Òà¹àÊ¡ö"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 18
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q025",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 25,
-  "context_en": null,
-  "question_en": "Looking from Assam, in which general direction is New Delhi located?",
-  "options_en": {
+  "context": null,
+  "question": "Looking from Assam, in which general direction is New Delhi located?",
+  "options": {
    "A": "North-East",
    "B": "West",
    "C": "South-West",
    "D": "South"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 18,
-  "page_as": 18,
+  "page": 18,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "\"Î³¹ š¹à ºÛ¡¸ A¡[¹ìº, >tå¡> [ƒÀã ëA¡à> [ƒÅt¡ \"¯[Ñ‚t¡?",
-   "options": {
-    "A": "l¡üv¡¹-šè¤",
-    "B": "š[ÆW¡³",
-    "C": "ƒ[Û¡o-š[ÆW¡³",
-    "D": "ƒ[Û¡o"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 18
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q026",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 26,
-  "context_en": null,
-  "question_en": "“A person who sets up a business, taking on financial risk in the hope of profit”\nis termed as",
-  "options_en": {
+  "context": null,
+  "question": "“A person who sets up a business, taking on financial risk in the hope of profit”\nis termed as",
+  "options": {
    "A": "capitalist",
    "B": "entrepreneur",
    "C": "businessman",
    "D": "investor"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 19,
-  "page_as": 19,
+  "page": 19,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "‘‘ºà®¡¹ \"àÅàì¹ [¤v¡ãÚ [¤šƒàÅ}A¡à ¤Ò> A¡[¹ [™ ¤¸[v¡û¡ìÚ ¤¸¯ÎàÚ Ñ‚àš> A¡ì¹’’ ët¡*òA¡ ë¤àºà ÒÚ",
-   "options": {
-    "A": "šåò[\\š[t¡",
-    "B": "l¡üìƒ¸àKã",
-    "C": "¤¸¯ÎàÚã",
-    "D": "[¤[>ìÚàKA¡à¹ã"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 19
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q027",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 27,
-  "context_en": null,
-  "question_en": "Which of the following rivers flows from South to North?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following rivers flows from South to North?",
+  "options": {
    "A": "Subansiri",
    "B": "Manas",
    "C": "Kopili",
    "D": "Ranganadi"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 19,
-  "page_as": 19,
+  "page": 19,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[>³—[º[Jt¡ ëA¡à>J> >ƒã ƒ[Û¡o¹ š¹à l¡üv¡¹ [ƒÅîº í¤ ™àÚ?",
-   "options": {
-    "A": "ëÎà¯o[Å[¹",
-    "B": "³à>àÒ",
-    "C": "A¡[šºã",
-    "D": "¹R¡à>ƒã"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 19
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q028",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 28,
-  "context_en": null,
-  "question_en": "The Assamese food item ‘Hurum’ is prepared from",
-  "options_en": {
+  "context": null,
+  "question": "The Assamese food item ‘Hurum’ is prepared from",
+  "options": {
    "A": "Tal jaggery",
    "B": "betel leaves",
    "C": "bamboo shoots",
    "D": "Bora rice"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 20,
-  "page_as": 20,
+  "page": 20,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "\"Î³ãÚà Jàƒ¸ ‘×¹ç¡³’ [A¡Ò¹ š¹à šøÑñt¡ A¡¹à ÒÚ?",
-   "options": {
-    "A": "t¡àº P¡Øl¡",
-    "B": "šào¹ šàt¡",
-    "C": "¤òàÒ Kà\\",
-    "D": "¤¹à W¡àl¡üº"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 20
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q029",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 29,
-  "context_en": null,
-  "question_en": "A distinguishing characteristic of trade at Jonbeel Mela is",
-  "options_en": {
+  "context": null,
+  "question": "A distinguishing characteristic of trade at Jonbeel Mela is",
+  "options": {
    "A": "only banana is traded",
    "B": "women are not permitted",
    "C": "buffalo fight",
    "D": "barter system"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 20,
-  "page_as": 20,
+  "page": 20,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ë\\à>[¤º ë³ºàt¡ ¤à[o\\¸¹ Ñ¬t¡”| í¤[ÅÊ¡¸ìi¡à Ò’º",
-   "options": {
-    "A": "ëA¡¯º A¡º ë¤W¡à[A¡>à A¡¹à ÒÚ",
-    "B": "³[Òºà¹ ¤àì¤ \">å³[t¡ >àÒü",
-    "C": "³’Ò ™åò\\",
-    "D": "[¤[>³Ú šø=à"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 20
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q030",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 30,
-  "context_en": null,
-  "question_en": "Dhokla and Fafda are traditional snacks of which State?",
-  "options_en": {
+  "context": null,
+  "question": "Dhokla and Fafda are traditional snacks of which State?",
+  "options": {
    "A": "Rajasthan",
    "B": "Punjab",
    "C": "Gujarat",
    "D": "Goa"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 21,
-  "page_as": 21,
+  "page": 21,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ë‹àAô¡ºà \"à¹ç¡ ó¡àšô¹à ëA¡à>J> ¹à\\¸¹ š¹´š¹àKt¡ \\ºšà>?",
-   "options": {
-    "A": "¹à\\Ñ‚à>",
-    "B": "šgà¤",
-    "C": "P¡\\¹ài¡",
-    "D": "ëKà¯à"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 21
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q031",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 31,
-  "context_en": null,
-  "question_en": "Which of the following is the Lower House of the Parliament of India?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is the Lower House of the Parliament of India?",
+  "options": {
    "A": "Vidhan Sabha",
    "B": "Rajya Sabha",
    "C": "Lok Sabha",
    "D": "Vidhan Parishad"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 21,
-  "page_as": 21,
+  "page": 21,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[>³—[º[Jt¡Î³èÒ¹ ëA¡à>ìi¡à ®¡à¹t¡¹ Î}Îƒ¹ [>³—Îƒ>?",
-   "options": {
-    "A": "[¤‹à>Î®¡à",
-    "B": "¹à\\¸Î®¡à",
-    "C": "ëºàA¡Î®¡à",
-    "D": "[¤‹à> š[¹Èƒ"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 21
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q032",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 32,
-  "context_en": null,
-  "question_en": "Which of the following States is known to have highest coal reserves?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following States is known to have highest coal reserves?",
+  "options": {
    "A": "Jharkhand",
    "B": "Maharashtra",
    "C": "Karnataka",
    "D": "Mizoram"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 22,
-  "page_as": 22,
+  "page": 22,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[>³—[º[Jt¡ ëA¡à>J> ¹à\\¸t¡ Î¤¢à[‹A¡ A¡Úºà¹ ®¡àr¡à¹ \"àìá ¤å[º \\>à\\àt¡?",
-   "options": {
-    "A": "c¡à¹Jr¡",
-    "B": "³Òà¹àÊ¡ö",
-    "C": "A¡o¢ài¡A¡",
-    "D": "[³ì\\à¹à³"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 22
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q033",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 33,
-  "context_en": null,
-  "question_en": "Maibong was the capital of which kingdom?",
-  "options_en": {
+  "context": null,
+  "question": "Maibong was the capital of which kingdom?",
+  "options": {
    "A": "Koch Kingdom",
    "B": "Dimasa Kingdom",
    "C": "Chutiya Kingdom",
    "D": "Kamata Kingdom"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 22,
-  "page_as": 22,
+  "page": 22,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "³àÒü¤} ëA¡à>J> ¹à\\¸¹ ¹à\\‹à>ã \"à[áº?",
-   "options": {
-    "A": "ëA¡àW¡ ¹à\\¸",
-    "B": "[l¡³àáà ¹à\\¸",
-    "C": "Wå¡t¡ãÚà ¹à\\¸",
-    "D": "A¡³t¡à ¹à\\¸"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 22
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q034",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 34,
-  "context_en": null,
-  "question_en": "Dandi Yatra was a part of the",
-  "options_en": {
+  "context": null,
+  "question": "Dandi Yatra was a part of the",
+  "options": {
    "A": "Quit India Movement",
    "B": "Non-Cooperation Movement",
    "C": "Civil Disobedience Movement",
    "D": "Purna Swaraj"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 23,
-  "page_as": 23,
+  "page": 23,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ƒàr¡ã ™àyà ëA¡à>ìi¡à¹ \"}Å \"à[áº?",
-   "options": {
-    "A": "®¡à¹t¡ t¡¸àK \"àì–ƒàº>¹",
-    "B": "\"ÎÒì™àK \"àì–ƒàº>¹",
-    "C": "\"àÒü> \"³à>¸ \"àì–ƒàº>¹",
-    "D": "šèo¢ Ñ¬¹à\\¹"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 23
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q035",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 35,
-  "context_en": null,
-  "question_en": "Which of the following is not the name of a district of Assam?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is not the name of a district of Assam?",
+  "options": {
    "A": "West Goalpara",
    "B": "Kamrup Metropolitan",
    "C": "South Salmara-Mankachar",
    "D": "West Karbi Anglong"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 23,
-  "page_as": 23,
+  "page": 23,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[>³—[º[Jt¡Î³èÒ¹ ëA¡à>ìi¡à \"Î³¹ &A¡ [\\ºà¹ >à³ >ÒÚ?",
-   "options": {
-    "A": "š[ÆW¡³ ëKà¯àºšà¹à",
-    "B": "A¡à³¹ê¡š ³Òà>K¹",
-    "C": "ƒ[Û¡o Åàº³à¹à-³à>A¡àW¡à¹",
-    "D": "š[ÆW¡³ A¡à[¤ ¢ \"à}º}"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Bold",
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 23
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q036",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 36,
-  "context_en": null,
-  "question_en": "Which State lies towards the North of Assam?",
-  "options_en": {
+  "context": null,
+  "question": "Which State lies towards the North of Assam?",
+  "options": {
    "A": "Arunachal Pradesh",
    "B": "Meghalaya",
    "C": "Sikkim",
    "D": "Nagaland"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 24,
-  "page_as": 24,
+  "page": 24,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "\"Î³¹ l¡üv¡¹ [ƒÅt¡ ëA¡à>J> ¹à\\¸ \"¯[Ñ‚t¡?",
-   "options": {
-    "A": "\"¹ç¡oàW¡º šøìƒÅ",
-    "B": "ë³QàºÚ",
-    "C": "[á[A¡³",
-    "D": ">Kàìºr¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 24
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q037",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 37,
-  "context_en": null,
-  "question_en": "Which of the following is not a Fundamental Right?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is not a Fundamental Right?",
+  "options": {
    "A": "Right to equality",
    "B": "Right to freedom",
    "C": "Right to digital information",
    "D": "Right to constitutional remedies"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 24,
-  "page_as": 24,
+  "page": 24,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[>³—[º[Jt¡Î³èÒ¹ ëA¡à>ìi¡à ë³ï[ºA¡ \"[‹A¡à¹ >ÒÚ?",
-   "options": {
-    "A": "Î³t¡à¹ \"[‹A¡à¹",
-    "B": "Ñ¬à‹ã>t¡à¹ \"[‹A¡à¹",
-    "C": "[l¡[\\ìi¡º t¡=¸¹ \"[‹A¡à¹",
-    "D": "Îà}[¤‹à[>A¡ šø[t¡A¡à¹¹ \"[‹A¡à¹"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Bold",
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 24
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q038",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 38,
-  "context_en": null,
-  "question_en": "Which is the capital city of the United States of America?",
-  "options_en": {
+  "context": null,
+  "question": "Which is the capital city of the United States of America?",
+  "options": {
    "A": "New York",
    "B": "Washington, DC",
    "C": "Chicago",
    "D": "San Francisco"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 25,
-  "page_as": 25,
+  "page": 25,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "\"àì³[¹A¡à ™åv¡û¡¹àÊ¡ ö (USA)¹ ¹à\\‹à>ã W¡Ò¹ [A¡?",
-   "options": {
-    "A": "[>l¡üÒüÚA¢¡",
-    "B": "¯à[Å«}i¡>, [l¡[W¡",
-    "C": "[W¡A¡àìKà",
-    "D": "áà> óø¡à[XìÑHà"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 25
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q039",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 39,
-  "context_en": null,
-  "question_en": "Who composed the poem Korotolo Komolo?",
-  "options_en": {
+  "context": null,
+  "question": "Who composed the poem Korotolo Komolo?",
+  "options": {
    "A": "Nilamoni Phukan",
    "B": "Mahapurush Madhavdev",
    "C": "Srimanta Sankardev",
    "D": "Nabakanta Baruah"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 25,
-  "page_as": 25,
+  "page": 25,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "‘A¡¹t¡º A¡³º’ A¡[¤t¡à[i¡ ëA¡àì> ¹W¡>à A¡[¹[áº?",
-   "options": {
-    "A": ">ãº³[o óå¡A¡>",
-    "B": "³Òàšå¹ç¡È ³à‹¯ìƒ¯",
-    "C": "Åøã³”z Å}A¡¹ìƒ¯",
-    "D": ">¯A¡à” z ¤¹ç¡¯à"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 25
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q040",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 40,
-  "context_en": null,
-  "question_en": "Magh Bihu is a festival celebrated in which month?",
-  "options_en": {
+  "context": null,
+  "question": "Magh Bihu is a festival celebrated in which month?",
+  "options": {
    "A": "April",
    "B": "January",
    "C": "October",
    "D": "March"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 26,
-  "page_as": 26,
+  "page": 26,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "³àQ [¤× l¡ü;Î¯ìi¡à ëA¡à> ³àÒt¡ šàº> A¡¹à ÒÚ?",
-   "options": {
-    "A": "&[šøº",
-    "B": "\\à>å¯à¹ã",
-    "C": "\"ìC¡à¤¹",
-    "D": "³àW¢¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 26
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q041",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 41,
-  "context_en": null,
-  "question_en": "What was the real name of Mahatma Gandhi?",
-  "options_en": {
+  "context": null,
+  "question": "What was the real name of Mahatma Gandhi?",
+  "options": {
    "A": "Mohandas Kumar Gandhi",
    "B": "Mohansingh Karamchand Gandhi",
    "C": "Mohandas Karamsingh Gandhi",
    "D": "Mohandas Karamchand Gandhi"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 26,
-  "page_as": 26,
+  "page": 26,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "³Òàuà KàÞê¡ã¹ šøAõ¡t¡ >à³ [A¡ \"à[áº?",
-   "options": {
-    "A": "ë³àÒ>ƒàÎ Aå¡³à¹ KàÞê¡ã",
-    "B": "ë³àÒ>[Î} A¡¹³W¡à–ƒ KàÞê¡ã",
-    "C": "ë³àÒ>ƒàÎ A¡¹³[Î} KàÞê¡ã",
-    "D": "ë³àÒ>ƒàÎ A¡¹³W¡à–ƒ KàÞê¡ã"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 26
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q042",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 42,
-  "context_en": null,
-  "question_en": "Who was involved in the Kalinga War?",
-  "options_en": {
+  "context": null,
+  "question": "Who was involved in the Kalinga War?",
+  "options": {
    "A": "Ashoka",
    "B": "Bimbisara",
    "C": "Bindusara",
    "D": "Samudragupta"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 27,
-  "page_as": 27,
+  "page": 27,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "A¡[º}K ™å‡ý¡t¡ ëA¡à> \\[Øl¡t¡ \"à[áº?",
-   "options": {
-    "A": "\"ìÅàA¡",
-    "B": "[¤[´¬Îà¹",
-    "C": "[¤–ƒåÎà¹",
-    "D": "Î³å‰P¡œ¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 27
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q043",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 43,
-  "context_en": null,
-  "question_en": "Who was the first Mughal emperor?",
-  "options_en": {
+  "context": null,
+  "question": "Who was the first Mughal emperor?",
+  "options": {
    "A": "Humayun",
    "B": "Aurangzeb",
    "C": "Babur",
    "D": "Akbar"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 28,
-  "page_as": 28,
+  "page": 28,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "šø=³K¹àA¡ã ë³àKº Î´÷ài¡ ëA¡à> \"à[áº?",
-   "options": {
-    "A": "×³àÚå>",
-    "B": "+¹}ì\\¯",
-    "C": "¤à¤¹",
-    "D": "\"àA¡¤¹"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 28
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q044",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 44,
-  "context_en": null,
-  "question_en": "When was Bangladesh created?",
-  "options_en": {
+  "context": null,
+  "question": "When was Bangladesh created?",
+  "options": {
    "A": "1947",
    "B": "1962",
    "C": "1951",
    "D": "1971"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 28,
-  "page_as": 28,
+  "page": 28,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¤à}ºàìƒÅ ëA¡[t¡Úà Îõ[Ê¡ íÒ[áº?",
-   "options": {
-    "A": "1947",
-    "B": "1962",
-    "C": "1951",
-    "D": "1971"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 28
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q045",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 45,
-  "context_en": null,
-  "question_en": "Identify the incorrect pair of State and capital city of India.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the incorrect pair of State and capital city of India.",
+  "options": {
    "A": "Uttarakhand : Mussoorie",
    "B": "West Bengal : Kolkata",
    "C": "Chhattisgarh : Raipur",
    "D": "Goa : Panaji"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 29,
-  "page_as": 29,
+  "page": 29,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "®¡à¹t¡¤È¢¹ ¹à\\¸ \"à¹ç¡ ¹à\\‹à>ã W¡Ò¹¹ \"Ç¡‡ý¡ ë™à¹ìi¡à [W¡>àv¡û¡ A¡¹A¡ú",
-   "options": {
-    "A": "l¡üv¡¹àJr¡ : ³åìáï¹ã",
-    "B": "š[ÆW¡³¤U : A¡ºA¡àt¡à",
-    "C": "áv¡ãáKØl¡ : ¹àÚšå¹",
-    "D": "ëKà¯à : šà>à\\ã"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 29
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q046",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 46,
-  "context_en": null,
-  "question_en": "Which of the following positions is appointed by the President of India?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following positions is appointed by the President of India?",
+  "options": {
    "A": "The Governor of a State",
    "B": "The Chief Minister of a State",
    "C": "The Speaker of the Legislative Assembly",
    "D": "The Cabinet Minister of a State"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 29,
-  "page_as": 29,
+  "page": 29,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[>³—[º[Jt¡ ëA¡à>ìi¡à šƒ¹ [>™å[v¡û¡ ®¡à¹t¡¹ ¹àÊ¡öš[t¡ìÚ [ƒìÚ?",
-   "options": {
-    "A": "¹à\\¸¹ ¹à\\¸šàº",
-    "B": "¹à\\¸¹ ³åJ¸³”|ã",
-    "C": "[¤‹à>Î®¡à¹ \"‹¸Û¡",
-    "D": "¹à\\¸¹ ëA¡[¤ì>i¡ ³”ã|"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 29
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q047",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 47,
-  "context_en": null,
-  "question_en": "Which statement is not correct?",
-  "options_en": {
+  "context": null,
+  "question": "Which statement is not correct?",
+  "options": {
    "A": "Visakhapatnam is a port city of Andhra Pradesh.",
    "B": "Narmada is a river.",
    "C": "Kanchenjunga is a Himalayan peak.",
    "D": "Chilika Lake is in Gujarat."
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 30,
-  "page_as": 30,
+  "page": 30,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ëA¡à>ìi¡à l¡ü[v¡û¡ Ç¡‡ý¡ >ÒÚ?",
-   "options": {
-    "A": "[¤ÅàJàšj¡>³ \"Þøý¡šøìƒÅ¹ &J> ¤–ƒ¹ W¡Ò¹ú",
-    "B": ">³¢ƒà &J> >ƒãú",
-    "C": "A¡àe¡>\\}Qà [Ò³àºÚ¹ &A¡ Åõ}Kú",
-    "D": "[W¡»¡à Òùƒ P¡\\¹ài¡t¡ \"¯[Ñ‚t¡ú"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Bold",
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 30
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q048",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 48,
-  "context_en": null,
-  "question_en": "Which material is the ‘Gogona’ made of ?",
-  "options_en": {
+  "context": null,
+  "question": "Which material is the ‘Gogona’ made of ?",
+  "options": {
    "A": "Bamboo",
    "B": "Terra-cotta",
    "C": "Copper",
    "D": "Buffalo horn"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 30,
-  "page_as": 30,
+  "page": 30,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "‘KK>à’ ëA¡à>ìi¡à Îà³Nøãì¹ ít¡Úà¹ A¡¹à ÒÚ?",
-   "options": {
-    "A": "¤òàÒ",
-    "B": "ëi¡¹àìA¡ài¡à",
-    "C": "t¡à³",
-    "D": "³’Ò¹ [Å}"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 30
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q049",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 49,
-  "context_en": null,
-  "question_en": "Which country did Nelson Mandela belong to?",
-  "options_en": {
+  "context": null,
+  "question": "Which country did Nelson Mandela belong to?",
+  "options": {
    "A": "Brazil",
    "B": "Switzerland",
    "C": "South Africa",
    "D": "Argentina"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 31,
-  "page_as": 31,
+  "page": 31,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ë>ºW¡> ë³ìr¡ºà ëA¡à>J> ëƒÅ¹ \"à[áº?",
-   "options": {
-    "A": "¤øà[\\º",
-    "B": "Wå¡Òü\\à¹ìºr¡",
-    "C": "ƒ[Û¡o \"à[óø¡A¡à",
-    "D": "\"àì\\¢[si¡>à"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 31
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q050",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 50,
-  "context_en": null,
-  "question_en": "Which continent is the Sahara Desert located in?",
-  "options_en": {
+  "context": null,
+  "question": "Which continent is the Sahara Desert located in?",
+  "options": {
    "A": "Australia",
    "B": "Africa",
    "C": "Europe",
    "D": "Asia"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 31,
-  "page_as": 31,
+  "page": 31,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "W¡àÒà¹à ³¹ç¡®è¡[³ ëA¡à>J> ³ÒàìƒÅt¡ \"¯[Ñ‚t¡?",
-   "options": {
-    "A": "\"ìÊ¡ö[ºÚà",
-    "B": "\"à[óø¡A¡à",
-    "C": "Òül¡üì¹àš",
-    "D": "&[áÚà"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 31
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q051",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 51,
-  "context_en": null,
-  "question_en": "Which country is known as the ‘Gift of the Nile’?",
-  "options_en": {
+  "context": null,
+  "question": "Which country is known as the ‘Gift of the Nile’?",
+  "options": {
    "A": "Egypt",
    "B": "Lebanon",
    "C": "Israel",
    "D": "Saudi Arabia"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 32,
-  "page_as": 32,
+  "page": 32,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ëA¡à>J> ëƒÅA¡ ‘>ãº >ƒã¹ ƒà>’ ¤å[º \\>à ™àÚ?",
-   "options": {
-    "A": "Òü[\\œ¡",
-    "B": "ëº¤à>>",
-    "C": "Òü\\¹àÒüº",
-    "D": "ëW¡ï[ƒ \"à¹¤"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 32
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q052",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 52,
-  "context_en": null,
-  "question_en": "Which vitamin is vital for bones and teeth?",
-  "options_en": {
+  "context": null,
+  "question": "Which vitamin is vital for bones and teeth?",
+  "options": {
    "A": "Vitamin D",
    "B": "Vitamin B",
    "C": "Vitamin C",
    "D": "Vitamin A"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 32,
-  "page_as": 32,
+  "page": 32,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ÒàØl¡ \"à¹ç¡ ƒòàt¡¹ ¤àì¤ ëA¡à>[¤‹ [®¡i¡à[³> \"[t¡ šøìÚà\\>ãÚ?",
-   "options": {
-    "A": "[®¡i¡à[³> D",
-    "B": "[®¡i¡à[³> B",
-    "C": "[®¡i¡à[³> C",
-    "D": "[®¡i¡à[³> A"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 32
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q053",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 53,
-  "context_en": null,
-  "question_en": "The normal blood pressure reading for an adult human is",
-  "options_en": {
+  "context": null,
+  "question": "The normal blood pressure reading for an adult human is",
+  "options": {
    "A": "65/85 mm Hg",
    "B": "95/155 mm Hg",
    "C": "80/120 mm Hg",
    "D": "65/140 mm Hg"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 33,
-  "page_as": 33,
+  "page": 33,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "&\\> šøàœ¡¤ÚÑH ³à>åÒ¹ ¤àì¤ ¹v¡û¡W¡àš¹ Ñ¬à®¡à[¯A¡ ³à> íÒìá",
-   "options": {
-    "A": "65/85 mm Hg",
-    "B": "95/155 mm Hg",
-    "C": "80/120 mm Hg",
-    "D": "65/140 mm Hg"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 33
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q054",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 54,
-  "context_en": null,
-  "question_en": "Which of the following IPL teams did Mahendra Singh Dhoni captain?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following IPL teams did Mahendra Singh Dhoni captain?",
+  "options": {
    "A": "Mumbai Indians",
    "B": "Chennai Super Kings",
    "C": "Rajasthan Royals",
    "D": "Royal Challengers Bengaluru"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 34,
-  "page_as": 34,
+  "page": 34,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "³ìÒ–ƒø [Î} ë‹à>ãìÚ [>³—[º[Jt¡ ëA¡à>ìi¡à IPL ƒº¹ \"[‹>àÚA¡Œ A¡[¹[áº?",
-   "options": {
-    "A": "³å´¬àÒü Òü[r¡Úà>ôá",
-    "B": "ëW¡ÄàÒü áåšà¹ [A¡}á",
-    "C": "¹à\\Ñ‚à> ¹ìÚºá",
-    "D": "¹ìÚº ëW¡ìºgà¹á ë¤}Kàºå¹ç¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal",
-    "SHREE-BAN-0592-Normal"
-   ],
-   "page": 34
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q055",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 55,
-  "context_en": null,
-  "question_en": "As on 1st of January, 2024, who is the Minister for Panchayat and Rural\nDevelopment of Assam?",
-  "options_en": {
+  "context": null,
+  "question": "As on 1st of January, 2024, who is the Minister for Panchayat and Rural\nDevelopment of Assam?",
+  "options": {
    "A": "Chandra Mohan Patwari",
    "B": "Ranjeet Kumar Dass",
    "C": "Atul Bora",
    "D": "Urkhao Gwra Brahma"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 34,
-  "page_as": 34,
+  "page": 34,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "2024 W¡>¹ 1 \\à>å¯à¹ã ÎàìšìÛ¡ \"Î³¹ še¡àÚt¡ \"à¹ç¡ Nøàì³àÄÚ> [¤®¡àK¹ ³”|ã ëA¡à>?",
-   "options": {
-    "A": "W¡–ƒø ë³àÒ> šàìi¡à¯à¹ã",
-    "B": "¹[gt¡ Aå¡³à¹ ƒàÎ",
-    "C": "\"tå¡º ¤¹à",
-    "D": "l¡üJ¢à* ëKï¹à ¤øÕ¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 34
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q056",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 56,
-  "context_en": null,
-  "question_en": "Who wrote the book Runs and Ruins?",
-  "options_en": {
+  "context": null,
+  "question": "Who wrote the book Runs and Ruins?",
+  "options": {
    "A": "Kapil Dev",
    "B": "Ravi Shastri",
    "C": "Sachin Tendulkar",
    "D": "Sunil Gavaskar"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 35,
-  "page_as": 35,
+  "page": 35,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Runs and Ru ins >à³¹ [A¡t¡àšJ> ëA¡àì> [º[J[áº?",
-   "options": {
-    "A": "A¡[šº ëƒ¯",
-    "B": "¹[¤ ÅàÑ|ã",
-    "C": "ÅW¡ã> ët¡rå¡ºA¡à¹",
-    "D": "Îå>ãº Kà®¡àÑHà¹"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 35
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q057",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 57,
-  "context_en": null,
-  "question_en": "In which language was Munshi Premchand’s novel Godaan written?",
-  "options_en": {
-   "A": "Urdu",
+  "context": null,
+  "question": "In which language was Munshi Premchand’s novel Godaan written?",
+  "options": {
+   "A": "",
    "B": "Konkani",
    "C": "Hindi",
    "D": "Gujarati"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
-  "has_visual": false,
-  "visual_types": [],
-  "visual_in": [],
-  "images": [],
+  "has_visual": true,
+  "text_source": "pdf_text",
+  "visual_types": [
+   "option_images"
+  ],
+  "visual_in": [
+   "question",
+   "options"
+  ],
+  "images": [
+   "exams/ADRE/2024/figures/G4-P2-ClassVIII/q057.png"
+  ],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 35,
-  "page_as": 35,
+  "page": 35,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "³å[X ëšø³W¡à–ƒ¹ l¡üš>¸àÎ, ‘ëKàƒà>’, ëA¡à> ®¡àÈàt¡ [ºJà íÒ[áº?",
-   "options": {
-    "A": "l¡üƒ¢å",
-    "B": "ëA¡àS¡>ã",
-    "C": "[Ò–ƒã",
-    "D": "P¡\\¹ài¡ã"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 35
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q058",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 58,
-  "context_en": null,
-  "question_en": "What is understood by Tsunami?",
-  "options_en": {
+  "context": null,
+  "question": "What is understood by Tsunami?",
+  "options": {
    "A": "A very powerful cyclone",
    "B": "A major earthquake in the Himalayas",
    "C": "Heavy floods in Eastern India",
    "D": "High waves in coastal areas"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 36,
-  "page_as": 36,
+  "page": 36,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Wå¡>à³ã ¤å[ºìº [A¡ ¤å\\à ™àÚ?",
-   "options": {
-    "A": "\"[t¡ šø¯º Qèo¢ã¤t¡àÒ",
-    "B": "[Ò³àºÚt¡ ëÒà¯à &A¡ ¤õÒ; ®è¡[³A¡´š",
-    "C": "šè¤ ®¡à¹t¡t¡ ëÒà¯à &A¡ šøW¡r¡ ¤à>",
-    "D": "l¡üšAè¡ºãÚ \"e¡ºt¡ ëÒà¯à l¡üZW¡³àyà¹ ën¡ï"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 36
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q059",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 59,
-  "context_en": null,
-  "question_en": "In Assamese literature, who wrote under the pen name of Saurabh Kumar Chaliha?",
-  "options_en": {
+  "context": null,
+  "question": "In Assamese literature, who wrote under the pen name of Saurabh Kumar Chaliha?",
+  "options": {
    "A": "Surendra Nath Medhi",
    "B": "Nabakanta Baruah",
    "C": "Lakshminath Bezbaruah",
    "D": "Bhabendra Nath Saikia"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 37,
-  "page_as": 37,
+  "page": 37,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ëÎï¹®¡ Aå¡³à¹ W¡[ºÒà áˆ>àì³ì¹ ëA¡àì> \"Î³ãÚà Îà[Òt¡¸t¡ [ºJà-ë³ºà A¡[¹[áº?",
-   "options": {
-    "A": "Îåì¹–ƒø >à= ë³[‹",
-    "B": ">¯A¡à” z ¤¹ç¡¯à",
-    "C": "ºÜã>à= ë¤\\¤¹ç¡¯à",
-    "D": "®¡ì¤–ƒø >à= ÅÒüA¡ãÚà"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 37
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q060",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 60,
-  "context_en": null,
-  "question_en": "By which Assamese author was Mamore Dhora Tarowal written?",
-  "options_en": {
+  "context": null,
+  "question": "By which Assamese author was Mamore Dhora Tarowal written?",
+  "options": {
    "A": "Rita Choudhury",
    "B": "Nirupama Borgohain",
    "C": "Chandana Goswami",
    "D": "Mamoni Raisom Goswami"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 37,
-  "page_as": 37,
+  "page": 37,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "‘³à³ì¹ ‹¹à t¡ì¹à¯àº’ ëA¡à>K¹àA¡ã \"Î³ãÚà ëºJìA¡ ¹W¡>à A¡[¹[áº?",
-   "options": {
-    "A": "¹ãt¡à ëW¡ï‹å¹ã",
-    "B": "[>¹ç¡š³à ¤¹ìKàÒòà[d¡",
-    "C": "W¡–ƒ>à ëKàÑ¬à³ã",
-    "D": "³à³[o ¹ÚW¡³ ëKàÑ¬à³ã"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 37
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q061",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 61,
-  "context_en": null,
-  "question_en": "Which of the following has two humps on its back?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following has two humps on its back?",
+  "options": {
    "A": "Nilgai",
    "B": "Arabian camel",
    "C": "Bactrian camel",
    "D": "Black panther"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 38,
-  "page_as": 38,
+  "page": 38,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[>³—[º[Jt¡Î³èÒ¹ ëA¡à>ìi¡à¹ [š[k¡t¡ ƒåi¡àîA¡ Aåò¡\\ \"àìá?",
-   "options": {
-    "A": ">ãºKàÒü",
-    "B": "\"à¹¤ãÚ l¡üòi¡",
-    "C": "ë¤C¡[¹Úà> l¡üòi¡",
-    "D": "ëQà}"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 38
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q062",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 62,
-  "context_en": null,
-  "question_en": "In which city of India is the Charminar located?",
-  "options_en": {
+  "context": null,
+  "question": "In which city of India is the Charminar located?",
+  "options": {
    "A": "Hyderabad",
    "B": "Chennai",
    "C": "Prayagraj",
    "D": "Chandigarh"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 38,
-  "page_as": 38,
+  "page": 38,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "®¡à¹t¡¹ ëA¡à>J> W¡Ò¹t¡ W¡à¹[³>à¹ \"¯[Ñ‚t¡?",
-   "options": {
-    "A": "ÒàÚƒ¹à¤àƒ",
-    "B": "ëW¡ÄàÒü",
-    "C": "šøÚàK¹à\\",
-    "D": "W¡r¡ãKØl¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 38
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q063",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 63,
-  "context_en": null,
-  "question_en": "What is the length of a cricket pitch between the stumps?",
-  "options_en": {
+  "context": null,
+  "question": "What is the length of a cricket pitch between the stumps?",
+  "options": {
    "A": "Twenty-two meters",
    "B": "Twenty-two feet",
    "C": "Twenty-two yards",
    "D": "Twenty-two inches"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 39,
-  "page_as": 39,
+  "page": 39,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[yû¡ìA¡i¡ Ê¡à´šÎ³èÒ¹ ³à\\¹ [yû¡ìA¡i¡ [šiô¡á¹ íƒQ¢¸ [A¡³à>?",
-   "options": {
-    "A": "¤àÒüá [³i¡à¹",
-    "B": "¤àÒüá óå¡i¡",
-    "C": "¤àÒüá K\\",
-    "D": "¤àÒüá Òü[e¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 39
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q064",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 64,
-  "context_en": null,
-  "question_en": "Near which landmark is the Atal Tunnel situated?",
-  "options_en": {
+  "context": null,
+  "question": "Near which landmark is the Atal Tunnel situated?",
+  "options": {
    "A": "Khardung La Pass",
    "B": "Rohtang Pass",
    "C": "Sela Pass",
    "D": "Umling La Pass"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 39,
-  "page_as": 39,
+  "page": 39,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ëA¡à>ìi¡à Ñ‚º[W¡Òû¡ (Landmark)¹ Î³ãšt¡ \"i¡º Îå¹}K \"¯[Ñ‚t¡?",
-   "options": {
-    "A": "Jà¹lå¡} ºà [K[¹š=",
-    "B": "ë¹àÒt¡à} [K[¹š=",
-    "C": "ëW¡ºà [K[¹š=",
-    "D": "l¡ü³[º} ºà [K[¹š="
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 39
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q065",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 65,
-  "context_en": null,
-  "question_en": "Which of the following is not extracted from crude oil?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is not extracted from crude oil?",
+  "options": {
    "A": "Petrol",
    "B": "Bitumen tar",
    "C": "Kerosene",
    "D": "Turpentine oil"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 40,
-  "page_as": 40,
+  "page": 40,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[>³—[º[Jt¡Î³èÒ¹ ëA¡à>[¤‹ Jà¹ç¡¯à ët¡º¹ š¹à [>ÍHàÅ> A¡¹à >ÒÚ?",
-   "options": {
-    "A": "ëši¡ö’º",
-    "B": "\"àºA¡àt¡¹à",
-    "C": "ëA¡¹à[W¡>",
-    "D": "t¡à[š>¢ ët¡º"
-   },
-   "fonts": [
-    "SHREE-ASS-0592-Bold",
-    "SHREE-ASS-0592-Normal"
-   ],
-   "page": 40
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q066",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 66,
-  "context_en": null,
-  "question_en": "A shopkeeper offers two consecutive discounts—first 10% and subsequently 5%\non a certain item. The equivalent discount offered on the item is",
-  "options_en": {
+  "context": null,
+  "question": "A shopkeeper offers two consecutive discounts—first 10% and subsequently 5%\non a certain item. The equivalent discount offered on the item is",
+  "options": {
    "A": "12·5%",
    "B": "15%",
    "C": "13%",
    "D": "14·5%"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 41,
-  "page_as": 41,
+  "page": 41,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "&\\> ëƒàA¡à>ãìÚ ëA¡àì>à &A¡ Îà³Nãøt¡ ‹à¹à¤à[ÒA¡®¡àì¯ ƒåi¡àîA¡ — šø=ì³ 10% \"à¹ç¡ š¹¯t¢¡ã 5% ¹ ë¹ÒàÒü šøƒà>\nA¡ì¹¡ú Îà³Nøãìi¡àt¡ šøƒà> A¡¹à Î³tå¡º¸ ë¹ÒàÒü¹ ³à> íÒìá",
-   "options": {
-    "A": "12·5%",
-    "B": "15%",
-    "C": "13%",
-    "D": "14·5%"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 41
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q067",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 67,
-  "context_en": null,
-  "question_en": "The equivalent fraction of the decimal number 2·25 is",
-  "options_en": {
+  "context": null,
+  "question": "The equivalent fraction of the decimal number 2·25 is",
+  "options": {
    "A": "9 4",
    "B": "9 5",
    "C": "9 7",
    "D": "9 8"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing"
   ],
@@ -3143,425 +2018,272 @@
    "exams/ADRE/2024/figures/G4-P2-ClassVIII/q067.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 41,
-  "page_as": 42,
+  "page": 41,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ƒÅ[³A¡ Î}J¸à 2·25 ¹ Î³tå¡º¸ ®¡Nà—}Å¹ ³à> Ò’¤\n9\t9",
-   "options": {
-    "A": "4 9",
-    "B": "5 9",
-    "C": "7",
-    "D": "8"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 42
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q068",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 68,
-  "context_en": null,
-  "question_en": "The total interest accrued on the principal amount of ₹10 at the simple interest\nrate of 10% per year for a period of 10 years is",
-  "options_en": {
+  "context": null,
+  "question": "The total interest accrued on the principal amount of ₹10 at the simple interest\nrate of 10% per year for a period of 10 years is",
+  "options": {
    "A": "₹1,000",
    "B": "₹100",
    "C": "₹10",
    "D": "₹1"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 42,
-  "page_as": 42,
+  "page": 42,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¤á[¹ 10% Î¹º Îåt¡t¡ ₹10 ³èº‹ì> 10 ¤á¹t¡ \"\\¢> A¡¹à ³åk¡ Îåt¡¹ š[¹³ào íÒìá",
-   "options": {
-    "A": "₹1,000",
-    "B": "₹100",
-    "C": "₹10",
-    "D": "₹1"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 42
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q069",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 69,
-  "context_en": null,
-  "question_en": "The angle between the minute hand and the hour hand of a clock at 3:00 p.m. is",
-  "options_en": {
+  "context": null,
+  "question": "The angle between the minute hand and the hour hand of a clock at 3:00 p.m. is",
+  "options": {
    "A": "30°",
    "B": "60°",
    "C": "90°",
    "D": "120°"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 43,
-  "page_as": 43,
+  "page": 43,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[¤Ú[º 3:00 ¤\\àt¡ &i¡à QØl¡ã¹ [³[>i¡¹ Aò¡ài¡à \"à¹ç¡ Qsi¡à¹ A¡òài¡à¹ ³à\\¹ ëA¡àoìi¡à Ò’¤",
-   "options": {
-    "A": "30°",
-    "B": "60°",
-    "C": "90°",
-    "D": "120°"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 43
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q070",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 70,
-  "context_en": null,
-  "question_en": "The two angles of a triangle are 75° and 65°. Twice the measure of its third angle is",
-  "options_en": {
+  "context": null,
+  "question": "The two angles of a triangle are 75° and 65°. Twice the measure of its third angle is",
+  "options": {
    "A": "40°",
    "B": "50°",
    "C": "60°",
    "D": "80°"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 43,
-  "page_as": 43,
+  "page": 43,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ëA¡àì>à &A¡ [y®å¡\\¹ ƒåi¡à ëA¡ào¹ ³àš 75° \"à¹ç¡ 65°. ÒüÚà¹ tõ¡t¡ãÚ ëA¡ào¹ ³àš¹ ƒPå ¡o íÒìá",
-   "options": {
-    "A": "40°",
-    "B": "50°",
-    "C": "60°",
-    "D": "80°"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 43
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q071",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 71,
-  "context_en": null,
-  "question_en": "The area of a triangle is 18 square units and the base of the triangle is 12 units.\nThe height of the triangle would be",
-  "options_en": {
+  "context": null,
+  "question": "The area of a triangle is 18 square units and the base of the triangle is 12 units.\nThe height of the triangle would be",
+  "options": {
    "A": "15 units",
    "B": "9 units",
    "C": "6 units",
    "D": "3 units"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 44,
-  "page_as": 44,
+  "page": 44,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ëA¡àì>à &A¡ [y®å¡\\¹ ëÛ¡yó¡º 18 ¤K¢ &A¡A¡ \"à¹ç¡ ®è¡[³ 12 &A¡A¡¡ú [y®å¡\\ìi¡à¹ l¡ZüW¡t¡à Ò’¤",
-   "options": {
-    "A": "15 &A¡A¡",
-    "B": "9 &A¡A¡",
-    "C": "6 &A¡A¡",
-    "D": "3 &A¡A¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 44
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q072",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 72,
-  "context_en": null,
-  "question_en": "The Roman numeral for the decimal number 59 is",
-  "options_en": {
+  "context": null,
+  "question": "The Roman numeral for the decimal number 59 is",
+  "options": {
    "A": "CIX",
    "B": "DIX",
    "C": "LIX",
    "D": "MIX"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 45,
-  "page_as": 45,
+  "page": 45,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ƒÅ[³A¡ Î}J¸à 59 ¹ ¤àì¤ ë¹à³à> Î}J¸à íÒìá",
-   "options": {
-    "A": "CIX",
-    "B": "DIX",
-    "C": "LIX",
-    "D": "MIX"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 45
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q073",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 73,
-  "context_en": null,
-  "question_en": "A sum of ₹90 is distributed amongst A, B and C in such a way that A gets ₹2 more\nthan B and B gets ₹2 more than C. The share of A is",
-  "options_en": {
+  "context": null,
+  "question": "A sum of ₹90 is distributed amongst A, B and C in such a way that A gets ₹2 more\nthan B and B gets ₹2 more than C. The share of A is",
+  "options": {
    "A": "₹28",
    "B": "₹30",
    "C": "₹32",
    "D": "₹34"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 45,
-  "page_as": 45,
+  "page": 45,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "A, B \"à¹ç¡ C ¹ ³à\\t¡ ₹90 &ì>ƒì¹ ®¡KàÒü [ƒÚà ÒÚ ™àìt¡ A ëÚ B t¡îA¡ ₹2 ë¤[á \"à¹ç¡ B ëÚ C t¡îA¡\n₹2 ë¤[á šàÚ¡ú A ¹ šøàœ¡ \"}Å íÒìá",
-   "options": {
-    "A": "₹28",
-    "B": "₹30",
-    "C": "₹32",
-    "D": "₹34"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 45
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q074",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 74,
-  "context_en": null,
-  "question_en": "The sum of the prime numbers between 1 and 20 is",
-  "options_en": {
+  "context": null,
+  "question": "The sum of the prime numbers between 1 and 20 is",
+  "options": {
    "A": "77",
    "B": "81",
    "C": "85",
    "D": "89"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 46,
-  "page_as": 46,
+  "page": 46,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "1 \"à¹ç¡ 20 ¹ ³à\\t¡ \"¯[Ñ‚t¡ ë³ï[ºA¡ Î}J¸àì¤à¹¹ ë™àKó¡º íÒìá",
-   "options": {
-    "A": "77",
-    "B": "81",
-    "C": "85",
-    "D": "89"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 46
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q075",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 75,
-  "context_en": null,
-  "question_en": "The quotient part, when 6001 is divided by 3, is",
-  "options_en": {
+  "context": null,
+  "question": "The quotient part, when 6001 is divided by 3, is",
+  "options": {
    "A": "200",
    "B": "201",
    "C": "2000",
    "D": "2001"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 46,
-  "page_as": 46,
+  "page": 46,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "6001 A¡ 3 ì¹ Ò¹o A¡[¹ìº šøàœ¡ ®¡àKó¡º \"}Å íÒìá",
-   "options": {
-    "A": "200",
-    "B": "201",
-    "C": "2000",
-    "D": "2001"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 46
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q076",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 76,
-  "context_en": null,
-  "question_en": "1×2×3× 4×5\nThe value of\tis\n1+2+3+ 4+5",
-  "options_en": {
+  "context": null,
+  "question": "1×2×3× 4×5\nThe value of\tis\n1+2+3+ 4+5",
+  "options": {
    "A": "5",
    "B": "6",
    "C": "7",
    "D": "8"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing",
    "math",
@@ -3574,96 +2296,62 @@
    "exams/ADRE/2024/figures/G4-P2-ClassVIII/q076.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 47,
-  "page_as": 47,
+  "page": 47,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "1×2×3× 4×5\n¹ ³à> íÒìá\n1+2+3+ 4+5",
-   "options": {
-    "A": "5",
-    "B": "6",
-    "C": "7",
-    "D": "8"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 47
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q077",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 77,
-  "context_en": null,
-  "question_en": "A person buys a defective item at ₹900, repairs it for ₹100 and sells the item at\n₹1,800. His profit percentage is",
-  "options_en": {
+  "context": null,
+  "question": "A person buys a defective item at ₹900, repairs it for ₹100 and sells the item at\n₹1,800. His profit percentage is",
+  "options": {
    "A": "100%",
    "B": "80%",
    "C": "90%",
    "D": "180%"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 48,
-  "page_as": 48,
+  "page": 48,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "&\\> ¤¸[v¡û¡ìÚ &i¡à yç¡[i¡šèo¢ Îà³Nøã ₹900 t¡ yû¡Ú A¡ì¹, ₹100 ë¹ ÒüÚàA¡ ë³¹à³[t¡ A¡¹àÚ \"à¹ç¡ Îà³Nøãšƒ\n₹1,800 t¡ [¤[yû¡ A¡ì¹¡ú ët¡*ò¹ ºà®¡¹ Åt¡à}Å íÒìá",
-   "options": {
-    "A": "100%",
-    "B": "80%",
-    "C": "90%",
-    "D": "180%"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 48
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q078",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 78,
-  "context_en": null,
-  "question_en": "The sum of 2+ 5 equals\n3 6",
-  "options_en": {
+  "context": null,
+  "question": "The sum of 2+ 5 equals\n3 6",
+  "options": {
    "A": "6 5",
    "B": "3 2",
    "C": "5",
    "D": "1"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing",
    "math"
@@ -3676,49 +2364,32 @@
    "exams/ADRE/2024/figures/G4-P2-ClassVIII/q078_2.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 48,
-  "page_as": 49,
+  "page": 48,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "2 5\n+ ¹ ë™àKó¡º íÒìá\n3 6\n6\t3",
-   "options": {
-    "A": "5",
-    "B": "2",
-    "C": "",
-    "D": "1"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 49
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q079",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 79,
-  "context_en": null,
-  "question_en": "Which of the following is not equivalent to 0·000014?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is not equivalent to 0·000014?",
+  "options": {
    "A": "1 ·4×10 ⁻⁶",
    "B": "1 ·4×10 ⁻⁵",
    "C": "14×10 ⁻⁶",
    "D": "0 ·14×10 ⁻⁴"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "math"
   ],
@@ -3729,50 +2400,32 @@
    "exams/ADRE/2024/figures/G4-P2-ClassVIII/q079.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 49,
-  "page_as": 49,
+  "page": 49,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[>³—[º[Jt¡ ëA¡à>ìi¡à 0·000014 ¹ Î³tå¡º¸ >ÒÚ?",
-   "options": {
-    "A": "1 ·4×10 ⁻⁶",
-    "B": "1 ·4×10 ⁻⁵",
-    "C": "14×10 ⁻⁶",
-    "D": "0 ·14×10 ⁻⁴"
-   },
-   "fonts": [
-    "SHREE-ASS-0592",
-    "SHREE-ASS-0592-Bold"
-   ],
-   "page": 49
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q080",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 80,
-  "context_en": null,
-  "question_en": "What must be added to (a−b)² in order to get (a+b)²?",
-  "options_en": {
+  "context": null,
+  "question": "What must be added to (a−b)² in order to get (a+b)²?",
+  "options": {
    "A": "2ab",
    "B": "−2ab",
    "C": "4ab",
    "D": "−4ab"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "math"
   ],
@@ -3783,49 +2436,32 @@
    "exams/ADRE/2024/figures/G4-P2-ClassVIII/q080.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 50,
-  "page_as": 50,
+  "page": 50,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "(a+b)² šà¤îº (a−b)² ¹ íÎìt¡ [A¡ ë™àK A¡[¹¤ ºà[K¤?",
-   "options": {
-    "A": "2ab",
-    "B": "−2ab",
-    "C": "4ab",
-    "D": "−4ab"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 50
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q081",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 81,
-  "context_en": null,
-  "question_en": "1 1 1\n+ + is equal to\n2 3 4\n12\t13",
-  "options_en": {
+  "context": null,
+  "question": "1 1 1\n+ + is equal to\n2 3 4\n12\t13",
+  "options": {
    "A": "13 13",
    "B": "24 24",
    "C": "12",
    "D": "13"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing",
    "math",
@@ -3838,284 +2474,182 @@
    "exams/ADRE/2024/figures/G4-P2-ClassVIII/q081.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 51,
-  "page_as": 51,
+  "page": 51,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "1 1 1\n+ + ¹ ³à> íÒìá\n2 3 4\n12\t13",
-   "options": {
-    "A": "13 13",
-    "B": "24 24",
-    "C": "12",
-    "D": "13"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 51
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q082",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 82,
-  "context_en": null,
-  "question_en": "The length of one diagonal of a rectangle is 5 cm. If the ratio of the length and\nbreadth of the rectangle is 4 : 3, then the perimeter of the rectangle is",
-  "options_en": {
+  "context": null,
+  "question": "The length of one diagonal of a rectangle is 5 cm. If the ratio of the length and\nbreadth of the rectangle is 4 : 3, then the perimeter of the rectangle is",
+  "options": {
    "A": "25 cm",
    "B": "14 cm",
    "C": "12 cm",
    "D": "16 cm"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 52,
-  "page_as": 52,
+  "page": 52,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "&i¡à \"àÚt¡ìÛ¡y¹ &i¡à A¡o¢¹ íƒQ¢¸ íÒìá 5 ëW¡.[³.¡ú ™[ƒ \"àÚt¡ìÛ¡yìi¡à¹ ƒãQ \"à¹ç¡ šøÑ¹‚ \">åšàt¡ 4 :3 ÒÚ,\nët¡ì”z \"àÚt¡ìÛ¡yìi¡à¹ š[¹Îã³à Ò’¤",
-   "options": {
-    "A": "25 ëW¡.[³.",
-    "B": "14 ëW¡.[³.",
-    "C": "12 ëW¡.[³.",
-    "D": "16 ëW¡.[³."
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 52
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q083",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 83,
-  "context_en": null,
-  "question_en": "10 coins, each having circular surface area of 24 cm ² and thickness of 2 mm, are\nstacked one over the other. The volume occupied by the stack is",
-  "options_en": {
+  "context": null,
+  "question": "10 coins, each having circular surface area of 24 cm ² and thickness of 2 mm, are\nstacked one over the other. The volume occupied by the stack is",
+  "options": {
    "A": "48 cm ³",
    "B": "480 cm ³",
    "C": "240 cm ³",
    "D": "42 cm ³"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 53,
-  "page_as": 53,
+  "page": 53,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¤õv¡àA¡à¹ šõË¡A¡à[º 24 ¤K¢ ëW¡.[³. \"à¹ç¡ 2 [³.[³. ë¤‹¹ 10 i¡à ³å‰à &i¡à¹ *š¹t¡ \"à>ìi¡àîA¡ Î\\àÒü &i¡à Ñzèš Îõ[Ê¡\nA¡¹à Ò’º¡ú Ñzèšìi¡àì¯ \"[‹A¡à¹ A¡¹à \"àÚt¡> Ò’º",
-   "options": {
-    "A": "48 ëW¡.[³. ³",
-    "B": "480 ëW¡.[³. ³",
-    "C": "240 ëW¡.[³. ³",
-    "D": "42 ëW¡.[³. ³"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 53
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q084",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 84,
-  "context_en": null,
-  "question_en": "If one of the angles of a right-angled triangle is 35°, then which of the following\nrepresents an angle of the triangle?",
-  "options_en": {
+  "context": null,
+  "question": "If one of the angles of a right-angled triangle is 35°, then which of the following\nrepresents an angle of the triangle?",
+  "options": {
    "A": "40°",
    "B": "45°",
    "C": "50°",
    "D": "55°"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 53,
-  "page_as": 53,
+  "page": 53,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ëA¡àì>à &A¡ Î³ìA¡àoã [y®å¡\\¹ &i¡à ëA¡ào¹ ³à> 35° Ò’ìº, [>³—[º[Jt¡ ëA¡à>ìi¡à [¤A¡¿Òü [y®å¡\\ìi¡à¹ \"à> &i¡à\nëA¡ào¹ ³à> l¡šü Ñ‚àš> A¡[¹¤?",
-   "options": {
-    "A": "40°",
-    "B": "45°",
-    "C": "50°",
-    "D": "55°"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 53
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q085",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 85,
-  "context_en": null,
-  "question_en": "The angle traversed by the hour hand of a clock during a period of 2 hours is",
-  "options_en": {
+  "context": null,
+  "question": "The angle traversed by the hour hand of a clock during a period of 2 hours is",
+  "options": {
    "A": "30°",
    "B": "45°",
    "C": "60°",
    "D": "90°"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 54,
-  "page_as": 54,
+  "page": 54,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "&i¡à QØl¡ã¹ Qsi¡à¹ Aò¡ài¡àl¡àìº 2 Qsi¡à Î³Út¡ \"[t¡yû¡³ A¡¹à ëA¡ào¹ ³à> íÒìá",
-   "options": {
-    "A": "30°",
-    "B": "45°",
-    "C": "60°",
-    "D": "90°"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 54
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q086",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 86,
-  "context_en": null,
-  "question_en": "I saw an ice cube in the kitchen which had already melted due to heat of a nearby\nburner.",
-  "options_en": {
+  "context": null,
+  "question": "I saw an ice cube in the kitchen which had already melted due to heat of a nearby\nburner.",
+  "options": {
    "A": "Rarely possible",
    "B": "Often possible",
    "C": "Impossible",
    "D": "Always possible"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 55,
-  "page_as": 55,
+  "page": 55,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "³Òü ¹àÞê¡>ãQ¹t¡ ¤à>¢à¹¹ *W¡¹t¡ l¡vü ¡àšt¡ Òü[t¡³ì‹¸ K[º ë™à¯à &i¡à ¤¹ó¡¹ iå¡Aå¡¹à ëƒ[Jìºòà¡ú",
-   "options": {
-    "A": "ëA¡[t¡Úà¤à ëÒ Î´±¯",
-    "B": "šøàìÚ Î´±¯",
-    "C": "\"Î´±¯",
-    "D": "ÎƒàìÚ Î´±¯"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 55
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q087",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 87,
-  "context_en": null,
-  "question_en": "If ‘×’ means subtraction, ‘−’ means addition, ‘+’ means division and ‘÷’ means\nmultiplication, then which of the following statements is correct if calculated from\nleft to right, ignoring BODMAS?",
-  "options_en": {
+  "context": null,
+  "question": "If ‘×’ means subtraction, ‘−’ means addition, ‘+’ means division and ‘÷’ means\nmultiplication, then which of the following statements is correct if calculated from\nleft to right, ignoring BODMAS?",
+  "options": {
    "A": "8×2÷5+3 =12",
    "B": "7−2+3÷5 =13",
    "C": "5− 4×3+2 = 3",
    "D": "3÷2− 4+5 = 9"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "math"
   ],
@@ -4126,96 +2660,62 @@
    "exams/ADRE/2024/figures/G4-P2-ClassVIII/q087.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 55,
-  "page_as": 56,
+  "page": 55,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "™[ƒ ‘×’ ¹ \"=¢ [¤ìÚàK, ‘−’ ¹ \"=¢ ë™àK, ‘+’ ¹ \"=¢ Ò¹o \"à¹ç¡ ‘÷’ ¹ \"=¢ šè¹o ÒÚ, \"à¹ç¡ ™[ƒ BODMAS ¹\n[>Ú³ \"à*A¡ào A¡[¹ ¤à*òó¡àº¹ š¹à ëÎàòó¡àºîº Ko>à A¡¹à ÒÚ, ët¡ì”z [>³—[º[Jt¡Î³èÒ¹ ëA¡à>ìi¡à &A¡ Ç¡‡ý¡ šøA¡àÅ\nÒ’¤?",
-   "options": {
-    "A": "8×2÷5+3 =12",
-    "B": "7−2+3÷5 =13",
-    "C": "5− 4×3+2 = 3",
-    "D": "3÷2− 4+5 = 9"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 56
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q088",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 88,
-  "context_en": null,
-  "question_en": "Bacteria : Microscope :: Planets : ?",
-  "options_en": {
+  "context": null,
+  "question": "Bacteria : Microscope :: Planets : ?",
+  "options": {
    "A": "Telescope",
    "B": "Periscope",
    "C": "Bioscope",
    "D": "Stethoscope"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 56,
-  "page_as": 56,
+  "page": 56,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ë¤ìC¡[¹Úà : ³àÒüyû¡’ìÑHàš :: NøÒ : ?",
-   "options": {
-    "A": "ëi¡[ºìÑHàš",
-    "B": "ëš[¹ìÑHàš",
-    "C": "¤àÚ’ìÑHàš",
-    "D": "ëÊ¡=’ìÑHàš"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 56
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q089",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 89,
-  "context_en": null,
-  "question_en": "The same six-sided dice is rolled four times, and the outcomes are as shown below.\nHow many dots are there opposite to three-dot face?",
-  "options_en": {
+  "context": null,
+  "question": "The same six-sided dice is rolled four times, and the outcomes are as shown below.\nHow many dots are there opposite to three-dot face?",
+  "options": {
    "A": "4",
    "B": "2",
    "C": "5",
    "D": "1"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing",
    "text_mentions_visual"
@@ -4227,1037 +2727,662 @@
    "exams/ADRE/2024/figures/G4-P2-ClassVIII/q089.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 57,
-  "page_as": 57,
+  "page": 57,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "áÚ-šõË¡™åv¡û¡ ºålå¡P¡[i¡ &i¡à W¡à[¹¤à¹ ƒ[ºÚàÒü [ƒÚàt¡ ó¡ºàó¡ºÎ³èÒ t¡º¹ [W¡yt¡ ëƒJå*¯à¹ ƒì¹ ëƒJà K’º¡ú\nºålå¡P¡[i¡ìi¡à¹ [t¡[>-[¤–ƒå™åv¡û¡ šõË¡¹ [¤š¹ãt¡ šõË¡t¡ [A¡³à>i¡à [¤–ƒå \"àìá?",
-   "options": {
-    "A": "4",
-    "B": "2",
-    "C": "5",
-    "D": "1"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 57
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q090",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 90,
-  "context_en": null,
-  "question_en": "Select the appropriate set for correctly filling up the ‘ ?’ :\nBAD : ? :: PINK : QJOL",
-  "options_en": {
+  "context": null,
+  "question": "Select the appropriate set for correctly filling up the ‘ ?’ :\nBAD : ? :: PINK : QJOL",
+  "options": {
    "A": "HAD",
    "B": "CBE",
    "C": "CAD",
    "D": "ABE"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 58,
-  "page_as": 58,
+  "page": 58,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "‘ ? ’ [W¡Òû¡ìi¡à Î[k¡A¡®¡àì¯ šè¹ A¡[¹¤îº l¡üš™åv¡û¡ ëKài¡ìi¡à [>¤à¢W¡> A¡¹A¡¡ú\nBAD : ? :: PINK : QJOL",
-   "options": {
-    "A": "HAD",
-    "B": "CBE",
-    "C": "CAD",
-    "D": "ABE"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 58
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q091",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 91,
-  "context_en": null,
-  "question_en": "Time by her watch when Neeta left home was 9:43 in the morning. When she\narrived home, the watch showed the time as 11:55. How many minutes was Neeta\ntravelling for?",
-  "options_en": {
+  "context": null,
+  "question": "Time by her watch when Neeta left home was 9:43 in the morning. When she\narrived home, the watch showed the time as 11:55. How many minutes was Neeta\ntravelling for?",
+  "options": {
    "A": "72 minutes",
    "B": "128 minutes",
    "C": "122 minutes",
    "D": "132 minutes"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 59,
-  "page_as": 59,
+  "page": 59,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": ">ãt¡à Q¹¹ š¹à *ºàÒü ë™à¯à¹ Î³Út¡ t¡àÒü¹ QØl¡ãt¡ Î³Ú \"à[áº ¹à[t¡šå¯à 9:43 ¤\\à¡ú t¡àÒü šå>¹ Q¹ \"à[Ò\nëšà¯à¹ Î³Út¡ QØl¡ãìi¡àì¯ 11:55 ¤\\à ëƒJå¯àÒü[áº¡ú >ãt¡àÒü [A¡³à> [³[>i¡ Î³Ú¹ ¤àì¤ ™àyà A¡[¹[áº?",
-   "options": {
-    "A": "72 [³[>i¡",
-    "B": "128 [³[>i¡",
-    "C": "122 [³[>i¡",
-    "D": "132 [³[>i¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 59
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q092",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 92,
-  "context_en": null,
-  "question_en": "Identify the correct Roman numeral.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the correct Roman numeral.",
+  "options": {
    "A": "Thousand : C",
    "B": "Hundred : C",
    "C": "Fifty : C",
    "D": "Ten : C"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 60,
-  "page_as": 60,
+  "page": 60,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Ç¡‡ý¡ ë¹à³à> Î}J¸àìi¡à [W¡>àv¡û¡ A¡¹A¡¡ú",
-   "options": {
-    "A": "Òà\\à¹ : C",
-    "B": "Å : C",
-    "C": "še¡àÅ : C",
-    "D": "ƒÒ : C"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 60
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q093",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 93,
-  "context_en": null,
-  "question_en": "My digital watch says 6:15 p.m. now, and the bus will leave in next 145 minutes.\nAt what time will the bus depart?",
-  "options_en": {
+  "context": null,
+  "question": "My digital watch says 6:15 p.m. now, and the bus will leave in next 145 minutes.\nAt what time will the bus depart?",
+  "options": {
    "A": "Forty minutes past eight in the evening",
    "B": "Forty minutes past eight in the morning",
    "C": "Forty-eight minutes past six in the evening",
    "D": "Forty-eight minutes past six in the morning"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 61,
-  "page_as": 61,
+  "page": 61,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ë³à¹ [l¡[\\ìi¡º QØl¡ãìi¡àt¡ &[t¡Úà 6:15 p.m. ¤å[º ëƒJå¯àÒü \"àìá, \"à¹ç¡ š¹¯t¢¡ã 145 [³[>i¡t¡ ¤àáJì> šøÑ‚à>\nA¡[¹¤¡ú [k¡A¡ [A¡³à> Î³Út¡ ¤àáJ> šøÑ‚à> A¡[¹¤?",
-   "options": {
-    "A": "Î[Þê¡Úà \"àk¡ ¤à[\\ W¡[ÀÅ [³[>i¡t¡",
-    "B": "¹à[t¡šå¯à \"àk¡ ¤à[\\ W¡[ÀÅ [³[>i¡t¡",
-    "C": "Î[Þê¡Úà áÚ ¤à[\\ \"àk¡W¡[ÀÅ [³[>i¡t¡",
-    "D": "¹à[t¡šå¯à áÚ ¤à[\\ \"àk¡W¡[ÀÅ [³[>i¡t¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 61
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q094",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 94,
-  "context_en": null,
-  "question_en": "Identify the word not of the same group.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the word not of the same group.",
+  "options": {
    "A": "Launch",
    "B": "Breakfast",
    "C": "Dinner",
    "D": "Supper"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 62,
-  "page_as": 63,
+  "page": 62,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "&ìA¡ ëKài¡t¡ >=A¡à Å¦ìi¡à [W¡>àv¡û¡ A¡¹A¡¡ú",
-   "options": {
-    "A": "Launch",
-    "B": "Breakfast",
-    "C": "Dinner",
-    "D": "Supper"
-   },
-   "fonts": [
-    "SHREE-ASS-0592",
-    "SHREE-ASS-0592-Bold"
-   ],
-   "page": 63
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q095",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 95,
-  "context_en": null,
-  "question_en": "Identify the pair of words which follows the same rule as Mercury : Planet.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the pair of words which follows the same rule as Mercury : Planet.",
+  "options": {
    "A": "Horse : Stable",
    "B": "Milk : White",
    "C": "Atlantic : Saltwater",
    "D": "Copper : Metal"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 63,
-  "page_as": 64,
+  "page": 63,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¤å‹ : NøÒ-¹ ƒì¹ &ìA¡ [>Ú³ \">åÎ¹o A¡¹à Å¦¹ ë™à¹[i¡ [W¡>àv¡û¡ A¡¹A¡¡ú",
-   "options": {
-    "A": "ëQòà¹à : \"àÑzà¤º",
-    "B": "KàJã¹ : ¤Kà",
-    "C": "\"ài¡ºà[si¡A¡ : ºåoãÚà šà>ã",
-    "D": "t¡à³ : ‹àtå¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 64
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q096",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 96,
-  "context_en": null,
-  "question_en": "Which of the following words is not a subset of PANDEMIC?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following words is not a subset of PANDEMIC?",
+  "options": {
    "A": "CAN",
    "B": "RAIN",
    "C": "MEND",
    "D": "DAMN"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 64,
-  "page_as": 64,
+  "page": 64,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[>³—[º[Jt¡ ëA¡à>ìi¡à Å¦ PAN DEMIC ¹ l¡üšìKài¡ >ÒÚ?",
-   "options": {
-    "A": "CAN",
-    "B": "RAIN",
-    "C": "MEND",
-    "D": "DAMN"
-   },
-   "fonts": [
-    "SHREE-ASS-0592",
-    "SHREE-ASS-0592-Bold"
-   ],
-   "page": 64
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q097",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 97,
-  "context_en": null,
-  "question_en": "In Pellamy, their words for blue, green, black and red colours are green, black, red\nand blue respectively. At sunset time in Pellamy, what would you say the colour of\nthe sun is?",
-  "options_en": {
+  "context": null,
+  "question": "In Pellamy, their words for blue, green, black and red colours are green, black, red\nand blue respectively. At sunset time in Pellamy, what would you say the colour of\nthe sun is?",
+  "options": {
    "A": "Blue",
    "B": "Red",
    "C": "Green",
    "D": "Black"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 65,
-  "page_as": 65,
+  "page": 65,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "ëšºà[³ Î}ìA¡t¡ \">åÎ[¹ >ãºà, ëÎl¡ü\\ãÚà, A¡’ºà \"à¹ç¡ ¹R¡à ¤¹o šø[t¡[>[‹Œ A¡¹à Å¦Î³èÒ yû¡³àÞìÚ ëÎl¡ü\\ãÚà,\nA¡’ºà, ¹R¡à \"à¹ç¡ >ãºà¡ú ÎƒõÅ ëšºà[³ Î}ìA¡t¡t¡ Îè™¢àÑz¹ Î³Ú¹ Îè™¢¹ ¤¹oìi¡àA¡ [A¡ ¤å[º A¡’¤ ºà[K¤?",
-   "options": {
-    "A": ">ãºà",
-    "B": "¹R¡à",
-    "C": "ëÎl¡ü\\ãÚà",
-    "D": "A¡’ºà"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 65
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q098",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 98,
-  "context_en": null,
-  "question_en": "Statements :\nAll windows are floors.\nNo floor is tall.\nConclusions :\n1. Some windows are tall.\n2. No tall is floor.\nSelect the correct option.",
-  "options_en": {
+  "context": null,
+  "question": "Statements :\nAll windows are floors.\nNo floor is tall.\nConclusions :\n1. Some windows are tall.\n2. No tall is floor.\nSelect the correct option.",
+  "options": {
    "A": "Only conclusion 1 follows",
    "B": "Only conclusion 2 follows",
    "C": "Either conclusion 1 or conclusion 2 follows",
    "D": "Neither conclusion 1 nor conclusion 2 follows"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 66,
-  "page_as": 66,
+  "page": 66,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[¤¤õ[t¡ :\nÎA¡ìºà [J[¹A¡ãìÚÒü ³[\\Úà¡ú\nëA¡àì>à ³[\\Úà *J >ÒÚ¡ú\n[Î‡ý¡à”z :\n1. [A¡áå³à> [J[¹A¡ã *J¡ú\n2. ëA¡àì>à *JÒü ³[\\Úà >ÒÚ¡ú\nÎ[k¡A¡ [¤A¡¿ìi¡à [>¤¢àW¡> A¡¹A¡¡ú",
-   "options": {
-    "A": "ëA¡¯º [Î‡ý¡à”z 1 t¡ l¡üš>ãt¡ Ò’¤ šà[¹",
-    "B": "ëA¡¯º [Î‡ý¡à”z 2 t¡ l¡üš>ãt¡ Ò’¤ šà[¹",
-    "C": "[Î‡ý¡à”z 1 \"=¤à [Î‡ý¡à”z 2 ¹ ëA¡àì>à &i¡à [Î‡ý¡à”zt¡ l¡üš>ãt¡ Ò’¤ šà[¹",
-    "D": "[Î‡ý¡à”z 1 * [Î‡ý¡à”z 2 ¹ ëA¡àì>àìi¡à [Î‡ý¡à”zìt¡Òü l¡üš>ãt¡ Ò’¤ ë>à¯à[¹"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 66
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q099",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 99,
-  "context_en": null,
-  "question_en": "If someone points at you and tells that you are the brother of the daughter of the\nperson’s husband’s wife, then how are you related to that person?",
-  "options_en": {
+  "context": null,
+  "question": "If someone points at you and tells that you are the brother of the daughter of the\nperson’s husband’s wife, then how are you related to that person?",
+  "options": {
    "A": "Uncle",
    "B": "Father",
    "C": "Son",
    "D": "Brother"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 68,
-  "page_as": 68,
+  "page": 68,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "™[ƒ ëA¡àì>à &K¹àA¡ã ¤¸[v¡û¡ìÚ \"àìšà>àîº \"àRå¡[ºÚàÒü A¡Ú ë™ \"àšå[> ëÎÒü ¤¸[v¡û¡K¹àA¡ã¹ Ñ¬à³ã¹ šâ—ã¹ A¡>¸à¹\n®¡àtõ¡, ët¡ì”z ëÎÒü ¤¸[v¡û¡K¹àA¡ã¹ íÎìt¡ \"àìšà>à¹ Î´¬Þê¡ [A¡ Ò’¤?",
-   "options": {
-    "A": "JåØl¡à",
-    "B": "[štõ¡",
-    "C": "šåy",
-    "D": "®¡àtõ¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 68
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q100",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 100,
-  "context_en": null,
-  "question_en": "What would come in the middle when the digits of the number 4358796 are\nreversed?",
-  "options_en": {
+  "context": null,
+  "question": "What would come in the middle when the digits of the number 4358796 are\nreversed?",
+  "options": {
    "A": "7",
    "B": "8",
    "C": "9",
    "D": "5"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 68,
-  "page_as": 68,
+  "page": 68,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "4358796 Î}J¸àìi¡à¹ \"}A¡ìA¡Òüi¡à *ìºài¡àîA¡ [º[Jìº ëÎòà³à\\¹ \"}A¡ìi¡à [A¡ Ò’¤?",
-   "options": {
-    "A": "7",
-    "B": "8",
-    "C": "9",
-    "D": "5"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 68
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q101",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 101,
-  "context_en": null,
-  "question_en": "Suraj took one-third of a birthday cake. Half of the remaining part was taken by\nChanda, leaving the leftover for Tara. How much of the cake did Tara get?",
-  "options_en": {
+  "context": null,
+  "question": "Suraj took one-third of a birthday cake. Half of the remaining part was taken by\nChanda, leaving the leftover for Tara. How much of the cake did Tara get?",
+  "options": {
    "A": "One-fourth",
    "B": "One-fifth",
    "C": "One-third",
    "D": "One-sixth"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 69,
-  "page_as": 69,
+  "page": 69,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "Îå¹ì\\ \\–µ[ƒ>¹ ëA¡A¡ &i¡à¹ &A¡-tõ¡t¡ãÚà}Å º’ìº¡ú ¤àA¡ã \"}Å¹ \"ì‹¢A¡ ®¡àK W¡–ƒàÒü íº \"¯[ÅÊ¡ \"}Å t¡¹à¹ ¤àì¤\n&[¹ =’ìº¡ú Î³Ñz ëA¡A¡ìi¡à¹ [A¡³à> \"}Å t¡¹à¹ ®¡àKt¡ =à[A¡º?",
-   "options": {
-    "A": "&A¡-W¡tå¡=¢à}Å",
-    "B": "&A¡-še¡³à}Å",
-    "C": "&A¡-tõ¡t¡ãÚà}Å",
-    "D": "&A¡-ÈË¡à}Å"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 69
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q102",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 102,
-  "context_en": null,
-  "question_en": "If POND is coded as ONMC, then how will LAKE be coded?",
-  "options_en": {
+  "context": null,
+  "question": "If POND is coded as ONMC, then how will LAKE be coded?",
+  "options": {
    "A": "MBLF",
    "B": "EKAL",
    "C": "PELA",
    "D": "KZJD"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 70,
-  "page_as": 70,
+  "page": 70,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "™[ƒ POND A¡ ONMC Î}ìA¡ìt¡ì¹ [ºJà ÒÚ, ët¡ì”z LAKE A¡ ëA¡à> Î}ìA¡ìt¡ì¹ [ºJà Ò’¤?",
-   "options": {
-    "A": "MBLF",
-    "B": "EKAL",
-    "C": "PELA",
-    "D": "KZJD"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 70
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q103",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 103,
-  "context_en": null,
-  "question_en": "Identify the incorrectly spelt word.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the incorrectly spelt word.",
+  "options": {
    "A": "INCORRECT",
    "B": "INGENE",
    "C": "INSOLVENT",
    "D": "INTROVERT"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 70,
-  "page_as": 71,
+  "page": 70,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¤à>à> \"Ç¡‡ý¡ =A¡à Å¦ìi¡à [W¡>àv¡û¡ A¡¹A¡¡ú",
-   "options": {
-    "A": "INCORRECT",
-    "B": "INGENE",
-    "C": "INSOLVENT",
-    "D": "INTROVERT"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 71
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q104",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 104,
-  "context_en": null,
-  "question_en": "Identify the item essential for meal.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the item essential for meal.",
+  "options": {
    "A": "Plate",
    "B": "Invitation",
    "C": "Table",
    "D": "Food"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 71,
-  "page_as": 71,
+  "page": 71,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "\"àÒà¹¹ ¤àì¤ šøìÚà\\>ãÚ šƒìi¡à [W¡>àv¡û¡ A¡¹A¡¡ú",
-   "options": {
-    "A": "=àº",
-    "B": "[>³”|o",
-    "C": "ë³\\",
-    "D": "Jàƒ¸"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 71
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q105",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 105,
-  "context_en": null,
-  "question_en": "BECD : GJHI :: ?",
-  "options_en": {
+  "context": null,
+  "question": "BECD : GJHI :: ?",
+  "options": {
    "A": "PSQR : TWUV",
    "B": "MNPO : QRTS",
    "C": "ADBC : FIGH",
    "D": "CBDA : HGIP"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 72,
-  "page_as": 72,
+  "page": 72,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "BECD : GJHI :: ?",
-   "options": {
-    "A": "PSQR : TWUV",
-    "B": "MNPO : QRTS",
-    "C": "ADBC : FIGH",
-    "D": "CBDA : HGIP"
-   },
-   "fonts": [],
-   "page": 72
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q106",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 106,
-  "context_en": null,
-  "question_en": "The length and breadth of a room are 8 meters and 6 meters respectively. Tom runs\nalong all the four walls and finally along a diagonal in order to catch Jerry. How\nmuch total distance is covered by Tom?",
-  "options_en": {
+  "context": null,
+  "question": "The length and breadth of a room are 8 meters and 6 meters respectively. Tom runs\nalong all the four walls and finally along a diagonal in order to catch Jerry. How\nmuch total distance is covered by Tom?",
+  "options": {
    "A": "38 meters",
    "B": "10 meters",
    "C": "14 meters",
    "D": "28 meters"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 72,
-  "page_as": 72,
+  "page": 72,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "&i¡à ëA¡àk¡à¹ íƒQ¢¸ \"à¹ç¡ šøÑ‚ yû¡ì³ 8 [³i¡à¹ \"à¹ç¡ 6 [³i¡à¹¡ú i¡ì³ ë\\¹ãA¡ ‹[¹¤îº ëA¡àk¡àìi¡à¹ W¡à[¹*J> ëƒ¯àº¹\nA¡àìÈì¹ \"à¹ç¡ \"¯ìÅÈt¡ &i¡à A¡o¢¹ [ƒÅt¡ ëƒï[¹ ™àÚ¡ú i¡ì³ Î¤¢³åk¡ [A¡³à> ƒè¹Œ \"[t¡yû¡³ A¡[¹ìº?",
-   "options": {
-    "A": "38 [³i¡à¹",
-    "B": "10 [³i¡à¹",
-    "C": "14 [³i¡à¹",
-    "D": "28 [³i¡à¹"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 72
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q107",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 107,
-  "context_en": null,
-  "question_en": "Pradip has a brother Rajiv. Pradip is the son of Kunti. Upendra is Kunti’s father.\nIn terms of relationship, what is Rajiv of Upendra?",
-  "options_en": {
+  "context": null,
+  "question": "Pradip has a brother Rajiv. Pradip is the son of Kunti. Upendra is Kunti’s father.\nIn terms of relationship, what is Rajiv of Upendra?",
+  "options": {
    "A": "Grandfather",
    "B": "Grandson",
    "C": "Maternal uncle",
    "D": "Nephew"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 73,
-  "page_as": 73,
+  "page": 73,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "šøƒãš¹ &\\> ®¡àtõ¡ íÒìá ¹à\\ã¤¡ú šøƒãš Aå¡”zã¹ šåy¡ú l¡üìš–ƒø Aå¡”zã¹ [štõ¡¡ú Î´šA¢¡¹ ëÛ¡yt¡ ¹à\\ã¤ l¡üìš–ƒø¹ [A¡\nÒ’¤?",
-   "options": {
-    "A": "A¡A¡à",
-    "B": ">à[t¡",
-    "C": "³à³à",
-    "D": "®¡à[K>"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 73
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q108",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 108,
-  "context_en": null,
-  "question_en": "What three digits would be in the middle of the result when the smallest possible\nnumber is subtracted from the largest possible number created using all the digits\nof 49723?",
-  "options_en": {
+  "context": null,
+  "question": "What three digits would be in the middle of the result when the smallest possible\nnumber is subtracted from the largest possible number created using all the digits\nof 49723?",
+  "options": {
    "A": "739",
    "B": "389",
    "C": "954",
    "D": "395"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 74,
-  "page_as": 74,
+  "page": 74,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "49723 Î}J¸àìi¡à¹ \"ài¡àÒüì¤à¹ \"}A¡ ¤¸¯Òà¹ A¡[¹ [º[J¤ š¹à \"ài¡àÒüt¡îA¡ l¡àR¡¹ Î}J¸àìi¡à¹ š¹à \"ài¡àÒüt¡îA¡ Î¹ç¡\nÎ}J¸àìi¡à [¤ìÚàK A¡[¹ ëšà¯à ó¡ºàó¡ºìi¡à¹ ³à\\¹ [t¡[>i¡à \"}A¡ [A¡ Ò’¤?",
-   "options": {
-    "A": "739",
-    "B": "389",
-    "C": "954",
-    "D": "395"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 74
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q109",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 109,
-  "context_en": null,
-  "question_en": "Find the odd one out.",
-  "options_en": {
+  "context": null,
+  "question": "Find the odd one out.",
+  "options": {
    "A": "Kilometer",
    "B": "Hectometer",
    "C": "Decimeter",
    "D": "Perimeter"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 74,
-  "page_as": 74,
+  "page": 74,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "\"[³º Å¦ìi¡à [¤W¡à[¹ l¡ü[ºÚà*A¡¡ú",
-   "options": {
-    "A": "[A¡ìºà[³i¡à¹",
-    "B": "ëÒìC¡à[³i¡à¹",
-    "C": "ël¡[W¡[³i¡à¹",
-    "D": "ëš[¹[³i¡à¹"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 74
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q110",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 110,
-  "context_en": null,
-  "question_en": "Identify the pair which is not similar to others.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the pair which is not similar to others.",
+  "options": {
    "A": "Football : Goals",
    "B": "Cricket : Runs",
    "C": "Table Tennis : Score",
    "D": "Volleyball : Points"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 75,
-  "page_as": 75,
+  "page": 75,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "\"à>¹ íÎìt¡ [³º >=A¡à ë™à¹ìi¡à [W¡>àv¡û¡ A¡¹A¡¡ú",
-   "options": {
-    "A": "óå¡i¡¤º : K’º",
-    "B": "[yû¡ìA¡i¡ : ¹à>",
-    "C": "ëi¡¤åºìi¡[>á : ÑH’¹",
-    "D": "®¡ºã¤º : šÒü–i¡"
-   },
-   "fonts": [
-    "SHREE-ASS-0592",
-    "SHREE-ASS-0592-Bold"
-   ],
-   "page": 75
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q111",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 111,
-  "context_en": null,
-  "question_en": "What is the minimum number of straight lines required to draw the following\nfigure?",
-  "options_en": {
+  "context": null,
+  "question": "What is the minimum number of straight lines required to draw the following\nfigure?",
+  "options": {
    "A": "16",
    "B": "14",
    "C": "11",
    "D": "12"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing",
    "text_mentions_visual"
@@ -5269,661 +3394,422 @@
    "exams/ADRE/2024/figures/G4-P2-ClassVIII/q111.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 76,
-  "page_as": 76,
+  "page": 76,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "šøƒv¡ [W¡y[i¡ \"}A¡> A¡[¹¤îº >è¸>t¡³ [A¡³à>l¡àº Î¹ºì¹Jà¹ šøìÚà\\> íÒìá?",
-   "options": {
-    "A": "16",
-    "B": "14",
-    "C": "11",
-    "D": "12"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 76
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q112",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 112,
-  "context_en": null,
-  "question_en": "What would come next in the following series?\nAN, CP, ER, ?",
-  "options_en": {
+  "context": null,
+  "question": "What would come next in the following series?\nAN, CP, ER, ?",
+  "options": {
    "A": "GT",
    "B": "FS",
    "C": "GS",
    "D": "FT"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 77,
-  "page_as": 77,
+  "page": 77,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "t¡º¹ ÅTõ ºàìi¡àt¡ š¹¯t¢¡ã šƒìi¡à [A¡ \"à[Ò¤?\nAN, CP, ER, ?",
-   "options": {
-    "A": "GT",
-    "B": "FS",
-    "C": "GS",
-    "D": "FT"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 77
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q113",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 113,
-  "context_en": null,
-  "question_en": "Which set of letters would continue the following series?\nMAD, NAE, OAF, PAG, ?",
-  "options_en": {
+  "context": null,
+  "question": "Which set of letters would continue the following series?\nMAD, NAE, OAF, PAG, ?",
+  "options": {
    "A": "QAE",
    "B": "RAH",
    "C": "RAE",
    "D": "QAH"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 78,
-  "page_as": 78,
+  "page": 78,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "šøƒv¡ ëA¡à>ìi¡à \"àJ¹¹ ëKàìi¡ t¡º¹ Åõ}Jºàìi¡à \"àP¡¯àÒü íº ™à¤?\nMAD, NAE, OAF, PAG, ?",
-   "options": {
-    "A": "QAE",
-    "B": "RAH",
-    "C": "RAE",
-    "D": "QAH"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 78
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q114",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 114,
-  "context_en": null,
-  "question_en": "What would be the next in the following series?\n144, 100, 64, 36, ?",
-  "options_en": {
+  "context": null,
+  "question": "What would be the next in the following series?\n144, 100, 64, 36, ?",
+  "options": {
    "A": "25",
    "B": "49",
    "C": "81",
    "D": "16"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 79,
-  "page_as": 79,
+  "page": 79,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "t¡º¹ Åõ}Jºàìi¡à¹ š¹¯t¢¡ã Î}J¸àìi¡à [A¡ Ò’¤?\n144, 100, 64, 36, ?",
-   "options": {
-    "A": "25",
-    "B": "49",
-    "C": "81",
-    "D": "16"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 79
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q115",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 115,
-  "context_en": null,
-  "question_en": "What would fill the empty slot in the following series?\nAAK, EYM, IWO, UQ, USS",
-  "options_en": {
+  "context": null,
+  "question": "What would fill the empty slot in the following series?\nAAK, EYM, IWO,",
+  "options": {
    "A": "P",
    "B": "R",
    "C": "O",
    "D": "T"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 80,
-  "page_as": 80,
+  "page": 80,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "t¡º¹ ÅTõ ºàìi¡àt¡ =A¡à Jàºã Ñ‚à>ìi¡à [A¡ìÒì¹ šè¹ A¡[¹¤?\nAAK, EYM, IWO, UQ, USS",
-   "options": {
-    "A": "P",
-    "B": "R",
-    "C": "O",
-    "D": "T"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 80
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q116",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 116,
-  "context_en": null,
-  "question_en": "Which of the following numbers is incorrect in Roman?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following numbers is incorrect in Roman?",
+  "options": {
    "A": "Twenty-nine : XXVIIII",
    "B": "Fourteen : XIV",
    "C": "Forty-eight : XLVIII",
    "D": "Twenty-one : XXI"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 81,
-  "page_as": 81,
+  "page": 81,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[>³—[º[Jt¡ ëA¡à>ìi¡à ë¹à³à> Î}J¸à ®å¡º íÒ \"àìá?",
-   "options": {
-    "A": "l¡ü>ô[yÅ : XXVIIII",
-    "B": "íW¡‹¸ : XIV",
-    "C": "\"àk¡W¡[Àá : XLVIII",
-    "D": "&îA¡Å : XXI"
-   },
-   "fonts": [
-    "SHREE-ASS-0592",
-    "SHREE-ASS-0592-Bold"
-   ],
-   "page": 81
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q117",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 117,
-  "context_en": null,
-  "question_en": "Which of the following sequences would be meaningful for the given words?\n1. Word 2. Paragraph 3. Sentence 4. Letter 5. Phrase",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following sequences would be meaningful for the given words?\n1. Word 2. Paragraph 3. Sentence 4. Letter 5. Phrase",
+  "options": {
    "A": "4, 2, 5, 1, 3",
    "B": "4, 1, 5, 2, 3",
    "C": "4, 1, 5, 3, 2",
    "D": "4, 1, 3, 5, 2"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 81,
-  "page_as": 81,
+  "page": 81,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[>³—[º[Jt¡ ëA¡à>ìi¡à yû¡³ šƒø v¡ Å¦ì¤à¹¹ ¤àì¤ \"=¢šèo¢ Ò’¤?\n1. Å¦\t2. \">åìZáƒ\t3. ¤àA¡¸\t4. ¤o¢\t5. ¤àA¡¸à}Å",
-   "options": {
-    "A": "4, 2, 5, 1, 3",
-    "B": "4, 1, 5, 2, 3",
-    "C": "4, 1, 5, 3, 2",
-    "D": "4, 1, 3, 5, 2"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 81
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q118",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 118,
-  "context_en": null,
-  "question_en": "Rani is facing East and turns towards her left. Then she stretches both of her\nhands. Which direction is her left hand pointing to?",
-  "options_en": {
+  "context": null,
+  "question": "Rani is facing East and turns towards her left. Then she stretches both of her\nhands. Which direction is her left hand pointing to?",
+  "options": {
    "A": "West",
    "B": "East",
    "C": "North",
    "D": "South"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 82,
-  "page_as": 82,
+  "page": 82,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¹àoãìÚ šè¤ [ƒÅîº ³åJ A¡[¹ ¤à*òó¡àìº Qè[¹ìá¡ú t¡à¹ [šát¡ t¡àÒü ƒåìÚàJ> Òàt¡ ë³[º [ƒìÚ¡ú &[t¡Úà t¡àÒü¹\n¤à*òÒàt¡J> ëA¡à> [ƒÅîº ëi¡àò¯àÒü \"àìá?",
-   "options": {
-    "A": "š[ÆW¡³",
-    "B": "šè¤",
-    "C": "l¡üv¡¹",
-    "D": "ƒ[Û¡o"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 82
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q119",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 119,
-  "context_en": null,
-  "question_en": "Statements :\n1. Rajib has a bruised knee.\n2. Athletes very often get hurt at sports.\nWhich of the following can be inferred?",
-  "options_en": {
+  "context": null,
+  "question": "Statements :\n1. Rajib has a bruised knee.\n2. Athletes very often get hurt at sports.\nWhich of the following can be inferred?",
+  "options": {
    "A": "1 is the effect of 2",
    "B": "2 is the effect of 1",
    "C": "1 is independent of 2",
    "D": "Specific conclusion is not possible"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 83,
-  "page_as": 83,
+  "page": 83,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[¤¤õ[t¡ :\n1. ¹à\\ãì¤ \"àkå¡t¡ \"àQàt¡ šàÒüìá¡ú\n2. ëJºåî¯ÎA¡ìº ÎQ>àÒü ëJºt¡ \"àQàt¡šøàœ¡ ÒÚ¡ú\n[¤¤õ[t¡Î³èÒ¹ š¹à [>³—[º[Jt¡ ëA¡à>ìi¡à \">å³à> A¡[¹¤ šà[¹?",
-   "options": {
-    "A": "1 íÒìá 2 ¹ šø®¡à¯",
-    "B": "2 íÒìá 1 ¹ šø®¡à¯",
-    "C": "1, 2 ¹ š¹à Ñ¬t¡”|",
-    "D": "[>[ƒ¢Ê¡ [Î‡ý¡à”z Î´±¯ >ÒÚ"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 83
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q120",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 120,
-  "context_en": null,
-  "question_en": "If MAN = 182, then CAT = ?",
-  "options_en": {
+  "context": null,
+  "question": "If MAN = 182, then CAT = ?",
+  "options": {
    "A": "96",
    "B": "60",
    "C": "138",
    "D": "120"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 84,
-  "page_as": 84,
+  "page": 84,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "™[ƒ MAN = 182 ÒÚ, ët¡ì”z CAT = ?",
-   "options": {
-    "A": "96",
-    "B": "60",
-    "C": "138",
-    "D": "120"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 84
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q121",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 121,
-  "context_en": null,
-  "question_en": "Identify the word with one pair of consecutive alphabets placed together.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the word with one pair of consecutive alphabets placed together.",
+  "options": {
    "A": "Perimeter",
    "B": "Rigorous",
    "C": "Alphabet",
    "D": "Mariner"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 85,
-  "page_as": 85,
+  "page": 85,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "¤o¢³àºà¹ yû¡³àKt¡ &ì™à¹ \"àJ¹ &ìA¡ºìK =A¡à Å¦ìi¡à [W¡>àv¡û¡ A¡¹A¡¡ú",
-   "options": {
-    "A": "Perimeter",
-    "B": "Rigorous",
-    "C": "Alphabet",
-    "D": "Mariner"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 85
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q122",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 122,
-  "context_en": null,
-  "question_en": "Which of the following pairs has similar relationship as School : Books ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following pairs has similar relationship as School : Books ?",
+  "options": {
    "A": "Field : Athletes",
    "B": "Office : Files",
    "C": "Auditorium : Audience",
    "D": "Table : Legs"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 86,
-  "page_as": 86,
+  "page": 86,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[>³—[º[Jt¡ ëA¡à>ìi¡à ë™à¹à ‘[¤ƒ¸àºÚ : [A¡t¡àš’ Î´šA¢¡¹ ƒì¹ ÎƒõÅ Î´šA¢¡ì¹ \\[Øl¡t¡?",
-   "options": {
-    "A": "ëJº š=à¹ : ëJºåî¯",
-    "B": "A¡à™¢àºÚ : ó¡àÒüº",
-    "C": "ëšøÛ¡àKõÒ : ëÅøàt¡à",
-    "D": "ë³\\ : Jå¹à (ëk¡})"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 86
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q123",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 123,
-  "context_en": null,
-  "question_en": "Insert appropriate addition/subtraction signs to get a correct equation in the\nfollowing :\n59 63 45 21 = 98",
-  "options_en": {
+  "context": null,
+  "question": "Insert appropriate addition/subtraction signs to get a correct equation in the\nfollowing :\n59 63 45 21 = 98",
+  "options": {
    "A": "–, –, +",
    "B": "+, –, –",
    "C": "–, +, –",
    "D": "+, –, +"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 86,
-  "page_as": 87,
+  "page": 86,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "59 63 45 21 = 98 t¡ &A¡ Î[k¡A¡ Î³ãA¡¹o šà¤îº l¡üš™åv¡û¡ ë™àK / [¤ìÚàK [W¡Òû¡ Î[Ä[¯Ê¡ A¡¹A¡¡ú",
-   "options": {
-    "A": "–, –, +",
-    "B": "+, –, –",
-    "C": "–, +, –",
-    "D": "+, –, +"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 87
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q124",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 124,
-  "context_en": null,
-  "question_en": "Statements :\nNo women teacher can play.\nSome women teachers are athletes.\nConclusions :\n1. Male athletes can play.\n2. Some athletes can play.\nSelect the correct option.",
-  "options_en": {
+  "context": null,
+  "question": "Statements :\nNo women teacher can play.\nSome women teachers are athletes.\nConclusions :\n1. Male athletes can play.\n2. Some athletes can play.\nSelect the correct option.",
+  "options": {
    "A": "Only conclusion 1 follows",
    "B": "Only conclusion 2 follows",
    "C": "Either conclusion 1 or conclusion 2 follows",
    "D": "Neither conclusion 1 nor conclusion 2 follows"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 87,
-  "page_as": 88,
+  "page": 87,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "[¤¤õ[t¡ :\nëA¡àì>à [ÅÛ¡[ÚyãìÚ ëJ[º¤ ë>à¯àì¹¡ú\n[A¡áå³à> [ÅÛ¡[Úyã ëJºåî¯¡ú\n[Î‡ý¡à”z :\n1. šå¹ç¡È ëJºåî¯ìÚ ëJ[º¤ šàì¹¡ú\n2. [A¡áå³à> ëJºåî¯ìÚ ëJ[º¤ šàì¹¡ú\nÎ[k¡A¡ [¤A¡¿ìi¡à [>¤¢àW¡> A¡¹A¡¡ú",
-   "options": {
-    "A": "ëA¡¯º [Î‡ý¡à”z 1 t¡ l¡üš>ãt¡ Ò’¤ šà[¹¡ú",
-    "B": "ëA¡¯º [Î‡ý¡à”z 2 t¡ l¡üš>ãt¡ Ò’¤ šà[¹¡ú",
-    "C": "[Î‡ý¡à”z 1 \"=¤à 2 ¹ [™ ëA¡àì>à &i¡àt¡ l¡üš>ãt¡ Ò’¤ šà[¹¡ú",
-    "D": "[Î‡ý¡à”z 1 \"=¤à 2 ¹ ëA¡àì>àìi¡àìt¡Òü l¡üš>ãt¡ Ò’¤ ë>à¯à[¹¡ú"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 88
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q125",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 125,
-  "context_en": null,
-  "question_en": "What would replace ‘??’ in the following grid?\nC6 F8 I10\nM5 ?? S9\nR7 U9 X11",
-  "options_en": {
+  "context": null,
+  "question": "What would replace ‘??’ in the following grid?\nC6 F8 I10\nM5 ?? S9\nR7 U9 X11",
+  "options": {
    "A": "O6",
    "B": "P7",
    "C": "R7",
    "D": "Q6"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing"
   ],
@@ -5934,372 +3820,308 @@
    "exams/ADRE/2024/figures/G4-P2-ClassVIII/q125.png"
   ],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 89,
-  "page_as": 89,
+  "page": 89,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "šøƒv¡ Nøãl¡t¡ ‘ ?? ’¹ k¡àÒüt¡ [A¡ ¤[Ò¤?\nC6 F8 I10\nM5 ?? S9\nR7 U9 X11",
-   "options": {
-    "A": "O6",
-    "B": "P7",
-    "C": "R7",
-    "D": "Q6"
-   },
-   "fonts": [
-    "SHREE-ASS-0592"
-   ],
-   "page": 89
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q126",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 126,
-  "context_en": null,
-  "question_en": "Mark the synonym of ‘expose’.",
-  "options_en": {
+  "context": null,
+  "question": "Mark the synonym of ‘expose’.",
+  "options": {
    "A": "Uncover",
    "B": "Cover up",
    "C": "Arrest",
    "D": "Distinguish"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 91,
-  "page_as": null,
+  "page": 91,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q127",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 127,
-  "context_en": null,
-  "question_en": "Give one-word substitution for ‘a ruler with absolute power over a region’.",
-  "options_en": {
+  "context": null,
+  "question": "Give one-word substitution for ‘a ruler with absolute power over a region’.",
+  "options": {
    "A": "Prime Minister",
    "B": "Chief Minister",
    "C": "Traitor",
    "D": "Dictator"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 91,
-  "page_as": null,
+  "page": 91,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q128",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 128,
-  "context_en": null,
-  "question_en": "Fill in the best option in the blank :\nMy mother is the _____ inspiration in my life.",
-  "options_en": {
+  "context": null,
+  "question": "Fill in the best option in the blank :\nMy mother is the _____ inspiration in my life.",
+  "options": {
    "A": "bigger",
    "B": "big",
    "C": "biggestest",
    "D": "biggest"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "D",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 91,
-  "page_as": null,
+  "page": 91,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q129",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 129,
-  "context_en": null,
-  "question_en": "Which of the following means to retire, usually from sports?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following means to retire, usually from sports?",
+  "options": {
    "A": "Cast a ring",
    "B": "Hang up the boots",
    "C": "Fist of fury",
    "D": "Up the beanstalk"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 91,
-  "page_as": null,
+  "page": 91,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q130",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 130,
-  "context_en": null,
-  "question_en": "What will be the correct active voice of the following sentence?\n“The sound can be heard by me.”",
-  "options_en": {
+  "context": null,
+  "question": "What will be the correct active voice of the following sentence?\n“The sound can be heard by me.”",
+  "options": {
    "A": "The sound can hear me.",
    "B": "I can hear the sound.",
    "C": "The sound can be hear me.",
    "D": "I can be heard by the sound."
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 91,
-  "page_as": null,
+  "page": 91,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q131",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 131,
-  "context_en": null,
-  "question_en": "What is the antonym of ‘exterior’?",
-  "options_en": {
+  "context": null,
+  "question": "What is the antonym of ‘exterior’?",
+  "options": {
    "A": "Posterior",
    "B": "Interior",
    "C": "Superior",
    "D": "Inferior"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 92,
-  "page_as": null,
+  "page": 92,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q132",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 132,
-  "context_en": null,
-  "question_en": "Find the best preposition :\nThe helicopter is flying _____ the village.",
-  "options_en": {
+  "context": null,
+  "question": "Find the best preposition :\nThe helicopter is flying _____ the village.",
+  "options": {
    "A": "above",
    "B": "around",
    "C": "upon",
    "D": "on"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "A",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 92,
-  "page_as": null,
+  "page": 92,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q133",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 133,
-  "context_en": null,
-  "question_en": "Identify the incorrectly spelt word.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the incorrectly spelt word.",
+  "options": {
    "A": "Basic",
    "B": "Winter",
    "C": "Recsue",
    "D": "Micro"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 92,
-  "page_as": null,
+  "page": 92,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q134",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 134,
-  "context_en": null,
-  "question_en": "Choose the correct pronoun :\nRaghav’s mother asked _____ to clean the room.",
-  "options_en": {
+  "context": null,
+  "question": "Choose the correct pronoun :\nRaghav’s mother asked _____ to clean the room.",
+  "options": {
    "A": "he",
    "B": "his",
    "C": "him",
    "D": "it"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "C",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 92,
-  "page_as": null,
+  "page": 92,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q135",
   "exam": "ADRE",
   "year": 2024,
   "conducting_body": "SLRC Assam",
-  "grade": "IV",
-  "paper": "II",
-  "paper_title": "Class VIII passed",
+  "paper_code": "G4-P2-ClassVIII",
+  "paper_title": "Grade IV Paper II: Class VIII passed",
   "booklet_set": "A",
   "q_no": 135,
-  "context_en": null,
-  "question_en": "Identify the subject in the following sentence :\n“The box is green in colour.”",
-  "options_en": {
+  "context": null,
+  "question": "Identify the subject in the following sentence :\n“The box is green in colour.”",
+  "options": {
    "A": "The",
    "B": "Box",
    "C": "Green",
    "D": "Colour"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": "B",
   "answer_note": null,
   "answer_source": "official_final_key",
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
-  "page_en": 92,
-  "page_as": null,
+  "page": 92,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  }
 ]

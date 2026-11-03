@@ -4,355 +4,233 @@
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 1,
-  "context_en": null,
-  "question_en": "Which city will host the 2024 Summer Olympics ?",
-  "options_en": {
+  "context": null,
+  "question": "Which city will host the 2024 Summer Olympics ?",
+  "options": {
    "A": "Paris",
    "B": "London",
    "C": "Amsterdam",
    "D": "Zurich"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 6,
-  "page_as": 6,
+  "page": 6,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "2024        ’  ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 6
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q002",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 2,
-  "context_en": null,
-  "question_en": "Manila is the capital city of",
-  "options_en": {
+  "context": null,
+  "question": "Manila is the capital city of",
+  "options": {
    "A": "Malaysia",
    "B": "Philippines",
    "C": "Indonesia",
    "D": "Thailand"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 6,
-  "page_as": 6,
+  "page": 6,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "     ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 6
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q003",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 3,
-  "context_en": null,
-  "question_en": "Lotus temple is situated in",
-  "options_en": {
+  "context": null,
+  "question": "Lotus temple is situated in",
+  "options": {
    "A": "Kolkata",
    "B": "New Delhi",
    "C": "Mumbai",
    "D": "Bhopal"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 7,
-  "page_as": 7,
+  "page": 7,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": " ’     :",
-   "options": {
-    "A": "",
-    "B": " ",
-    "C": " ",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 7
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q004",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 4,
-  "context_en": null,
-  "question_en": "Which of the following is a output device for a computer ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is a output device for a computer ?",
+  "options": {
    "A": "Mouse",
    "B": "Speaker",
    "C": "Microphone",
    "D": "Keyboard"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 7,
-  "page_as": 7,
+  "page": 7,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "        ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": " ’ ",
-    "D": " ’  "
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 7
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q005",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 5,
-  "context_en": null,
-  "question_en": "Which of the following mountain range is geologically considered the oldest ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following mountain range is geologically considered the oldest ?",
+  "options": {
    "A": "Pir Panjal Range",
    "B": "Vindhya Range",
    "C": "Aravalli Range",
    "D": "Western Ghats"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 8,
-  "page_as": 8,
+  "page": 8,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "           ?",
-   "options": {
-    "A": "  ",
-    "B": " ",
-    "C": " ",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 8
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q006",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 6,
-  "context_en": null,
-  "question_en": "Which one amongst the following is the southernmost river in India ?",
-  "options_en": {
+  "context": null,
+  "question": "Which one amongst the following is the southernmost river in India ?",
+  "options": {
    "A": "Cauvery",
    "B": "Godavari",
    "C": "Narmada",
    "D": "Mahanadi"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 8,
-  "page_as": 8,
+  "page": 8,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "       ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 8
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q007",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 7,
-  "context_en": null,
-  "question_en": "In which part do plants produce their food ?",
-  "options_en": {
+  "context": null,
+  "question": "In which part do plants produce their food ?",
+  "options": {
    "A": "Roots",
    "B": "Leaf",
    "C": "Trunk",
    "D": "Bark"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 9,
-  "page_as": 9,
+  "page": 9,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "       ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": " - ",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 9
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q008",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 8,
-  "context_en": null,
-  "question_en": "An adult human being has a normal body temperature in the range of",
-  "options_en": {
+  "context": null,
+  "question": "An adult human being has a normal body temperature in the range of",
+  "options": {
    "A": "36·1 °F – 37·2 °F",
    "B": "36·1 °C – 37·1 °C",
    "C": "97 °C – 99 °C",
    "D": "48 °F – 51 °F"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "math"
   ],
@@ -363,1647 +241,1052 @@
    "exams/ADRE/2022/figures/G3-P5-Driver/q008.png"
   ],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 9,
-  "page_as": 9,
+  "page": 9,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "       ",
-   "options": {
-    "A": "36·1 °F – 37·2 °F",
-    "B": "36·1 °C – 37·1 °C",
-    "C": "97 °C – 99 °C",
-    "D": "48 °F – 51 °F"
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 9
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q009",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 9,
-  "context_en": null,
-  "question_en": "Which of the following geometric shapes does not have parallel sides ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following geometric shapes does not have parallel sides ?",
+  "options": {
    "A": "Rhombus",
    "B": "Square",
    "C": "Pentagon",
    "D": "Parallelogram"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 10,
-  "page_as": 10,
+  "page": 10,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "        ?",
-   "options": {
-    "A": " ’ ",
-    "B": " ",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 10
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q010",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 10,
-  "context_en": null,
-  "question_en": "Which of the following is not an Olympics Swimming Event ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is not an Olympics Swimming Event ?",
+  "options": {
    "A": "Butterfly",
    "B": "Backstroke",
    "C": "Breaststroke",
    "D": "Breakstroke"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 10,
-  "page_as": 10,
+  "page": 10,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "        ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": " "
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 10
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q011",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 11,
-  "context_en": null,
-  "question_en": "Which of the following birds builds its nest in tree hollows ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following birds builds its nest in tree hollows ?",
+  "options": {
    "A": "Hornbill",
    "B": "Egret",
    "C": "Vulture",
    "D": "Eagle"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 11,
-  "page_as": 11,
+  "page": 11,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "       ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 11
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q012",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 12,
-  "context_en": null,
-  "question_en": "Which of the following is the National Animal of India ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is the National Animal of India ?",
+  "options": {
    "A": "One Horned Rhino",
    "B": "Royal Bengal Tiger",
    "C": "Asian Elephant",
    "D": "Nilgai"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 11,
-  "page_as": 11,
+  "page": 11,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "     ?",
-   "options": {
-    "A": " ",
-    "B": " ",
-    "C": " ",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 11
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q013",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 13,
-  "context_en": null,
-  "question_en": "Who is considered as the Iron Man of India ?",
-  "options_en": {
+  "context": null,
+  "question": "Who is considered as the Iron Man of India ?",
+  "options": {
    "A": "Mahatma Gandhi",
    "B": "Subhash Chandra Bose",
    "C": "B.R. Ambedkar",
    "D": "Sardar Vallabhbhai Patel"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 12,
-  "page_as": 12,
+  "page": 12,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "          ?",
-   "options": {
-    "A": " ",
-    "B": "  ",
-    "C": ". . ",
-    "D": "  "
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 12
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q014",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 14,
-  "context_en": null,
-  "question_en": "Who is known as the Missile Man of India ?",
-  "options_en": {
+  "context": null,
+  "question": "Who is known as the Missile Man of India ?",
+  "options": {
    "A": "Homi Jahangir Bhabha",
    "B": "Kailasavadivoo Sivan",
    "C": "A.P.J. Abdul Kalam",
    "D": "J.R.D. Tata"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 12,
-  "page_as": 12,
+  "page": 12,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "        ?",
-   "options": {
-    "A": "  ",
-    "B": " ",
-    "C": ". . .  ",
-    "D": ". . . "
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 12
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q015",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 15,
-  "context_en": null,
-  "question_en": "Which amongst the following is the largest unit of computer storage ?",
-  "options_en": {
+  "context": null,
+  "question": "Which amongst the following is the largest unit of computer storage ?",
+  "options": {
    "A": "Gigabyte",
    "B": "Terabyte",
    "C": "Megabyte",
    "D": "Kilobyte"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 13,
-  "page_as": 13,
+  "page": 13,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "       ’    ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 13
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q016",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 16,
-  "context_en": null,
-  "question_en": "On every Independence Day of India, the Prime Minister addresses the\nnation from :",
-  "options_en": {
+  "context": null,
+  "question": "On every Independence Day of India, the Prime Minister addresses the\nnation from :",
+  "options": {
    "A": "Red Fort",
    "B": "Rashtrapati Bhavan",
    "C": "Parliament House",
    "D": "India Gate"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 13,
-  "page_as": 13,
+  "page": 13,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "          ?",
-   "options": {
-    "A": "",
-    "B": " ",
-    "C": " ",
-    "D": " "
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 13
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q017",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 17,
-  "context_en": null,
-  "question_en": "The First album by Zubeen Garg was",
-  "options_en": {
+  "context": null,
+  "question": "The First album by Zubeen Garg was",
+  "options": {
    "A": "Anamika",
    "B": "Mayabini",
    "C": "Maya",
    "D": "Aasha"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 14,
-  "page_as": 14,
+  "page": 14,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "      :",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 14
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q018",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 18,
-  "context_en": null,
-  "question_en": "“Rajatarangini” was written by :",
-  "options_en": {
+  "context": null,
+  "question": "“Rajatarangini” was written by :",
+  "options": {
    "A": "Shudraka",
    "B": "Jayadeva",
    "C": "Banabhatta",
    "D": "Kalhana"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 14,
-  "page_as": 14,
+  "page": 14,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "“  ”     ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 14
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q019",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 19,
-  "context_en": null,
-  "question_en": "Which of the following is the name of the optical telescope in space ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is the name of the optical telescope in space ?",
+  "options": {
    "A": "XMM-Newton",
    "B": "Galileo probe",
    "C": "Hubble Space Telescope",
    "D": "Edison Telescope"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 15,
-  "page_as": 15,
+  "page": 15,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "           ",
-   "options": {
-    "A": "   ",
-    "B": " ’  ’ ",
-    "C": "  ",
-    "D": " "
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 15
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q020",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 20,
-  "context_en": null,
-  "question_en": "The battle of Saraighat was fought between Lachit Borphukan and",
-  "options_en": {
+  "context": null,
+  "question": "The battle of Saraighat was fought between Lachit Borphukan and",
+  "options": {
    "A": "Mir Jumla",
    "B": "Turbak",
    "C": "Ram Singh",
    "D": "Bakhtiyar Khilji"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 15,
-  "page_as": 15,
+  "page": 15,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "     ________    ",
-   "options": {
-    "A": " ",
-    "B": "",
-    "C": "",
-    "D": " "
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 15
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q021",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 21,
-  "context_en": null,
-  "question_en": "Who among the following initiated “Din-i-Ilahi” ?",
-  "options_en": {
+  "context": null,
+  "question": "Who among the following initiated “Din-i-Ilahi” ?",
+  "options": {
    "A": "Aurangzeb",
    "B": "Babur",
    "C": "Shah Jahan",
    "D": "Akbar"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 16,
-  "page_as": 16,
+  "page": 16,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "   “  -  ”    ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 16
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q022",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 22,
-  "context_en": null,
-  "question_en": "Which of the following is NOT a Union Territory ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is NOT a Union Territory ?",
+  "options": {
    "A": "Puducherry",
    "B": "Ladakh",
    "C": "Kodaikanal",
    "D": "Chandigarh"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 17,
-  "page_as": 16,
+  "page": 17,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "       ?",
-   "options": {
-    "A": " ",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 16
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q023",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 23,
-  "context_en": null,
-  "question_en": "The Treaty of Yandaboo was signed between :",
-  "options_en": {
+  "context": null,
+  "question": "The Treaty of Yandaboo was signed between :",
+  "options": {
    "A": "British and Burmese",
    "B": "Burmese and Ahom",
    "C": "Ahom and British",
    "D": "British and Chinese"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 17,
-  "page_as": 17,
+  "page": 17,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "        ?",
-   "options": {
-    "A": "  ",
-    "B": "  ",
-    "C": "  ",
-    "D": "  "
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 17
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q024",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 24,
-  "context_en": null,
-  "question_en": "‘Abhigyan Shakuntalam”, a Sanskrit play was written by :",
-  "options_en": {
+  "context": null,
+  "question": "‘Abhigyan Shakuntalam”, a Sanskrit play was written by :",
+  "options": {
    "A": "Panini",
    "B": "Kalhan",
    "C": "Asvaghosa",
    "D": "Kalidasa"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 18,
-  "page_as": 17,
+  "page": 18,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "  ‘   ’     ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 17
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q025",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 25,
-  "context_en": null,
-  "question_en": "The special characteristic of the annual Jon Beel Mela is :",
-  "options_en": {
+  "context": null,
+  "question": "The special characteristic of the annual Jon Beel Mela is :",
+  "options": {
    "A": "It remains open round the clock",
    "B": "Women are not permitted to enter",
    "C": "Barter system",
    "D": "The exclusive trading of livestock"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 18,
-  "page_as": 18,
+  "page": 18,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "      :",
-   "options": {
-    "A": "   ",
-    "B": "     ",
-    "C": " ",
-    "D": "  "
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 18
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q026",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 26,
-  "context_en": null,
-  "question_en": "The state bird of Assam is",
-  "options_en": {
+  "context": null,
+  "question": "The state bird of Assam is",
+  "options": {
    "A": "Cuckoo",
    "B": "Hornbill",
    "C": "Peacock",
    "D": "White winged wood duck"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 19,
-  "page_as": 19,
+  "page": 19,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "    :",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 19
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q027",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 27,
-  "context_en": null,
-  "question_en": "The Umananda temple is situated on the hilltop of",
-  "options_en": {
+  "context": null,
+  "question": "The Umananda temple is situated on the hilltop of",
+  "options": {
    "A": "Chitrachal",
    "B": "Bhasmachal",
    "C": "Bindhyachal",
    "D": "Sandhyachal"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 20,
-  "page_as": 19,
+  "page": 20,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "     :",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 19
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q028",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 28,
-  "context_en": null,
-  "question_en": "The ancient Indian physician known as the ‘Father of Surgery’ was :",
-  "options_en": {
+  "context": null,
+  "question": "The ancient Indian physician known as the ‘Father of Surgery’ was :",
+  "options": {
    "A": "Charaka",
    "B": "Sushruta",
    "C": "Vagbhatta",
    "D": "Vinayaka"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 20,
-  "page_as": 20,
+  "page": 20,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "‘   ’        ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 20
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q029",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 29,
-  "context_en": null,
-  "question_en": "How many schedules are in the Indian Constitution ?",
-  "options_en": {
+  "context": null,
+  "question": "How many schedules are in the Indian Constitution ?",
+  "options": {
    "A": "14",
    "B": "10",
    "C": "15",
    "D": "12"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 21,
-  "page_as": 21,
+  "page": 21,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "      ?",
-   "options": {
-    "A": "14",
-    "B": "10",
-    "C": "15",
-    "D": "12"
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 21
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q030",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 30,
-  "context_en": null,
-  "question_en": "The Fox-tail orchid is the state flower of",
-  "options_en": {
+  "context": null,
+  "question": "The Fox-tail orchid is the state flower of",
+  "options": {
    "A": "Arunachal Pradesh",
    "B": "Tripura",
    "C": "Manipur",
    "D": "Sikkim"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 21,
-  "page_as": 21,
+  "page": 21,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "      ?",
-   "options": {
-    "A": " ",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 21
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q031",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 31,
-  "context_en": null,
-  "question_en": "World War II was fought by two opposite power blocs called ______.",
-  "options_en": {
+  "context": null,
+  "question": "World War II was fought by two opposite power blocs called ______.",
+  "options": {
    "A": "Axis and Allied",
    "B": "Allied and Axiom",
    "C": "Allied and Gammon",
    "D": "Gammon and Axiom"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 22,
-  "page_as": 22,
+  "page": 22,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "        ,    ______    ",
-   "options": {
-    "A": "   (Axis and Allied)",
-    "B": "   ’  (Allied and Axiom)",
-    "C": "   (Allied and Gammon)",
-    "D": "   ’  (Gammon and Axiom)"
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 22
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q032",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 32,
-  "context_en": null,
-  "question_en": "A major Oil-field accident took place recently at",
-  "options_en": {
+  "context": null,
+  "question": "A major Oil-field accident took place recently at",
+  "options": {
    "A": "Tingkhong",
    "B": "Sarupathar",
    "C": "Merapani",
    "D": "Baghjan"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 23,
-  "page_as": 22,
+  "page": 23,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "      -     :",
-   "options": {
-    "A": "",
-    "B": " ",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 22
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q033",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 33,
-  "context_en": null,
-  "question_en": "The real name of Bir Chilarai was",
-  "options_en": {
+  "context": null,
+  "question": "The real name of Bir Chilarai was",
+  "options": {
    "A": "Janmejoy",
    "B": "Sukladhwaj",
    "C": "Kalapahar",
    "D": "Malladev"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 23,
-  "page_as": 23,
+  "page": 23,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "      ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 23
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q034",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 34,
-  "context_en": null,
-  "question_en": "“Tusu Puja” is an important festival of the",
-  "options_en": {
+  "context": null,
+  "question": "“Tusu Puja” is an important festival of the",
+  "options": {
    "A": "Bishnupriyas",
    "B": "Tea tribes of Assam",
    "C": "Dimasas",
    "D": "Kuki tribe"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 24,
-  "page_as": 24,
+  "page": 24,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "“    ”      ?",
-   "options": {
-    "A": "",
-    "B": "  - ",
-    "C": "",
-    "D": " "
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 24
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q035",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 35,
-  "context_en": null,
-  "question_en": "In which of the following places, “Mask making” is predominantly practiced ?",
-  "options_en": {
+  "context": null,
+  "question": "In which of the following places, “Mask making” is predominantly practiced ?",
+  "options": {
    "A": "Charaidew",
    "B": "Majuli",
    "C": "Goalpara",
    "D": "Sadiya"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 25,
-  "page_as": 24,
+  "page": 25,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "   “  -  ” (Mask Making)      ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 24
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q036",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 36,
-  "context_en": null,
-  "question_en": "“Poki” is the name of ancestral home of",
-  "options_en": {
+  "context": null,
+  "question": "“Poki” is the name of ancestral home of",
+  "options": {
    "A": "Jyoti Prasad Agarwalla",
    "B": "Lakshminath Bezbaruah",
    "C": "Bishnu Prasad Rabha",
    "D": "Nabin Chandra Bardoloi"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 25,
-  "page_as": 25,
+  "page": 25,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "“  ”       ?",
-   "options": {
-    "A": " ",
-    "B": " ",
-    "C": " ",
-    "D": " "
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 25
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q037",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 37,
-  "context_en": null,
-  "question_en": "Which of the following is located at Sibsagar ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following is located at Sibsagar ?",
+  "options": {
    "A": "Surya Pahar",
    "B": "Malinithan",
    "C": "Rang Ghar",
    "D": "Dolgobinda Mandir"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 26,
-  "page_as": 25,
+  "page": 26,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "     ?",
-   "options": {
-    "A": "",
-    "B": " ",
-    "C": "",
-    "D": " "
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 25
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q038",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 38,
-  "context_en": null,
-  "question_en": "In which state of India does the Barak river originate ?",
-  "options_en": {
+  "context": null,
+  "question": "In which state of India does the Barak river originate ?",
+  "options": {
    "A": "Assam",
    "B": "Manipur",
    "C": "Mizoram",
    "D": "Meghalaya"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 26,
-  "page_as": 26,
+  "page": 26,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "       ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 26
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q039",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 39,
-  "context_en": null,
-  "question_en": "Which of the following communities is “Haidang Geet” associated with ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following communities is “Haidang Geet” associated with ?",
+  "options": {
    "A": "Deuri",
    "B": "Sonowal Kachari",
    "C": "Tiwa",
    "D": "Karbi"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 27,
-  "page_as": 26,
+  "page": 27,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "“   ”      ?",
-   "options": {
-    "A": "",
-    "B": " ",
-    "C": "",
-    "D": " "
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 26
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q040",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 40,
-  "context_en": null,
-  "question_en": "Asharikandi village in Assam is famous for :",
-  "options_en": {
+  "context": null,
+  "question": "Asharikandi village in Assam is famous for :",
+  "options": {
    "A": "Silk",
    "B": "Terracotta",
    "C": "Jute",
    "D": "Marble"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 27,
-  "page_as": 27,
+  "page": 27,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "       ?",
-   "options": {
-    "A": "",
-    "B": " ’ ",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F4"
-   ],
-   "page": 27
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q041",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 41,
-  "context_en": null,
-  "question_en": "The product of three numbers which are in the ratio 3:4:5 is found to be 480.\nThe largest number among the three numbers is",
-  "options_en": {
+  "context": null,
+  "question": "The product of three numbers which are in the ratio 3:4:5 is found to be 480.\nThe largest number among the three numbers is",
+  "options": {
    "A": "6",
    "B": "8",
    "C": "10",
    "D": "12"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 28,
-  "page_as": 28,
+  "page": 28,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "3:4:5       480   ’      \n :",
-   "options": {
-    "A": "6",
-    "B": "8",
-    "C": "10",
-    "D": "12"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 28
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q042",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 42,
-  "context_en": null,
-  "question_en": "A number was increased by 30% and thereafter decreased by 30%. The net\nchange in the number in percentage is",
-  "options_en": {
+  "context": null,
+  "question": "A number was increased by 30% and thereafter decreased by 30%. The net\nchange in the number in percentage is",
+  "options": {
    "A": "9% increase",
    "B": "10% decrease",
    "C": "10% increase",
    "D": "9% decrease"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 29,
-  "page_as": 28,
+  "page": 29,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "    30%    ’ ,    30%    ’    \n     ’  :",
-   "options": {
-    "A": "9% ",
-    "B": "10% ",
-    "C": "10% ",
-    "D": "9% "
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 28
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q043",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 43,
-  "context_en": null,
-  "question_en": "In the equation x² – 2x + 1 = 0, the value of x³ – is :\nx³",
-  "options_en": {
+  "context": null,
+  "question": "In the equation x² – 2x + 1 = 0, the value of x³ – is :\nx³",
+  "options": {
    "A": "0",
    "B": "1",
    "C": "–1",
    "D": "2"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing"
   ],
@@ -2014,519 +1297,332 @@
    "exams/ADRE/2022/figures/G3-P5-Driver/q043.png"
   ],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 30,
-  "page_as": 29,
+  "page": 30,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": " x² – 2x + 1 = 0   x³ – ₃   :\nx",
-   "options": {
-    "A": "0",
-    "B": "1",
-    "C": "–1",
-    "D": "2"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 29
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q044",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 44,
-  "context_en": null,
-  "question_en": "How many cubes of volume 1 cm³ each, can be cut out from a single cube of\nvolume 1 m³ ?",
-  "options_en": {
+  "context": null,
+  "question": "How many cubes of volume 1 cm³ each, can be cut out from a single cube of\nvolume 1 m³ ?",
+  "options": {
    "A": "10⁸",
    "B": "10⁶",
    "C": "10⁴",
    "D": "10²"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 30,
-  "page_as": 30,
+  "page": 30,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "1 .³     1 . .³        ?",
-   "options": {
-    "A": "10⁸",
-    "B": "10⁶",
-    "C": "10⁴",
-    "D": "10²"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 30
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q045",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 45,
-  "context_en": null,
-  "question_en": "A 10 ft. long ladder leaning against a wall, touches the wall at a height of\n8 ft. By what distance should the ladder be moved towards the wall so that\nits top touches the wall at 9.6 ft height ?",
-  "options_en": {
+  "context": null,
+  "question": "A 10 ft. long ladder leaning against a wall, touches the wall at a height of\n8 ft. By what distance should the ladder be moved towards the wall so that\nits top touches the wall at 9.6 ft height ?",
+  "options": {
    "A": "3.2 ft",
    "B": "2.8 ft",
    "C": "3.9 ft",
    "D": "4.4 ft"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 31,
-  "page_as": 30,
+  "page": 31,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "10        8        \n  9.6         \n ?",
-   "options": {
-    "A": "3.2 ",
-    "B": "2.8 ",
-    "C": "3.9 ",
-    "D": "4.4 "
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 30
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q046",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 46,
-  "context_en": null,
-  "question_en": "If the average age of A, B and C is 22 years and the average age of B and C is\n25 years, then the age of A after 9 years is :",
-  "options_en": {
+  "context": null,
+  "question": "If the average age of A, B and C is 22 years and the average age of B and C is\n25 years, then the age of A after 9 years is :",
+  "options": {
    "A": "35 years",
    "B": "30 years",
    "C": "25 years",
    "D": "20 years"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 32,
-  "page_as": 31,
+  "page": 32,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": " A, B  C    22   B  C    25  ,  9 \n A    ’  :",
-   "options": {
-    "A": "35 ",
-    "B": "30 ",
-    "C": "25 ",
-    "D": "20 "
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 31
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q047",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 47,
-  "context_en": null,
-  "question_en": "Kamal buys an article for 20% less than its printed price and sells it for 20%\nmore than the printed price. The percentage of gain on selling the article is",
-  "options_en": {
+  "context": null,
+  "question": "Kamal buys an article for 20% less than its printed price and sells it for 20%\nmore than the printed price. The percentage of gain on selling the article is",
+  "options": {
    "A": "40%",
    "B": "50%",
    "C": "30%",
    "D": "45%"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 33,
-  "page_as": 32,
+  "page": 33,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "     20%       20%  \n           :",
-   "options": {
-    "A": "40%",
-    "B": "50%",
-    "C": "30%",
-    "D": "45%"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 32
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q048",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 48,
-  "context_en": null,
-  "question_en": "If A:B = 2:3 and B:C = 4:5, then C:A is :",
-  "options_en": {
+  "context": null,
+  "question": "If A:B = 2:3 and B:C = 4:5, then C:A is :",
+  "options": {
    "A": "8:5",
    "B": "5:8",
    "C": "5:18",
    "D": "15:8"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 33,
-  "page_as": 33,
+  "page": 33,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": " A:B = 2:3  B:C = 4:5,  C:A   :",
-   "options": {
-    "A": "8:5",
-    "B": "5:8",
-    "C": "5:18",
-    "D": "15:8"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 33
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q049",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 49,
-  "context_en": null,
-  "question_en": "If the population of a town increases at the rate of 10% every year, the\npresent population is 1000, then after 3 years the population of the town\nwould be",
-  "options_en": {
+  "context": null,
+  "question": "If the population of a town increases at the rate of 10% every year, the\npresent population is 1000, then after 3 years the population of the town\nwould be",
+  "options": {
    "A": "1300",
    "B": "1351",
    "C": "1310",
    "D": "1331"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 34,
-  "page_as": 34,
+  "page": 34,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "     10%        1000  ’  3\n     ’  :",
-   "options": {
-    "A": "1300",
-    "B": "1351",
-    "C": "1310",
-    "D": "1331"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 34
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q050",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 50,
-  "context_en": null,
-  "question_en": "Two natural numbers are in the ratio 3:5 and their product is 135. The\nsmaller number is",
-  "options_en": {
+  "context": null,
+  "question": "Two natural numbers are in the ratio 3:5 and their product is 135. The\nsmaller number is",
+  "options": {
    "A": "5",
    "B": "9",
    "C": "11",
    "D": "15"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 35,
-  "page_as": 34,
+  "page": 35,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "    3 : 5   ,     135 \n   :",
-   "options": {
-    "A": "5",
-    "B": "9",
-    "C": "11",
-    "D": "15"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 34
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q051",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 51,
-  "context_en": null,
-  "question_en": "The diagonals of any two squares are in the ratio of 2:3. The areas of the\nsquares are in the ratio of",
-  "options_en": {
+  "context": null,
+  "question": "The diagonals of any two squares are in the ratio of 2:3. The areas of the\nsquares are in the ratio of",
+  "options": {
    "A": "3:5",
    "B": "2:9",
    "C": "4:9",
    "D": "4:5"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 36,
-  "page_as": 35,
+  "page": 36,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "     2:3      :",
-   "options": {
-    "A": "3:5",
-    "B": "2:9",
-    "C": "4:9",
-    "D": "4:5"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 35
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q052",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 52,
-  "context_en": null,
-  "question_en": "6 men can complete a task in 15 days. After 10 days, 4 more men join. The\nnumber of days required to complete the remaining work is :",
-  "options_en": {
+  "context": null,
+  "question": "6 men can complete a task in 15 days. After 10 days, 4 more men join. The\nnumber of days required to complete the remaining work is :",
+  "options": {
    "A": "2",
    "B": "3",
    "C": "4",
    "D": "5"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 36,
-  "page_as": 36,
+  "page": 36,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "   6   15          10  \n 4              \n :",
-   "options": {
-    "A": "2",
-    "B": "3",
-    "C": "4",
-    "D": "5"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 36
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q053",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 53,
-  "context_en": null,
-  "question_en": "50% of 25% of 20% of a number is 21. The number is",
-  "options_en": {
+  "context": null,
+  "question": "50% of 25% of 20% of a number is 21. The number is",
+  "options": {
    "A": "420",
    "B": "520",
    "C": "840",
    "D": "940"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 37,
-  "page_as": 37,
+  "page": 37,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "   20%  25%  50%   21    ’ ",
-   "options": {
-    "A": "420",
-    "B": "520",
-    "C": "840",
-    "D": "940"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 37
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q054",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 54,
-  "context_en": null,
-  "question_en": "––\n0.23 is equivalent to the fraction\n23\t23",
-  "options_en": {
+  "context": null,
+  "question": "––\n0.23 is equivalent to the fraction\n23\t23",
+  "options": {
    "A": "99 23",
    "B": "990 23",
    "C": "999",
    "D": "90"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing",
    "table_layout"
@@ -2538,96 +1634,62 @@
    "exams/ADRE/2022/figures/G3-P5-Driver/q054.png"
   ],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 38,
-  "page_as": 37,
+  "page": 38,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "––\n0.23    \n23\t23",
-   "options": {
-    "A": "99 23",
-    "B": "990 23",
-    "C": "999",
-    "D": "90"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 37
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q055",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 55,
-  "context_en": null,
-  "question_en": "The area of an isosceles right angled triangle is 81 cm². The length of the\nhypotenus of the triangle is",
-  "options_en": {
+  "context": null,
+  "question": "The area of an isosceles right angled triangle is 81 cm². The length of the\nhypotenus of the triangle is",
+  "options": {
    "A": "14 cm",
    "B": "16 cm",
    "C": "18 cm",
    "D": "22 cm"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 39,
-  "page_as": 38,
+  "page": 39,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "      81 . .²      :",
-   "options": {
-    "A": "14 . .",
-    "B": "16 . .",
-    "C": "18 . .",
-    "D": "22 . ."
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 38
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q056",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 56,
-  "context_en": null,
-  "question_en": "The angle 54° when converted to radians, is\nπ\t3π",
-  "options_en": {
+  "context": null,
+  "question": "The angle 54° when converted to radians, is\nπ\t3π",
+  "options": {
    "A": "10 7π",
    "B": "10 9π",
    "C": "10",
    "D": "10"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing",
    "math",
@@ -2640,49 +1702,32 @@
    "exams/ADRE/2022/figures/G3-P5-Driver/q056.png"
   ],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 40,
-  "page_as": 39,
+  "page": 40,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "54°       :\nπ\t3π",
-   "options": {
-    "A": "10 7π",
-    "B": "10 9π",
-    "C": "10",
-    "D": "10"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 39
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q057",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 57,
-  "context_en": null,
-  "question_en": "2.5\nThe decimal representation of is :",
-  "options_en": {
+  "context": null,
+  "question": "2.5\nThe decimal representation of is :",
+  "options": {
    "A": "0.5",
    "B": "0.25",
    "C": "0.05",
    "D": "0.025"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing"
   ],
@@ -2694,49 +1739,32 @@
    "exams/ADRE/2022/figures/G3-P5-Driver/q057_2.png"
   ],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 40,
-  "page_as": 40,
+  "page": 40,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "2.5\n     :",
-   "options": {
-    "A": "0.5",
-    "B": "0.25",
-    "C": "0.05",
-    "D": "0.025"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 40
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q058",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 58,
-  "context_en": null,
-  "question_en": "x\t162\nFind the value of x if\t=\n128 x",
-  "options_en": {
+  "context": null,
+  "question": "x\t162\nFind the value of x if\t=\n128 x",
+  "options": {
    "A": "12",
    "B": "14",
    "C": "196",
    "D": "144"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "drawing",
    "table_layout"
@@ -2748,1642 +1776,1222 @@
    "exams/ADRE/2022/figures/G3-P5-Driver/q058.png"
   ],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 41,
-  "page_as": 41,
+  "page": 41,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "x\t162\n\t=\t,  ‘x’   :\n128 x",
-   "options": {
-    "A": "12",
-    "B": "14",
-    "C": "196",
-    "D": "144"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 41
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q059",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 59,
-  "context_en": null,
-  "question_en": "If a – b = 5 and a² + b² = 41, then the value of ‘ab’ is",
-  "options_en": {
+  "context": null,
+  "question": "If a – b = 5 and a² + b² = 41, then the value of ‘ab’ is",
+  "options": {
    "A": "10",
    "B": "5",
    "C": "7",
    "D": "8"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 42,
-  "page_as": 41,
+  "page": 42,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": " a – b = 5  a² + b² = 41,  ‘ab’   ",
-   "options": {
-    "A": "10",
-    "B": "5",
-    "C": "7",
-    "D": "8"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 41
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q060",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 60,
-  "context_en": null,
-  "question_en": "A tank can be filled by 5 pipes in 80 minutes. How long would it take to fill\nthe same tank by 8 pipes ?",
-  "options_en": {
+  "context": null,
+  "question": "A tank can be filled by 5 pipes in 80 minutes. How long would it take to fill\nthe same tank by 8 pipes ?",
+  "options": {
    "A": "80 minutes",
    "B": "70 minutes",
    "C": "60 minutes",
    "D": "50 minutes"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 42,
-  "page_as": 42,
+  "page": 42,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "5     (tank) 80        8  \n      ’  ?",
-   "options": {
-    "A": "80 ",
-    "B": "70 ",
-    "C": "60 ",
-    "D": "50 "
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 42
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q061",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 61,
-  "context_en": "Q. 61 – Q. 64. Choose the correct ANTONYM for the given word.",
-  "question_en": "Sympathy",
-  "options_en": {
+  "context": "Q. 61 – Q. 64. Choose the correct ANTONYM for the given word.",
+  "question": "Sympathy",
+  "options": {
    "A": "Empathy",
    "B": "Antipathy",
    "C": "Condolence",
    "D": "Consolation"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 43,
-  "page_as": null,
+  "page": 43,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q062",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 62,
-  "context_en": "Q. 61 – Q. 64. Choose the correct ANTONYM for the given word.",
-  "question_en": "Economise",
-  "options_en": {
+  "context": "Q. 61 – Q. 64. Choose the correct ANTONYM for the given word.",
+  "question": "Economise",
+  "options": {
    "A": "Enormous",
    "B": "Purchase",
    "C": "Waste",
    "D": "Trade"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 43,
-  "page_as": null,
+  "page": 43,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q063",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 63,
-  "context_en": "Q. 61 – Q. 64. Choose the correct ANTONYM for the given word.",
-  "question_en": "Hamper",
-  "options_en": {
+  "context": "Q. 61 – Q. 64. Choose the correct ANTONYM for the given word.",
+  "question": "Hamper",
+  "options": {
    "A": "Promote",
    "B": "Stop",
    "C": "Barrier",
    "D": "Fail"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 43,
-  "page_as": null,
+  "page": 43,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q064",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 64,
-  "context_en": "Q. 61 – Q. 64. Choose the correct ANTONYM for the given word.",
-  "question_en": "Incompetent",
-  "options_en": {
+  "context": "Q. 61 – Q. 64. Choose the correct ANTONYM for the given word.",
+  "question": "Incompetent",
+  "options": {
    "A": "Unskilled",
    "B": "Inefficient",
    "C": "Dexterous",
    "D": "Useless"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 43,
-  "page_as": null,
+  "page": 43,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q065",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 65,
-  "context_en": "Q. 65 – Q. 67. Choose the correct SYNONYM for the given word.",
-  "question_en": "Judicious",
-  "options_en": {
+  "context": "Q. 65 – Q. 67. Choose the correct SYNONYM for the given word.",
+  "question": "Judicious",
+  "options": {
    "A": "Prudent",
    "B": "Irrational",
    "C": "Foolish",
    "D": "Impatient"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 43,
-  "page_as": null,
+  "page": 43,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q066",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 66,
-  "context_en": "Q. 65 – Q. 67. Choose the correct SYNONYM for the given word.",
-  "question_en": "Monotonous",
-  "options_en": {
+  "context": "Q. 65 – Q. 67. Choose the correct SYNONYM for the given word.",
+  "question": "Monotonous",
+  "options": {
    "A": "Pleasant",
    "B": "Varied",
    "C": "Variety",
    "D": "Tedious"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 43,
-  "page_as": null,
+  "page": 43,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q067",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 67,
-  "context_en": "Q. 65 – Q. 67. Choose the correct SYNONYM for the given word.",
-  "question_en": "Outrage",
-  "options_en": {
+  "context": "Q. 65 – Q. 67. Choose the correct SYNONYM for the given word.",
+  "question": "Outrage",
+  "options": {
    "A": "Praise",
    "B": "Favour",
    "C": "Pleased",
    "D": "Offence"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 43,
-  "page_as": null,
+  "page": 43,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q068",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 68,
-  "context_en": "Q. 68 – Q. 70. Choose the correct option.",
-  "question_en": "A number of people listening to a concert or a lecture is called",
-  "options_en": {
+  "context": "Q. 68 – Q. 70. Choose the correct option.",
+  "question": "A number of people listening to a concert or a lecture is called",
+  "options": {
    "A": "Audience",
    "B": "Spectators",
    "C": "Crowd",
    "D": "Rabble"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 44,
-  "page_as": null,
+  "page": 44,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q069",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 69,
-  "context_en": "Q. 68 – Q. 70. Choose the correct option.",
-  "question_en": "The place where airplanes are housed is called a",
-  "options_en": {
+  "context": "Q. 68 – Q. 70. Choose the correct option.",
+  "question": "The place where airplanes are housed is called a",
+  "options": {
    "A": "Garage",
    "B": "Warehouse",
    "C": "Hanger",
    "D": "Hangar"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 44,
-  "page_as": null,
+  "page": 44,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q070",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 70,
-  "context_en": "Q. 68 – Q. 70. Choose the correct option.",
-  "question_en": "A person who walks in his sleep is known as",
-  "options_en": {
+  "context": "Q. 68 – Q. 70. Choose the correct option.",
+  "question": "A person who walks in his sleep is known as",
+  "options": {
    "A": "Misanthropist",
    "B": "Somniloquist",
    "C": "Somnambulist",
    "D": "Ventriloquist"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 44,
-  "page_as": null,
+  "page": 44,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q071",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 71,
-  "context_en": "Q. 71 – Q. 74. Choose the correct preposition.",
-  "question_en": "He said this ______ oath.",
-  "options_en": {
+  "context": "Q. 71 – Q. 74. Choose the correct preposition.",
+  "question": "He said this ______ oath.",
+  "options": {
    "A": "by",
    "B": "on",
    "C": "with",
    "D": "from"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 44,
-  "page_as": null,
+  "page": 44,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q072",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 72,
-  "context_en": "Q. 71 – Q. 74. Choose the correct preposition.",
-  "question_en": "The post ______ the Government of Assam in the Department of Education\nhas been advertised.",
-  "options_en": {
+  "context": "Q. 71 – Q. 74. Choose the correct preposition.",
+  "question": "The post ______ the Government of Assam in the Department of Education\nhas been advertised.",
+  "options": {
    "A": "in",
    "B": "with",
    "C": "under",
    "D": "for"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 44,
-  "page_as": null,
+  "page": 44,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q073",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 73,
-  "context_en": "Q. 71 – Q. 74. Choose the correct preposition.",
-  "question_en": "The train starts ______ 5 O’clock ______ the morning ______ Wednesdays.",
-  "options_en": {
+  "context": "Q. 71 – Q. 74. Choose the correct preposition.",
+  "question": "The train starts ______ 5 O’clock ______ the morning ______ Wednesdays.",
+  "options": {
    "A": "in, at, in",
    "B": "at, in, on",
    "C": "in, on, at",
    "D": "on, at, in"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 44,
-  "page_as": null,
+  "page": 44,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q074",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 74,
-  "context_en": "Q. 71 – Q. 74. Choose the correct preposition.",
-  "question_en": "The plaster on the walls has been removed to expose the original bricks ____.",
-  "options_en": {
+  "context": "Q. 71 – Q. 74. Choose the correct preposition.",
+  "question": "The plaster on the walls has been removed to expose the original bricks ____.",
+  "options": {
    "A": "underneath",
    "B": "below",
    "C": "under",
    "D": "inside"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 44,
-  "page_as": null,
+  "page": 44,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q075",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 75,
-  "context_en": "Q. 75 – Q. 77. The given sentence is incorrect. Choose the correct sentence from\nthe given options.",
-  "question_en": "‘The Statesman’ has the largest circulation of any English daily.",
-  "options_en": {
+  "context": "Q. 75 – Q. 77. The given sentence is incorrect. Choose the correct sentence from\nthe given options.",
+  "question": "‘The Statesman’ has the largest circulation of any English daily.",
+  "options": {
    "A": "‘The Statesman’ has the largest circulation of any English dailies.",
    "B": "‘The Statesman’ have the largest circulation of all English dailies.",
    "C": "‘The Statesman’ has largest circulations of all English dailies.",
    "D": "‘The Statesman’ has largest circulation of all English dailies."
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 45,
-  "page_as": null,
+  "page": 45,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q076",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 76,
-  "context_en": "Q. 75 – Q. 77. The given sentence is incorrect. Choose the correct sentence from\nthe given options.",
-  "question_en": "I contradicted against him.",
-  "options_en": {
+  "context": "Q. 75 – Q. 77. The given sentence is incorrect. Choose the correct sentence from\nthe given options.",
+  "question": "I contradicted against him.",
+  "options": {
    "A": "I contradicted by him.",
    "B": "I contradicted for him.",
    "C": "I contradicted with him.",
    "D": "I contradicted him."
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 45,
-  "page_as": null,
+  "page": 45,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q077",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 77,
-  "context_en": "Q. 75 – Q. 77. The given sentence is incorrect. Choose the correct sentence from\nthe given options.",
-  "question_en": "This is one of the best book that has been written since ten years.",
-  "options_en": {
+  "context": "Q. 75 – Q. 77. The given sentence is incorrect. Choose the correct sentence from\nthe given options.",
+  "question": "This is one of the best book that has been written since ten years.",
+  "options": {
    "A": "This is one of the best book written in ten years.",
    "B": "This is one of the best books that have been written in ten years.",
    "C": "This is one of the best books written since ten years.",
    "D": "This is one of the best books that has been written since ten years."
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 45,
-  "page_as": null,
+  "page": 45,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q078",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 78,
-  "context_en": "Q. 78 – Q. 80. Fill in the blanks with the correct options.",
-  "question_en": "Please ______ to let the children pass.",
-  "options_en": {
+  "context": "Q. 78 – Q. 80. Fill in the blanks with the correct options.",
+  "question": "Please ______ to let the children pass.",
+  "options": {
    "A": "stand aside",
    "B": "stand to the side",
    "C": "stand in the side",
    "D": "stand on the side"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 45,
-  "page_as": null,
+  "page": 45,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q079",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 79,
-  "context_en": "Q. 78 – Q. 80. Fill in the blanks with the correct options.",
-  "question_en": "______ imaginative stories about the origin of the game of chess.",
-  "options_en": {
+  "context": "Q. 78 – Q. 80. Fill in the blanks with the correct options.",
+  "question": "______ imaginative stories about the origin of the game of chess.",
+  "options": {
    "A": "Many of the",
    "B": "Many",
    "C": "There are many",
    "D": "Of the many"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 45,
-  "page_as": null,
+  "page": 45,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q080",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 80,
-  "context_en": "Q. 78 – Q. 80. Fill in the blanks with the correct options.",
-  "question_en": "I really have to go now. I have ______ the doctor.",
-  "options_en": {
+  "context": "Q. 78 – Q. 80. Fill in the blanks with the correct options.",
+  "question": "I really have to go now. I have ______ the doctor.",
+  "options": {
    "A": "an appointment to",
    "B": "an appointment with",
    "C": "appointment with",
    "D": "an appointment from"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 45,
-  "page_as": null,
+  "page": 45,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": null
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q081",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 81,
-  "context_en": null,
-  "question_en": "Which letter should replace # in BFEC, KONL, PT # Q ?",
-  "options_en": {
-   "A": "S",
-   "B": "U",
-   "C": "R",
-   "D": "D"
+  "context": null,
+  "question": "Which letter should replace # in BFEC, KONL, PT # Q ?\nS\nR\tD",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": ""
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
-  "has_visual": false,
-  "visual_types": [],
-  "visual_in": [],
-  "images": [],
+  "has_visual": true,
+  "text_source": "pdf_text",
+  "visual_types": [
+   "parse_failed",
+   "table_layout"
+  ],
+  "visual_in": [
+   "question",
+   "options"
+  ],
+  "images": [
+   "exams/ADRE/2022/figures/G3-P5-Driver/q081.png"
+  ],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 46,
-  "page_as": 46,
-  "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "BFEC, KONL, PT # Q  #        ?",
-   "options": {
-    "A": "S",
-    "B": "U",
-    "C": "R",
-    "D": "D"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 46
-  }
+  "page": 46,
+  "needs_review": true,
+  "review_notes": [
+   "could not locate options (A)-(D)"
+  ]
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q082",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 82,
-  "context_en": null,
-  "question_en": "While writing the even numbers from 1 to 100, how many time ‘2’ will be\nwritten ?",
-  "options_en": {
+  "context": null,
+  "question": "While writing the even numbers from 1 to 100, how many time ‘2’ will be\nwritten ?",
+  "options": {
    "A": "12",
    "B": "15",
    "C": "10",
    "D": "13"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 47,
-  "page_as": 46,
+  "page": 47,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "1   100      ‘2’     ?",
-   "options": {
-    "A": "12",
-    "B": "15",
-    "C": "10",
-    "D": "13"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 46
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q083",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 83,
-  "context_en": null,
-  "question_en": "Cut out a Decagon through one of its vertices, in the form of triangles. Total\nnumber of triangle cut-outs will be",
-  "options_en": {
+  "context": null,
+  "question": "Cut out a Decagon through one of its vertices, in the form of triangles. Total\nnumber of triangle cut-outs will be",
+  "options": {
    "A": "5",
    "B": "6",
    "C": "7",
    "D": "8"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 47,
-  "page_as": 47,
+  "page": 47,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "             ’  \n       ’ ",
-   "options": {
-    "A": "5",
-    "B": "6",
-    "C": "7",
-    "D": "8"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 47
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q084",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 84,
-  "context_en": null,
-  "question_en": "Which of the following pair of numbers has the same relationship as (18, 75),\n(39, 54), (27, 66) ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following pair of numbers has the same relationship as (18, 75),\n(39, 54), (27, 66) ?",
+  "options": {
    "A": "(51, 42)",
    "B": "(32, 62)",
    "C": "(51, 65)",
    "D": "(61, 55)"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 48,
-  "page_as": 48,
+  "page": 48,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "    (18, 75), (39, 54), (27, 66)      ?",
-   "options": {
-    "A": "(51, 42)",
-    "B": "(32, 62)",
-    "C": "(51, 65)",
-    "D": "(61, 55)"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 48
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q085",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 85,
-  "context_en": null,
-  "question_en": "Identify the term that is incorrectly placed in the series 5, 7, 11, 17, 23, 35,\n47.",
-  "options_en": {
+  "context": null,
+  "question": "Identify the term that is incorrectly placed in the series 5, 7, 11, 17, 23, 35,\n47.",
+  "options": {
    "A": "23",
    "B": "17",
    "C": "11",
    "D": "35"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 49,
-  "page_as": 48,
+  "page": 49,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "5, 7, 11, 17, 23, 35, 47,...      :",
-   "options": {
-    "A": "23",
-    "B": "17",
-    "C": "11",
-    "D": "35"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 48
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q086",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 86,
-  "context_en": null,
-  "question_en": "In a code, BEC means ‘books are old’, EDF means ‘man is old’ and CGH\nmeans ‘buy good books’. The code for ‘books’ is",
-  "options_en": {
+  "context": null,
+  "question": "In a code, BEC means ‘books are old’, EDF means ‘man is old’ and CGH\nmeans ‘buy good books’. The code for ‘books’ is",
+  "options": {
    "A": "B",
    "B": "C",
    "C": "E",
    "D": "D"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 49,
-  "page_as": 49,
+  "page": 49,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "   BEC    ‘books are old’, EDF    ‘man is old’  CGH \n‘buy good books’      ‘books’    :",
-   "options": {
-    "A": "B",
-    "B": "C",
-    "C": "E",
-    "D": "D"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 49
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q087",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 87,
-  "context_en": null,
-  "question_en": "Consider the following relations :\nA = 2C\nA + 3C = 2C + G\n7C = 2A + G\nWhich among the following is equal to 2G ?",
-  "options_en": {
+  "context": null,
+  "question": "Consider the following relations :\nA = 2C\nA + 3C = 2C + G\n7C = 2A + G\nWhich among the following is equal to 2G ?",
+  "options": {
    "A": "2A",
    "B": "3A",
    "C": "2A + 3C",
    "D": "3A + 2C"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 51,
-  "page_as": 50,
+  "page": 51,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "    :\nA = 2C\nA + 3C = 2C + G\n7C = 2A + G\n  2G    ’  ?",
-   "options": {
-    "A": "2A",
-    "B": "3A",
-    "C": "2A + 3C",
-    "D": "3A + 2C"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 50
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q088",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 88,
-  "context_en": null,
-  "question_en": "If “Conductor” is related to “Bus”, then “Referee” is related in a similar way\nto which of the following ?",
-  "options_en": {
+  "context": null,
+  "question": "If “Conductor” is related to “Bus”, then “Referee” is related in a similar way\nto which of the following ?",
+  "options": {
    "A": "Cricket",
    "B": "Hockey",
    "C": "Football",
    "D": "Chess"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 51,
-  "page_as": 51,
+  "page": 51,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": " “  ”  “  ”   ,   “  ”  \n     ’  ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": " ",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 51
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q089",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 89,
-  "context_en": null,
-  "question_en": "Identify the incorrectly matched pair :",
-  "options_en": {
+  "context": null,
+  "question": "Identify the incorrectly matched pair :",
+  "options": {
    "A": "Newton : Science",
    "B": "Aryabhatta : Mathematics",
    "C": "Chanakya : Poetry",
    "D": "Mozart : Music"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 52,
-  "page_as": 52,
+  "page": 52,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "     :",
-   "options": {
-    "A": " : ",
-    "B": "  : ",
-    "C": " : ",
-    "D": " : "
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 52
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q090",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 90,
-  "context_en": null,
-  "question_en": "Identify the term which refers to an area of higher studies :",
-  "options_en": {
+  "context": null,
+  "question": "Identify the term which refers to an area of higher studies :",
+  "options": {
    "A": "Diplomacy",
    "B": "Mathematics",
    "C": "Apology",
    "D": "Callisthenics"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 53,
-  "page_as": 52,
+  "page": 53,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "         :",
-   "options": {
-    "A": " (Diplomacy)",
-    "B": " (Mathematics)",
-    "C": " ’  (Apology)",
-    "D": " (Callisthenics)"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 52
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q091",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 91,
-  "context_en": null,
-  "question_en": "What would replace A and B in order to establish a logical connection in\n“3:A:90∷3:B:1095” ?",
-  "options_en": {
+  "context": null,
+  "question": "What would replace A and B in order to establish a logical connection in\n“3:A:90∷3:B:1095” ?",
+  "options": {
    "A": "Month, Year",
    "B": "Month, Hour",
    "C": "Year, Days",
    "D": "Days, Hours"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 53,
-  "page_as": 53,
+  "page": 53,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "“3:A:90∷3:B:1095”        A  B      ?",
-   "options": {
-    "A": ", ",
-    "B": ", ",
-    "C": ", ",
-    "D": ", "
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 53
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q092",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 92,
-  "context_en": null,
-  "question_en": "Which of the following numbers is unlike the others ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following numbers is unlike the others ?",
+  "options": {
    "A": "729",
    "B": "512",
    "C": "232",
    "D": "125"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 54,
-  "page_as": 54,
+  "page": 54,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "      ?",
-   "options": {
-    "A": "729",
-    "B": "512",
-    "C": "232",
-    "D": "125"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 54
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q093",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 93,
-  "context_en": null,
-  "question_en": "Pointing to the newsreader on TV screen, Uday says, “ His only brother is the\nfather of my son’s father.” The newsreader is Uday’s ______.",
-  "options_en": {
+  "context": null,
+  "question": "Pointing to the newsreader on TV screen, Uday says, “ His only brother is the\nfather of my son’s father.” The newsreader is Uday’s ______.",
+  "options": {
    "A": "Grandfather",
    "B": "Nephew",
    "C": "Father",
    "D": "Uncle"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 55,
-  "page_as": 54,
+  "page": 55,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "        ’ , “    \n    ”       _______ ",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": " ",
-    "D": " "
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 54
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q094",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 94,
-  "context_en": null,
-  "question_en": "Which of the following words is different from others ?",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following words is different from others ?",
+  "options": {
    "A": "SBTCU",
    "B": "MBNCP",
    "C": "EBFCG",
    "D": "PBQCR"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 55,
-  "page_as": 55,
+  "page": 55,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "       ?",
-   "options": {
-    "A": "SBTCU",
-    "B": "MBNCP",
-    "C": "EBFCG",
-    "D": "PBQCR"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 55
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q095",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 95,
-  "context_en": null,
-  "question_en": "If the digits of the number 3249685 are arranged in ascending order, the\nposition of how many digits would remain the same ?",
-  "options_en": {
+  "context": null,
+  "question": "If the digits of the number 3249685 are arranged in ascending order, the\nposition of how many digits would remain the same ?",
+  "options": {
    "A": "Two",
    "B": "Four",
    "C": "Three",
    "D": "One"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 56,
-  "page_as": 56,
+  "page": 56,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": " 3249685          \n   ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 56
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q096",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 96,
-  "context_en": null,
-  "question_en": "If the English alphabets are written horizontally in the reverse order, then\nwhat is the 6th letter from left ?",
-  "options_en": {
-   "A": "V",
-   "B": "U",
-   "C": "T",
-   "D": "F"
+  "context": null,
+  "question": "If the English alphabets are written horizontally in the reverse order, then\nwhat is the 6th letter from left ?\nV\nT\tF",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": ""
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
-  "has_visual": false,
-  "visual_types": [],
-  "visual_in": [],
-  "images": [],
+  "has_visual": true,
+  "text_source": "pdf_text",
+  "visual_types": [
+   "parse_failed",
+   "table_layout"
+  ],
+  "visual_in": [
+   "question",
+   "options"
+  ],
+  "images": [
+   "exams/ADRE/2022/figures/G3-P5-Driver/q096.png"
+  ],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 57,
-  "page_as": 56,
-  "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "         ,       :",
-   "options": {
-    "A": "V",
-    "B": "U",
-    "C": "T",
-    "D": "F"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 56
-  }
+  "page": 57,
+  "needs_review": true,
+  "review_notes": [
+   "could not locate options (A)-(D)"
+  ]
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q097",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 97,
-  "context_en": null,
-  "question_en": "Amongst the colleagues, Rajput is taller than Hitesh, who is shorter than\nSuresh. Natasha is taller than Himashri, but shorter than Hitesh. Suresh is\nshorter than Rajput. Who is the tallest ?",
-  "options_en": {
+  "context": null,
+  "question": "Amongst the colleagues, Rajput is taller than Hitesh, who is shorter than\nSuresh. Natasha is taller than Himashri, but shorter than Hitesh. Suresh is\nshorter than Rajput. Who is the tallest ?",
+  "options": {
    "A": "Hitesh",
    "B": "Rajput",
    "C": "Natasha",
    "D": "Suresh"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": false,
+  "text_source": "pdf_text",
   "visual_types": [],
   "visual_in": [],
   "images": [],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 58,
-  "page_as": 57,
+  "page": 58,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "             \n            ",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 57
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q098",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 98,
-  "context_en": null,
-  "question_en": "Sneha cut off a rectangle along the dotted line as shown. The cut piece was\nparallelly shifted to the other side and fixed it there. What shape will Sneha\nget now ?",
-  "options_en": {
+  "context": null,
+  "question": "Sneha cut off a rectangle along the dotted line as shown. The cut piece was\nparallelly shifted to the other side and fixed it there. What shape will Sneha\nget now ?",
+  "options": {
    "A": "Pentagon",
    "B": "Square",
    "C": "Parallelogram",
    "D": "Trapezium"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "image"
   ],
@@ -4394,49 +3002,32 @@
    "exams/ADRE/2022/figures/G3-P5-Driver/q098.png"
   ],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 60,
-  "page_as": 58,
+  "page": 60,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "             \n             \n   ’  ?",
-   "options": {
-    "A": "",
-    "B": " ",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 58
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q099",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 99,
-  "context_en": null,
-  "question_en": "Which of the following diagrams can represent ?\n‘Language’, ‘French’, ‘German’.",
-  "options_en": {
+  "context": null,
+  "question": "Which of the following diagrams can represent ?\n‘Language’, ‘French’, ‘German’.",
+  "options": {
    "A": "",
    "B": "",
    "C": "",
    "D": ""
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "image",
    "option_images"
@@ -4449,49 +3040,32 @@
    "exams/ADRE/2022/figures/G3-P5-Driver/q099.png"
   ],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 61,
-  "page_as": 60,
+  "page": 61,
   "needs_review": false,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "  \n‘  ’, ‘  ’, ‘  ’      ?",
-   "options": {
-    "A": "",
-    "B": "",
-    "C": "",
-    "D": ""
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 60
-  }
+  "review_notes": []
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q100",
   "exam": "ADRE",
   "year": 2022,
   "conducting_body": "SLRC Assam",
-  "grade": "III",
-  "paper": "V",
-  "paper_title": "Driver",
+  "paper_code": "G3-P5-Driver",
+  "paper_title": "Grade III Paper V: Driver",
   "booklet_set": "A",
   "q_no": 100,
-  "context_en": null,
-  "question_en": "In the figure, multiple views of the same cube is shown\nThe letter on the face opposite to A is",
-  "options_en": {
+  "context": null,
+  "question": "In the figure, multiple views of the same cube is shown\nThe letter on the face opposite to A is",
+  "options": {
    "A": "F",
    "B": "D",
    "C": "C",
    "D": "E"
   },
-  "context_as": null,
-  "question_as": null,
-  "options_as": null,
   "answer": null,
   "answer_note": null,
   "answer_source": null,
   "has_visual": true,
+  "text_source": "pdf_text",
   "visual_types": [
    "image",
    "text_mentions_visual"
@@ -4503,22 +3077,8 @@
    "exams/ADRE/2022/figures/G3-P5-Driver/q100.png"
   ],
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
-  "page_en": 62,
-  "page_as": 61,
+  "page": 62,
   "needs_review": true,
-  "review_notes": [],
-  "_as_legacy": {
-   "stem": "       :\nA       :",
-   "options": {
-    "A": "F",
-    "B": "D",
-    "C": "C",
-    "D": "E"
-   },
-   "fonts": [
-    "CIDFont+F5"
-   ],
-   "page": 61
-  }
+  "review_notes": []
  }
 ]

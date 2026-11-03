@@ -1,0 +1,3347 @@
+[
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q001",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 1,
+  "context": null,
+  "question": "Match the following books (List-I)\nwith the authors (List-II):\nList—I\tList-II\na. A Comprehensive 1. Arup Jyoti\nHistory of Assam\tSaikia\nb. The Quest for\t2. Arup Kumar\nModern Assam :\tDutta\nA History\nc. The Ahoms : A 3. Dr. Nagen\nReimagined\tSaikia\nHistory\nd. Asamiya Manuhar 4. Swarnalata\nItihas\tBaruah\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "a b c d 2 3 4 1",
+   "B": "a b c d 4 1 3 2",
+   "C": "a b c d 1 2 4 3",
+   "D": "a b c d 4 1 2 3"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q001.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 2,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q002",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 2,
+  "context": null,
+  "question": "With reference to the Charaideo\nMaidams, consider the following\nstatements :\n(i) These are mounds containing\nthe remains of the royalty of the\nVarman dynasty.\n(ii) They are located along the\nfoothills of the Patkai Range.\n(iii) Charaideo is now a UNESCO\nWorld Heritage Site.\n(iv) The first king who was buried\nafter death here was Swargadeo\nGadadhar Singha.\n· Select the correct statement/\nstatements using the codes given\nbelow.\nand (ii) only\n), (ii) and (iv) only\nii) only\n), (ii) and (ii) only",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": ""
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "parse_failed"
+  ],
+  "visual_in": [
+   "question",
+   "options"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q002.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 2,
+  "needs_review": true,
+  "review_notes": [
+   "could not locate options (A)-(D)"
+  ]
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q003",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 3,
+  "context": null,
+  "question": "With reference to the Archaeological\nSurvey of India (ASI), consider the\nfollowing statements :\n(i) The prime concern of ASI is\nthe maintenance of ancient\nmonuments and archaeological\nsites and remains of national\nimportance.\n(ii)It does not regulate the\nAntiquities and Art Treasures\nAct, 1972.\n(iii) Alexander Cunningham was\nappointed as the first Director\nGeneral of ASI.\n(iv) ASI is attached to the Ministry\nof Education, Government of\nIndia.\nSelect the correct statement/\nstatements using the codes given\nbelow.",
+  "options": {
+   "A": "(i) only",
+   "B": "i) and (iii) only",
+   "C": "(ii) only",
+   "D": "((ii), (ii) and (iv)"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q003.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 2,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q004",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 4,
+  "context": null,
+  "question": "Match the following wetlands (List—I)\nwith the districts where these are\nlocated (List-II) :\nList—I\tList—ⅡI\na. Urpad Beel\t1. Bongaigaon\nb. Son Beel\t2. Goalpara\t3\nc. Tamranga Beel 3. Morigaon\nd. Nandini-Sonai Beel 4. Karimganj\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "a b c d 2 4 1 3",
+   "B": "a b c d 4 1 3 2",
+   "C": "a b c d 1 2 4 3",
+   "D": "a b c d 3 1 2 4"
+  },
+  "answer": "A",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q004.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 2,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q005",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 5,
+  "context": null,
+  "question": "Match the following institutions\n(List-I) with the years of their\nestablishment (List-II) :\nList—I\tList-II\na. Cotton College\t1. 1901\nb. Gauhati University\t2. 1969\nc. Assam Agricultural University 3. 1948\nd. Tezpur University\t4. 1994\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "a b c d 1 2 3 4",
+   "B": "a b c d 2 3 1 4",
+   "C": "a b c d 3 4 1 2",
+   "D": "a b c d 1 3 2 4"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q005.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 3,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q006",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 6,
+  "context": null,
+  "question": "Consider the following developments\npertaining to the history of modern\neducation in India :\n(i) Sadler University Commission\n(ii) Lord Macaulay's Minute\n(iii) Raleigh Commission\n(iv) Wood's Dispatch\nSelect the correct chronological\norder of these developments using\nthe codes given below.",
+  "options": {
+   "A": "(i)-(iii)(ii)-(iv)",
+   "B": "(ii)(iii)-(i)(iv)",
+   "C": "(ii)-(iv)-(iii)-(i)",
+   "D": "((i)-(ii)-(iii)(iv)"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q006.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 3,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q007",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 7,
+  "context": null,
+  "question": "With reference to the Khajuraho\nGroup of Monuments, consider the\nfollowing statements :\n(i) The temples at Khajuraho were\nbuilt during the Chandella\ndynasty.\n(ii) The temples at Khajuraho are\nassociated with Hinduism and\nJainism.\n(iii) The temples were built in\nDravidian-style architecture.\n(iv) These are situated in\nChhatarpur district of\nMaharashtra.\nSelect the correct statement/\nstatements using the codes given\nbelow.",
+  "options": {
+   "A": "(i) only",
+   "B": "(i) and (ii) only",
+   "C": "(i), (ii) and (iii) only",
+   "D": "(i) and (iv) only"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q007.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 3,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q008",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 8,
+  "context": null,
+  "question": "Consider the following events\npertaining to the Freedom Movement\nof India :\n(i) Mountbatten Plan\n(ii) Quit India Movement\n(iii) Wavell Plan\n(iv) Royal Indian Navy Mutiny\nSelect the correct chronological\norder of these events using the codes\ngiven below.",
+  "options": {
+   "A": "(ii)-(iii)(iv)-(i)",
+   "B": "(ii)(i)-(iii)(iv)",
+   "C": "(ii)(iv)-(i)(iii)",
+   "D": "((ii)-(i)-(iv)(ii)"
+  },
+  "answer": "A",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q008.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 3,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q009",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 9,
+  "context": null,
+  "question": "The NITI Forum of North-East India\nwas set up in February 2018 to\naddress various challenges in the\nregion and recommend requisite\ninterventions to achieve sustainable\neconomic growth. The Forum has\nidentified 5 focus areas for North-\nEast. Which of the following is/are\nnot in the list of focus areas?\n(i) Tourism\n(ii)Pisciculture\n(ii) Pulses\n(iv) Fruits\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) only",
+   "B": "i) and (ii) only",
+   "C": "(ii) only",
+   "D": "iii) andiv only"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q009.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 4,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q010",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 10,
+  "context": null,
+  "question": "Which of the following pairs is/are\nincorrectly matched?\n(i) State bird of Assam Hornbill\n(ii) State animal of Assam : Rhino\n(iii) State flower of Assam : Sunflower\n(iv) State tree of Assam : Hollong\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) only",
+   "B": "and (iii) only",
+   "C": "(ii) and (iii) only",
+   "D": "iii) and vonly"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q010.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 4,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q011",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 11,
+  "context": null,
+  "question": "Consider the following pairs :\nPlaces Events in the life of Buddha\n(i) Lumbini : Birth\n(ii) Sarnath : Dharmachakrapravartana\n(iii) Kushinagar : The Enlightenment\n(iv) Benaras : The Miracles\nSelect the correctly matched pairs\nusing the codes given below.",
+  "options": {
+   "A": "(i) and (iv) only",
+   "B": "(i) and (ii) only",
+   "C": "(i) and (iii) only",
+   "D": "(i), (ii) and (iii) only"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q011.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 4,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q012",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 12,
+  "context": null,
+  "question": "Consider the following statements\nregarding the Delimitation\nCommission of India :\n(i) The Delimitation Commission is\nappointed by the President of\nIndia and works in\ncollaboration with the Election\nCommission of India.\n(ii) Article 82 of the Constitution of\nIndia states that the Parliament\nis required by law to enact a\nDelimitation Act following each\nCensus.\n(iii) The first delimitation exercise in\npost-independent India was\nheld in 1952 as per the 1951\nCensus.\n(iv) The present delimitation of\nparliamentary constituencies\nhas been done on the basis of\nthe 2001 Census figures under\nthe provision of the Delimita-\ntion Act, 2002.\nSelect the correct t statement/\nstatements using the codes given\nbelow.",
+  "options": {
+   "A": "(i) only",
+   "B": "and (ii) only",
+   "C": ",ii) and iii) only",
+   "D": "(i) (ii),(iii) and (iv)"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [
+   "text_mentions_visual"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q012.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 4,
+  "needs_review": true,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q013",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 13,
+  "context": null,
+  "question": "Consider the following statements\nregarding the Election Commission\nof India :\n(i) The Election Commission of\nIndia is a body constitutionally\nempowered to conduct free and\nfair elections to the National\nand State Legislatures inclu-\nding the Panchayats.\n(ii) The power of the Election\nCommission of India is derived\nfrom Article 324 of the\nConstitution of India.\n(ii) Rajiv Kumar is the present\nChief Election Commissioner\nwho joined his office on 15th\nMay, 2022.\n(iv) The Election Commission is\nreconstituted every five years.\nSelect the incorrect statement/\nstatements using the codes given\nbelow.",
+  "options": {
+   "A": ")(i) and (ii) only",
+   "B": "(ii) and (ii) only",
+   "C": "and iv) only",
+   "D": "ii only"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q013.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 5,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q014",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 14,
+  "context": null,
+  "question": "Consider the following statements\nregarding the Goods and Services\nTax (GST) of India :\n(i) GST is a successor to VAT used\nin India on the supply of goods\nand services.\n(ii) GST came into effect from\n1st July, 2017 through the\nimplementation of the one\nhundred and first Amendment\nof the Constitution of India.\n(iii) Every decision of the GST\nCouncil is to be taken by a\nmajority of not less than three-\nfourths of the weighted votes of\nthe members present and\nvoting at the meeting.\n(iv) The GST Council is chaired by\nthe Prime Minister of India.\nSelect the correct statement/\nstatements using the codes given\nbelow.",
+  "options": {
+   "A": "(i) only",
+   "B": "(ii) only",
+   "C": "(iii) and iv) only",
+   "D": "(i), (ii) and (ii) only"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q014.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 5,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q015",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 15,
+  "context": null,
+  "question": "Consider the following statements\nregarding Article 226 of the\nConstitution of India :\n(i) Article 226 of the Constitution\nof India empowers a High Court\nto issue writs including habeas\ncorpus, mandamus, certiorari,\nprohibition and quo warranto\nfor the enforcement of the\nFundamental Rights of the\ncitizens and for any other\npurpose.\n(ii) The phrase for any other\npurposerefers to the\nenforcement of an ordinary\nlegal right. This implies that the\nwrit jurisdiction of the High\nCourt is wider than that of the\nSupreme Court.\n(iii) The Supreme Court can issue\nwrits only for the enforcement\nof the Fundamental Rights and\nnot for any other purpose, i.e.,\nit does not extend to a case\nwhere the breach of an ordinary\nlegal right is alleged.\n(ivThe High Court can issue writs\nto any person, authority and\ngovernment not only within its\nterritorial jurisdiction but also\noutside itset territorial\njurisdiction if the cause of\nactionariseswithin its\nterritorial jurisdiction.\nSelect the correct statements using\nthe codes given below.",
+  "options": {
+   "A": "(i), (ii) and (iii) only",
+   "B": "ii and (iv only",
+   "C": "",
+   "D": "and (iii) only (i),(ii), (ii) and iv) ASE"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "figure_gap",
+   "option_images"
+  ],
+  "visual_in": [
+   "question",
+   "options"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q015.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 5,
+  "needs_review": true,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q016",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 16,
+  "context": null,
+  "question": "Which of the following Autonomous\nCouncils in Assam has/have been\nformed under the Sixth Schedule of\nthe Constitution of India?\n(i) Bodoland Territorial Council or\nBodoland Territorial Region\n(ii) Karbi Anglong Autonomous\nCouncil\n(iii) Dima Hasao Autonomous\nCouncil\n(iv) Rabha Hasong Autonomous\nCouncil\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) only",
+   "B": "i) and (ii) only",
+   "C": ", (ii) and (ii) only",
+   "D": "((i)(ii) (ii) and (iv)"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q016.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 6,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q017",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 17,
+  "context": null,
+  "question": "Consider the following statements\nregarding the special provisions to\nsome of the States of India made by\nthe Constitution :\n(i) Article 371C provides for the\nspecial provisions for the State\nof Assam. Under this Article,\nthe President of India is\nempowered to provide for the\ncreation of committee of the\nAssam Legislative Assembly\nconsisting of members elected\nfrom Tribal Areas of the State\nand such other members as he/\nshe may specify.\n(ii) Article 371C was added by the\n22nd Amendment Act of 1969.\n(iii) Article 371D deals with special\nprovisions with respect to the\nState of Andhra Pradesh and\nArticle 371E deals with the\nestablishmentofCentral\nUniversity in Andhra Pradesh.\n(iv) 32nd Constitutional Amend-\nment Act, which was made in\n1973, inserted Articles 371D\nand 371E into the Constitution\nof India.\nSelect the incorrect statement/\nstatements using the codes given\nbelow.",
+  "options": {
+   "A": "(i) only",
+   "B": "ii) and v) only",
+   "C": "(i) and (i) only",
+   "D": "(i) and (ii) only"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q017.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 6,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q018",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 18,
+  "context": null,
+  "question": "Consider the following statements\n22 regarding the provisions of official\nlanguages in India :\n(i) Article 343 of the Constitution\nof India has made Hindi in\nDevanagari Script as the\nNational Language of India.\n(ii) The Legislature of a State may\nby law adopt any one or more of\nthe languages in use in the\nState as the official language/\nlanguages of the State as per\nArticle 345 of the Constitution\nof India.\n(iii) The Assam Official Language\nAct, 1960 has been legislated\nas per Article 345 of the\nConstitution of India.\nSelect the correct statements using\nthe codes given below.",
+  "options": {
+   "A": "()(i) and (ii) only",
+   "B": "(ii) and (ii) only",
+   "C": "and (iii) only",
+   "D": "(i), (ii) and (iii)"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q018.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 6,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q019",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 19,
+  "context": null,
+  "question": "Match the following Schedules of the\nIndian Constitution (List-I) with\ntheir subject matters (List-II) :\nList-I\tList—II\na. Fourth Schedule 1. Forms of Oath\nor Affirmations\nb. Eleventh Schedule 2. Languages\nc. Eighth Schedule 3. Powers of\nPanchayats\nd. Third Schedule 4. Allocation of\nSeats in the\nCouncil of\nStates\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "a b c d 1 3 2 4",
+   "B": "b c d 4 3 2 1",
+   "C": "a b c d 2 3 4 1",
+   "D": "a b c d 1 2 4 3"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q019.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 6,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q020",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 20,
+  "context": null,
+  "question": "Consider the following factors\nregarding the declaration of a\npolitical party as a State Party by the\nElection Commission of India :\n(i) If it secures 6% of the valid\nvotes polled in the State in a\ngeneral election to the\nrespective State Legislative\nAssembly and also, it wins 2\nseats in the same State\nLegislative Assembly\n(ii) If it secures 6% of the total\nvotes in the State in a general\nelection to the Lok Sabha and\nalso, it wins 1 seat in the Lok\nSabha from the same State\n(iii) If it wins 3% of seats in the\nLegislative Assembly at a\ngeneral election to the\nLegislative Assembly of the\nState concerned or 3 seats in\nthe Assembly (whichever is\nmore)\n(iv) If it secures 16% of the total\nvalid votes polled in the State at\na general election to the Lok\nSabha from the State or to the\nState Legislative Assembly\nSelect the incorrect factor/factors\nusing the codes given below.",
+  "options": {
+   "A": "(i), (ii) and (i) only",
+   "B": "iii) and v only",
+   "C": "(i) and (ii) only",
+   "D": "(iv) only"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q020.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 7,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q021",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 21,
+  "context": null,
+  "question": "Which of the following statements\nare correct about the difference\nbetween censure and no-confidence\nmotion?\n(i) A censure motion should state\nthe reason for its adoption. On\nthe other hand, a no-confidence\nmotion need not state the\nreason for its adoption.\n(ii) A no-confidence motion can be\nmoved only against the Council\nof Ministers. In contrast, a\ncensure motion can be moved\nagainst the Council of Ministers\nor an individual Minister, or a\ngroup of Ministers.\n(ii) The government must resign if\na no-confidence motion is\npassed. On the other hand, the\ngovernment need not resign if a\ncensure motion is passed.\n(iv) A censure motion can be moved\nin both the Lok Sabha and the\nRajya Sabha, whereas a no-\nconfidence motion can be\nmoved only in the Lok Sabha.\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i),(iii) and (iv) only",
+   "B": "i), (ii) and (iv only",
+   "C": "(i) and (ii) only",
+   "D": "(i), (ii) and (ii) only"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q021.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 7,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q022",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 22,
+  "context": null,
+  "question": "Consider the following statements\nregarding the Assam Legislative\nAssembly:\n(i) According to the provisions of\nthe Government of India Act,\n1935, a Bicameral Legislature\nof Assam Province came into\nexistence in 1937.\n(ii) The first sitting of the Assam\nLegislative Assembly took place\non 7th April, 1937 in the\nAssembly Chamber at Shillong.\n(iii) Pulakesh Baruah and Ganesh\nKutum were the Speakers of\nAssam Legislative Assembly\nfrom Asom Gana Parishad and\nJanata Party respectively.\n(iv) Babu Basanta Kumar Das was\nthe first Speaker of the Assam\nLegislative Assembly.\nSelect the correct statement/\nstatements using the codes given\nbelow.",
+  "options": {
+   "A": "(i) only",
+   "B": "iand ii) only",
+   "C": "(i), (ii) and(iv) only",
+   "D": "((i), (ii), (iii) and (iv)"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q022.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 8,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q023",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 23,
+  "context": null,
+  "question": "It is easier to roll a barrel than to\npull it because",
+  "options": {
+   "A": "the full weight of the barrel comes into play when it is pulled",
+   "B": "rolling friction is much less than sliding friction",
+   "C": "the surface area of the barrel in contact with the road is more in case of pulling",
+   "D": "of a reason other than those mentioned"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q023.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 8,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q024",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 24,
+  "context": null,
+  "question": "The mass of a body is different from\nits weight because\n(i) mass is a variable quantity\nwhereas weight is constant\n(ii) mass varies very little at\ndifferent places whereas weight\nvaries a lot\n(iii mass is constant but weight\ndecreases as the body moves\nfrom the Poles to the Equator\n(iv) mass is a measure of quantity\nof matter whereas weight is a\nforce\nSelect the correct reason/reasons\nusing the codes given below.",
+  "options": {
+   "A": "(i) only",
+   "B": "(i) and iv) only",
+   "C": "(iii) only",
+   "D": "(iii) and iv) only"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q024.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 8,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q025",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 25,
+  "context": null,
+  "question": "Paddy fields are chief sources of\nwhich of the following greenhouse\ngases?\n(i) Methane\n(ii) Carbon dioxide\n(iii) Nitrous oxide\niv) Ozone\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) only",
+   "B": "(ii)only",
+   "C": "(i) and (ii) only",
+   "D": "(ii),(iii)andvonly"
+  },
+  "answer": "A",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q025.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 8,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q026",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 26,
+  "context": null,
+  "question": "Which of the following groups\ncontains/contain only non-\nbiodegradable materials?\n(i) Wood, paper, leather\n(ii) Plastic, bakelite, DDT\n(iii Plastic, thermocol, wood\n(iv) Thermocol, plates made from\ndried leaves, detergents\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) and (ii) only",
+   "B": "(ii) only",
+   "C": "(ii) and (ii) only",
+   "D": "(iii) and iv) only"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q026.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 9,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q027",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 27,
+  "context": null,
+  "question": "For a given liquid, the rate of\nevaporation depends on\n(i) the temperature of the liquid\n(ii) the temperature of air\n(iii) the surface area of the liquid\nSelect the correct factor/factors\nusing the codes given below.",
+  "options": {
+   "A": "(i) only",
+   "B": "(i) and (ii) only",
+   "C": "(ii) and (ii) only",
+   "D": "(i)(ii) and (ii)"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q027.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 9,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q028",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 28,
+  "context": null,
+  "question": "One should not connect a number of\nelectrical appliances to the same\npower socket because\n(i) this can damage the appliances\n(ii) this can damage the domestic\nwiring due to overheating\n(iii) the appliances will not get full\nvoltage\nSelect the valid reason/reasons\nusing the codes given below.",
+  "options": {
+   "A": "(ii) and (iii) only",
+   "B": "(ii only",
+   "C": "i) and (ii) only",
+   "D": "iii) only"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q028.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 9,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q029",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 29,
+  "context": null,
+  "question": "Consider the following pairs of\nscientists and discoveries :\nScientists\tDiscoveries\n(i) Copernicus Law of\ngravitation\n(ii) Kepler\tLaws of\nplanetary\nmotion\niii) Galileo\tMoons of\nJupiter\niv Newton\tHeliocentric\ntheory\nSelect the correctly matched pairs\nusing the codes given below.",
+  "options": {
+   "A": "(i) andii) only",
+   "B": "(i)(ii) and (iii) only",
+   "C": "(i), (ii), (ii) and (iv)",
+   "D": "ii) andiii) only"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q029.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 9,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q030",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 30,
+  "context": null,
+  "question": "From the distance-time graphs8Of\ntwo motorists A and B, it can be\nseen that\nA\nDistance\nB\nTime\nA travelled with uniform speed\nbut B did not\ntravelled faster than B\nthroughout\nB travelled faster than A\nthroughout\nA and B travelled with equal\nspeed",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": ""
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "figure_gap",
+   "parse_failed"
+  ],
+  "visual_in": [
+   "question",
+   "options"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q030.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 10,
+  "needs_review": true,
+  "review_notes": [
+   "could not locate options (A)-(D)"
+  ]
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q031",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 31,
+  "context": null,
+  "question": "Solutions are of many types.\nConsider the following types of\nsolution with an example each :\n(i) Gas in liquid—Vinegar\n(ii) Solid in liquid—Brine\n(iiSolid in solid—Brass\n(iv Liquid in liquid—Coca-Cola\nSelect the correctly matched pairs\nusing the codes given below.",
+  "options": {
+   "A": "(i) and (ii) only",
+   "B": "(ii) and(iii) only",
+   "C": ")iii) and v) only",
+   "D": "(ii), (iii) and iv) only"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q031.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 10,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q032",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 32,
+  "context": null,
+  "question": "Which of the following elements does\nsugar contain?\n(i) Carbon\n(ii) Nitrogen\n(iii Hydrogen\n(iv) Oxygen\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i),(iii) and v) only",
+   "B": "(i), (ii) and (iii) only",
+   "C": "(i) and (ii) only",
+   "D": ")and v) only"
+  },
+  "answer": "A",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q032.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 10,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q033",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 33,
+  "context": null,
+  "question": "Consider the following statements:\n(i) Assam was formed into a Chief\nCommissioner's Province in\n1874.\n(ii) Assam was declared as a\nGovernor's Province in 1921.\nSelect the correct statement/\nstatements using the codes given\nbelow.",
+  "options": {
+   "A": "(i) only",
+   "B": "(ii) only",
+   "C": "Both (i) and (ii)",
+   "D": "(Neither (i) nor (ii)"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q033.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 10,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q034",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 34,
+  "context": null,
+  "question": "The Interim Budget-2024 announce-\nment for implementation of 3 Eco-\nnomic Railway Corridors identified\nunder the PM Gati Shakti for\nenabling multi-modal connectivity\nincludes which of the following?\n(i) Energy, Mineral and Cement\nCorridors\n(ii) Rural Roads Connectivity\nCorridors\n(iii) Port Connectivity Corridors\n(iv) High Traffic Density Corridors\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": ")(i) and (ii) only",
+   "B": "(i), (ii) and (iii) only",
+   "C": "(i), (iii) and (iv only",
+   "D": "(ii), (iii) and (iv) only"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q034.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 11,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q035",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 35,
+  "context": null,
+  "question": "Which of the following best describes/\ndescribe the aim of 'Green India\nMission' of the Government of India?\n(i) Incorporating environmental\nbenefits and costs into the\nUnion and State's budgets\nthereby implementing the\n'green accounting'\n(ii) Launching the second Green\nRevolution to enhance\nagricultural output so as to\nensure food security to one and\nall in the future\n(iii) Restoring and enhancing forest\ncover responding to climate\nchange by a combination of\nadaptation and mitigation\nmeasures\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": ")(i) only",
+   "B": "(ii) and iii) only",
+   "C": "(ii) only",
+   "D": "(i)(ii) and(iii)"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q035.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 11,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q036",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 36,
+  "context": null,
+  "question": "What is 'Greenhouse Gas Protocol?",
+  "options": {
+   "A": "It is an international accounting tool for government and business leaders to understand, quantify, and manage greenhouse gas emissions",
+   "B": "It is an initiative of the United Nations to offer financial incentives to developing countries to reduce greenhouse gas emissions and to adopt eco- friendly technologies",
+   "C": "It is an inter-governmental agreement ratified by all the member countries of the United Nations to reduce greenhouse gas emissions to specified levels by the year 2030",
+   "D": "It is one of the multi-lateral REDD+ initiatives hosted by the World Bank"
+  },
+  "answer": "A",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q036.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 11,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q037",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 37,
+  "context": null,
+  "question": "Which of the following faunas are\nfound in North-East India?\n(i) Tokay gecko\n(ii) Red panda\n(iii) Hoolock gibbon\n(iv) Lion-tailed macaque\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) and (ii) only",
+   "B": "ii and (iii) only",
+   "C": ", ii) and (ii) only",
+   "D": "(i)(ii),(iii) and iv)"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q037.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 11,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q038",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 38,
+  "context": null,
+  "question": "Which of the following National\nParks in India are World Heritage\nSites?\n(i) Keoladeo National Park\n(ii) Manas National Park\n(iii) Nanda Devi Biosphere Reserve\n(iv) Great Himalayan National Park\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i), (ii) and ii) only",
+   "B": "(ii), (ii) and (iv) only",
+   "C": "(i), (ii) and (iv) only",
+   "D": "(i),(ii), (ii) and (iv)"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q038.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 12,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q039",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 39,
+  "context": null,
+  "question": "Protection of wildlife comes under\nwhich of the following in the\nConstitution of India?\n(i) Fundamental Duties\n(ii) Directive Principles\n(iii) Seventh Schedule\n(iv) Fundamental Rights\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) and (ii) only",
+   "B": "ii)and v only",
+   "C": "(i) and (iii) only",
+   "D": "()ii) and (ii)only"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q039.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 12,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q040",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 40,
+  "context": null,
+  "question": "What is the name of the feature that\nallows organisms to survive in the\nconditions of their habitat?",
+  "options": {
+   "A": "Adjustment",
+   "B": "Adaptation",
+   "C": "Acclimatization",
+   "D": "Adaptive variation"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q040.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 12,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q041",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 41,
+  "context": null,
+  "question": "Recently the 'Annual Status of\nEducation Report (ASER), 2023' was\nsubmitted by PRATHAM. Which of\nthe following statements is/are\ncorrect about the Report?\n(i) The Report focused on\n14-18 years of age group.\n(ii) According to the Report, the\npercentage of youths not\nenrolled in any form of formal\neducation has gone up for\n14 years olds and gone down\nfor 18 years olds as compared\nto the year 2017.\n(ii) For discontinuing education,\nalmost 20% of girls attributed it\nto family constraints'.\n(iv) The Report asserted that the\nfear that several older students\ndropped out of school during\nthe COVID-19 pandemic due to\nloss of livelihood was true.\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) only",
+   "B": "and (ii) only",
+   "C": "(i) and (ii) only",
+   "D": "ii) and iv) only"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q041.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 12,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q042",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 42,
+  "context": null,
+  "question": "Consider the following statements\nregarding Bhimbor Deuri, a\nprominent leader of the Tribal\nLeague :\nBhimbor Deuri vehemently\nopposed the Muslim League's\nconspiracy to include Assam in\na grouping plan with Bengal.\n(ii) Bhimbor Deuri supported a\nproposal for\tseparate\nelectorate for the tribal people\nfor strengthening the rights of\nindigenous communities.\nSelectthe correct statement/\nstatements using the codes given\nbelow.",
+  "options": {
+   "A": "(i) only",
+   "B": "(ii) only",
+   "C": "Both (i) and (ii)",
+   "D": "(Neither (i) nor (ii)"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q042.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 13,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q043",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 43,
+  "context": null,
+  "question": "Match the following folk dance forms\n(List-I) with their corresponding\ncommunities of Assam (List-II) :\nList—I\tList—II\na. Hacha Kekan\t1. Dimasa\nb. Hanaghora\t2. Karbi\nc. Bisuyo Jama Dance 3. Rabha\nd. Baidima\t4. Deuri\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "a b c d 2 4 3 1",
+   "B": "a b o d 4 1 3 2",
+   "C": "a b c d 1 2 4 3",
+   "D": "a b c d 2 3 4 1"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q043.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 13,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q044",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 44,
+  "context": null,
+  "question": "Which of the following pairs is/are\nincorrectly matched?\n(i) Finance Commission : Constitutional\nof India\tBody\n(ii) Securities and\t:Statutory Body\nExchange Board of\nIndia\n(iii) NITI Aayog\t:Constitutional\nBody\n(iv) Reserve Bank of : Statutory Body\nIndia\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) and (ii) only",
+   "B": "(ii) andiv) only",
+   "C": "(iii) only",
+   "D": "(iv)only"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q044.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 13,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q045",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 45,
+  "context": null,
+  "question": "Which of the following groups of\nplaces is/are located on the north\nbank of the Brahmaputra?\n(i) Bijni, Jogighopa, Raha, Titabar\n(ii) Hajo, Sarthebari, Moran,\nBihpuria\n(iii) Pathsala, Bongaigaon, Dhekia-\njuli, Gohpur\n(iv) Sualkuchi, Barpeta, Kharupetia,\nNarayanpur\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "()(i) and (i) only",
+   "B": "ii) and (v) only",
+   "C": "and (iii) only",
+   "D": "(iii) only"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q045.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 13,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q046",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 46,
+  "context": null,
+  "question": "Match the following personalities\n(List-I) with the popular sobriquets\nby which they are known (List-II) :\nList—I\tList-II\na. Anandiram Das\t1. Geetikavi\nb. Parbati Prasad\t2. Lauha Manab\nBaruah\nc. Bishnuram Medhi 3. Bonkonwar\nd. Hemchandra Baruah 4. Tyagbir\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "a b c d 2 1 4 3",
+   "B": "a b c d 3 4 1 2",
+   "C": "a b c d 1 2 3 4",
+   "D": "a b c d 3 1 2 4"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q046.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 14,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q047",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 47,
+  "context": null,
+  "question": "Which of the following is/are correct\nabout 'eRupee?\n(i) It refers to Rupee circulation in\nEurope.\n(ii) It refers to exchange rate of\nRupee.\n(iii) It is Digital Rupee App of the\nState Bank of India.\n(iv) It is the Central Bank Digital\nCurrency.\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": ")(i) and (ii) only",
+   "B": "()and v) only",
+   "C": "(ii) only",
+   "D": "(iv)only"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q047.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 14,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q048",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 48,
+  "context": null,
+  "question": "The proposed India-Middle East-\nEurope Economic Corridor (IMEC) is\nexpected to have multiple benefits\nfor India. Which of the following\nis/are in the list of benefits?\n(i) It is a new and more efficient\nway for India to export its goods\nto Europe.\n(ii) It would make India a more\nattractive destination for foreign\ninvestment.\n(ii) The construction and main-\ntenance of the Economic\nCorridor would create millions\nof new jobs in India.\n(iv) The construction of the Corridor\nwould be done under the\nsupervision of the World Trade\nOrganization.\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": ")(i) only",
+   "B": "()(i) and (ii) only",
+   "C": "(i), (ii) and (iii) only",
+   "D": "(i)(ii) and (iv) only"
+  },
+  "answer": "A",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q048.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 14,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q049",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 49,
+  "context": null,
+  "question": "Match the following places (List-I)\nwith the districts where these are\nlocated (List-II) :\nList—I\tList-ⅡI\na. Sitajakhala 1. Dima Hasao\nb. Silghat\t2. Kamrup\nc. Kulsi\t3. Nagaon\nd. Semkhor\t4. Morigaon\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "a b c d 1 2 3 4",
+   "B": "a b c d 2 4 1 3",
+   "C": "a b c d 4 3 2 1",
+   "D": "a b c d 3 1 4 2"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q049.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 14,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q050",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 50,
+  "context": null,
+  "question": "Chief Minister's Atmanirbhar Asom\nAbhijan Portal was launched on 23rd\nSeptember, 2023. To qualify for\nfinancial assistance of 5. 0 lakh\nunder the scheme, which of the\nfollowing criteria are necessary?\n(i) The applicant must be a\npermanent resident of Assam.\n(ii) The applicant must not be older\nthan 28 years of age.\n(ii) The applicant must have a\nbank account opened before\n31st December, 2023.\n(iv) The applicant must have a\nprofessional degree in engineer-\ning/medical/dental/veterinary/\nfishery/agriculture, etc.\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": ")(i) and (ii) only",
+   "B": "ii) and (iii) only",
+   "C": ", (iii) and (iv) only",
+   "D": "i) and iv) only"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q050.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 15,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q051",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 51,
+  "context": null,
+  "question": "Which of the following is/are correct\nabout a Bad Bank?\n(i) A bank that is insolvent\n(ii) A bank that has become\nbankrupt\n(iii A bank whose NPAs have\ncrossed the tolerable limit\n(iv) A bank set up to buy bad loans\nand other illiquid holdings of\nanother financial institution\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": ")(i) and (ii) only",
+   "B": "ii) and (ii) only",
+   "C": "(iii) only",
+   "D": "(iv) only"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q051.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 15,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q052",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 52,
+  "context": null,
+  "question": "Pick up the wrongs statement/\nstatements regarding an Interim\nBudget in India.\nIt provides continuity in gover-\nnance during transition period\nbetween two governments.\n(ii) The government cannot propose\nmajor taxes or policy reforms in\nthe Budget.\n(ii) The 'Economic Survey' is\npresented one day before the\npresentation of the Interim\nBudget.\n(iv) It is an authorization for\nincurring specific expenditure\n,necessary until a new\ngovernment is formed.\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) only",
+   "B": "((i) and (ii) only",
+   "C": "(ii) only",
+   "D": "(ii) and v) only"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q052.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 15,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q053",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 53,
+  "context": null,
+  "question": "INS Imphal was delivered to the\nIndian Navy on 20th October, 2023.\nWhich of the following statements\nabout INS Imphal is/are not correct?\nIt is a Visakhapatnam-class\nstealth guided missile destroyer\nof the Indian Navy.\n(ii) It was constructed by the\nMazagon Dock Shipbuilders\nLtd.\n(iii) It was commissioned into the\nIndian Navy in December 2023.\n(iv) The ship boasts 100%\nindigenous content.\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) only",
+   "B": "(ii) and (ii) only",
+   "C": "(iii) and (iv) only",
+   "D": "(ivonly"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q053.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 15,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q054",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 54,
+  "context": null,
+  "question": "The HUMP WWII Museum' was\nopened in Arunachal Pradesh in\n2023. Which of the following\nstatements are correct pertaining to\nthe Museum?\n(i) The Museum has been set up in\nthe town of Pasighat.\n(ii) The Hump refers to the\ndangerous aerial route over the\nice-covered eastern Himalayan\nmountains.\n(iii) This dangerous route was used\nto supply British troops battling\nJapanese forces after they cut\noff the overland route through\nBurma (Myanmar).\n(iv) The route also earned _the\nmoniker 'Aluminum Trail'\nbecause of the number of\ncrashes.\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) and ii) only",
+   "B": "()and v only",
+   "C": "(), (ii) and (ii) only",
+   "D": ",(ii) and iv) only"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q054.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 16,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q055",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 55,
+  "context": null,
+  "question": "Which of the following lists is correct\ncarrying the names of the five-\nmember bench of the Supreme Court\nthat passed the Ayodhya Verdict on\n9th November, 2019?",
+  "options": {
+   "A": "Justice Ranjan Gogoi, Justice AshokBhushan, Justice Sharad A. Bobde, Justice D. Y. Chandrachud, Justice S. Abdul Nazeer",
+   "B": "Justice Ranjan Gogoi, Justice Ashok Bhushan, Justice Sharad A. Bobde, Justice D. Y. Chandrachud, Justice U. U. Lalit",
+   "C": "Justice Ranjan Gogoi, Justice Ashok Bhushan, Justice Sharad A. Bobde, Justice D. Y. Chandrachud, Justice Surya Kant N7C",
+   "D": "Justice Ranjan Gogoi, Justice Mohammad Hidayatullah, Justice Sharad A. Bobde, Justice D. Y. Chandrachud, Justice S. Abdul Nazeer"
+  },
+  "answer": "A",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q055.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 16,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q056",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 56,
+  "context": null,
+  "question": "Matchthe following Wildlife\nSanctuaries (WLS) of Assam (List-I)\nwith the districts where these are\nlocated (List-II)\nList—I\tList—II\na. Bordoibam Bilmukh WLS 1. Lakhimpur\nb. Pabha WLS\t2. Dhemaji\nc. Pani Dihing WLS\t3. Sivasagar\nd. Gibbon WLS\t4. Jorhat\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "a b c d 1 2 3 4",
+   "B": "a b c d 2 3 4 1",
+   "C": "a b c d 2 1 3 4",
+   "D": "a b c d 3 2 1 4"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q056.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 16,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q057",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 57,
+  "context": null,
+  "question": "Consider the following statements\nregarding the 2024 Grammy Awards :\n(i) Tabla maestro Zakir Hussain\nwon 3 Grammys.\n(ii) Flautist Rakesh Chaurasia won\n2 Grammys.\n(iii) Singer Shankar Mahadevan,\nviolinist L. Subramaniam and\npercussionist Selvaganesh won\n1 Grammy each.\n(iv) The fusion group Shakti' won\nthe 2024 Grammy Award for\nthe best global music album for\nThis Moment'.\nSelect the correct statement/\nstatements using the codes given\nbelow.\nand (ii) only\niv) only\n, (ii) and (iv) only\n(), (ii), (iii) and (iv)",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": ""
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "parse_failed"
+  ],
+  "visual_in": [
+   "question",
+   "options"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q057.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 16,
+  "needs_review": true,
+  "review_notes": [
+   "could not locate options (A)-(D)"
+  ]
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q058",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 58,
+  "context": null,
+  "question": "Consider the following pairs :\n(i) Mahamaya Temple : Dhubri\n(ii) Dhekiakhowa\t:Golaghat\nBornamghar\n(iii) Malini Than\tDhemaji\n(iv) Deopani Temple :Jorhat\nSelect the correctly matched pairs\nusing the codes given below.",
+  "options": {
+   "A": "(i) and (ii) only",
+   "B": "(i) and (iii) only",
+   "C": "ii) and (ii) only",
+   "D": "(i), (ii) and (iv) only"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q058.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 17,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q059",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 59,
+  "context": null,
+  "question": "Match the following personalities\n(List-I) with the awards/recognitions\nthey had been conferred with\n(List-II) :\nListI\tList—ⅡI\na. Hemoprova 1. Awarded Padma Shri\nChutia\tin 2023\nb. Jintimoni 2. First female participant\nNakul\tfrom Assam in\nKalita\tT20 Asia Cup hosted\nin Hong Kong\nc. Uma Chetry 3. Indian cricket player\nfrom Assam in the\nAsian Games held in\nS\tHangzhou, China\nd. Pratima 4. Winner of Sahitya\nNandi\tAkademi Bal Puraskar,\nNarzary\t2023\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "a b c d 1 2 3 4",
+   "B": "a b c d 4 3 2 1",
+   "C": "a b C d 2 3 1 4",
+   "D": "a b c d 3 2 4 1"
+  },
+  "answer": "A",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q059.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 17,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q060",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 60,
+  "context": null,
+  "question": "India breached the 100-medal\nmark for the first time in the Asian\nGames at Hangzhou in China in\n2023. Select the correct pair of gold\nand silver medals from the options\ngiven below.",
+  "options": {
+   "A": "Gold-24, Silver-34",
+   "B": "Gold-28, Silver-38",
+   "C": "Gold-28, Silver-32",
+   "D": "Gold-22, Silver-38"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q060.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 17,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q061",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 61,
+  "context": null,
+  "question": "The operation to evacuate the Indian\ncitizens from Israel during the 2023\nIsrael-Hamas war is named as",
+  "options": {
+   "A": "Operation Rahat",
+   "B": "Operation Ajay",
+   "C": "Operation Devi Shakti",
+   "D": "Operation Kaveri"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q061.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 17,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q062",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 62,
+  "context": null,
+  "question": "Match the following ghistorical/\ntourist places of Assam (List-I) with\nthe corresponding districts where\nthese are located (List-II) :\nList—I\tList-II\na. Ghuguha Dol\t1. Darrang\nb. Patharughat\t2. Dhemaji\nc. Sankhadevi Archaeo- 3. Nagaon\nlogical Site\nd. Baduli Khurung 4. Hojai\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "a b c d 2 4 3 1",
+   "B": "a b c d 2 1 4 3",
+   "C": "a b c d 1 2 4 3",
+   "D": "a b c d 2 3 4 1"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q062.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 17,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q063",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 63,
+  "context": null,
+  "question": "Read the following statements\nregarding blockchain'. Which of the\nfollowing statements is/are correct?\n(i) It is a method of recording\ninformation that makes it\nimpossible or difficult for the\nsystem to be changed, hacked,\nor manipulated.\n(ii) This method can ensure secure\ntransactions, lower compliance\nexpenses and accurate data\ntransfer processing.\n(iii) This method is used only in\nfinancial service industry.\n(iv Fuji Nakamori is the name\nused bynothego presumed\npseudonymous person or\npersons who developed Bitcoin.\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) only) b16o",
+   "B": "(i) and ii) only",
+   "C": ")(i), (ii) and (iii) only",
+   "D": "((i), (ii) and (iv) only"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q063.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 18,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q064",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 64,
+  "context": null,
+  "question": "Who among the following was\nawarded the Siu-Ka-Pha Award,\n2023?",
+  "options": {
+   "A": "Dhirendra Nath Bezbaruah",
+   "B": "Pranab Jyoti Deka",
+   "C": "Nandeswar Daimari",
+   "D": "Ranjan Gogoi"
+  },
+  "answer": "A",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q064.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 18,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q065",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 65,
+  "context": null,
+  "question": "Who among the following are Arjuna\nAward winners from Assam?\n(i) Bhogeswar Baruah\n(ii) Monalisa Baruah Mehta\n(ii) Amlan Borgohain\n(iv) Jayanta Talukdar\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) and (ii) only",
+   "B": "), (ii) and (iii) only",
+   "C": ",ii) and iv) only",
+   "D": "(i) and (ii) only"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q065.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 18,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q066",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 66,
+  "context": null,
+  "question": "The Mukhyamantri Mahila Udyamita\nAbhiyan (MMUA) was announced in\nJanuary 2024. What are the\neligibility criteria for the scheme?\n(i) All women self-help groups of\nAssam are eligible for the\nscheme.\n(ii) If the applicants have girl\nchildren, they must be enrolled\nin school.\n(iii) The trees the applicants planted\nunder the AmritBriksha\nAndolan should be surviving.\n(iv) General and OBC categories\napplicants cannot have more\nthan three children.\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i), (ii) and (iii) only",
+   "B": "(i)(ii) and (iv) only",
+   "C": "(ii) and (iv) only",
+   "D": "(ii), (ii) and (iv) only"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q066.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 18,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q067",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 67,
+  "context": null,
+  "question": "If an individual is awarded with a\ngold medal called Lachit Borphukan\nMedal as the best Army Cadet,\nwhere has he/she passed out from?\nIndian Military Academy (IMA)\nNational Defence Academy\n(NDA)\nRashtriya Indian Military\nCollege (RIMC)\n()Army Cadet College (ACC)",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": ""
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "parse_failed"
+  ],
+  "visual_in": [
+   "question",
+   "options"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q067.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 19,
+  "needs_review": true,
+  "review_notes": [
+   "could not locate options (A)-(D)"
+  ]
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q068",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 68,
+  "context": null,
+  "question": "Arrange the following Speakers of\nthe Assam Legislative Assembly in\nthe chronological order :\n(i) Pulakesh Baruah\n(ii) Kuladhar Chaliha\n(iii) Debeswar Sarma\n(iv) Mahendra Mohan Choudhury\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(ii)-(iv)(ii)-(i)",
+   "B": "()(iv)(ii)-(ii)-(i)",
+   "C": "(iii)-(i)-(iv)-(i)",
+   "D": "((iv)(iii)(i)(ii)"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q068.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 19,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q069",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 69,
+  "context": null,
+  "question": "Arrange, in descending order, the\npopulation in Assam by languages as\nper the Census of India, 2011.",
+  "options": {
+   "A": "Assamese, Mising, Bengali, Bodo",
+   "B": "Assamese, Bengali, Bodo, Mising",
+   "C": "Assamese, Bodo, Mising, Bengali",
+   "D": "Assamese, Mising, Bodo, Bengali"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q069.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 19,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q070",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 70,
+  "context": null,
+  "question": "Which of the following is/are not the\nwork/works of Madhavdev?\n(i) Nam Ghosa\n(ii) Bhakti Ratnavali\n(ii) Bhumi Letowa\n(iv) Balichalan\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) only",
+   "B": "ii)and (iv only",
+   "C": "(iv) only",
+   "D": "(ii) and (iv) only"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q070.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 19,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q071",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 71,
+  "context": null,
+  "question": "Match the following places of Assam\n(List-I) with the districts where these\nare located (List-II):\nList-I\tList—II\na. Titabar\t1. Sivasagar\nb. Doulasal\t2. Barpeta\nC. Nazira\t3. Jorhat\nd. Sarthebari 4. Nalbari\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "b c d 2 3 1 4",
+   "B": "a b c d 3 4 2 1",
+   "C": "a b c d 4 3 1 2",
+   "D": "a b c d 3 4 1 2"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q071.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 19,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q072",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 72,
+  "context": null,
+  "question": "Which of the following names of the\nAgroclimatic Zones of Assam is/are\nnot correct?\n(i) Upper Brahmaputra Valley\n(ii) North Central Brahmaputra\nValley\n(iii) Barail Zone\nvHill Zone\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": ")(i) only",
+   "B": "iii) and v) only",
+   "C": "(ii) only",
+   "D": "ii) and (ii) only"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q072.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 20,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q073",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 73,
+  "context": null,
+  "question": "Which of the following statements\nare correct about the Women's\nReservation Bill, 2023?\n(i) The Women's Reservation Bill,\n2023 proposes 33% reservation\nfor women in the Lok Sabha\nand the Assemblies of States\nand National Capital Territory\nof Delhi.\n(ii) Similar reservation will also be\nprovided within the seats\nreserved for SC and ST.\n(iii) The Bill proposes that the\nreservation will continue for\n25years.\n(iv) The Bill which reserves 33% of\nseats for women in the Lok\nSabha and State Assemblies\nincludes the quota for women\nfrom the OBCs.\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) and (ii) only",
+   "B": "and (ii) only",
+   "C": ", ii) and (i) only",
+   "D": "(i),(ii), (ii) and iv)"
+  },
+  "answer": "A",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q073.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 20,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q074",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 74,
+  "context": null,
+  "question": "Match the following schemes (List-I)\nwith the correct objectives (List-II) :\nListI\tList-ⅡI\na. Beti Bachao, 1. It gives importance to\nBeti Padhao the nutritional level\nof adolescent girls,\npregnant women,\nlactating mothers and\nchildren of 0-6 years\nof age\nb. Baalika\t2. It offers free course\nSamriddhi materials/online re-\nYojana\tsources such as video\nstudy materials, class\nmaterials for girl\nstudents in XI and\nXII standards\nc. CBSE Udaan 3. To provide fiscal\nScheme\tsupport to young girls\nand their mothers\nwho belong to BPL\ncategory\nd. Poshan\t4. Removing or prevent-\nAbhiyan\ting gender bias\nselective abortions for\nthe girl child\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "a b c d 4 3 2 1",
+   "B": "a b c d 1 2 4 3",
+   "C": "a b c d 4 3 1 2",
+   "D": "a b c d 3 4 1 2"
+  },
+  "answer": "A",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q074.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 20,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q075",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 75,
+  "context": null,
+  "question": "Match the following Particularly\nVulnerable Tribal Groups (PVTGs)\n(List-I) with the States/Union\nTerritories they belong to (List-II) :\nList-I\tList—Ⅱ\na. Maram 1. Andaman and\nNicobar Islands\nb. Jarawa 2. Tripura\nc. Birhor 3. Manipur\nd. Reang 4. Odisha\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "a b c d 1 2 3 4",
+   "B": "a b c d 3 1 4 2",
+   "C": "a b c d 2 1 4 3",
+   "D": "a b c d 3 4 1 2"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q075.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 21,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q076",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 76,
+  "context": null,
+  "question": "Which of the following statements\nare correct about the Scheduled\nCastes in Assam as per the 2011\nCensus?\n(i) Scheduled Caste population\nconstitutes about 7·15% of the\ntotal population of Assam.\n(ii) 16 sub-castes are recognized as\nSCs in Assam, such as Basfor,\nBhuimali, Bania, Dhupi, Dholi,\nHira, Kaibartta, etc.\n(iii) Nagaon district has the highest\npercentage of SC population\nfollowed by Cachar and\nKamrup.\n(iv) The literacy rate of SCs in\nAssam is 66·76% with SC\nfemales constituting 55·52%\nand sC males constituting\n44·48%.\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) and ii) only",
+   "B": "(i), (ii) and (ii) only",
+   "C": "(iii) andiv) only",
+   "D": "(i),(ii), (ii) and iv)"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q076.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 21,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q077",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 77,
+  "context": null,
+  "question": "Match the following demographic\nterms (List-I) with their meanings\n(definitions) (ListII) :\nList-I\tList-II\na. Birthrate 1. Number of live births\nper woman who were\nborn in a particular\nyear\nb. Crude birth- 2. Number of live births\nrate\tper one thousand\ninhabitants in a year\nc. Cohort\t3. Determined not only\nfertility\tby the fertility of a\ngiven population but\nalso by its age\nstructure\nd. Birth\t4. When the number of\ndeficit\tlive births is lower\nthan the number of\ndeaths within a\ndefined period of time\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "a b c d 2 3 1 4",
+   "B": "a b c d 2 3 4 1",
+   "C": "a b c d 2 4 1 3",
+   "D": "a b c d 4 2 3 1"
+  },
+  "answer": "A",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q077.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 21,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q078",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 78,
+  "context": null,
+  "question": "Match the following personalities\n(List-I) with the awards conferred on\nthem (List-II) :\nList—I\tList—II\na. Pranab Jyoti 1. Sahitya Akademi\nDeka\tAward\nb. Arup Kumar Kalicharan Brahma\nDutta\tAward\nc. Dr. Joyanti 3. Shri Madhavdev\nChutia\tAward\nd. Dr. Tiyathi 4. Sati Sadhani Award\nZameer\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "a b c d 2 3 4 1",
+   "B": "a b c d 1 3 4 2",
+   "C": "a b c d 1 4 2 3",
+   "D": "a b c d 3 2 1 4"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q078.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 22,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q079",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 79,
+  "context": null,
+  "question": "The Ramchandi Temple, which was\nbuilt during 12th century, is\nsituated on the bank of which of the\nfollowing rivers of Assam?",
+  "options": {
+   "A": "Gadadhar",
+   "B": "Kushiyara",
+   "C": "Longai",
+   "D": "Mahur"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q079.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 22,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q080",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 80,
+  "context": null,
+  "question": "Consider the following statements\nabout Sardar Vallabhbhai Patel :\n(i) He got the moniker 'Sardar' due\nto his organizational skills\nduring Bardoli Satyagraha.\n(ii) The prison where Mahatma\nGandhi and Sardar were cell-\nmates was Naini Prison.\n(iii He was awarded the Bharat\nRatna in 1989.\n(iv He was the first Deputy Prime\nMinister of India.\nSelect the incorrect statements\nusing the codes given below.",
+  "options": {
+   "A": ")(i) and (ii) only",
+   "B": "(ii) and iii) only",
+   "C": "(iii) and v) only",
+   "D": "(i) and (iv) only"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q080.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 22,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q081",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 81,
+  "context": null,
+  "question": "Match the following names (List-I)\nwith the Ahom rulers (List-II) :\nList-I\tList-II\na. Susenghphaa 1. Rajeswar Singha\nb. Suremphaa 2. Chakradhwaj\nSingha\nc. Sutamla\t3. Pratap Singha\nd. Supangmung 4. Jayadhwaj\nSingha\t6\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "a b c d 3 2 4 1",
+   "B": "a b c d 3 1 4 2",
+   "C": "a b c d 3 4 1 2",
+   "D": "a b c d 1 2 3 4"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q081.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 22,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q082",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 82,
+  "context": null,
+  "question": "Gaurinath Singha entered into an\nagreement with the East India\nCompany on which of the following\nterms?\tsilvar\n(i) All imports into Assam were to\nbe subjected to a duty of 10%.\n(ii) The duty on export was to be\n10%.\n(iii) Rice and grains were to be\nexempted from any duty.\n(iv) Two custom houses were to be\nestablished at Kandahar and\nHadira.\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) and (ii) only",
+   "B": "(i), (ii) and (iii) only",
+   "C": "i), (ii) and (iv) only",
+   "D": "(i), ii), ii) andiv)"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q082.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 23,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q083",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 83,
+  "context": null,
+  "question": "Match the following authors (List-I)\nwith the books written by them\n(List-II) :\nList—I\tList—II\na.Gunabhiram1. Asamiya Byakaran\nBaruah\nb. Harakanta 2. Asamiya Lorar Mitra\nSarma Baruah\nc. Anandaram 3. Ram Navami\nDhekial\nPhukan\nd. Hemchandra 4. Sadar Aminar\nBaruah\tAtmajibani\nSelect the correct answer using the\nar codes given below.",
+  "options": {
+   "A": "a b c d 4 3 2 1",
+   "B": "a b c d 3 1 2 4",
+   "C": "a b c d 3 4 2 1",
+   "D": "a b c d JOMU 4 2 1 3"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q083_1.jpg",
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q083_2.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 23,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q084",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 84,
+  "context": null,
+  "question": "Match the following associations\n(List-l) with their respective founders\n(List-II) :\nList—I\tList—II\na. Indian League 1. Ananda Mohan\nBose\nb.Indian Association 2. Jagannath\nBaruah\nc. Assam Association 3. Sisir Kumar\nGhosh\nd. Jorhat Sarbajanik 4Manik Chandra\nSabha\tBaruah\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "a b c d 1 3 2 4",
+   "B": "a b c d 3 1 4 2",
+   "C": "a b c d 1 4 3 2",
+   "D": "a b c d 3 4 1 2"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "table_layout"
+  ],
+  "visual_in": [
+   "question"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q084.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 23,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q085",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 85,
+  "context": null,
+  "question": "The Global Drought Snapshot,\nreleased in December 2023 at the\nbeginning of the 28th Conference of\nthe Parties (COP-28) to the UN\nFramework Convention on Climate\nChange (UNFCCC) in Dubai, exposes\nthe devastating consequences\nof droughts on lives, economies, and\nvarious sectors. Based on the data\nreported by 101 parties to the\nUNCCD, which of the following\nstatements is/are correct?\n(i) The report reveals that a\nstaggering 1·84 billion people\nexperienced the effects of\ndrought. Among them 4·7%\nfaced severe or extreme drought\nconditions.\n(ii) Notably South Africa faced the\nhighest number of declarations.\n(iii) Drought severity prompted\nemergency declarations in 23\ncountries.\n(iv) The US, Canada, India and\nSri Lanka are the countries\nthat never declared drought\nemergencies.\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) only",
+   "B": "(ii) and (iv) only",
+   "C": "(i) and (ii) only",
+   "D": "(i),(ii), (iii) and (iv)"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q085.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 24,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q086",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 86,
+  "context": null,
+  "question": "Which of the following sessions of Asom\nSahitya Sabha was/were presided over\nby Sitanath Brahma Choudhury?\n(i) Tinsukia\n(ii) Diphu\n(iii) Sivasagar\nvTezpur\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) only",
+   "B": "(i) and (ii) only",
+   "C": "(i) and (ii) only",
+   "D": "(iii)and (iv) only"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q086.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 24,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q087",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 87,
+  "context": null,
+  "question": "Consider the following statements\nregarding Pradhan Mantri Matsya\nSampada Yojana (PMMSY) :\n(i) It is the flagship scheme for\nfocused andsustainable\ndevelopment of fisheries in\nIndia.\n(ii) It is implemented in all States/\nUnion Territories as part of\nAtmanirbhar Bharat package\nfor a period of five years from\nFinancial Year 2020-21 to\nFinancial Year 2024-25.\n(iii) The Central Government bears\nthe project cost and States/\nUnion Territories share the cost\nof sub-components of the\nscheme.\n(iv) Ornamental fish cultivation is\nkept out of focus under\nPMMSY.\nSelect the correct statement/\nstatements using the codes given\nbelow.",
+  "options": {
+   "A": "(i) only",
+   "B": "(ii) and (iii) only",
+   "C": "(iv) only",
+   "D": "(ii)only"
+  },
+  "answer": "A",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q087.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 24,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q088",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 88,
+  "context": null,
+  "question": "Consider the following statements\nregarding Jal Jeevan Mission (JJM) :\n(i) The programme includes\nrecharge and reuse through\ngreywater management, water\nconservation andrainwater\nharvesting.\n(ii) It is a demand-driven scheme\nwith strong emphasis on\nJan Bhagidari(community\nengagement) as a crucial pillar\nof the project.\n(ii) The United Nations Office for\nProject Services (UNOPS) is\ncollaborating with the Denmark\nGovernment to support the\nmission in Uttar Pradesh.\n(iv) An average of 29 million people\nwill be employed bannually\nduring the mission's\nconstruction phase.\nSelectthe correct statement/\nstatements using the codes given\nbelow.",
+  "options": {
+   "A": "(i) only",
+   "B": ")(i) and (ii) only",
+   "C": "(ii) and (ii) only",
+   "D": "(i), (ii), (iii) and (iv)"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q088.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 25,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q089",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 89,
+  "context": null,
+  "question": "Consider the following statements :\n(i) MV Ganga Vilas is the world's\nlongest river cruise covering\nover 51 days across 2 countries,\n5 States and 27 river systems.\n(ii) Prime Minister Narendra Modi\nflagged off the cruise from\nVaranasi on 13th January,\n2023.\n(ii) The international cruise is\nbeing offered by Antara Luxury\nRiver Cruises who is operating\nsince 2009.\n(iv) The cruise culminated its\njourney on 28th February in\nSadiya.\nSelect the incorrect statement/\nstatements using the codes given\nbelow.",
+  "options": {
+   "A": "(ii) only",
+   "B": "(iv) only",
+   "C": "",
+   "D": "and (ii) only ii) and (ii) only"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "option_images"
+  ],
+  "visual_in": [
+   "question",
+   "options"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q089_1.jpg",
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q089_2.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 25,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q090",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 90,
+  "context": null,
+  "question": "Which of the following dramas/\nAnkiya Nats was/were not composed\nby Sankardev?\n(i) Kaliya Daman\n(ii) Patni Prasada\niiiKeli Gopal\n(iv) Arjun Bhanjan\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": ")(i) and (ii) only",
+   "B": "(ii) only",
+   "C": "(ii) and (ii) only",
+   "D": "(iv)only"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q090.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 25,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q091",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 91,
+  "context": null,
+  "question": "India celebrated her 75th Republic\nDay on 26th January, 2024. Which\nof the following statements is/are\nnot correct about the celebration of\nthe Republic Day, 2024?\n(i) The Parade was held on\nKartavya Path.\n(ii) The theme of the 75th Republic\nDay was Viksit Bharat' and\nBharat : Loktantra Ki Matruka'.\n(iii) The three States which\npresented tableaux from North-\nEast India were Meghalaya,\nManipur and Nagaland.\n(iv) ISRO presented the historic\nlunar landing of Chandra-\nyaan-III at the Parade.\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) only",
+   "B": "(ii) only",
+   "C": "ii and (iv) only",
+   "D": "(i) and (ii) only"
+  },
+  "answer": "B",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q091.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 26,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q092",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 92,
+  "context": null,
+  "question": "All the Assam Baibhav, Assam\nSaurav and Assam Gourav awardees\nare offered certain benefits/facilities.\nWhich of the following is/are not\nincluded in the list of benefits?\n(i) They will get free medical\ntreatment in government\nhospitals and stay in paying\ncabins, wherever available.\n(ii) They will be provided i free\naccommodation in State\nGovernment Circuit Houses,\nGuest Houses and Assam\nBhawans.\n(iii) They will be regular invitees for\nallythe official functions as\ndistinguished guests.\n(iv) The Government of Assam will\nprovide them up to 5. 0 lakh\nfor medical expenses towards\nthe treatment of critical\ndiseases.\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": ")(ii) and (iii) only",
+   "B": "ii) and iv) only",
+   "C": "i) and (ii) only",
+   "D": ")(iv) only"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q092_1.jpg",
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q092_2.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 26,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q093",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 93,
+  "context": null,
+  "question": "Consider the following statements :\n(i) NISAR is a low Earth orbit\nobservatory being jointly\ndeveloped by ISRO and NASA.\n(ii) NISAR is a low Earth orbit\nobservatory being jointly\ndeveloped by. ISRO and\nEuropean Space Agency.\n(ii)The objective of NISAR is to co-\ndevelop and launch a dual\nfrequency synthetic aperture\nRADAR on an Earth observa-\ntion satellite.\n(iv) NISAR is planned to be\nlaunched in 2024.\nSelect the correct statements using\nthe codes given below.",
+  "options": {
+   "A": "(i) and (iii) only",
+   "B": "ii) and (ii) only",
+   "C": "",
+   "D": "and (iv) only (i), (iii) and v) only"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": true,
+  "text_source": "ocr",
+  "visual_types": [
+   "option_images"
+  ],
+  "visual_in": [
+   "question",
+   "options"
+  ],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q093.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 26,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q094",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 94,
+  "context": null,
+  "question": "Consider the following statements :\n(i) India's solar mission Aditya-L1\nhas been placed in halo orbit\naround Sun-Earth Lagrange\npoint 1.\n(ii) Lagrange points are positions of\nequilibrium for a small object\nunder the gravitational pull of\ntwo massive orbiting bodies.\n(iii) There are 5 Lagrange points for\nthe Sun-Earth system.\n(iv) There are 5 Lagrange points for\nthe Earth-Moon system also.\nSelect the correct statement/\nstatements using the codes given\nbelow.",
+  "options": {
+   "A": "(i) only",
+   "B": "(i) and ii) only",
+   "C": "(i), (ii) and (ii) only",
+   "D": "(i),(ii), (iii) and (iv)"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q094.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 27,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q095",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 95,
+  "context": null,
+  "question": "In the Interim Union Budget, 2024,\nthe Finance Minister mentioned four\nspecific groups of the population to\nfocus on. Which of the following\nis/are not in the list?\n(A) (i) Poor\n(B) (ii) Women\n(C) (iii) Entrepreneur\n(D) (iv) Youth\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) only",
+   "B": "(ii)and v)only",
+   "C": "(ii) only",
+   "D": "iii) and v only"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q095_1.jpg",
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q095_2.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 27,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q096",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 96,
+  "context": null,
+  "question": "Consider the following statements :\n(i) In computer parlance, a cookie\nis a malicious computer virus.\n(ii) In computer parlance, a cookie\nis a small piece of text sent\nby a website to the internet\nbrowser.\n(ii) Internet cookies are used by\nbanking websites only.\n(iv) Internet cookies help the\nwebsites to remember the\nclient's visit to the website.\nSelect the correct statement/\nstatements using the codes given\nbelow.",
+  "options": {
+   "A": "(i) only",
+   "B": "(ii) only",
+   "C": "(ii) and iii) only",
+   "D": "(ii) and iv) only"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q096.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 27,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q097",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 97,
+  "context": null,
+  "question": "What is/are the factor/factors that\nhas/have prompted the colonial\nrulers to initiate jute cultivation in\nBrahmaputra Valley?\n(i) Saturation of land suitable for\njute in Bengal\n(ii) High demand of jute in the\nworld market\n(iii) Abundant labour supply in\nBrahmaputra Valley\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": ")(i) only",
+   "B": "(ii)only",
+   "C": "(i) and (ii) only",
+   "D": "(i)(ii) and (iii)"
+  },
+  "answer": "C",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q097.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 28,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q098",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 98,
+  "context": null,
+  "question": "Which of the following characteristics\nmake a braided river different from\na meandering river of similar\ndischarge?\n(i) Wider and shallower\n(ii) Transports high sediment load\n(ii) Erodes riverbanks rapidly\niv Deeper\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i), (ii) and (ii) only",
+   "B": "(i),(ii) andiv) only",
+   "C": "(i),(ii) and iv) only",
+   "D": "(ii),(iii) and(iv) only"
+  },
+  "answer": "A",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q098.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 28,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q099",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 99,
+  "context": null,
+  "question": "In which of the following Satras\nin Assam, the religious head\n(Satradhikar)is elected?\n(i) Auniati\n(ii) Dakhinpat\n(iii Kamalabari\n(iv)Barpeta\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": ")(i) and (ii) only",
+   "B": "(i) and i) only",
+   "C": "(ii) only",
+   "D": "(iv)only"
+  },
+  "answer": "D",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q099.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 28,
+  "needs_review": false,
+  "review_notes": []
+ },
+ {
+  "id": "APSC-CCE-Prelims-2023-GS-I-Q100",
+  "exam": "APSC-CCE-Prelims",
+  "year": 2023,
+  "conducting_body": "Assam Public Service Commission",
+  "paper_code": "GS-I",
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "booklet_set": "A",
+  "q_no": 100,
+  "context": null,
+  "question": "As per the tripartite Memorandum\nof Settlement signed between\nGovernment of India, Government of\nAssam with representatives of\nUnited Liberation Front of Assam\n(ULFA) on 29th December, 2023,\nwhich of the following will not be set\nup in Assam?\n(i) Indian Institute of Management\n(ii) School of Planning and\nArchitecture\n(iii) Indian Institute of Science\n(iv) Indian Institute of Science\nEducation and Research\nSelect the correct answer using the\ncodes given below.",
+  "options": {
+   "A": "(i) only",
+   "B": "ii)and iv) only",
+   "C": "(iii) only",
+   "D": "(iii) and iv) only"
+  },
+  "answer": "A",
+  "answer_note": null,
+  "answer_source": "official_provisional_key",
+  "has_visual": false,
+  "text_source": "ocr",
+  "visual_types": [],
+  "visual_in": [],
+  "images": [
+   "exams/APSC-CCE-Prelims/2023/figures/GS-I/q100.jpg"
+  ],
+  "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
+  "page": 28,
+  "needs_review": false,
+  "review_notes": []
+ }
+]

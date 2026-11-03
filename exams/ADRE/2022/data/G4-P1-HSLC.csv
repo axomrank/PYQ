@@ -1,162 +1,163 @@
-id,exam,year,grade,paper,booklet_set,q_no,context_en,question_en,option_a_en,option_b_en,option_c_en,option_d_en,context_as,question_as,option_a_as,option_b_as,option_c_as,option_d_as,answer,answer_note,answer_source,has_visual,visual_types,images,page_en,page_as,needs_review,review_notes
-ADRE-2022-G4-P1-HSLC-Q001,ADRE,2022,IV,I,A,1,,The Victoria memorial is situated in,Kolkata,New Delhi,Mumbai,Bhopal,,,,,,,,,,0,,,6,6,0,
-ADRE-2022-G4-P1-HSLC-Q002,ADRE,2022,IV,I,A,2,,In which track and field sports does Hima Das participate ?,Triple Jump,Long distance run,"Sprints, Short distance",Hurdles,,,,,,,,,,0,,,7,6,0,
-ADRE-2022-G4-P1-HSLC-Q003,ADRE,2022,IV,I,A,3,,"Who was awarded the “Assam Baibhav” award in December, 2021 ?",Jitendra Nath Goswami,Ratan Tata,Ratan Thiam,Amalprava Das,,,,,,,,,,0,,,7,7,0,
-ADRE-2022-G4-P1-HSLC-Q004,ADRE,2022,IV,I,A,4,,Narendra Modi Stadium is situated in,Baroda,Surat,Mehsana,Ahmedabad,,,,,,,,,,0,,,8,7,0,
-ADRE-2022-G4-P1-HSLC-Q005,ADRE,2022,IV,I,A,5,,What does LAD stand for in MPLAD Scheme ?,Local Asset Development,Local Area Development,Leading Asset Development,Local Area Distribution,,,,,,,,,,0,,,8,8,0,
-ADRE-2022-G4-P1-HSLC-Q006,ADRE,2022,IV,I,A,6,,On whose birthday is Abhiruchi Sports Day celebrated in Assam ?,Bhogeswar Baruah,Monalisa Baruah (Mehta),Hima Das,Radha Govinda Baruah,,,,,,,,,,0,,,9,9,0,
-ADRE-2022-G4-P1-HSLC-Q007,ADRE,2022,IV,I,A,7,,Which one of the following places connect Assam with Arunachal Pradesh ?,Dirak,Baxirhat,Dimapur,Jorhat,,,,,,,,,,0,,,10,9,0,
-ADRE-2022-G4-P1-HSLC-Q008,ADRE,2022,IV,I,A,8,,"Who was the first person from Assam to clear the Indian Civil Service (ICS)
-Examination ?",Jamchonga Nampui,Anundoram Barooah,Hem Chandra Baruah,Parvati Prasad Boruah,,,,,,,,,,0,,,10,10,0,
-ADRE-2022-G4-P1-HSLC-Q009,ADRE,2022,IV,I,A,9,,"Who put forward the law of physics that “Every action has an equal and
-opposite reaction” ?",Benjamin Franklin,Michael Faraday,Sir Isaac Newton,Albert Einstein,,,,,,,,,,0,,,11,10,0,
-ADRE-2022-G4-P1-HSLC-Q010,ADRE,2022,IV,I,A,10,,What is the capital city of Zimbabwe ?,Nairobi,Harare,Cairo,Khartoum,,,,,,,,,,0,,,11,11,0,
-ADRE-2022-G4-P1-HSLC-Q011,ADRE,2022,IV,I,A,11,,What is the currency of United Arab Emirates (UAE) ?,Ruble,Dinar,Dirham,Shekel,,,,,,,,,,0,,,12,12,0,
-ADRE-2022-G4-P1-HSLC-Q012,ADRE,2022,IV,I,A,12,,Between which two towns is the Naranarayan Setu situated ?,Tezpur and Kaliabor,Nagaon and Jorhat,Jogighopa and Pancharatna,Dibrugarh and Dhemaji,,,,,,,,,,0,,,13,12,0,
-ADRE-2022-G4-P1-HSLC-Q013,ADRE,2022,IV,I,A,13,,Who was the last king of the Ahom Kingdom ?,Chandrakanta Singha,Jogeswar Singha,Kamaleswar Singha,Purandar Singha,,,,,,,,,,0,,,13,13,0,
-ADRE-2022-G4-P1-HSLC-Q014,ADRE,2022,IV,I,A,14,,Laxminath Bezbaruah’s poem “O’ Mor Apunar Desh” was first published in,Bahi,Orunodoi,Jonbiri,Jonaki,,,,,,,,,,0,,,14,13,0,
-ADRE-2022-G4-P1-HSLC-Q015,ADRE,2022,IV,I,A,15,,Bangkok is the capital city of,South Korea,Philippines,Indonesia,Thailand,,,,,,,,,,0,,,14,14,0,
-ADRE-2022-G4-P1-HSLC-Q016,ADRE,2022,IV,I,A,16,,Who was the Chief Minister of Assam immediately after Gopinath Bardoloi ?,Bimala Prasad Chaliha,Sarat Chandra Singha,Bishnuram Medhi,Golap Borbora,,,,,,,,,,0,,,15,14,0,
-ADRE-2022-G4-P1-HSLC-Q017,ADRE,2022,IV,I,A,17,,Where was the first medical college of Assam established ?,Jorhat,Guwahati,Silchar,Dibrugarh,,,,,,,,,,0,,,15,15,0,
-ADRE-2022-G4-P1-HSLC-Q018,ADRE,2022,IV,I,A,18,,Which of the following places is adjacent to New Delhi ?,Gurugram,Nandigram,Secunderabad,Dhanbad,,,,,,,,,,0,,,16,15,0,
-ADRE-2022-G4-P1-HSLC-Q019,ADRE,2022,IV,I,A,19,,Margaret Thatcher was a former Prime Minister of,New Zealand,Canada,Israel,England,,,,,,,,,,0,,,16,16,0,
-ADRE-2022-G4-P1-HSLC-Q020,ADRE,2022,IV,I,A,20,,The body of water between Russia and Alaska is,Panama Canal,Bering Strait,Suez Canal,Palk Strait,,,,,,,,,,0,,,17,17,0,
-ADRE-2022-G4-P1-HSLC-Q021,ADRE,2022,IV,I,A,21,,Which of the following is not a sea-side city of India ?,Bengaluru,Chennai,Mumbai,Cochin,,,,,,,,,,0,,,17,17,0,
-ADRE-2022-G4-P1-HSLC-Q022,ADRE,2022,IV,I,A,22,,Which of the following vehicles is exempted from NHAI Fastag Tolls ?,Ambulance,Petroleum Tanker,Private vehicles of Senior citizens,Personal vehicle of Defence personnel,,,,,,,,,,0,,,18,18,0,
-ADRE-2022-G4-P1-HSLC-Q023,ADRE,2022,IV,I,A,23,,"The first modern theatre hall of Assam, the ‘Baan Theatre’ is located in",Guwahati,Jorhat,Tezpur,Nagaon,,,,,,,,,,0,,,19,18,0,
-ADRE-2022-G4-P1-HSLC-Q024,ADRE,2022,IV,I,A,24,,Which of the following countries is in South America ?,Somalia,Bolivia,Tasmania,Cambodia,,,,,,,,,,0,,,19,19,0,
-ADRE-2022-G4-P1-HSLC-Q025,ADRE,2022,IV,I,A,25,,"In which movement during India’s struggle for independence was Kanaklata
-Barua martyred ?",Non-Cooperation,Quit India,Sepoy Mutiny,Civil Disobedience,,,,,,,,,,0,,,20,20,0,
-ADRE-2022-G4-P1-HSLC-Q026,ADRE,2022,IV,I,A,26,,Who was the first Indian to go to space ?,Kalpana Chawla,Vikram Sarabhai,Rakesh Sharma,Yuri Gagarin,,,,,,,,,,0,,,21,20,0,
-ADRE-2022-G4-P1-HSLC-Q027,ADRE,2022,IV,I,A,27,,Where is the Assam State Museum located ?,Majuli,Guwahati,Nagaon,Kohora,,,,,,,,,,0,,,21,21,0,
-ADRE-2022-G4-P1-HSLC-Q028,ADRE,2022,IV,I,A,28,,Who amongst the following is a newly inducted Cabinet Minister of Assam ?,Pizush Hazarika,Jayanta Malla Baruah,Ranoj Pegu,Ajanta Neog,,,,,,,,,,0,,,22,21,0,
-ADRE-2022-G4-P1-HSLC-Q029,ADRE,2022,IV,I,A,29,,In which year did Doordarshan start colour television programme in India ?,1991,1985,1980,1982,,,,,,,,,,0,,,22,22,0,
-ADRE-2022-G4-P1-HSLC-Q030,ADRE,2022,IV,I,A,30,,What is the primary product of Boeing company ?,Aircrafts,Breakfast cereals,Shoes,Medicines,,,,,,,,,,0,,,23,22,0,
-ADRE-2022-G4-P1-HSLC-Q031,ADRE,2022,IV,I,A,31,,Which of the following is NOT an element ?,Tin,Mercury,Iodine,Quartz,,,,,,,,,,0,,,23,23,0,
-ADRE-2022-G4-P1-HSLC-Q032,ADRE,2022,IV,I,A,32,,Which one of the following sports does not use a ball ?,Golf,Lawn Tennis,Table Tennis,Badminton,,,,,,,,,,0,,,24,23,0,
-ADRE-2022-G4-P1-HSLC-Q033,ADRE,2022,IV,I,A,33,,Which of the following is celebrated on May 8 every year ?,Environment Day,No Tobacco Day,Labour Day,Red Cross and Red Crescent Day,,,,,,,,,,0,,,24,24,0,
-ADRE-2022-G4-P1-HSLC-Q034,ADRE,2022,IV,I,A,34,,"Who was awarded the Ramon Magsaysay Award in 1994 in the category of
-Government Service ?",Arvind Kejriwal,T.N. Seshan,Dr. Kiran Bedi,Chintaman D. Deshmukh,,,,,,,,,,0,,,25,25,0,
-ADRE-2022-G4-P1-HSLC-Q035,ADRE,2022,IV,I,A,35,,Which of the following was the first artificial satellite of India ?,Bhaskara,Rohini,Aryabhatta,INSAT – IA,,,,,,,,,,0,,,25,25,0,
-ADRE-2022-G4-P1-HSLC-Q036,ADRE,2022,IV,I,A,36,,"If a person is transacting in “Taka”, which country the person is in ?",Nepal,Pakistan,Cambodia,Bangladesh,,,,,,,,,,0,,,26,26,0,
-ADRE-2022-G4-P1-HSLC-Q037,ADRE,2022,IV,I,A,37,,Which country is the biggest exporter of asafoetida (hing) to India ?,Spain,Mexico,Afghanistan,Russia,,,,,,,,,,0,,,27,26,0,
-ADRE-2022-G4-P1-HSLC-Q038,ADRE,2022,IV,I,A,38,,“God’s Own Country” is the tagline for tourism of which state of India ?,Karnataka,Jammu and Kashmir,Rajasthan,Kerala,,,,,,,,,,0,,,27,27,0,
-ADRE-2022-G4-P1-HSLC-Q039,ADRE,2022,IV,I,A,39,,Which state is the North Eastern Police Academy located in ?,Assam,Meghalaya,Arunachal Pradesh,Manipur,,,,,,,,,,0,,,28,27,0,
-ADRE-2022-G4-P1-HSLC-Q040,ADRE,2022,IV,I,A,40,,"Counter-Insurgency and Jungle Warfare School is located in Mizoram at
-_____.",Aizawl,Lunglei,Serchhip,Vairengte,,,,,,,,,,0,,,28,28,0,
-ADRE-2022-G4-P1-HSLC-Q041,ADRE,2022,IV,I,A,41,,The animal Sangai is found in,Keibul Lamjao National Park,Kaziranga National Park,Namdapha National Park,Nokrek National Park,,,,,,,,,,0,,,29,29,0,
-ADRE-2022-G4-P1-HSLC-Q042,ADRE,2022,IV,I,A,42,,"Who won the Whitley Award, also known as the Green Oscar for the efforts
-in protecting the Greater Adjutant Stork ?",Purnima Devi Barman,Jadav Payeng,Birubala Rabha,Rohit Choudhury,,,,,,,,,,0,,,30,29,0,
-ADRE-2022-G4-P1-HSLC-Q043,ADRE,2022,IV,I,A,43,,"The Right to Education Act as a Fundamental Right was enacted under
-_____.",Article 21 (a),Article 25,Article 18,Article 23,,,,,,,,,,0,,,30,30,0,
-ADRE-2022-G4-P1-HSLC-Q044,ADRE,2022,IV,I,A,44,,"Chanakya, the author of Arthashastra was a minister in the court of :",Ashoka,Samudragupta,Chandragupta Maurya,Bindusara,,,,,,,,,,0,,,31,30,0,
-ADRE-2022-G4-P1-HSLC-Q045,ADRE,2022,IV,I,A,45,,"Who amongst the following was an explorer to visit India during the reign of
-Muhammad bin Tughlaq ?",Fahien,Hieun Tsang,Vasco da Gama,Ibn Battuta,,,,,,,,,,0,,,31,31,0,
-ADRE-2022-G4-P1-HSLC-Q046,ADRE,2022,IV,I,A,46,,Who is the first Law and Justice Minister of Independent India ?,Vallabhbhai Patel,Maulana Abul Kalam Azad,C. Rajagopalachari,B.R. Ambedkar,,,,,,,,,,0,,,32,32,0,
-ADRE-2022-G4-P1-HSLC-Q047,ADRE,2022,IV,I,A,47,,The Durand Line forms the dividing border between,Pakistan and Afghanistan,Pakistan and India,India and Burma (Myanmar),India and Bangladesh,,,,,,,,,,0,,,32,32,0,
-ADRE-2022-G4-P1-HSLC-Q048,ADRE,2022,IV,I,A,48,,The National Inter-School football tournament in India is played for,Durand Cup,Subroto Cup,Duleep Trophy,Irani Trophy,,,,,,,,,,0,,,33,33,0,
-ADRE-2022-G4-P1-HSLC-Q049,ADRE,2022,IV,I,A,49,,The first private bank of Assam set up in the year 1926 was,Assam Co-operative Apex Bank Limited,The Gauhati Bank Limited,Assam Gramin Vikash Bank,Lakhimi Gaonlia Bank,,,,,,,,,,0,,,34,33,0,
-ADRE-2022-G4-P1-HSLC-Q050,ADRE,2022,IV,I,A,50,,Who holds the position of the Chairman of NITI Aayog ?,Prime Minister of India,Finance Minister of India,"Governor, Reserve Bank of India",Home Minister of India,,,,,,,,,,0,,,34,34,0,
-ADRE-2022-G4-P1-HSLC-Q051,ADRE,2022,IV,I,A,51,,Which form of Democracy is followed in India ?,Representative Democracy,Presidential Democracy,Parliamentary Democracy,Participatory Democracy,,,,,,,,,,0,,,35,35,0,
-ADRE-2022-G4-P1-HSLC-Q052,ADRE,2022,IV,I,A,52,,"By which name is the river Brahmaputra known after it joins the river
-Ganga in Bangladesh ?",Lohit,Hooghly,Padma,Siang,,,,,,,,,,0,,,36,35,0,
-ADRE-2022-G4-P1-HSLC-Q053,ADRE,2022,IV,I,A,53,,"The angular distance of any place from the Prime Meridian measured
-towards East and West is called",Latitude,Altitude,Longitude,Amplitude,,,,,,,,,,0,,,36,36,0,
-ADRE-2022-G4-P1-HSLC-Q054,ADRE,2022,IV,I,A,54,,Which of the following pairs is NOT correctly matched ?,Hydrosphere : Water,Biosphere : Environment,Atmosphere : Air,Lithosphere : Land,,,,,,,,,,0,,,37,36,0,
-ADRE-2022-G4-P1-HSLC-Q055,ADRE,2022,IV,I,A,55,,Tsunamis are caused in the,Oceans,Deserts,High mountains,Deep forests,,,,,,,,,,0,,,37,37,0,
-ADRE-2022-G4-P1-HSLC-Q056,ADRE,2022,IV,I,A,56,,"Which of the following words does not appear in the preamble of the
-Constitution of India ?",Secular,Democratic,Federal,Socialist,,,,,,,,,,0,,,38,38,0,
-ADRE-2022-G4-P1-HSLC-Q057,ADRE,2022,IV,I,A,57,,"The ancient tradition of exchanging goods for goods (trade without currency)
-is :",Paik System,Barter System,Banking System,Rayat System,,,,,,,,,,0,,,39,38,0,
-ADRE-2022-G4-P1-HSLC-Q058,ADRE,2022,IV,I,A,58,,The famous dish “Dal Baati Churma” is typically served in the state of :,Punjab,Rajasthan,Bihar,Odisha,,,,,,,,,,0,,,39,39,0,
-ADRE-2022-G4-P1-HSLC-Q059,ADRE,2022,IV,I,A,59,,Animals that feed on green plants are known as,Omnivorous,Carnivorous,Cannibals,Herbivorous,,,,,,,,,,0,,,40,39,0,
-ADRE-2022-G4-P1-HSLC-Q060,ADRE,2022,IV,I,A,60,,"Which schedule of the Indian Constitution has made provisions for
-autonomous administration for hills and tribal regions of North East India ?",Sixth Schedule,Fifth Schedule,Eighth Schedule,Ninth Schedule,,,,,,,,,,0,,,40,40,0,
-ADRE-2022-G4-P1-HSLC-Q061,ADRE,2022,IV,I,A,61,,"4 3 	1
+id,exam,year,paper_code,paper_title,booklet_set,q_no,context,question,option_a,option_b,option_c,option_d,answer,answer_note,answer_source,has_visual,visual_types,images,text_source,page,needs_review,review_notes
+ADRE-2022-G4-P1-HSLC-Q001,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,1,,The Victoria memorial is situated in,Kolkata,New Delhi,Mumbai,Bhopal,,,,0,,,pdf_text,6,0,
+ADRE-2022-G4-P1-HSLC-Q002,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,2,,In which track and field sports does Hima Das participate ?,Triple Jump,Long distance run,"Sprints, Short distance",Hurdles,,,,0,,,pdf_text,7,0,
+ADRE-2022-G4-P1-HSLC-Q003,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,3,,"Who was awarded the “Assam Baibhav” award in December, 2021 ?",Jitendra Nath Goswami,Ratan Tata,Ratan Thiam,Amalprava Das,,,,0,,,pdf_text,7,0,
+ADRE-2022-G4-P1-HSLC-Q004,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,4,,Narendra Modi Stadium is situated in,Baroda,Surat,Mehsana,Ahmedabad,,,,0,,,pdf_text,8,0,
+ADRE-2022-G4-P1-HSLC-Q005,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,5,,What does LAD stand for in MPLAD Scheme ?,Local Asset Development,Local Area Development,Leading Asset Development,Local Area Distribution,,,,0,,,pdf_text,8,0,
+ADRE-2022-G4-P1-HSLC-Q006,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,6,,On whose birthday is Abhiruchi Sports Day celebrated in Assam ?,Bhogeswar Baruah,Monalisa Baruah (Mehta),Hima Das,Radha Govinda Baruah,,,,0,,,pdf_text,9,0,
+ADRE-2022-G4-P1-HSLC-Q007,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,7,,Which one of the following places connect Assam with Arunachal Pradesh ?,Dirak,Baxirhat,Dimapur,Jorhat,,,,0,,,pdf_text,10,0,
+ADRE-2022-G4-P1-HSLC-Q008,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,8,,"Who was the first person from Assam to clear the Indian Civil Service (ICS)
+Examination ?",Jamchonga Nampui,Anundoram Barooah,Hem Chandra Baruah,Parvati Prasad Boruah,,,,0,,,pdf_text,10,0,
+ADRE-2022-G4-P1-HSLC-Q009,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,9,,"Who put forward the law of physics that “Every action has an equal and
+opposite reaction” ?",Benjamin Franklin,Michael Faraday,Sir Isaac Newton,Albert Einstein,,,,0,,,pdf_text,11,0,
+ADRE-2022-G4-P1-HSLC-Q010,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,10,,What is the capital city of Zimbabwe ?,Nairobi,Harare,Cairo,Khartoum,,,,0,,,pdf_text,11,0,
+ADRE-2022-G4-P1-HSLC-Q011,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,11,,What is the currency of United Arab Emirates (UAE) ?,Ruble,Dinar,Dirham,Shekel,,,,0,,,pdf_text,12,0,
+ADRE-2022-G4-P1-HSLC-Q012,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,12,,Between which two towns is the Naranarayan Setu situated ?,Tezpur and Kaliabor,Nagaon and Jorhat,Jogighopa and Pancharatna,Dibrugarh and Dhemaji,,,,0,,,pdf_text,13,0,
+ADRE-2022-G4-P1-HSLC-Q013,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,13,,Who was the last king of the Ahom Kingdom ?,Chandrakanta Singha,Jogeswar Singha,Kamaleswar Singha,Purandar Singha,,,,0,,,pdf_text,13,0,
+ADRE-2022-G4-P1-HSLC-Q014,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,14,,Laxminath Bezbaruah’s poem “O’ Mor Apunar Desh” was first published in,Bahi,Orunodoi,Jonbiri,Jonaki,,,,0,,,pdf_text,14,0,
+ADRE-2022-G4-P1-HSLC-Q015,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,15,,Bangkok is the capital city of,South Korea,Philippines,Indonesia,Thailand,,,,0,,,pdf_text,14,0,
+ADRE-2022-G4-P1-HSLC-Q016,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,16,,Who was the Chief Minister of Assam immediately after Gopinath Bardoloi ?,Bimala Prasad Chaliha,Sarat Chandra Singha,Bishnuram Medhi,Golap Borbora,,,,0,,,pdf_text,15,0,
+ADRE-2022-G4-P1-HSLC-Q017,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,17,,Where was the first medical college of Assam established ?,Jorhat,Guwahati,Silchar,Dibrugarh,,,,0,,,pdf_text,15,0,
+ADRE-2022-G4-P1-HSLC-Q018,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,18,,Which of the following places is adjacent to New Delhi ?,Gurugram,Nandigram,Secunderabad,Dhanbad,,,,0,,,pdf_text,16,0,
+ADRE-2022-G4-P1-HSLC-Q019,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,19,,Margaret Thatcher was a former Prime Minister of,New Zealand,Canada,Israel,England,,,,0,,,pdf_text,16,0,
+ADRE-2022-G4-P1-HSLC-Q020,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,20,,The body of water between Russia and Alaska is,Panama Canal,Bering Strait,Suez Canal,Palk Strait,,,,0,,,pdf_text,17,0,
+ADRE-2022-G4-P1-HSLC-Q021,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,21,,Which of the following is not a sea-side city of India ?,Bengaluru,Chennai,Mumbai,Cochin,,,,0,,,pdf_text,17,0,
+ADRE-2022-G4-P1-HSLC-Q022,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,22,,Which of the following vehicles is exempted from NHAI Fastag Tolls ?,Ambulance,Petroleum Tanker,Private vehicles of Senior citizens,Personal vehicle of Defence personnel,,,,0,,,pdf_text,18,0,
+ADRE-2022-G4-P1-HSLC-Q023,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,23,,"The first modern theatre hall of Assam, the ‘Baan Theatre’ is located in",Guwahati,Jorhat,Tezpur,Nagaon,,,,0,,,pdf_text,19,0,
+ADRE-2022-G4-P1-HSLC-Q024,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,24,,Which of the following countries is in South America ?,Somalia,Bolivia,Tasmania,Cambodia,,,,0,,,pdf_text,19,0,
+ADRE-2022-G4-P1-HSLC-Q025,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,25,,"In which movement during India’s struggle for independence was Kanaklata
+Barua martyred ?",Non-Cooperation,Quit India,Sepoy Mutiny,Civil Disobedience,,,,0,,,pdf_text,20,0,
+ADRE-2022-G4-P1-HSLC-Q026,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,26,,Who was the first Indian to go to space ?,Kalpana Chawla,Vikram Sarabhai,Rakesh Sharma,Yuri Gagarin,,,,0,,,pdf_text,21,0,
+ADRE-2022-G4-P1-HSLC-Q027,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,27,,Where is the Assam State Museum located ?,Majuli,Guwahati,Nagaon,Kohora,,,,0,,,pdf_text,21,0,
+ADRE-2022-G4-P1-HSLC-Q028,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,28,,Who amongst the following is a newly inducted Cabinet Minister of Assam ?,Pizush Hazarika,Jayanta Malla Baruah,Ranoj Pegu,Ajanta Neog,,,,0,,,pdf_text,22,0,
+ADRE-2022-G4-P1-HSLC-Q029,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,29,,In which year did Doordarshan start colour television programme in India ?,1991,1985,1980,1982,,,,0,,,pdf_text,22,0,
+ADRE-2022-G4-P1-HSLC-Q030,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,30,,What is the primary product of Boeing company ?,Aircrafts,Breakfast cereals,Shoes,Medicines,,,,0,,,pdf_text,23,0,
+ADRE-2022-G4-P1-HSLC-Q031,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,31,,Which of the following is NOT an element ?,Tin,Mercury,Iodine,Quartz,,,,0,,,pdf_text,23,0,
+ADRE-2022-G4-P1-HSLC-Q032,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,32,,Which one of the following sports does not use a ball ?,Golf,Lawn Tennis,Table Tennis,Badminton,,,,0,,,pdf_text,24,0,
+ADRE-2022-G4-P1-HSLC-Q033,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,33,,Which of the following is celebrated on May 8 every year ?,Environment Day,No Tobacco Day,Labour Day,Red Cross and Red Crescent Day,,,,0,,,pdf_text,24,0,
+ADRE-2022-G4-P1-HSLC-Q034,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,34,,"Who was awarded the Ramon Magsaysay Award in 1994 in the category of
+Government Service ?",Arvind Kejriwal,T.N. Seshan,Dr. Kiran Bedi,Chintaman D. Deshmukh,,,,0,,,pdf_text,25,0,
+ADRE-2022-G4-P1-HSLC-Q035,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,35,,Which of the following was the first artificial satellite of India ?,Bhaskara,Rohini,Aryabhatta,INSAT – IA,,,,0,,,pdf_text,25,0,
+ADRE-2022-G4-P1-HSLC-Q036,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,36,,"If a person is transacting in “Taka”, which country the person is in ?",Nepal,Pakistan,Cambodia,Bangladesh,,,,0,,,pdf_text,26,0,
+ADRE-2022-G4-P1-HSLC-Q037,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,37,,Which country is the biggest exporter of asafoetida (hing) to India ?,Spain,Mexico,Afghanistan,Russia,,,,0,,,pdf_text,27,0,
+ADRE-2022-G4-P1-HSLC-Q038,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,38,,“God’s Own Country” is the tagline for tourism of which state of India ?,Karnataka,Jammu and Kashmir,Rajasthan,Kerala,,,,0,,,pdf_text,27,0,
+ADRE-2022-G4-P1-HSLC-Q039,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,39,,Which state is the North Eastern Police Academy located in ?,Assam,Meghalaya,Arunachal Pradesh,Manipur,,,,0,,,pdf_text,28,0,
+ADRE-2022-G4-P1-HSLC-Q040,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,40,,"Counter-Insurgency and Jungle Warfare School is located in Mizoram at
+_____.",Aizawl,Lunglei,Serchhip,Vairengte,,,,0,,,pdf_text,28,0,
+ADRE-2022-G4-P1-HSLC-Q041,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,41,,The animal Sangai is found in,Keibul Lamjao National Park,Kaziranga National Park,Namdapha National Park,Nokrek National Park,,,,0,,,pdf_text,29,0,
+ADRE-2022-G4-P1-HSLC-Q042,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,42,,"Who won the Whitley Award, also known as the Green Oscar for the efforts
+in protecting the Greater Adjutant Stork ?",Purnima Devi Barman,Jadav Payeng,Birubala Rabha,Rohit Choudhury,,,,0,,,pdf_text,30,0,
+ADRE-2022-G4-P1-HSLC-Q043,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,43,,"The Right to Education Act as a Fundamental Right was enacted under
+_____.
+(A) Article 21",,Article 25,Article 18,Article 23,,,,1,option_images,exams/ADRE/2022/figures/G4-P1-HSLC/q043.png,pdf_text,30,0,
+ADRE-2022-G4-P1-HSLC-Q044,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,44,,"Chanakya, the author of Arthashastra was a minister in the court of :",Ashoka,Samudragupta,Chandragupta Maurya,Bindusara,,,,0,,,pdf_text,31,0,
+ADRE-2022-G4-P1-HSLC-Q045,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,45,,"Who amongst the following was an explorer to visit India during the reign of
+Muhammad bin Tughlaq ?",Fahien,Hieun Tsang,Vasco da Gama,Ibn Battuta,,,,0,,,pdf_text,31,0,
+ADRE-2022-G4-P1-HSLC-Q046,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,46,,Who is the first Law and Justice Minister of Independent India ?,Vallabhbhai Patel,Maulana Abul Kalam Azad,C. Rajagopalachari,B.R. Ambedkar,,,,0,,,pdf_text,32,0,
+ADRE-2022-G4-P1-HSLC-Q047,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,47,,The Durand Line forms the dividing border between,Pakistan and Afghanistan,Pakistan and India,India and Burma (Myanmar),India and Bangladesh,,,,0,,,pdf_text,32,0,
+ADRE-2022-G4-P1-HSLC-Q048,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,48,,The National Inter-School football tournament in India is played for,Durand Cup,Subroto Cup,Duleep Trophy,Irani Trophy,,,,0,,,pdf_text,33,0,
+ADRE-2022-G4-P1-HSLC-Q049,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,49,,The first private bank of Assam set up in the year 1926 was,Assam Co-operative Apex Bank Limited,The Gauhati Bank Limited,Assam Gramin Vikash Bank,Lakhimi Gaonlia Bank,,,,0,,,pdf_text,34,0,
+ADRE-2022-G4-P1-HSLC-Q050,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,50,,Who holds the position of the Chairman of NITI Aayog ?,Prime Minister of India,Finance Minister of India,"Governor, Reserve Bank of India",Home Minister of India,,,,0,,,pdf_text,34,0,
+ADRE-2022-G4-P1-HSLC-Q051,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,51,,Which form of Democracy is followed in India ?,Representative Democracy,Presidential Democracy,Parliamentary Democracy,Participatory Democracy,,,,0,,,pdf_text,35,0,
+ADRE-2022-G4-P1-HSLC-Q052,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,52,,"By which name is the river Brahmaputra known after it joins the river
+Ganga in Bangladesh ?",Lohit,Hooghly,Padma,Siang,,,,0,,,pdf_text,36,0,
+ADRE-2022-G4-P1-HSLC-Q053,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,53,,"The angular distance of any place from the Prime Meridian measured
+towards East and West is called",Latitude,Altitude,Longitude,Amplitude,,,,0,,,pdf_text,36,0,
+ADRE-2022-G4-P1-HSLC-Q054,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,54,,Which of the following pairs is NOT correctly matched ?,Hydrosphere : Water,Biosphere : Environment,Atmosphere : Air,Lithosphere : Land,,,,0,,,pdf_text,37,0,
+ADRE-2022-G4-P1-HSLC-Q055,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,55,,Tsunamis are caused in the,Oceans,Deserts,High mountains,Deep forests,,,,0,,,pdf_text,37,0,
+ADRE-2022-G4-P1-HSLC-Q056,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,56,,"Which of the following words does not appear in the preamble of the
+Constitution of India ?",Secular,Democratic,Federal,Socialist,,,,0,,,pdf_text,38,0,
+ADRE-2022-G4-P1-HSLC-Q057,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,57,,"The ancient tradition of exchanging goods for goods (trade without currency)
+is :",Paik System,Barter System,Banking System,Rayat System,,,,0,,,pdf_text,39,0,
+ADRE-2022-G4-P1-HSLC-Q058,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,58,,The famous dish “Dal Baati Churma” is typically served in the state of :,Punjab,Rajasthan,Bihar,Odisha,,,,0,,,pdf_text,39,0,
+ADRE-2022-G4-P1-HSLC-Q059,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,59,,Animals that feed on green plants are known as,Omnivorous,Carnivorous,Cannibals,Herbivorous,,,,0,,,pdf_text,40,0,
+ADRE-2022-G4-P1-HSLC-Q060,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,60,,"Which schedule of the Indian Constitution has made provisions for
+autonomous administration for hills and tribal regions of North East India ?",Sixth Schedule,Fifth Schedule,Eighth Schedule,Ninth Schedule,,,,0,,,pdf_text,40,0,
+ADRE-2022-G4-P1-HSLC-Q061,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,61,,"4 3 	1
 If + – = x + 1, then what will be the value of x ?
-5 10	2",2,1,–1,–2,,,,,,,,,,1,drawing|math|table_layout,exams/ADRE/2022/figures/G4-P1-HSLC/q061.png,41,41,1,
-ADRE-2022-G4-P1-HSLC-Q062,ADRE,2022,IV,I,A,62,,"The circumferential length of a circle of radius 7 cm is used to construct a
-square. The length of the side of the square is : (Take π =.)",7 cm,11 cm,15 cm,22 cm,,,,,,,,,,1,drawing|math,exams/ADRE/2022/figures/G4-P1-HSLC/q062.png,42,41,1,
-ADRE-2022-G4-P1-HSLC-Q063,ADRE,2022,IV,I,A,63,,"The HCF and LCM of two numbers are 2⁵ and 2⁵7³ respectively. If one of the
-two numbers is 2⁷, then the other number is",2³7³,2⁵7²,2²7³,2³7²,,,,,,,,,,0,,,43,42,0,
-ADRE-2022-G4-P1-HSLC-Q064,ADRE,2022,IV,I,A,64,,"If 1296 = x², then the value of x will be :",5,6,7,8,,,,,,,,,,1,drawing,exams/ADRE/2022/figures/G4-P1-HSLC/q064.png,44,43,0,
-ADRE-2022-G4-P1-HSLC-Q065,ADRE,2022,IV,I,A,65,,"Bijit purchased an article for ` 800 and sold the article such that the gain is
-the 20% of its selling price. The selling price of the article is :",` 1300,` 1200,` 1100,` 1000,,,,,,,,,,0,,,45,44,0,
-ADRE-2022-G4-P1-HSLC-Q066,ADRE,2022,IV,I,A,66,,"A sheet of paper of thickness of 0.5 mm is repeatedly folded to fill up a gap of
-size 1.28 cm. The required number of folds is :",12,10,8,7,,,,,,,,,,0,,,45,45,0,
-ADRE-2022-G4-P1-HSLC-Q067,ADRE,2022,IV,I,A,67,,"A rectangle has 15 cm as its length and 150 cm² as its area. If the area is
+5 10	2",2,1,–1,–2,,,,1,drawing|math|table_layout,exams/ADRE/2022/figures/G4-P1-HSLC/q061.png,pdf_text,41,1,
+ADRE-2022-G4-P1-HSLC-Q062,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,62,,"The circumferential length of a circle of radius 7 cm is used to construct a
+square. The length of the side of the square is : (Take π =.)",7 cm,11 cm,15 cm,22 cm,,,,1,drawing|math,exams/ADRE/2022/figures/G4-P1-HSLC/q062.png,pdf_text,42,1,
+ADRE-2022-G4-P1-HSLC-Q063,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,63,,"The HCF and LCM of two numbers are 2⁵ and 2⁵7³ respectively. If one of the
+two numbers is 2⁷, then the other number is",2³7³,2⁵7²,2²7³,2³7²,,,,0,,,pdf_text,43,0,
+ADRE-2022-G4-P1-HSLC-Q064,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,64,,"If 1296 = x², then the value of x will be :",5,6,7,8,,,,1,drawing,exams/ADRE/2022/figures/G4-P1-HSLC/q064.png,pdf_text,44,0,
+ADRE-2022-G4-P1-HSLC-Q065,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,65,,"Bijit purchased an article for ` 800 and sold the article such that the gain is
+the 20% of its selling price. The selling price of the article is :",` 1300,` 1200,` 1100,` 1000,,,,0,,,pdf_text,45,0,
+ADRE-2022-G4-P1-HSLC-Q066,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,66,,"A sheet of paper of thickness of 0.5 mm is repeatedly folded to fill up a gap of
+size 1.28 cm. The required number of folds is :",12,10,8,7,,,,0,,,pdf_text,45,0,
+ADRE-2022-G4-P1-HSLC-Q067,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,67,,"A rectangle has 15 cm as its length and 150 cm² as its area. If the area is
 increased to 11 times the original area by increasing its length only, the new
-perimeter will be",50 cm,60 cm,70 cm,80 cm,,,,,,,,,,1,drawing,exams/ADRE/2022/figures/G4-P1-HSLC/q067.png,46,46,0,
-ADRE-2022-G4-P1-HSLC-Q068,ADRE,2022,IV,I,A,68,,Which of the following is a factor of the polynomial x² – x – 2 ?,(x – 4),(x + 5),(x – 2),(x + 4),,,,,,,,,,0,,,47,47,0,
-ADRE-2022-G4-P1-HSLC-Q069,ADRE,2022,IV,I,A,69,,"The mean of the data series
-7, 12, 5, 1, 4, 2, 1, 12, 17, 16, 1, 5, 8",7,4,8,5,,,,,,,,,,0,,,48,47,0,
-ADRE-2022-G4-P1-HSLC-Q070,ADRE,2022,IV,I,A,70,,"The number that replaces the question mark (?) in the equation 0.003 ÷ ? = 0.3,
-is :",0.01,1.0,0.0001,0.001,,,,,,,,,,1,math,exams/ADRE/2022/figures/G4-P1-HSLC/q070.png,49,48,1,
-ADRE-2022-G4-P1-HSLC-Q071,ADRE,2022,IV,I,A,71,,"Which of the following fractions is the largest ?
+perimeter will be",50 cm,60 cm,70 cm,80 cm,,,,1,drawing,exams/ADRE/2022/figures/G4-P1-HSLC/q067.png,pdf_text,46,0,
+ADRE-2022-G4-P1-HSLC-Q068,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,68,,Which of the following is a factor of the polynomial x² – x – 2 ?,(x – 4),(x + 5),(x – 2),(x + 4),,,,0,,,pdf_text,47,0,
+ADRE-2022-G4-P1-HSLC-Q069,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,69,,"The mean of the data series
+7, 12, 5, 1, 4, 2, 1, 12, 17, 16, 1, 5, 8",7,4,8,5,,,,0,,,pdf_text,48,0,
+ADRE-2022-G4-P1-HSLC-Q070,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,70,,"The number that replaces the question mark (?) in the equation 0.003 ÷ ? = 0.3,
+is :",0.01,1.0,0.0001,0.001,,,,1,math,exams/ADRE/2022/figures/G4-P1-HSLC/q070.png,pdf_text,49,1,
+ADRE-2022-G4-P1-HSLC-Q071,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,71,,"Which of the following fractions is the largest ?
 11 12 13 14
 ,,,
 12 13 14 15
-14	13",15 12,14 11,13,12,,,,,,,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G4-P1-HSLC/q071.png,50,49,0,
-ADRE-2022-G4-P1-HSLC-Q072,ADRE,2022,IV,I,A,72,,What percentage of 1.5 kg is 7.5 gm ?,0.25%,0.3%,0.5%,0.75%,,,,,,,,,,0,,,51,50,0,
-ADRE-2022-G4-P1-HSLC-Q073,ADRE,2022,IV,I,A,73,,"a 8	6a + 2b
+14	13",15 12,14 11,13,12,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G4-P1-HSLC/q071.png,pdf_text,50,0,
+ADRE-2022-G4-P1-HSLC-Q072,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,72,,What percentage of 1.5 kg is 7.5 gm ?,0.25%,0.3%,0.5%,0.75%,,,,0,,,pdf_text,51,0,
+ADRE-2022-G4-P1-HSLC-Q073,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,73,,"a 8	6a + 2b
 If =, then the value of	is :
-b 6	4a – 2b",5,3,2,1,,,,,,,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G4-P1-HSLC/q073.png,51,51,0,
-ADRE-2022-G4-P1-HSLC-Q074,ADRE,2022,IV,I,A,74,,"Rajen goes to his school from his house at a speed of 2 km/hour and returns
+b 6	4a – 2b",5,3,2,1,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G4-P1-HSLC/q073.png,pdf_text,51,0,
+ADRE-2022-G4-P1-HSLC-Q074,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,74,,"Rajen goes to his school from his house at a speed of 2 km/hour and returns
 at a speed of 3 km/hour. If he takes 5 hours in the entire journey, the
-distance between his school and his house is :",4 km,5 km,6 km,7 km,,,,,,,,,,0,,,52,52,0,
-ADRE-2022-G4-P1-HSLC-Q075,ADRE,2022,IV,I,A,75,,The total surface area of a cube is 96 cm². The volume of the cube is :,81 cm³,27 cm³,36 cm³,64 cm³,,,,,,,,,,0,,,53,53,0,
-ADRE-2022-G4-P1-HSLC-Q076,ADRE,2022,IV,I,A,76,,"The ratio of the radii of two circles is 2 : 3. The ratio of the areas of the circles
-is :",3 : 2,4 : 9,9 : 4,2 : 3,,,,,,,,,,0,,,54,53,0,
-ADRE-2022-G4-P1-HSLC-Q077,ADRE,2022,IV,I,A,77,,"1	1
+distance between his school and his house is :",4 km,5 km,6 km,7 km,,,,0,,,pdf_text,52,0,
+ADRE-2022-G4-P1-HSLC-Q075,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,75,,The total surface area of a cube is 96 cm². The volume of the cube is :,81 cm³,27 cm³,36 cm³,64 cm³,,,,0,,,pdf_text,53,0,
+ADRE-2022-G4-P1-HSLC-Q076,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,76,,"The ratio of the radii of two circles is 2 : 3. The ratio of the areas of the circles
+is :",3 : 2,4 : 9,9 : 4,2 : 3,,,,0,,,pdf_text,54,0,
+ADRE-2022-G4-P1-HSLC-Q077,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,77,,"1	1
 If x + = 4, then the value of x² + is :
-x	x²",10,12,13,14,,,,,,,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G4-P1-HSLC/q077.png,55,54,0,
-ADRE-2022-G4-P1-HSLC-Q078,ADRE,2022,IV,I,A,78,,The area of an equilateral triangle with the length of the side of 12 cm is,12 3 cm²,24 3 cm²,30 3 cm²,36 3 cm²,,,,,,,,,,1,drawing,exams/ADRE/2022/figures/G4-P1-HSLC/q078.png,55,55,0,
-ADRE-2022-G4-P1-HSLC-Q079,ADRE,2022,IV,I,A,79,,"Ravi plans to tile his kitchen floor with square tiles. Each of the tiles has side
+x	x²",10,12,13,14,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G4-P1-HSLC/q077.png,pdf_text,55,0,
+ADRE-2022-G4-P1-HSLC-Q078,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,78,,The area of an equilateral triangle with the length of the side of 12 cm is,12 3 cm²,24 3 cm²,30 3 cm²,36 3 cm²,,,,1,drawing,exams/ADRE/2022/figures/G4-P1-HSLC/q078.png,pdf_text,55,0,
+ADRE-2022-G4-P1-HSLC-Q079,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,79,,"Ravi plans to tile his kitchen floor with square tiles. Each of the tiles has side
 of 10 cm. The kitchen is 2.4 m long and 1.6 m wide. How many tiles will Ravi
-need ?",184,244,284,384,,,,,,,,,,0,,,56,55,0,
-ADRE-2022-G4-P1-HSLC-Q080,ADRE,2022,IV,I,A,80,,"A man purchased a fan which had a printed price of ` 2,000. If he received
+need ?",184,244,284,384,,,,0,,,pdf_text,56,0,
+ADRE-2022-G4-P1-HSLC-Q080,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,80,,"A man purchased a fan which had a printed price of ` 2,000. If he received
 two successive discounts of 20% and 10%, then how much did he pay for the
-fan ?","` 1,440","` 1,400","` 1,540","` 1,500",,,,,,,,,,0,,,57,56,0,
-ADRE-2022-G4-P1-HSLC-Q081,ADRE,2022,IV,I,A,81,,"Find the value of
-– [– {– (–1) (–1)}] – [– {– (–1) (–1)}]",–2,–1,1,2,,,,,,,,,,0,,,58,57,0,
-ADRE-2022-G4-P1-HSLC-Q082,ADRE,2022,IV,I,A,82,,"A Die is marked with 1, 1, 2, 2, 4, 4 respectively on its six faces. The
+fan ?","` 1,440","` 1,400","` 1,540","` 1,500",,,,0,,,pdf_text,57,0,
+ADRE-2022-G4-P1-HSLC-Q081,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,81,,"Find the value of
+– [– {– (–1) (–1)}] – [– {– (–1) (–1)}]",–2,–1,1,2,,,,0,,,pdf_text,58,0,
+ADRE-2022-G4-P1-HSLC-Q082,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,82,,"A Die is marked with 1, 1, 2, 2, 4, 4 respectively on its six faces. The
 probability that ‘2’ will face up on a single throw of the Die is :
-1	1",2 2,3 1,3,4,,,,,,,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G4-P1-HSLC/q082.png,59,58,0,
-ADRE-2022-G4-P1-HSLC-Q083,ADRE,2022,IV,I,A,83,,"(ab²)² × (3 ab)⁴
+1	1",2 2,3 1,3,4,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G4-P1-HSLC/q082.png,pdf_text,59,0,
+ADRE-2022-G4-P1-HSLC-Q083,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,83,,"(ab²)² × (3 ab)⁴
 The value of	, when a = b and a = 3 is
-9 × 9(a²b²)³",9 1,1 1,3,9,,,,,,,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G4-P1-HSLC/q083.png,60,59,0,
-ADRE-2022-G4-P1-HSLC-Q084,ADRE,2022,IV,I,A,84,,"Manoj borrowed a sum of ` 6,000 on simple interest at the rate of 5% per
+9 × 9(a²b²)³",9 1,1 1,3,9,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G4-P1-HSLC/q083.png,pdf_text,60,0,
+ADRE-2022-G4-P1-HSLC-Q084,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,84,,"Manoj borrowed a sum of ` 6,000 on simple interest at the rate of 5% per
 annum. If he decides to pay the entire amount at the end of one month, then
-the amount he needs to pay is :","` 6,300","` 6,030","` 6,250","` 6,025",,,,,,,,,,0,,,61,60,0,
-ADRE-2022-G4-P1-HSLC-Q085,ADRE,2022,IV,I,A,85,,"If a > b, (a > 0, b > 0), then which one of the following is true ?",– a < – b,– a > – b,a < – b,– a > b,,,,,,,,,,0,,,61,61,0,
-ADRE-2022-G4-P1-HSLC-Q086,ADRE,2022,IV,I,A,86,Q. No. 86 to 88 : Choose the correct SYNONYM for the given word :,Pompous,Humble,Simple,Haughty,Unpretentious,,,,,,,,,,0,,,62,,0,
-ADRE-2022-G4-P1-HSLC-Q087,ADRE,2022,IV,I,A,87,Q. No. 86 to 88 : Choose the correct SYNONYM for the given word :,Timid,Courageous,Brave,Coward,Bold,,,,,,,,,,0,,,62,,0,
-ADRE-2022-G4-P1-HSLC-Q088,ADRE,2022,IV,I,A,88,Q. No. 86 to 88 : Choose the correct SYNONYM for the given word :,Virtue,Vice,Morality,Dishonesty,Unworthy,,,,,,,,,,0,,,62,,0,
-ADRE-2022-G4-P1-HSLC-Q089,ADRE,2022,IV,I,A,89,Q. No. 89 to 91 : Choose the correct ANTONYM for the given word :,Harass,Irritate,Comfort,Molest,Seduce,,,,,,,,,,0,,,62,,0,
-ADRE-2022-G4-P1-HSLC-Q090,ADRE,2022,IV,I,A,90,Q. No. 89 to 91 : Choose the correct ANTONYM for the given word :,Gorgeous,Magnificent,Dazzling,Beautiful,Dull,,,,,,,,,,0,,,62,,0,
-ADRE-2022-G4-P1-HSLC-Q091,ADRE,2022,IV,I,A,91,Q. No. 89 to 91 : Choose the correct ANTONYM for the given word :,Bloom,Wilt,Revive,Plant,Dry,,,,,,,,,,0,,,62,,0,
-ADRE-2022-G4-P1-HSLC-Q092,ADRE,2022,IV,I,A,92,Q. No. 92 to 94 : Choose the correct preposition :,I always get nervous when I have to speak _____ an audience.,in the front of,in front of,infront of,affront of,,,,,,,,,,0,,,63,,0,
-ADRE-2022-G4-P1-HSLC-Q093,ADRE,2022,IV,I,A,93,Q. No. 92 to 94 : Choose the correct preposition :,Submit your assignments _____ ten days of the announcement.,within,by,with in,before,,,,,,,,,,0,,,63,,0,
-ADRE-2022-G4-P1-HSLC-Q094,ADRE,2022,IV,I,A,94,Q. No. 92 to 94 : Choose the correct preposition :,No student or teacher should be _____ this famous reference book.,with,without,given,despite,,,,,,,,,,0,,,63,,0,
-ADRE-2022-G4-P1-HSLC-Q095,ADRE,2022,IV,I,A,95,Q. No. 95 to 96 : Choose the correct option :,"A number of vehicles travelling together under escort for the sake of safety is
-called",Regiment,Convoy,Escort,Cavalry,,,,,,,,,,0,,,63,,0,
-ADRE-2022-G4-P1-HSLC-Q096,ADRE,2022,IV,I,A,96,Q. No. 95 to 96 : Choose the correct option :,Love for one’s country is known as,Jingoism,Patriotism,Nationalism,Expatriate,,,,,,,,,,0,,,63,,0,
-ADRE-2022-G4-P1-HSLC-Q097,ADRE,2022,IV,I,A,97,Q. No. 97 to 98 : Fill in the blanks with correct options :,"A gifted scientist, Newton _____ some of the most fundamental laws in the
-history of science.",keeps discovering,who discovered,discovered,kept from discovering,,,,,,,,,,0,,,64,,0,
-ADRE-2022-G4-P1-HSLC-Q098,ADRE,2022,IV,I,A,98,Q. No. 97 to 98 : Fill in the blanks with correct options :,We are all worried about the _____ condition of the company.,monetary affair,financial,finance,monetary,,,,,,,,,,0,,,64,,0,
-ADRE-2022-G4-P1-HSLC-Q099,ADRE,2022,IV,I,A,99,,"Choose the correct order to complete the sentence :
+the amount he needs to pay is :","` 6,300","` 6,030","` 6,250","` 6,025",,,,0,,,pdf_text,61,0,
+ADRE-2022-G4-P1-HSLC-Q085,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,85,,"If a > b, (a > 0, b > 0), then which one of the following is true ?",– a < – b,– a > – b,a < – b,– a > b,,,,0,,,pdf_text,61,0,
+ADRE-2022-G4-P1-HSLC-Q086,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,86,Q. No. 86 to 88 : Choose the correct SYNONYM for the given word :,Pompous,Humble,Simple,Haughty,Unpretentious,,,,0,,,pdf_text,62,0,
+ADRE-2022-G4-P1-HSLC-Q087,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,87,Q. No. 86 to 88 : Choose the correct SYNONYM for the given word :,Timid,Courageous,Brave,Coward,Bold,,,,0,,,pdf_text,62,0,
+ADRE-2022-G4-P1-HSLC-Q088,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,88,Q. No. 86 to 88 : Choose the correct SYNONYM for the given word :,Virtue,Vice,Morality,Dishonesty,Unworthy,,,,0,,,pdf_text,62,0,
+ADRE-2022-G4-P1-HSLC-Q089,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,89,Q. No. 89 to 91 : Choose the correct ANTONYM for the given word :,Harass,Irritate,Comfort,Molest,Seduce,,,,0,,,pdf_text,62,0,
+ADRE-2022-G4-P1-HSLC-Q090,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,90,Q. No. 89 to 91 : Choose the correct ANTONYM for the given word :,Gorgeous,Magnificent,Dazzling,Beautiful,Dull,,,,0,,,pdf_text,62,0,
+ADRE-2022-G4-P1-HSLC-Q091,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,91,Q. No. 89 to 91 : Choose the correct ANTONYM for the given word :,Bloom,Wilt,Revive,Plant,Dry,,,,0,,,pdf_text,62,0,
+ADRE-2022-G4-P1-HSLC-Q092,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,92,Q. No. 92 to 94 : Choose the correct preposition :,I always get nervous when I have to speak _____ an audience.,in the front of,in front of,infront of,affront of,,,,0,,,pdf_text,63,0,
+ADRE-2022-G4-P1-HSLC-Q093,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,93,Q. No. 92 to 94 : Choose the correct preposition :,Submit your assignments _____ ten days of the announcement.,within,by,with in,before,,,,0,,,pdf_text,63,0,
+ADRE-2022-G4-P1-HSLC-Q094,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,94,Q. No. 92 to 94 : Choose the correct preposition :,No student or teacher should be _____ this famous reference book.,with,without,given,despite,,,,0,,,pdf_text,63,0,
+ADRE-2022-G4-P1-HSLC-Q095,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,95,Q. No. 95 to 96 : Choose the correct option :,"A number of vehicles travelling together under escort for the sake of safety is
+called",Regiment,Convoy,Escort,Cavalry,,,,0,,,pdf_text,63,0,
+ADRE-2022-G4-P1-HSLC-Q096,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,96,Q. No. 95 to 96 : Choose the correct option :,Love for one’s country is known as,Jingoism,Patriotism,Nationalism,Expatriate,,,,0,,,pdf_text,63,0,
+ADRE-2022-G4-P1-HSLC-Q097,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,97,Q. No. 97 to 98 : Fill in the blanks with correct options :,"A gifted scientist, Newton _____ some of the most fundamental laws in the
+history of science.",keeps discovering,who discovered,discovered,kept from discovering,,,,0,,,pdf_text,64,0,
+ADRE-2022-G4-P1-HSLC-Q098,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,98,Q. No. 97 to 98 : Fill in the blanks with correct options :,We are all worried about the _____ condition of the company.,monetary affair,financial,finance,monetary,,,,0,,,pdf_text,64,0,
+ADRE-2022-G4-P1-HSLC-Q099,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,99,,"Choose the correct order to complete the sentence :
 I. relationship between two or more
 II. people, places or things
 III. a relationship in space or time as a logical
-IV. prepositions are used to show","II, III, IV, I","II, IV, I, III","IV, III, I, II","IV, III, II, I",,,,,,,,,,0,,,64,,0,
-ADRE-2022-G4-P1-HSLC-Q100,ADRE,2022,IV,I,A,100,,A group of lions is called,Herd,Pride,Pack,Bunch,,,,,,,,,,0,,,64,,0,
-ADRE-2022-G4-P1-HSLC-Q101,ADRE,2022,IV,I,A,101,,"What would be the next to continue the series :
-PENTAGRAPH – ENTAGRAP – NTAGRA – ?",GRAT,TAGR,NTAG,AGRA,,,,,,,,,,0,,,65,65,0,
-ADRE-2022-G4-P1-HSLC-Q102,ADRE,2022,IV,I,A,102,,"Identify the incorrect term in the series :
-7 – 10 – 15 – 22 – 30 – 42 – 55",30,15,22,55,,,,,,,,,,0,,,66,65,0,
-ADRE-2022-G4-P1-HSLC-Q103,ADRE,2022,IV,I,A,103,,"Identify the incorrect term in the series :
-(2, 6, 24, 60, 120, 216)",216,120,24,0,,,,,,,,,,0,,,66,66,0,
-ADRE-2022-G4-P1-HSLC-Q104,ADRE,2022,IV,I,A,104,,"Consider the following steps –
+IV. prepositions are used to show","II, III, IV, I","II, IV, I, III","IV, III, I, II","IV, III, II, I",,,,0,,,pdf_text,64,0,
+ADRE-2022-G4-P1-HSLC-Q100,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,100,,A group of lions is called,Herd,Pride,Pack,Bunch,,,,0,,,pdf_text,64,0,
+ADRE-2022-G4-P1-HSLC-Q101,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,101,,"What would be the next to continue the series :
+PENTAGRAPH – ENTAGRAP – NTAGRA – ?",GRAT,TAGR,NTAG,AGRA,,,,0,,,pdf_text,65,0,
+ADRE-2022-G4-P1-HSLC-Q102,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,102,,"Identify the incorrect term in the series :
+7 – 10 – 15 – 22 – 30 – 42 – 55",30,15,22,55,,,,0,,,pdf_text,66,0,
+ADRE-2022-G4-P1-HSLC-Q103,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,103,,"Identify the incorrect term in the series :
+(2, 6, 24, 60, 120, 216)",216,120,24,0,,,,0,,,pdf_text,66,0,
+ADRE-2022-G4-P1-HSLC-Q104,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,104,,"Consider the following steps –
 Step 1 : Add 4.
 Step 2 : Subtract 1.
 Step 3 : If less than 15, jump to step 1 and continue from there ; otherwise
@@ -164,60 +165,60 @@ proceed to step 4.
 Step 4 : Add 3.
 Step 5 : If greater than 18, deduct 2.
 What would be the final result if the above steps are followed with the initial
-value of 2 ?",11,18,17,19,,,,,,,,,,1,drawing,exams/ADRE/2022/figures/G4-P1-HSLC/q104.png,68,67,0,
-ADRE-2022-G4-P1-HSLC-Q105,ADRE,2022,IV,I,A,105,,"Which of the following pairs is related in similar way as “New Delhi :
-Charminar” ?",Kolkata : Victoria Memorial,Chennai : Red Fort,Mumbai : Gateway of India,Agra : Taj Mahal,,,,,,,,,,0,,,69,68,0,
-ADRE-2022-G4-P1-HSLC-Q106,ADRE,2022,IV,I,A,106,,Which of the following pairs is NOT correct ?,Geology : Earth,Meteorology : Atmosphere,Zoology : Animals,Astrology : Space,,,,,,,,,,0,,,69,69,0,
-ADRE-2022-G4-P1-HSLC-Q107,ADRE,2022,IV,I,A,107,,Identify the term related to the military :,Camouflage,Carnage,Cabbage,Cartilage,,,,,,,,,,0,,,70,69,0,
-ADRE-2022-G4-P1-HSLC-Q108,ADRE,2022,IV,I,A,108,,Which of the given pairs has a similar relationship as “Engine : Vehicle” ?,Filament : Bulb,Thread : Needle,Cup : Plate,Ball : Bat,,,,,,,,,,0,,,70,70,0,
-ADRE-2022-G4-P1-HSLC-Q109,ADRE,2022,IV,I,A,109,,Identify the number that should not belong to the group.,1331,1728,3375,2788,,,,,,,,,,0,,,71,70,0,
-ADRE-2022-G4-P1-HSLC-Q110,ADRE,2022,IV,I,A,110,,Identify the word that is different from others.,SMILES,SPORTS,AGENDA,SPACES,,,,,,,,,,0,,,71,71,0,
-ADRE-2022-G4-P1-HSLC-Q111,ADRE,2022,IV,I,A,111,,"Introducing Geeta to Priya, Rajani says, “She is the daughter of the only son
-of my grandfather”. How is Geeta related to Rajani ?",Mother,Sister,Aunt,Niece,,,,,,,,,,0,,,72,71,0,
-ADRE-2022-G4-P1-HSLC-Q112,ADRE,2022,IV,I,A,112,,"If the number 4532986 is reversed, the digit that does not change its position,
-is",5,3,2,9,,,,,,,,,,0,,,72,72,0,
-ADRE-2022-G4-P1-HSLC-Q113,ADRE,2022,IV,I,A,113,,"Which of the following words contains both of the two middlemost letters of
-English alphabets ?",MAN,LAME,NOTE,KILN,,,,,,,,,,0,,,73,73,0,
-ADRE-2022-G4-P1-HSLC-Q114,ADRE,2022,IV,I,A,114,,"While coming down a staircase, Jignesh walks down 4 steps, up 3 steps,
+value of 2 ?",11,18,17,19,,,,1,drawing,exams/ADRE/2022/figures/G4-P1-HSLC/q104.png,pdf_text,68,0,
+ADRE-2022-G4-P1-HSLC-Q105,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,105,,"Which of the following pairs is related in similar way as “New Delhi :
+Charminar” ?",Kolkata : Victoria Memorial,Chennai : Red Fort,Mumbai : Gateway of India,Agra : Taj Mahal,,,,0,,,pdf_text,69,0,
+ADRE-2022-G4-P1-HSLC-Q106,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,106,,Which of the following pairs is NOT correct ?,Geology : Earth,Meteorology : Atmosphere,Zoology : Animals,Astrology : Space,,,,0,,,pdf_text,69,0,
+ADRE-2022-G4-P1-HSLC-Q107,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,107,,Identify the term related to the military :,Camouflage,Carnage,Cabbage,Cartilage,,,,0,,,pdf_text,70,0,
+ADRE-2022-G4-P1-HSLC-Q108,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,108,,Which of the given pairs has a similar relationship as “Engine : Vehicle” ?,Filament : Bulb,Thread : Needle,Cup : Plate,Ball : Bat,,,,0,,,pdf_text,70,0,
+ADRE-2022-G4-P1-HSLC-Q109,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,109,,Identify the number that should not belong to the group.,1331,1728,3375,2788,,,,0,,,pdf_text,71,0,
+ADRE-2022-G4-P1-HSLC-Q110,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,110,,Identify the word that is different from others.,SMILES,SPORTS,AGENDA,SPACES,,,,0,,,pdf_text,71,0,
+ADRE-2022-G4-P1-HSLC-Q111,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,111,,"Introducing Geeta to Priya, Rajani says, “She is the daughter of the only son
+of my grandfather”. How is Geeta related to Rajani ?",Mother,Sister,Aunt,Niece,,,,0,,,pdf_text,72,0,
+ADRE-2022-G4-P1-HSLC-Q112,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,112,,"If the number 4532986 is reversed, the digit that does not change its position,
+is",5,3,2,9,,,,0,,,pdf_text,72,0,
+ADRE-2022-G4-P1-HSLC-Q113,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,113,,"Which of the following words contains both of the two middlemost letters of
+English alphabets ?",MAN,LAME,NOTE,KILN,,,,0,,,pdf_text,73,0,
+ADRE-2022-G4-P1-HSLC-Q114,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,114,,"While coming down a staircase, Jignesh walks down 4 steps, up 3 steps,
 down 6 steps, up 2 steps, up 10 steps, and down 2 steps. Where is he
-standing in relation to the step on which he started his exercise ?",3 steps above,1 step above,The same place,3 steps below,,,,,,,,,,0,,,74,73,0,
-ADRE-2022-G4-P1-HSLC-Q115,ADRE,2022,IV,I,A,115,,Which of the following does not follow a rule set by others ?,MPRTV,PRTVX,CEGIK,OQSUW,,,,,,,,,,0,,,74,74,0,
-ADRE-2022-G4-P1-HSLC-Q116,ADRE,2022,IV,I,A,116,,"A + B means A is the mother of B. A – B means A is the brother of B. A @ B
+standing in relation to the step on which he started his exercise ?",3 steps above,1 step above,The same place,3 steps below,,,,0,,,pdf_text,74,0,
+ADRE-2022-G4-P1-HSLC-Q115,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,115,,Which of the following does not follow a rule set by others ?,MPRTV,PRTVX,CEGIK,OQSUW,,,,0,,,pdf_text,74,0,
+ADRE-2022-G4-P1-HSLC-Q116,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,116,,"A + B means A is the mother of B. A – B means A is the brother of B. A @ B
 means A is the father of B, and A × B means A is the sister of B. Which of the
-following alternatives shows that P is the maternal uncle of Q ?",Q – N + M × P,P + S × N – Q,P – M + N × Q,Q – S @ P,,,,,,,,,,0,,,75,74,0,
-ADRE-2022-G4-P1-HSLC-Q117,ADRE,2022,IV,I,A,117,,"In a bicycle race Mohit was leading the race with Kiran just behind. Reshma
+following alternatives shows that P is the maternal uncle of Q ?",Q – N + M × P,P + S × N – Q,P – M + N × Q,Q – S @ P,,,,0,,,pdf_text,75,0,
+ADRE-2022-G4-P1-HSLC-Q117,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,117,,"In a bicycle race Mohit was leading the race with Kiran just behind. Reshma
 was at the last position, but after some time overtakes Pinky. At the last
 bend, Pinky overtakes Kiran, exactly when Reshma overtakes Mohit to win
-the race. Who completed the race last ?",Mohit,Reshma,Kiran,Pinky,,,,,,,,,,0,,,76,75,0,
-ADRE-2022-G4-P1-HSLC-Q118,ADRE,2022,IV,I,A,118,,"How many 4’s are there in the given series which are immediately preceded
+the race. Who completed the race last ?",Mohit,Reshma,Kiran,Pinky,,,,0,,,pdf_text,76,0,
+ADRE-2022-G4-P1-HSLC-Q118,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,118,,"How many 4’s are there in the given series which are immediately preceded
 by an even number and immediately followed by a vowel ?
-6 4 D 5 3 4 I 3 B D 6 8 4 U 6 4 A M 1 5 4 E 9 G 3 1 6 K L B 2 4 O 5 4",5,2,0,3,,,,,,,,,,0,,,77,76,0,
-ADRE-2022-G4-P1-HSLC-Q119,ADRE,2022,IV,I,A,119,,"In the series : 36, 34, 30, 28, 24, …… which two numbers should come next ?","22, 18","26, 12","25, 15","20, 10",,,,,,,,,,0,,,77,77,0,
-ADRE-2022-G4-P1-HSLC-Q120,ADRE,2022,IV,I,A,120,,Identify the odd one in the following words :,Egypt,Angola,Uganda,Sudan,,,,,,,,,,0,,,78,77,0,
-ADRE-2022-G4-P1-HSLC-Q121,ADRE,2022,IV,I,A,121,,"Which number replaces the question mark (?) in the series : 12, 11, 13, 12,
-14, 13, ?, …",10,16,15,13,,,,,,,,,,0,,,78,78,0,
-ADRE-2022-G4-P1-HSLC-Q122,ADRE,2022,IV,I,A,122,,"If the words Parts and Strap are related in some ways, then which word
-should be similarly related to Wolf ?",Flow,Animal,Wood,Fox,,,,,,,,,,1,drawing,exams/ADRE/2022/figures/G4-P1-HSLC/q122.png,79,78,0,
-ADRE-2022-G4-P1-HSLC-Q123,ADRE,2022,IV,I,A,123,,"In a certain code, MILITARY is written as NIMIUASY. How will SEMINARY
-be written in the same code ?",RENIOASY,TENIOASY,TENIMASY,RENIMASY,,,,,,,,,,0,,,80,79,0,
-ADRE-2022-G4-P1-HSLC-Q124,ADRE,2022,IV,I,A,124,,Which of the following words does not belong to the same group ?,Ship,Motorboat,Train,Aircraft,,,,,,,,,,0,,,80,80,0,
-ADRE-2022-G4-P1-HSLC-Q125,ADRE,2022,IV,I,A,125,,Which of the following is unlike with the rest of the words ?,Hanger,Airport,Aeroplane,Aircraft,,,,,,,,,,0,,,81,80,0,
-ADRE-2022-G4-P1-HSLC-Q126,ADRE,2022,IV,I,A,126,,"Choose the possible number that would replace the question mark (?) in the
-pattern :",597,697,497,579,,,,,,,,,,1,image,exams/ADRE/2022/figures/G4-P1-HSLC/q126.png,82,81,0,
-ADRE-2022-G4-P1-HSLC-Q127,ADRE,2022,IV,I,A,127,,"Which of the following Venn Diagrams would represent Elephant,
-Carnivorous, Tiger ?",,,,,,,,,,,,,,1,image|option_images|text_mentions_visual,exams/ADRE/2022/figures/G4-P1-HSLC/q127.png,83,83,1,
-ADRE-2022-G4-P1-HSLC-Q128,ADRE,2022,IV,I,A,128,,Which of the figures is different from others ?,,,,,,,,,,,,,,1,image|option_images|text_mentions_visual,exams/ADRE/2022/figures/G4-P1-HSLC/q128.png,84,84,1,
-ADRE-2022-G4-P1-HSLC-Q129,ADRE,2022,IV,I,A,129,,"When the same Die is rolled twice, the outcome is as shown :
-The digit on the face opposite to 5 is",2,3,4,6,,,,,,,,,,1,image,exams/ADRE/2022/figures/G4-P1-HSLC/q129.png,85,85,0,
-ADRE-2022-G4-P1-HSLC-Q130,ADRE,2022,IV,I,A,130,,"In the figure, which component has the sum of the internal angles less than
-360 degrees ?",B,D,A,C,,,,,,,,,,1,image|text_mentions_visual,exams/ADRE/2022/figures/G4-P1-HSLC/q130.png,87,86,1,
-ADRE-2022-G4-P1-HSLC-Q131,ADRE,2022,IV,I,A,131,,Study the set of figures and find out the one which would replace “ ? ”,,,,,,,,,,,,,,1,image|option_images|text_mentions_visual,exams/ADRE/2022/figures/G4-P1-HSLC/q131.png,88,87,1,
-ADRE-2022-G4-P1-HSLC-Q132,ADRE,2022,IV,I,A,132,,Identify the figure different from others :,B,D,A,C,,,,,,,,,,1,image|text_mentions_visual,exams/ADRE/2022/figures/G4-P1-HSLC/q132.png,89,89,1,
-ADRE-2022-G4-P1-HSLC-Q133,ADRE,2022,IV,I,A,133,,"The mirror image of the figure marked as ‘X’ is :
+6 4 D 5 3 4 I 3 B D 6 8 4 U 6 4 A M 1 5 4 E 9 G 3 1 6 K L B 2 4 O 5 4",5,2,0,3,,,,0,,,pdf_text,77,0,
+ADRE-2022-G4-P1-HSLC-Q119,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,119,,"In the series : 36, 34, 30, 28, 24, …… which two numbers should come next ?","22, 18","26, 12","25, 15","20, 10",,,,0,,,pdf_text,77,0,
+ADRE-2022-G4-P1-HSLC-Q120,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,120,,Identify the odd one in the following words :,Egypt,Angola,Uganda,Sudan,,,,0,,,pdf_text,78,0,
+ADRE-2022-G4-P1-HSLC-Q121,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,121,,"Which number replaces the question mark (?) in the series : 12, 11, 13, 12,
+14, 13, ?, …",10,16,15,13,,,,0,,,pdf_text,78,0,
+ADRE-2022-G4-P1-HSLC-Q122,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,122,,"If the words Parts and Strap are related in some ways, then which word
+should be similarly related to Wolf ?",Flow,Animal,Wood,Fox,,,,1,drawing,exams/ADRE/2022/figures/G4-P1-HSLC/q122.png,pdf_text,79,0,
+ADRE-2022-G4-P1-HSLC-Q123,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,123,,"In a certain code, MILITARY is written as NIMIUASY. How will SEMINARY
+be written in the same code ?",RENIOASY,TENIOASY,TENIMASY,RENIMASY,,,,0,,,pdf_text,80,0,
+ADRE-2022-G4-P1-HSLC-Q124,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,124,,Which of the following words does not belong to the same group ?,Ship,Motorboat,Train,Aircraft,,,,0,,,pdf_text,80,0,
+ADRE-2022-G4-P1-HSLC-Q125,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,125,,Which of the following is unlike with the rest of the words ?,Hanger,Airport,Aeroplane,Aircraft,,,,0,,,pdf_text,81,0,
+ADRE-2022-G4-P1-HSLC-Q126,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,126,,"Choose the possible number that would replace the question mark (?) in the
+pattern :",597,697,497,579,,,,1,image,exams/ADRE/2022/figures/G4-P1-HSLC/q126.png,pdf_text,82,0,
+ADRE-2022-G4-P1-HSLC-Q127,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,127,,"Which of the following Venn Diagrams would represent Elephant,
+Carnivorous, Tiger ?",,,,,,,,1,image|option_images|text_mentions_visual,exams/ADRE/2022/figures/G4-P1-HSLC/q127.png,pdf_text,83,1,
+ADRE-2022-G4-P1-HSLC-Q128,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,128,,Which of the figures is different from others ?,,,,,,,,1,image|option_images|text_mentions_visual,exams/ADRE/2022/figures/G4-P1-HSLC/q128.png,pdf_text,84,1,
+ADRE-2022-G4-P1-HSLC-Q129,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,129,,"When the same Die is rolled twice, the outcome is as shown :
+The digit on the face opposite to 5 is",2,3,4,6,,,,1,image,exams/ADRE/2022/figures/G4-P1-HSLC/q129.png,pdf_text,85,0,
+ADRE-2022-G4-P1-HSLC-Q130,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,130,,"In the figure, which component has the sum of the internal angles less than
+360 degrees ?",B,D,A,C,,,,1,image|text_mentions_visual,exams/ADRE/2022/figures/G4-P1-HSLC/q130.png,pdf_text,87,1,
+ADRE-2022-G4-P1-HSLC-Q131,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,131,,Study the set of figures and find out the one which would replace “ ? ”,,,,,,,,1,image|option_images|text_mentions_visual,exams/ADRE/2022/figures/G4-P1-HSLC/q131.png,pdf_text,88,1,
+ADRE-2022-G4-P1-HSLC-Q132,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,132,,Identify the figure different from others :,B,D,A,C,,,,1,image|text_mentions_visual,exams/ADRE/2022/figures/G4-P1-HSLC/q132.png,pdf_text,89,1,
+ADRE-2022-G4-P1-HSLC-Q133,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,133,,"The mirror image of the figure marked as ‘X’ is :
 (X)
-(1)	(2)	(3)	(4)",(1),(2),(3),(4),,,,,,,,,,1,image|table_layout|text_mentions_visual,exams/ADRE/2022/figures/G4-P1-HSLC/q133.png,91,90,1,
-ADRE-2022-G4-P1-HSLC-Q134,ADRE,2022,IV,I,A,134,,"Identify how the pattern
+(1)	(2)	(3)	(4)",(1),(2),(3),(4),,,,1,image|table_layout|text_mentions_visual,exams/ADRE/2022/figures/G4-P1-HSLC/q133.png,pdf_text,91,1,
+ADRE-2022-G4-P1-HSLC-Q134,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,134,,"Identify how the pattern
 would appear when the transparent sheet is folded at the dotted line ?
-(1)	(2)	(3)	(4)",(1),(2),(3),(4),,,,,,,,,,1,image|table_layout,exams/ADRE/2022/figures/G4-P1-HSLC/q134.png,93,91,0,
-ADRE-2022-G4-P1-HSLC-Q135,ADRE,2022,IV,I,A,135,,"Identify the portion that completes the pattern :
-(1)	(2)	(3)	(4)",(1),(2),(3),(4),,,,,,,,,,1,image|table_layout,exams/ADRE/2022/figures/G4-P1-HSLC/q135.png,94,93,0,
+(1)	(2)	(3)	(4)",(1),(2),(3),(4),,,,1,image|table_layout,exams/ADRE/2022/figures/G4-P1-HSLC/q134.png,pdf_text,93,0,
+ADRE-2022-G4-P1-HSLC-Q135,ADRE,2022,G4-P1-HSLC,Grade IV Paper I: HSLC (Class X) passed,A,135,,"Identify the portion that completes the pattern :
+(1)	(2)	(3)	(4)",(1),(2),(3),(4),,,,1,image|table_layout,exams/ADRE/2022/figures/G4-P1-HSLC/q135.png,pdf_text,94,0,

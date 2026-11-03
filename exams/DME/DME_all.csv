@@ -1,0 +1,369 @@
+id,exam,year,paper_code,paper_title,booklet_set,q_no,context,question,option_a,option_b,option_c,option_d,answer,answer_note,answer_source,has_visual,visual_types,images,text_source,page,needs_review,review_notes
+DME-2025-G3-NonTechnical-Q001,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,1,,"Simplify :
+-3 2
+× +
+4 3 6",,→|∞ 2,-1 -1 4 (Y 3)4,"If21y5 is a multiple of 9, where y is a digit, what is the value of y? (AY 1",,,,1,option_images,exams/DME/2025/figures/G3-NonTechnical/q001.jpg,ocr,2,0,
+DME-2025-G3-NonTechnical-Q003,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,3,,"Find the values of the letters in the
+following :
+3 A
++ 2 5
+B 2
+A)A=6B=7
+BA=5B=6
+(C)A=7B=5 (C)A=7B=5
+A=7B=6
+Divide z(5z -80) by 5z(z+ 4 and find the
+answer from the options given below :",4-2,z-14,z-4,z+4,,,,1,figure_gap,exams/DME/2025/figures/G3-NonTechnical/q003.jpg,ocr,2,1,
+DME-2025-G3-NonTechnical-Q005,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,5,,"If the weight of 12 sheets of thick paper is
+40 grams, how many sheets of the same
+paper would weigh 2½/ kilograms?
+700	750
+800	850
+/2-B
+GET IT ON
+Gooe Play",,,,,,,,1,figure_gap|parse_failed|table_layout,exams/DME/2025/figures/G3-NonTechnical/q005_1.jpg|exams/DME/2025/figures/G3-NonTechnical/q005_2.jpg,ocr,2,1,could not locate options (A)-(D)
+DME-2025-G3-NonTechnical-Q006,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,6,,"What are the roots of the equation
+$2x^{2}-5x+3=0?",1 and 312,-1 and 312,(1 and 31,1 and 3,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q006.jpg,ocr,2,0,
+DME-2025-G3-NonTechnical-Q007,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,7,,"The 10th term of the arithmetic
+progression 2, 7, 12,.. is
+27	37
+47	)57",,,,,,,,1,parse_failed|table_layout,exams/DME/2025/figures/G3-NonTechnical/q007.jpg,ocr,2,1,could not locate options (A)-(D)
+DME-2025-G3-NonTechnical-Q008,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,8,,"A girl of height 90 cm is walking away
+from the base of a lamppost at a speed of
+1·2 m/s. If the lamp is 3'6 m above the
+ground, what will be the length of her
+shadow after 4 seconds?",1 m,1·2 m,1·4 m,1·6 m,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q008.jpg,ocr,2,0,
+DME-2025-G3-NonTechnical-Q009,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,9,,"Find the value of
+3-2
+3	9
+18	)27",,,,,,,,1,parse_failed|table_layout,exams/DME/2025/figures/G3-NonTechnical/q009.jpg,ocr,2,1,could not locate options (A)-(D)
+DME-2025-G3-NonTechnical-Q010,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,10,,"Find the height of a cuboid whose volume
+is 275 cm³ and base area is 25 cm2.
+25 cm	(22 cm
+11 cm	)27 cm
+Test Prime
+ALL EXAMS,
+ONE SUBSCRIPTION
+70,000+	Personalised	Unlimited
+Mock Tests	Report Card	Re-Attempt
+600+	Previous Year	500%
+Exam Covered	Papers	Refund
+©
+NABARD
+BR. INDIANAL
+ATTEMPT FREE MOCK NOW
+Lh2epp",,,,,,,,1,figure_gap|parse_failed|table_layout,exams/DME/2025/figures/G3-NonTechnical/q010_1.jpg|exams/DME/2025/figures/G3-NonTechnical/q010_2.jpg|exams/DME/2025/figures/G3-NonTechnical/q010_3.jpg,ocr,2,1,could not locate options (A)-(D)
+DME-2025-G3-NonTechnical-Q011,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,11,,"What is a black hole' in astronomy?
+A black object in our solar system
+A cosmic body of extremely intense
+gravity from which nothing, not even
+light, can escape
+A cosmic body with no gravitational
+pull
+black planet",,,,,,,,1,parse_failed,exams/DME/2025/figures/G3-NonTechnical/q011.jpg,ocr,4,1,could not locate options (A)-(D)
+DME-2025-G3-NonTechnical-Q012,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,12,,The earth rotates around its axis from,East to West,West to East,Northeast to Southwest,Southeast to Northwest,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q012.jpg,ocr,4,0,
+DME-2025-G3-NonTechnical-Q013,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,13,,"The Angami tribe is domicile of which
+Indian State?",Arunachal Pradesh,Tripura,Sikkim,Nagaland,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q013.jpg,ocr,4,0,
+DME-2025-G3-NonTechnical-Q014,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,14,,"On the bank of which river, the Greek
+Emperor Alexander the Great fought with
+King Porus?",Jhelum,Chenab,(9) Ravi,Beas,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q014.jpg,ocr,4,0,
+DME-2025-G3-NonTechnical-Q015,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,15,,"Which of the following plays was not
+written by Kalidasa?
+Abhijnanashakuntalam
+Vikramorvasiyam
+19) Svapnavasavadattam
+)Malavikagnimitram
+/2-B
+GET IT ON
+Gooe Play",,,,,,,,1,figure_gap|parse_failed,exams/DME/2025/figures/G3-NonTechnical/q015_1.jpg|exams/DME/2025/figures/G3-NonTechnical/q015_2.jpg,ocr,4,1,could not locate options (A)-(D)
+DME-2025-G3-NonTechnical-Q016,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,16,,"During whose rule was the Grand Trunk
+Road built?",Sher Shah Suri,Iltutmish,Alauddin Khalji,/ Muhammad bin-Tughluq,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q016.jpg,ocr,4,0,
+DME-2025-G3-NonTechnical-Q017,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,17,,"Where was the head office of Indian
+National Army or Azad Hind Fauz located?",Tokyo,Berlin,Rangoon,)Kuala Lumpur,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q017.jpg,ocr,4,0,
+DME-2025-G3-NonTechnical-Q018,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,18,,"What was the original name of Swami
+Vivekananda?",Bankim Chandra Chattapadhyay,Narendranath Datta,Chittaranjan Das,Rash Behari Bose,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q018.jpg,ocr,4,0,
+DME-2025-G3-NonTechnical-Q019,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,19,,"Dandi March was led by
+Mahatma Gandhi
+PanditJawaharlal Nehru
+Madan Mohan Malaviya
+Bal Gangadhar Tilak",,,,,,,,1,parse_failed,exams/DME/2025/figures/G3-NonTechnical/q019.jpg,ocr,4,1,could not locate options (A)-(D)
+DME-2025-G3-NonTechnical-Q020,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,20,,"Which of the following is the classical
+dance of Andhra Pradesh?",Kathakali,Bharatanatyam,Mohiniyattam,Kuchipudi 4 [ Contd. Lh2eppA,,,,1,figure_gap,exams/DME/2025/figures/G3-NonTechnical/q020_1.jpg|exams/DME/2025/figures/G3-NonTechnical/q020_2.jpg,ocr,4,1,
+DME-2025-G3-NonTechnical-Q021,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,21,,"Who among the following is known as the
+Father of the Indian Constitution?
+B. N. Rao
+Alladi Krishnaswami Ayyar
+Dr. B. R. Ambedkar
+Maulana Abul Kalam Azad",,,,,,,,1,parse_failed,exams/DME/2025/figures/G3-NonTechnical/q021.jpg,ocr,5,1,could not locate options (A)-(D)
+DME-2025-G3-NonTechnical-Q022,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,22,,"The Chief Justice of a High Court is
+appointed by",the President of India,the Chief Justice of the Supreme Court of India,the Prime Minister's Office,the Governor of the concerned State,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q022.jpg,ocr,5,0,
+DME-2025-G3-NonTechnical-Q023,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,23,,"Which of the following is an indigenously
+built light combat aircraft of India?",Akash,Gnat,Mirage,)Tejas,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q023.jpg,ocr,5,0,
+DME-2025-G3-NonTechnical-Q024,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,24,,What is the full form of DRDO?,Defence Research and Delivery Organization,Development Research and Defence Organization,Defence Research and Development Organization,Defence Research andDelivery Observatory,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q024.jpg,ocr,5,0,
+DME-2025-G3-NonTechnical-Q025,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,25,,"Which was the first artificial satellite to be
+sent to the space by any country?
+Pioneer
+Luna I
+C Apollo I
+)Sputnik I
+12-B	5
+GET IT ON
+Gooe Play",,,,,,,,1,figure_gap|parse_failed|table_layout,exams/DME/2025/figures/G3-NonTechnical/q025_1.jpg|exams/DME/2025/figures/G3-NonTechnical/q025_2.jpg,ocr,5,1,could not locate options (A)-(D)
+DME-2025-G3-NonTechnical-Q026,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,26,,"Who was the first Indian woman to scale
+Mount Everest?
+Premlata Agarwal",,Arunima Sinha,Bachendri Pal,Shivangi Pathak,,,,1,option_images,exams/DME/2025/figures/G3-NonTechnical/q026.jpg,ocr,5,0,
+DME-2025-G3-NonTechnical-Q027,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,27,,When is the World AIDS Day' observed?,2nd November,1st December,16th September,11th December,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q027.jpg,ocr,5,0,
+DME-2025-G3-NonTechnical-Q028,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,28,,"The French Open is the tournament
+played for which of the following sports?",Volleyball (Hockey Won (8 Yen,Lawn tennis Badminton 29 What is the capital of Pakistan? Yuan Dollar Lheepp,Rawalpindi,Islamabad Lahore)Karachi 3What is the official currency of Japan?,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q028_1.jpg|exams/DME/2025/figures/G3-NonTechnical/q028_2.jpg,ocr,5,0,
+DME-2025-G3-NonTechnical-Q031,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,31,,"The process of conversion of sugar to
+called
+biodegradation
+decomposition
+fermentation
+phosphorylation",,,,,,,,1,parse_failed,exams/DME/2025/figures/G3-NonTechnical/q031.jpg,ocr,6,1,could not locate options (A)-(D)
+DME-2025-G3-NonTechnical-Q032,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,32,,"What does our body produce to fight the
+invader when a disease-causing microbe
+enters our body?",Antigen,y Antibody,Albumin,Antibiotic,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q032.jpg,ocr,6,0,
+DME-2025-G3-NonTechnical-Q033,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,33,,"Microbial diseases that can spread from
+an infected person to a healthy person
+through air, water, food or physical
+contact are called
+A communicable diseases
+non-communicable diseases
+autoimmune diseases
+(D)None of the above",,,,,,,,1,parse_failed,exams/DME/2025/figures/G3-NonTechnical/q033.jpg,ocr,6,1,could not locate options (A)-(D)
+DME-2025-G3-NonTechnical-Q034,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,34,,"Which of the following materials is
+non-biodegradable?",Paper,Cloth,Wood,)Plastic bags,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q034.jpg,ocr,6,0,
+DME-2025-G3-NonTechnical-Q035,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,35,,"The property of metals by which they can
+be beaten into thin sheets is called",malleability,ductility,conductivity,elasticity /2-B GET IT ON Goe Play,,,,1,figure_gap,exams/DME/2025/figures/G3-NonTechnical/q035_1.jpg|exams/DME/2025/figures/G3-NonTechnical/q035_2.jpg,ocr,6,1,
+DME-2025-G3-NonTechnical-Q036,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,36,,"The green coloured plastids present in
+leaves of plants is called",golgi body,chloroplast,chlorophyll,)lysosome,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q036.jpg,ocr,6,0,
+DME-2025-G3-NonTechnical-Q037,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,37,,"Fallopian tubes are the parts of which of
+the following?",Flowers,Kidneys,Female reproductive system,Male reproductive system,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q037.jpg,ocr,6,0,
+DME-2025-G3-NonTechnical-Q038,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,38,,"When two or more reactants react with
+each other to form a single product, it is
+called",oxidation reaction,Breduction reaction,decomposition reaction,combination reaction,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q038.jpg,ocr,6,0,
+DME-2025-G3-NonTechnical-Q039,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,39,,"Carbon compounds having double or
+triple bonds between the carbon atoms
+are known as",saturated carbon compounds,unsaturated carbon compounds,halothanes,alkanes,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q039.jpg,ocr,6,0,
+DME-2025-G3-NonTechnical-Q040,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,40,,"Waste products produced by our body
+during metabolism and carried by blood
+are excreted through",the kidneys the spleen,the gonads,)the stomach,6 [ Contd. Lh2eppA,,,,1,figure_gap,exams/DME/2025/figures/G3-NonTechnical/q040_1.jpg|exams/DME/2025/figures/G3-NonTechnical/q040_2.jpg,ocr,6,1,
+DME-2025-G3-NonTechnical-Q041,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,41,,What is the past tense of 'speak?,Spoken,Spoke,Spoked,Spook,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q041.jpg,ocr,7,0,
+DME-2025-G3-NonTechnical-Q042,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,42,,"Fill in the blank with correct pronoun :
+""The presents are for you and",me,(BI,(CY she,they,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q042.jpg,ocr,7,0,
+DME-2025-G3-NonTechnical-Q043,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,43,,"Fill in the blank with correct preposition :
+She sat _ the fire and told me a tale.""
+A in
+after
+into
+by",,,,,,,,1,parse_failed,exams/DME/2025/figures/G3-NonTechnical/q043.jpg,ocr,7,1,could not locate options (A)-(D)
+DME-2025-G3-NonTechnical-Q044,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,44,,A person who eats human flesh is called,parasite ever,cannibal never,iconoclast always forever /2-B GET IT ON Gooe Play,drover 45. Complete the proverb with the correct word given below : Better late than,,,,1,figure_gap,exams/DME/2025/figures/G3-NonTechnical/q044_1.jpg|exams/DME/2025/figures/G3-NonTechnical/q044_2.jpg,ocr,7,1,
+DME-2025-G3-NonTechnical-Q046,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,46,,Which of the following is correct?,A hedge of flowers,A shoal of flowers,A bouquet of flowers,()A pride of flowers,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q046.jpg,ocr,7,0,
+DME-2025-G3-NonTechnical-Q047,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,47,,What is the synonym of fraternity?,Brotherhood,Neighbourhood,Friendship,Consulate,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q047.jpg,ocr,7,0,
+DME-2025-G3-NonTechnical-Q048,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,48,,What is the opposite gender of widow?,Bachelor,Spinster,Maiden,Widower,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q048.jpg,ocr,7,0,
+DME-2025-G3-NonTechnical-Q049,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,49,,What is the superlative of modern?,Modernist,Most modern,Moderate,None of the above,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q049.jpg,ocr,7,0,
+DME-2025-G3-NonTechnical-Q050,DME,2025,G3-NonTechnical,"DME Assam Grade III (Non-Technical) written test, held 30-03-2025",,50,,What is the antonym of best?,Worse,Bad,(9) Worst,Poor,,,,0,,exams/DME/2025/figures/G3-NonTechnical/q050.jpg,ocr,7,0,
+DME-2025-G3-Technical-Q001,DME,2025,G3-Technical,"DME Assam Grade III (Technical) written test, held 12-01-2025",,1,,"What type of noun the word 'bravery'
+is in the sentence—""The soldiers were
+rewarded for their bravery""?",Common noun,Proper noun,Pronoun,Abstract noun,,,,0,,exams/DME/2025/figures/G3-Technical/q001.jpg,ocr,2,0,
+DME-2025-G3-Technical-Q002,DME,2025,G3-Technical,"DME Assam Grade III (Technical) written test, held 12-01-2025",,2,,What is a female dog called?,Nanny,Bitch,Doe,Filly,,,,0,,exams/DME/2025/figures/G3-Technical/q002.jpg,ocr,2,0,
+DME-2025-G3-Technical-Q003,DME,2025,G3-Technical,"DME Assam Grade III (Technical) written test, held 12-01-2025",,3,,"A person whose job is to cut men's hair
+is called",butcher,dresser,barber,curator,,,,0,,exams/DME/2025/figures/G3-Technical/q003.jpg,ocr,2,0,
+DME-2025-G3-Technical-Q004,DME,2025,G3-Technical,"DME Assam Grade III (Technical) written test, held 12-01-2025",,4,,Which of the following is not correct?,Thirteen,Fourteen,Forty,Ninty,,,,0,,exams/DME/2025/figures/G3-Technical/q004.jpg,ocr,2,0,
+DME-2025-G3-Technical-Q005,DME,2025,G3-Technical,"DME Assam Grade III (Technical) written test, held 12-01-2025",,5,,"Choose the correct idiom from below to
+fill in the blank :
+The rebels their arms.""",laid out,laid up,laid by,laid down D3T/A/DME/2024/1-B 3 FRESHERS NOW,,,,0,,exams/DME/2025/figures/G3-Technical/q005_1.jpg|exams/DME/2025/figures/G3-Technical/q005_2.jpg,ocr,2,0,
+DME-2025-G3-Technical-Q006,DME,2025,G3-Technical,"DME Assam Grade III (Technical) written test, held 12-01-2025",,6,,"Choose the correct option from below to
+complete the English proverb :
+""Beauty is in the eyes of the n",beautiful,beholder,stranger,believer,,,,0,,exams/DME/2025/figures/G3-Technical/q006.jpg,ocr,2,0,
+DME-2025-G3-Technical-Q007,DME,2025,G3-Technical,"DME Assam Grade III (Technical) written test, held 12-01-2025",,7,,What is the antonym of bitter?,Brutal,Intense,Sweet,Harsh,,,,0,,exams/DME/2025/figures/G3-Technical/q007.jpg,ocr,2,0,
+DME-2025-G3-Technical-Q008,DME,2025,G3-Technical,"DME Assam Grade III (Technical) written test, held 12-01-2025",,8,,What is a group of sheep called?,Swarm,"Pride,",Fleet,Flock,,,,0,,exams/DME/2025/figures/G3-Technical/q008.jpg,ocr,2,0,
+DME-2025-G3-Technical-Q009,DME,2025,G3-Technical,"DME Assam Grade III (Technical) written test, held 12-01-2025",,9,,What is the meaning of 'decipher?,Derive,Deride,Design,Decode,,,,0,,exams/DME/2025/figures/G3-Technical/q009.jpg,ocr,2,0,
+DME-2025-G3-Technical-Q010,DME,2025,G3-Technical,"DME Assam Grade III (Technical) written test, held 12-01-2025",,10,,What is the diminutive form of 'river?,Rivulet,Riverine,Reverie,Rivset www.freshersnow.com FRESHERS NOW,,,,1,figure_gap,exams/DME/2025/figures/G3-Technical/q010_1.jpg|exams/DME/2025/figures/G3-Technical/q010_2.jpg,ocr,2,1,
+DME-2025-G3-Technical-Q011,DME,2025,G3-Technical,"DME Assam Grade III (Technical) written test, held 12-01-2025",,11,,"What is the result of the expression	16. What is the common difference in the
+3 -6 -8 5	arithmetic progression
++ + + ?
+11 21 22	1 5
+9 13
+3 3 3,….?
+125	-25
+[∀] 462	(B)",4 62,2 -125 25,"462 2/0 4/0,",62,,,,1,table_layout,exams/DME/2025/figures/G3-Technical/q011.jpg,ocr,3,0,
+DME-2025-G3-Technical-Q012,DME,2025,G3-Technical,"DME Assam Grade III (Technical) written test, held 12-01-2025",,12,,"20 students of Class X took part in
+a Mathematics quiz. If the number of	1 +tan^{2A
+girls is 14 more than the number of	17.	=?.
+boys, then what is the number of boys	1+cot{2 A
+who took part in the quiz?	sec2A
+[A]. 3	-1
+4
+6	cot²2A	tan{2 A
+7",,,,,,,,1,parse_failed|table_layout,exams/DME/2025/figures/G3-Technical/q012.jpg,ocr,3,1,could not locate options (A)-(D)
+DME-2025-G3-Technical-Q013,DME,2025,G3-Technical,"DME Assam Grade III (Technical) written test, held 12-01-2025",,13,,"The perimeter of a rectangular garden,	18. In a triangle, two of its angles are 70°
+whose length is 4m more than its	and 30°. What is the measure of its
+width, is 72 m. What is the length of	third angle?
+the garden?	10°
+.[B 80°
+16 m	32 m	40°
+40 m	60°
+20 m",,,,,,,,1,parse_failed|table_layout,exams/DME/2025/figures/G3-Technical/q013.jpg,ocr,3,1,could not locate options (A)-(D)
+DME-2025-G3-Technical-Q014,DME,2025,G3-Technical,"DME Assam Grade III (Technical) written test, held 12-01-2025",,14,,"19. What is the square root of 12·25?
+Solve the following pair of linear	(A) 4·25
+equations :	(B) 2·25
+2x+y=23	(C) 6. 5	[D3.5
+x-y= 4
+(A) x=10,y= 4	20. A tangent PQ at a point P of a circle
+(B) x= 10,y= 6	of radius 5 cm meets a line through
+[C], x = 9, y= 5	the centre O at a point Q so that
+OQ = 12 cm. What is the length of PQ?
+(D) x= 6,y=2	P
+15. Find the roots of the quadratic equation	Q
+$2x^{2}-5+3= 0
+(A) 12 cm
+(A) -1 and 2/3 (B) 1 and
+3/2	(B) 13 cm
+(C) -1 and 3I2	(C) 8·5 cm
+(D) 1 and -2
+3	(D) $√sq11cm
+D3T/A/DME/2024/1-B
+www.freshersnow.com
+21. Which one of the following is the largest.
+continent of the world?
+(A) Asia
+(B) Europe
+(C) Africa
+(D) North America
+22. What is the old name of Guwahati?
+[A.] Kamrup
+(B) Kamatapur
+[C]. Pragiyotishpur
+(D) Narakachal
+23. Who among the following American
+astronauts is now stranded in space
+due to technical problem?
+(A) Sally Ride
+(B) Peggy Whitson
+(C) Sunita Williams
+(D) Eileen Collins
+24. Where will the next Summer Olympic
+Games going to be held in 2028?
+(A) Brisbane
+(B) Los Angeles
+(C) New Delhi,
+(D) London
+25. Who wrote the book, Freedom at
+Midnight?
+(A) Pandit Jawaharlal Nehru
+(B) Ruskin Bond
+(C) Tom Franklin and Beth Ann
+Fennelly
+(D) Dominique Lapierre and Larry
+Collins
+D3T/A/DME/2024/1-B	5
+FRESHERS NOW
+26. Who was the last King of Ahom
+Kingdom in Assam?
+(A) Pramatta Singha
+(B) Chandrakanta Singha
+[C], Chakradhwaj Singha
+(D) Purandar Singha
+27. What is the full form of LPG?
+(A) Luminant Petroleum Gas
+[B]. Liquefied Petroleum Gas
+(C) Liquidated Petrol Gas
+(D) Liquefied Propylene Gas
+28. Who is the ex-officio Chairperson of the
+Rajya Sabha?
+(A) Lok Sabha Speaker
+(B) Leader of the House.
+(C) Vice President of India
+(D) Seniormost member of Rajya
+Sabha
+29. How many spokes are there in the
+Ashoka Chakra?
+(A) 24.
+(B) 20
+(C) 12
+(D) 40
+30. Where is the Headquarters of the
+UNESCO located?
+(A) Paris
+(B), New York
+(C) Geneva
+(D) Zurich
+www.freshersnow.com
+FRESHERS NOW
+Malaria is caused by a type of
+[A]. bacteria
+(B) virus	leaves of green plants is essential for
+(C) protozoa	(A) respiration
+(D) fungus	(B) osmosis
+(C) photosynthesis
+32. Which of metal? of the following is not a property	(D) transportation of minerals
+(A) Malleable	37. The animals which give birth to young
+(B) Lustrous	ones directly are called
+(C) Ductile	(A) nulliparous animals
+(D) Non-sonorous	(B) viviparous animals
+(C) oviparous animals
+33. Which of the following is a fossil fuel?	(D) multiparous animals
+(A) Cow dung
+(B) Coal	38. A force can change
+(C) Firewood	(A) the mass of an object
+(D) Beeswax	(B) the inertia of an object
+(C) time period
+34. Which of the following is the male	(D) the state of motion
+reproductive part of flower?
+(A) Petal	39. Sound needs _ for propagation.
+(B) Sepal,	(A) a medium
+(C) Stamen	(B) a vacuum'
+(D) Pistil	(C) a force
+35. Nucleolus is found in which part of	(D) heat energy
+a cell?
+(A) Nucleus '	Angle of incidence of light on a mirror is
+always equal to the
+(B) Cytoplasm
+(A) angle of refraction
+(C) Cell membrane	(B) angle of reflection
+(D) Mitochondria	(C) angle of total reflection
+(D) critical angle
+D3T/A/DME/2024/1-B
+www.freshersnow.com
+41. Which of the following is a green-
+house gas?
+(A) Oxygen
+(B) Nitrogen
+(C). Carbon dioxide
+(D) Helium
+42. Diamond is a form of
+(A) silicon
+(B), carbon
+(C) gold
+(D) platinum
+43. When hydrochloric acid reacts with
+the alkali sodium hydroxide, which of
+the following is produced?
+(A) Hydrogen gas
+(B) Sodium peroxide
+[C]/Sodium chloride
+(D) Sodium bicarbonate
+44. Which of the following hormones
+reduces blood sugar in our body?
+(A) Thyroxine
+(B) Cortisol
+(C) Testosterone
+[D]Insulin
+45. How many chambers are there in a
+human heart?
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+D3T/A/DME/2024/1-B	7
+FRESHERS NOW
+46. What is the name of the disease caused
+by rabies virus?
+(A) Hydrophobia
+(B) Poliomyelitis
+(C) Chikungunya
+(D) Dengue
+47. Which of the following is a ductless
+gland?","Salivary gland digestive system [B], excretory system beriberi scurvy Hypertension",Liver Cancer,Pituitary gland immune system rickets Diabetes mellitus [D]Measles www.freshersnow.com,Mammary gland 48. Kidney is a part of None of the above 49. The deficiency of vitamin C in our body causes haemophilia 50. Which of the following is a communicable disease?,,,,1,figure_gap|table_layout,exams/DME/2025/figures/G3-Technical/q014_1.jpg|exams/DME/2025/figures/G3-Technical/q014_2.jpg|exams/DME/2025/figures/G3-Technical/q014_3.jpg|exams/DME/2025/figures/G3-Technical/q014_4.jpg|exams/DME/2025/figures/G3-Technical/q014_5.jpg|exams/DME/2025/figures/G3-Technical/q014_6.jpg,ocr,3,1,

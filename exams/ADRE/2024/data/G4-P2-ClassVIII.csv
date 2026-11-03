@@ -1,205 +1,205 @@
-id,exam,year,grade,paper,booklet_set,q_no,context_en,question_en,option_a_en,option_b_en,option_c_en,option_d_en,context_as,question_as,option_a_as,option_b_as,option_c_as,option_d_as,answer,answer_note,answer_source,has_visual,visual_types,images,page_en,page_as,needs_review,review_notes
-ADRE-2024-G4-P2-ClassVIII-Q001,ADRE,2024,IV,II,A,1,,"Which of the following countries does Brazil not share international boundary
-with?",Chile,Argentina,Paraguay,Peru,,,,,,,A,,official_final_key,0,,,6,6,0,
-ADRE-2024-G4-P2-ClassVIII-Q002,ADRE,2024,IV,II,A,2,,Who is considered as ‘the father of zero’ ?,Chitragupta,Brahmadutta,Varahamihira,Aryabhatta,,,,,,,D,,official_final_key,0,,,6,6,0,
-ADRE-2024-G4-P2-ClassVIII-Q003,ADRE,2024,IV,II,A,3,,Between which two major water bodies does the Suez Canal lie?,Mediterranean Sea and Atlantic Ocean,Atlantic Ocean and Pacific Ocean,Mediterranean Sea and Red Sea,Arabian Sea and Bay of Bengal,,,,,,,C,,official_final_key,0,,,7,7,0,
-ADRE-2024-G4-P2-ClassVIII-Q004,ADRE,2024,IV,II,A,4,,The Ajan Peer Dargah is located in which district of Assam?,Dhemaji,Sivasagar,Jorhat,Dibrugarh,,,,,,,B,,official_final_key,0,,,7,7,0,
-ADRE-2024-G4-P2-ClassVIII-Q005,ADRE,2024,IV,II,A,5,,Who discovered Penicillin?,Edward Jenner,Alexander Fleming,Louis Pasteur,Isaac Newton,,,,,,,B,,official_final_key,0,,,8,8,0,
-ADRE-2024-G4-P2-ClassVIII-Q006,ADRE,2024,IV,II,A,6,,"As on January 1, 2024, who is the Chairman and Managing Director of the
-Reliance Group?",Dhirubhai Ambani,Anil Ambani,Akash Ambani,Mukesh Ambani,,,,,,,D,,official_final_key,0,,,8,8,0,
-ADRE-2024-G4-P2-ClassVIII-Q007,ADRE,2024,IV,II,A,7,,The 2024 Summer Olympics was held in,Tokyo,London,Paris,Seoul,,,,,,,C,,official_final_key,0,,,9,9,0,
-ADRE-2024-G4-P2-ClassVIII-Q008,ADRE,2024,IV,II,A,8,,By which community of Assam is the Tusu Puja celebrated?,Tai-Ahom,Sonowal Kachari,Tea garden community,Karbi,,,,,,,C,,official_final_key,0,,,9,9,0,
-ADRE-2024-G4-P2-ClassVIII-Q009,ADRE,2024,IV,II,A,9,,Arjuna Award is awarded for excellence in,sports,cinema,literature,tribal art,,,,,,,A,,official_final_key,0,,,10,10,0,
-ADRE-2024-G4-P2-ClassVIII-Q010,ADRE,2024,IV,II,A,10,,Leonardo da Vinci was from which country?,France,Germany,England,Italy,,,,,,,D,,official_final_key,0,,,10,10,0,
-ADRE-2024-G4-P2-ClassVIII-Q011,ADRE,2024,IV,II,A,11,,Which of the following is a hill district of Assam?,Cachar,Dima Hasao,Karimganj,Golaghat,,,,,,,B,,official_final_key,0,,,11,11,0,
-ADRE-2024-G4-P2-ClassVIII-Q012,ADRE,2024,IV,II,A,12,,Who is known as the ‘Iron Man of India’ ?,Mahatma Gandhi,Sardar Vallabhbhai Patel,Ishwar Chandra Vidyasagar,Radha Govinda Baruah,,,,,,,B,,official_final_key,0,,,11,11,0,
-ADRE-2024-G4-P2-ClassVIII-Q013,ADRE,2024,IV,II,A,13,,How many spokes are there in the Chakra of our National Flag?,24,36,18,32,,,,,,,A,,official_final_key,0,,,12,12,0,
-ADRE-2024-G4-P2-ClassVIII-Q014,ADRE,2024,IV,II,A,14,,Who is presently the Supreme Commander of the Defence Forces of India?,Narendra Modi,Rajnath Singh,Droupadi Murmu,Anil Chauhan,,,,,,,C,,official_final_key,0,,,12,12,0,
-ADRE-2024-G4-P2-ClassVIII-Q015,ADRE,2024,IV,II,A,15,,"As on 1st of January, 2024, which two countries are at war?",Israel and Saudi Arabia,Russia and Ukraine,India and Pakistan,North Korea and Vietnam,,,,,,,B,,official_final_key,0,,,13,13,0,
-ADRE-2024-G4-P2-ClassVIII-Q016,ADRE,2024,IV,II,A,16,,Which of the following countries has ‘Ngultrum’ as its currency?,Myanmar,Indonesia,Bhutan,Vietnam,,,,,,,C,,official_final_key,0,,,13,13,0,
-ADRE-2024-G4-P2-ClassVIII-Q017,ADRE,2024,IV,II,A,17,,In which sport did Lovlina Borgohain win an Olympic medal?,Wrestling,Judo,Taekwondo,Boxing,,,,,,,D,,official_final_key,0,,,14,14,0,
-ADRE-2024-G4-P2-ClassVIII-Q018,ADRE,2024,IV,II,A,18,,The poem collection Xugondhi Pokhila was written by,Nabakanta Baruah,Hiren Bhattacharyya,Nirmal Prabha Bordoloi,Nalinidhar Bhattacharyya,,,,,,,B,,official_final_key,0,,,14,14,0,
-ADRE-2024-G4-P2-ClassVIII-Q019,ADRE,2024,IV,II,A,19,,Which sport is the term ‘Ring’ associated with?,Boxing,Football,Swimming,Volleyball,,,,,,,A,,official_final_key,0,,,15,15,0,
-ADRE-2024-G4-P2-ClassVIII-Q020,ADRE,2024,IV,II,A,20,,Which of the following movies was not made by Bhabendra Nath Saikia?,Krishnachura,Agnisnaan,Kolahal,Sandhya Raag,,,,,,,A,,official_final_key,0,,,15,15,0,
-ADRE-2024-G4-P2-ClassVIII-Q021,ADRE,2024,IV,II,A,21,,"As on December 31, 2023, which of the following was the highest denomination
-currency note of India?","₹2,000","₹1,000","₹20,000","₹5,000",,,,,,,A,,official_final_key,0,,,16,16,0,
-ADRE-2024-G4-P2-ClassVIII-Q022,ADRE,2024,IV,II,A,22,,‘Dokhona’ is the traditional dress for women of which community?,Tiwa,Khamti,Muttock,Bodo,,,,,,,D,,official_final_key,0,,,17,17,0,
-ADRE-2024-G4-P2-ClassVIII-Q023,ADRE,2024,IV,II,A,23,,Maniram Dewan was involved in which of the following?,Peasants Uprising of Patharughat,Phulaguri Dhewa,1857 Rebellion,Quit India Movement,,,,,,,C,,official_final_key,0,,,17,17,0,
-ADRE-2024-G4-P2-ClassVIII-Q024,ADRE,2024,IV,II,A,24,,Name the State in which the Thar Desert is located.,Punjab,Haryana,Rajasthan,Maharashtra,,,,,,,C,,official_final_key,0,,,18,18,0,
-ADRE-2024-G4-P2-ClassVIII-Q025,ADRE,2024,IV,II,A,25,,"Looking from Assam, in which general direction is New Delhi located?",North-East,West,South-West,South,,,,,,,B,,official_final_key,0,,,18,18,0,
-ADRE-2024-G4-P2-ClassVIII-Q026,ADRE,2024,IV,II,A,26,,"“A person who sets up a business, taking on financial risk in the hope of profit”
-is termed as",capitalist,entrepreneur,businessman,investor,,,,,,,B,,official_final_key,0,,,19,19,0,
-ADRE-2024-G4-P2-ClassVIII-Q027,ADRE,2024,IV,II,A,27,,Which of the following rivers flows from South to North?,Subansiri,Manas,Kopili,Ranganadi,,,,,,,C,,official_final_key,0,,,19,19,0,
-ADRE-2024-G4-P2-ClassVIII-Q028,ADRE,2024,IV,II,A,28,,The Assamese food item ‘Hurum’ is prepared from,Tal jaggery,betel leaves,bamboo shoots,Bora rice,,,,,,,D,,official_final_key,0,,,20,20,0,
-ADRE-2024-G4-P2-ClassVIII-Q029,ADRE,2024,IV,II,A,29,,A distinguishing characteristic of trade at Jonbeel Mela is,only banana is traded,women are not permitted,buffalo fight,barter system,,,,,,,D,,official_final_key,0,,,20,20,0,
-ADRE-2024-G4-P2-ClassVIII-Q030,ADRE,2024,IV,II,A,30,,Dhokla and Fafda are traditional snacks of which State?,Rajasthan,Punjab,Gujarat,Goa,,,,,,,C,,official_final_key,0,,,21,21,0,
-ADRE-2024-G4-P2-ClassVIII-Q031,ADRE,2024,IV,II,A,31,,Which of the following is the Lower House of the Parliament of India?,Vidhan Sabha,Rajya Sabha,Lok Sabha,Vidhan Parishad,,,,,,,C,,official_final_key,0,,,21,21,0,
-ADRE-2024-G4-P2-ClassVIII-Q032,ADRE,2024,IV,II,A,32,,Which of the following States is known to have highest coal reserves?,Jharkhand,Maharashtra,Karnataka,Mizoram,,,,,,,A,,official_final_key,0,,,22,22,0,
-ADRE-2024-G4-P2-ClassVIII-Q033,ADRE,2024,IV,II,A,33,,Maibong was the capital of which kingdom?,Koch Kingdom,Dimasa Kingdom,Chutiya Kingdom,Kamata Kingdom,,,,,,,B,,official_final_key,0,,,22,22,0,
-ADRE-2024-G4-P2-ClassVIII-Q034,ADRE,2024,IV,II,A,34,,Dandi Yatra was a part of the,Quit India Movement,Non-Cooperation Movement,Civil Disobedience Movement,Purna Swaraj,,,,,,,C,,official_final_key,0,,,23,23,0,
-ADRE-2024-G4-P2-ClassVIII-Q035,ADRE,2024,IV,II,A,35,,Which of the following is not the name of a district of Assam?,West Goalpara,Kamrup Metropolitan,South Salmara-Mankachar,West Karbi Anglong,,,,,,,A,,official_final_key,0,,,23,23,0,
-ADRE-2024-G4-P2-ClassVIII-Q036,ADRE,2024,IV,II,A,36,,Which State lies towards the North of Assam?,Arunachal Pradesh,Meghalaya,Sikkim,Nagaland,,,,,,,A,,official_final_key,0,,,24,24,0,
-ADRE-2024-G4-P2-ClassVIII-Q037,ADRE,2024,IV,II,A,37,,Which of the following is not a Fundamental Right?,Right to equality,Right to freedom,Right to digital information,Right to constitutional remedies,,,,,,,C,,official_final_key,0,,,24,24,0,
-ADRE-2024-G4-P2-ClassVIII-Q038,ADRE,2024,IV,II,A,38,,Which is the capital city of the United States of America?,New York,"Washington, DC",Chicago,San Francisco,,,,,,,B,,official_final_key,0,,,25,25,0,
-ADRE-2024-G4-P2-ClassVIII-Q039,ADRE,2024,IV,II,A,39,,Who composed the poem Korotolo Komolo?,Nilamoni Phukan,Mahapurush Madhavdev,Srimanta Sankardev,Nabakanta Baruah,,,,,,,C,,official_final_key,0,,,25,25,0,
-ADRE-2024-G4-P2-ClassVIII-Q040,ADRE,2024,IV,II,A,40,,Magh Bihu is a festival celebrated in which month?,April,January,October,March,,,,,,,B,,official_final_key,0,,,26,26,0,
-ADRE-2024-G4-P2-ClassVIII-Q041,ADRE,2024,IV,II,A,41,,What was the real name of Mahatma Gandhi?,Mohandas Kumar Gandhi,Mohansingh Karamchand Gandhi,Mohandas Karamsingh Gandhi,Mohandas Karamchand Gandhi,,,,,,,D,,official_final_key,0,,,26,26,0,
-ADRE-2024-G4-P2-ClassVIII-Q042,ADRE,2024,IV,II,A,42,,Who was involved in the Kalinga War?,Ashoka,Bimbisara,Bindusara,Samudragupta,,,,,,,A,,official_final_key,0,,,27,27,0,
-ADRE-2024-G4-P2-ClassVIII-Q043,ADRE,2024,IV,II,A,43,,Who was the first Mughal emperor?,Humayun,Aurangzeb,Babur,Akbar,,,,,,,C,,official_final_key,0,,,28,28,0,
-ADRE-2024-G4-P2-ClassVIII-Q044,ADRE,2024,IV,II,A,44,,When was Bangladesh created?,1947,1962,1951,1971,,,,,,,D,,official_final_key,0,,,28,28,0,
-ADRE-2024-G4-P2-ClassVIII-Q045,ADRE,2024,IV,II,A,45,,Identify the incorrect pair of State and capital city of India.,Uttarakhand : Mussoorie,West Bengal : Kolkata,Chhattisgarh : Raipur,Goa : Panaji,,,,,,,A,,official_final_key,0,,,29,29,0,
-ADRE-2024-G4-P2-ClassVIII-Q046,ADRE,2024,IV,II,A,46,,Which of the following positions is appointed by the President of India?,The Governor of a State,The Chief Minister of a State,The Speaker of the Legislative Assembly,The Cabinet Minister of a State,,,,,,,A,,official_final_key,0,,,29,29,0,
-ADRE-2024-G4-P2-ClassVIII-Q047,ADRE,2024,IV,II,A,47,,Which statement is not correct?,Visakhapatnam is a port city of Andhra Pradesh.,Narmada is a river.,Kanchenjunga is a Himalayan peak.,Chilika Lake is in Gujarat.,,,,,,,D,,official_final_key,0,,,30,30,0,
-ADRE-2024-G4-P2-ClassVIII-Q048,ADRE,2024,IV,II,A,48,,Which material is the ‘Gogona’ made of ?,Bamboo,Terra-cotta,Copper,Buffalo horn,,,,,,,A,,official_final_key,0,,,30,30,0,
-ADRE-2024-G4-P2-ClassVIII-Q049,ADRE,2024,IV,II,A,49,,Which country did Nelson Mandela belong to?,Brazil,Switzerland,South Africa,Argentina,,,,,,,C,,official_final_key,0,,,31,31,0,
-ADRE-2024-G4-P2-ClassVIII-Q050,ADRE,2024,IV,II,A,50,,Which continent is the Sahara Desert located in?,Australia,Africa,Europe,Asia,,,,,,,B,,official_final_key,0,,,31,31,0,
-ADRE-2024-G4-P2-ClassVIII-Q051,ADRE,2024,IV,II,A,51,,Which country is known as the ‘Gift of the Nile’?,Egypt,Lebanon,Israel,Saudi Arabia,,,,,,,A,,official_final_key,0,,,32,32,0,
-ADRE-2024-G4-P2-ClassVIII-Q052,ADRE,2024,IV,II,A,52,,Which vitamin is vital for bones and teeth?,Vitamin D,Vitamin B,Vitamin C,Vitamin A,,,,,,,A,,official_final_key,0,,,32,32,0,
-ADRE-2024-G4-P2-ClassVIII-Q053,ADRE,2024,IV,II,A,53,,The normal blood pressure reading for an adult human is,65/85 mm Hg,95/155 mm Hg,80/120 mm Hg,65/140 mm Hg,,,,,,,C,,official_final_key,0,,,33,33,0,
-ADRE-2024-G4-P2-ClassVIII-Q054,ADRE,2024,IV,II,A,54,,Which of the following IPL teams did Mahendra Singh Dhoni captain?,Mumbai Indians,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bengaluru,,,,,,,B,,official_final_key,0,,,34,34,0,
-ADRE-2024-G4-P2-ClassVIII-Q055,ADRE,2024,IV,II,A,55,,"As on 1st of January, 2024, who is the Minister for Panchayat and Rural
-Development of Assam?",Chandra Mohan Patwari,Ranjeet Kumar Dass,Atul Bora,Urkhao Gwra Brahma,,,,,,,B,,official_final_key,0,,,34,34,0,
-ADRE-2024-G4-P2-ClassVIII-Q056,ADRE,2024,IV,II,A,56,,Who wrote the book Runs and Ruins?,Kapil Dev,Ravi Shastri,Sachin Tendulkar,Sunil Gavaskar,,,,,,,D,,official_final_key,0,,,35,35,0,
-ADRE-2024-G4-P2-ClassVIII-Q057,ADRE,2024,IV,II,A,57,,In which language was Munshi Premchand’s novel Godaan written?,Urdu,Konkani,Hindi,Gujarati,,,,,,,C,,official_final_key,0,,,35,35,0,
-ADRE-2024-G4-P2-ClassVIII-Q058,ADRE,2024,IV,II,A,58,,What is understood by Tsunami?,A very powerful cyclone,A major earthquake in the Himalayas,Heavy floods in Eastern India,High waves in coastal areas,,,,,,,D,,official_final_key,0,,,36,36,0,
-ADRE-2024-G4-P2-ClassVIII-Q059,ADRE,2024,IV,II,A,59,,"In Assamese literature, who wrote under the pen name of Saurabh Kumar Chaliha?",Surendra Nath Medhi,Nabakanta Baruah,Lakshminath Bezbaruah,Bhabendra Nath Saikia,,,,,,,A,,official_final_key,0,,,37,37,0,
-ADRE-2024-G4-P2-ClassVIII-Q060,ADRE,2024,IV,II,A,60,,By which Assamese author was Mamore Dhora Tarowal written?,Rita Choudhury,Nirupama Borgohain,Chandana Goswami,Mamoni Raisom Goswami,,,,,,,D,,official_final_key,0,,,37,37,0,
-ADRE-2024-G4-P2-ClassVIII-Q061,ADRE,2024,IV,II,A,61,,Which of the following has two humps on its back?,Nilgai,Arabian camel,Bactrian camel,Black panther,,,,,,,C,,official_final_key,0,,,38,38,0,
-ADRE-2024-G4-P2-ClassVIII-Q062,ADRE,2024,IV,II,A,62,,In which city of India is the Charminar located?,Hyderabad,Chennai,Prayagraj,Chandigarh,,,,,,,A,,official_final_key,0,,,38,38,0,
-ADRE-2024-G4-P2-ClassVIII-Q063,ADRE,2024,IV,II,A,63,,What is the length of a cricket pitch between the stumps?,Twenty-two meters,Twenty-two feet,Twenty-two yards,Twenty-two inches,,,,,,,C,,official_final_key,0,,,39,39,0,
-ADRE-2024-G4-P2-ClassVIII-Q064,ADRE,2024,IV,II,A,64,,Near which landmark is the Atal Tunnel situated?,Khardung La Pass,Rohtang Pass,Sela Pass,Umling La Pass,,,,,,,B,,official_final_key,0,,,39,39,0,
-ADRE-2024-G4-P2-ClassVIII-Q065,ADRE,2024,IV,II,A,65,,Which of the following is not extracted from crude oil?,Petrol,Bitumen tar,Kerosene,Turpentine oil,,,,,,,D,,official_final_key,0,,,40,40,0,
-ADRE-2024-G4-P2-ClassVIII-Q066,ADRE,2024,IV,II,A,66,,"A shopkeeper offers two consecutive discounts—first 10% and subsequently 5%
-on a certain item. The equivalent discount offered on the item is",12·5%,15%,13%,14·5%,,,,,,,D,,official_final_key,0,,,41,41,0,
-ADRE-2024-G4-P2-ClassVIII-Q067,ADRE,2024,IV,II,A,67,,The equivalent fraction of the decimal number 2·25 is,9 4,9 5,9 7,9 8,,,,,,,A,,official_final_key,1,drawing,exams/ADRE/2024/figures/G4-P2-ClassVIII/q067.png,41,42,0,
-ADRE-2024-G4-P2-ClassVIII-Q068,ADRE,2024,IV,II,A,68,,"The total interest accrued on the principal amount of ₹10 at the simple interest
-rate of 10% per year for a period of 10 years is","₹1,000",₹100,₹10,₹1,,,,,,,C,,official_final_key,0,,,42,42,0,
-ADRE-2024-G4-P2-ClassVIII-Q069,ADRE,2024,IV,II,A,69,,The angle between the minute hand and the hour hand of a clock at 3:00 p.m. is,30°,60°,90°,120°,,,,,,,C,,official_final_key,0,,,43,43,0,
-ADRE-2024-G4-P2-ClassVIII-Q070,ADRE,2024,IV,II,A,70,,The two angles of a triangle are 75° and 65°. Twice the measure of its third angle is,40°,50°,60°,80°,,,,,,,D,,official_final_key,0,,,43,43,0,
-ADRE-2024-G4-P2-ClassVIII-Q071,ADRE,2024,IV,II,A,71,,"The area of a triangle is 18 square units and the base of the triangle is 12 units.
-The height of the triangle would be",15 units,9 units,6 units,3 units,,,,,,,D,,official_final_key,0,,,44,44,0,
-ADRE-2024-G4-P2-ClassVIII-Q072,ADRE,2024,IV,II,A,72,,The Roman numeral for the decimal number 59 is,CIX,DIX,LIX,MIX,,,,,,,C,,official_final_key,0,,,45,45,0,
-ADRE-2024-G4-P2-ClassVIII-Q073,ADRE,2024,IV,II,A,73,,"A sum of ₹90 is distributed amongst A, B and C in such a way that A gets ₹2 more
-than B and B gets ₹2 more than C. The share of A is",₹28,₹30,₹32,₹34,,,,,,,C,,official_final_key,0,,,45,45,0,
-ADRE-2024-G4-P2-ClassVIII-Q074,ADRE,2024,IV,II,A,74,,The sum of the prime numbers between 1 and 20 is,77,81,85,89,,,,,,,A,,official_final_key,0,,,46,46,0,
-ADRE-2024-G4-P2-ClassVIII-Q075,ADRE,2024,IV,II,A,75,,"The quotient part, when 6001 is divided by 3, is",200,201,2000,2001,,,,,,,C,,official_final_key,0,,,46,46,0,
-ADRE-2024-G4-P2-ClassVIII-Q076,ADRE,2024,IV,II,A,76,,"1×2×3× 4×5
+id,exam,year,paper_code,paper_title,booklet_set,q_no,context,question,option_a,option_b,option_c,option_d,answer,answer_note,answer_source,has_visual,visual_types,images,text_source,page,needs_review,review_notes
+ADRE-2024-G4-P2-ClassVIII-Q001,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,1,,"Which of the following countries does Brazil not share international boundary
+with?",Chile,Argentina,Paraguay,Peru,A,,official_final_key,0,,,pdf_text,6,0,
+ADRE-2024-G4-P2-ClassVIII-Q002,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,2,,Who is considered as ‘the father of zero’ ?,Chitragupta,Brahmadutta,Varahamihira,Aryabhatta,D,,official_final_key,0,,,pdf_text,6,0,
+ADRE-2024-G4-P2-ClassVIII-Q003,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,3,,Between which two major water bodies does the Suez Canal lie?,Mediterranean Sea and Atlantic Ocean,Atlantic Ocean and Pacific Ocean,Mediterranean Sea and Red Sea,Arabian Sea and Bay of Bengal,C,,official_final_key,0,,,pdf_text,7,0,
+ADRE-2024-G4-P2-ClassVIII-Q004,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,4,,The Ajan Peer Dargah is located in which district of Assam?,Dhemaji,Sivasagar,Jorhat,Dibrugarh,B,,official_final_key,0,,,pdf_text,7,0,
+ADRE-2024-G4-P2-ClassVIII-Q005,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,5,,Who discovered Penicillin?,Edward Jenner,Alexander Fleming,Louis Pasteur,Isaac Newton,B,,official_final_key,0,,,pdf_text,8,0,
+ADRE-2024-G4-P2-ClassVIII-Q006,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,6,,"As on January 1, 2024, who is the Chairman and Managing Director of the
+Reliance Group?",Dhirubhai Ambani,Anil Ambani,Akash Ambani,Mukesh Ambani,D,,official_final_key,0,,,pdf_text,8,0,
+ADRE-2024-G4-P2-ClassVIII-Q007,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,7,,The 2024 Summer Olympics was held in,Tokyo,London,Paris,Seoul,C,,official_final_key,0,,,pdf_text,9,0,
+ADRE-2024-G4-P2-ClassVIII-Q008,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,8,,By which community of Assam is the Tusu Puja celebrated?,Tai-Ahom,Sonowal Kachari,Tea garden community,Karbi,C,,official_final_key,0,,,pdf_text,9,0,
+ADRE-2024-G4-P2-ClassVIII-Q009,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,9,,Arjuna Award is awarded for excellence in,sports,cinema,literature,tribal art,A,,official_final_key,0,,,pdf_text,10,0,
+ADRE-2024-G4-P2-ClassVIII-Q010,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,10,,Leonardo da Vinci was from which country?,France,Germany,England,Italy,D,,official_final_key,0,,,pdf_text,10,0,
+ADRE-2024-G4-P2-ClassVIII-Q011,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,11,,Which of the following is a hill district of Assam?,Cachar,Dima Hasao,Karimganj,Golaghat,B,,official_final_key,0,,,pdf_text,11,0,
+ADRE-2024-G4-P2-ClassVIII-Q012,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,12,,Who is known as the ‘Iron Man of India’ ?,Mahatma Gandhi,Sardar Vallabhbhai Patel,Ishwar Chandra Vidyasagar,Radha Govinda Baruah,B,,official_final_key,0,,,pdf_text,11,0,
+ADRE-2024-G4-P2-ClassVIII-Q013,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,13,,How many spokes are there in the Chakra of our National Flag?,24,36,18,32,A,,official_final_key,0,,,pdf_text,12,0,
+ADRE-2024-G4-P2-ClassVIII-Q014,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,14,,Who is presently the Supreme Commander of the Defence Forces of India?,Narendra Modi,Rajnath Singh,Droupadi Murmu,Anil Chauhan,C,,official_final_key,0,,,pdf_text,12,0,
+ADRE-2024-G4-P2-ClassVIII-Q015,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,15,,"As on 1st of January, 2024, which two countries are at war?",Israel and Saudi Arabia,Russia and Ukraine,India and Pakistan,North Korea and Vietnam,B,,official_final_key,0,,,pdf_text,13,0,
+ADRE-2024-G4-P2-ClassVIII-Q016,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,16,,Which of the following countries has ‘Ngultrum’ as its currency?,Myanmar,Indonesia,Bhutan,Vietnam,C,,official_final_key,0,,,pdf_text,13,0,
+ADRE-2024-G4-P2-ClassVIII-Q017,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,17,,In which sport did Lovlina Borgohain win an Olympic medal?,Wrestling,Judo,Taekwondo,Boxing,D,,official_final_key,0,,,pdf_text,14,0,
+ADRE-2024-G4-P2-ClassVIII-Q018,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,18,,The poem collection Xugondhi Pokhila was written by,Nabakanta Baruah,Hiren Bhattacharyya,Nirmal Prabha Bordoloi,Nalinidhar Bhattacharyya,B,,official_final_key,0,,,pdf_text,14,0,
+ADRE-2024-G4-P2-ClassVIII-Q019,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,19,,Which sport is the term ‘Ring’ associated with?,Boxing,Football,Swimming,Volleyball,A,,official_final_key,0,,,pdf_text,15,0,
+ADRE-2024-G4-P2-ClassVIII-Q020,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,20,,Which of the following movies was not made by Bhabendra Nath Saikia?,Krishnachura,Agnisnaan,Kolahal,Sandhya Raag,A,,official_final_key,0,,,pdf_text,15,0,
+ADRE-2024-G4-P2-ClassVIII-Q021,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,21,,"As on December 31, 2023, which of the following was the highest denomination
+currency note of India?","₹2,000","₹1,000","₹20,000","₹5,000",A,,official_final_key,0,,,pdf_text,16,0,
+ADRE-2024-G4-P2-ClassVIII-Q022,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,22,,‘Dokhona’ is the traditional dress for women of which community?,Tiwa,Khamti,Muttock,Bodo,D,,official_final_key,0,,,pdf_text,17,0,
+ADRE-2024-G4-P2-ClassVIII-Q023,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,23,,Maniram Dewan was involved in which of the following?,Peasants Uprising of Patharughat,Phulaguri Dhewa,1857 Rebellion,Quit India Movement,C,,official_final_key,0,,,pdf_text,17,0,
+ADRE-2024-G4-P2-ClassVIII-Q024,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,24,,Name the State in which the Thar Desert is located.,Punjab,Haryana,Rajasthan,Maharashtra,C,,official_final_key,0,,,pdf_text,18,0,
+ADRE-2024-G4-P2-ClassVIII-Q025,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,25,,"Looking from Assam, in which general direction is New Delhi located?",North-East,West,South-West,South,B,,official_final_key,0,,,pdf_text,18,0,
+ADRE-2024-G4-P2-ClassVIII-Q026,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,26,,"“A person who sets up a business, taking on financial risk in the hope of profit”
+is termed as",capitalist,entrepreneur,businessman,investor,B,,official_final_key,0,,,pdf_text,19,0,
+ADRE-2024-G4-P2-ClassVIII-Q027,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,27,,Which of the following rivers flows from South to North?,Subansiri,Manas,Kopili,Ranganadi,C,,official_final_key,0,,,pdf_text,19,0,
+ADRE-2024-G4-P2-ClassVIII-Q028,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,28,,The Assamese food item ‘Hurum’ is prepared from,Tal jaggery,betel leaves,bamboo shoots,Bora rice,D,,official_final_key,0,,,pdf_text,20,0,
+ADRE-2024-G4-P2-ClassVIII-Q029,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,29,,A distinguishing characteristic of trade at Jonbeel Mela is,only banana is traded,women are not permitted,buffalo fight,barter system,D,,official_final_key,0,,,pdf_text,20,0,
+ADRE-2024-G4-P2-ClassVIII-Q030,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,30,,Dhokla and Fafda are traditional snacks of which State?,Rajasthan,Punjab,Gujarat,Goa,C,,official_final_key,0,,,pdf_text,21,0,
+ADRE-2024-G4-P2-ClassVIII-Q031,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,31,,Which of the following is the Lower House of the Parliament of India?,Vidhan Sabha,Rajya Sabha,Lok Sabha,Vidhan Parishad,C,,official_final_key,0,,,pdf_text,21,0,
+ADRE-2024-G4-P2-ClassVIII-Q032,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,32,,Which of the following States is known to have highest coal reserves?,Jharkhand,Maharashtra,Karnataka,Mizoram,A,,official_final_key,0,,,pdf_text,22,0,
+ADRE-2024-G4-P2-ClassVIII-Q033,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,33,,Maibong was the capital of which kingdom?,Koch Kingdom,Dimasa Kingdom,Chutiya Kingdom,Kamata Kingdom,B,,official_final_key,0,,,pdf_text,22,0,
+ADRE-2024-G4-P2-ClassVIII-Q034,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,34,,Dandi Yatra was a part of the,Quit India Movement,Non-Cooperation Movement,Civil Disobedience Movement,Purna Swaraj,C,,official_final_key,0,,,pdf_text,23,0,
+ADRE-2024-G4-P2-ClassVIII-Q035,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,35,,Which of the following is not the name of a district of Assam?,West Goalpara,Kamrup Metropolitan,South Salmara-Mankachar,West Karbi Anglong,A,,official_final_key,0,,,pdf_text,23,0,
+ADRE-2024-G4-P2-ClassVIII-Q036,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,36,,Which State lies towards the North of Assam?,Arunachal Pradesh,Meghalaya,Sikkim,Nagaland,A,,official_final_key,0,,,pdf_text,24,0,
+ADRE-2024-G4-P2-ClassVIII-Q037,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,37,,Which of the following is not a Fundamental Right?,Right to equality,Right to freedom,Right to digital information,Right to constitutional remedies,C,,official_final_key,0,,,pdf_text,24,0,
+ADRE-2024-G4-P2-ClassVIII-Q038,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,38,,Which is the capital city of the United States of America?,New York,"Washington, DC",Chicago,San Francisco,B,,official_final_key,0,,,pdf_text,25,0,
+ADRE-2024-G4-P2-ClassVIII-Q039,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,39,,Who composed the poem Korotolo Komolo?,Nilamoni Phukan,Mahapurush Madhavdev,Srimanta Sankardev,Nabakanta Baruah,C,,official_final_key,0,,,pdf_text,25,0,
+ADRE-2024-G4-P2-ClassVIII-Q040,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,40,,Magh Bihu is a festival celebrated in which month?,April,January,October,March,B,,official_final_key,0,,,pdf_text,26,0,
+ADRE-2024-G4-P2-ClassVIII-Q041,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,41,,What was the real name of Mahatma Gandhi?,Mohandas Kumar Gandhi,Mohansingh Karamchand Gandhi,Mohandas Karamsingh Gandhi,Mohandas Karamchand Gandhi,D,,official_final_key,0,,,pdf_text,26,0,
+ADRE-2024-G4-P2-ClassVIII-Q042,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,42,,Who was involved in the Kalinga War?,Ashoka,Bimbisara,Bindusara,Samudragupta,A,,official_final_key,0,,,pdf_text,27,0,
+ADRE-2024-G4-P2-ClassVIII-Q043,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,43,,Who was the first Mughal emperor?,Humayun,Aurangzeb,Babur,Akbar,C,,official_final_key,0,,,pdf_text,28,0,
+ADRE-2024-G4-P2-ClassVIII-Q044,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,44,,When was Bangladesh created?,1947,1962,1951,1971,D,,official_final_key,0,,,pdf_text,28,0,
+ADRE-2024-G4-P2-ClassVIII-Q045,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,45,,Identify the incorrect pair of State and capital city of India.,Uttarakhand : Mussoorie,West Bengal : Kolkata,Chhattisgarh : Raipur,Goa : Panaji,A,,official_final_key,0,,,pdf_text,29,0,
+ADRE-2024-G4-P2-ClassVIII-Q046,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,46,,Which of the following positions is appointed by the President of India?,The Governor of a State,The Chief Minister of a State,The Speaker of the Legislative Assembly,The Cabinet Minister of a State,A,,official_final_key,0,,,pdf_text,29,0,
+ADRE-2024-G4-P2-ClassVIII-Q047,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,47,,Which statement is not correct?,Visakhapatnam is a port city of Andhra Pradesh.,Narmada is a river.,Kanchenjunga is a Himalayan peak.,Chilika Lake is in Gujarat.,D,,official_final_key,0,,,pdf_text,30,0,
+ADRE-2024-G4-P2-ClassVIII-Q048,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,48,,Which material is the ‘Gogona’ made of ?,Bamboo,Terra-cotta,Copper,Buffalo horn,A,,official_final_key,0,,,pdf_text,30,0,
+ADRE-2024-G4-P2-ClassVIII-Q049,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,49,,Which country did Nelson Mandela belong to?,Brazil,Switzerland,South Africa,Argentina,C,,official_final_key,0,,,pdf_text,31,0,
+ADRE-2024-G4-P2-ClassVIII-Q050,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,50,,Which continent is the Sahara Desert located in?,Australia,Africa,Europe,Asia,B,,official_final_key,0,,,pdf_text,31,0,
+ADRE-2024-G4-P2-ClassVIII-Q051,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,51,,Which country is known as the ‘Gift of the Nile’?,Egypt,Lebanon,Israel,Saudi Arabia,A,,official_final_key,0,,,pdf_text,32,0,
+ADRE-2024-G4-P2-ClassVIII-Q052,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,52,,Which vitamin is vital for bones and teeth?,Vitamin D,Vitamin B,Vitamin C,Vitamin A,A,,official_final_key,0,,,pdf_text,32,0,
+ADRE-2024-G4-P2-ClassVIII-Q053,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,53,,The normal blood pressure reading for an adult human is,65/85 mm Hg,95/155 mm Hg,80/120 mm Hg,65/140 mm Hg,C,,official_final_key,0,,,pdf_text,33,0,
+ADRE-2024-G4-P2-ClassVIII-Q054,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,54,,Which of the following IPL teams did Mahendra Singh Dhoni captain?,Mumbai Indians,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bengaluru,B,,official_final_key,0,,,pdf_text,34,0,
+ADRE-2024-G4-P2-ClassVIII-Q055,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,55,,"As on 1st of January, 2024, who is the Minister for Panchayat and Rural
+Development of Assam?",Chandra Mohan Patwari,Ranjeet Kumar Dass,Atul Bora,Urkhao Gwra Brahma,B,,official_final_key,0,,,pdf_text,34,0,
+ADRE-2024-G4-P2-ClassVIII-Q056,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,56,,Who wrote the book Runs and Ruins?,Kapil Dev,Ravi Shastri,Sachin Tendulkar,Sunil Gavaskar,D,,official_final_key,0,,,pdf_text,35,0,
+ADRE-2024-G4-P2-ClassVIII-Q057,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,57,,In which language was Munshi Premchand’s novel Godaan written?,,Konkani,Hindi,Gujarati,C,,official_final_key,1,option_images,exams/ADRE/2024/figures/G4-P2-ClassVIII/q057.png,pdf_text,35,0,
+ADRE-2024-G4-P2-ClassVIII-Q058,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,58,,What is understood by Tsunami?,A very powerful cyclone,A major earthquake in the Himalayas,Heavy floods in Eastern India,High waves in coastal areas,D,,official_final_key,0,,,pdf_text,36,0,
+ADRE-2024-G4-P2-ClassVIII-Q059,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,59,,"In Assamese literature, who wrote under the pen name of Saurabh Kumar Chaliha?",Surendra Nath Medhi,Nabakanta Baruah,Lakshminath Bezbaruah,Bhabendra Nath Saikia,A,,official_final_key,0,,,pdf_text,37,0,
+ADRE-2024-G4-P2-ClassVIII-Q060,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,60,,By which Assamese author was Mamore Dhora Tarowal written?,Rita Choudhury,Nirupama Borgohain,Chandana Goswami,Mamoni Raisom Goswami,D,,official_final_key,0,,,pdf_text,37,0,
+ADRE-2024-G4-P2-ClassVIII-Q061,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,61,,Which of the following has two humps on its back?,Nilgai,Arabian camel,Bactrian camel,Black panther,C,,official_final_key,0,,,pdf_text,38,0,
+ADRE-2024-G4-P2-ClassVIII-Q062,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,62,,In which city of India is the Charminar located?,Hyderabad,Chennai,Prayagraj,Chandigarh,A,,official_final_key,0,,,pdf_text,38,0,
+ADRE-2024-G4-P2-ClassVIII-Q063,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,63,,What is the length of a cricket pitch between the stumps?,Twenty-two meters,Twenty-two feet,Twenty-two yards,Twenty-two inches,C,,official_final_key,0,,,pdf_text,39,0,
+ADRE-2024-G4-P2-ClassVIII-Q064,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,64,,Near which landmark is the Atal Tunnel situated?,Khardung La Pass,Rohtang Pass,Sela Pass,Umling La Pass,B,,official_final_key,0,,,pdf_text,39,0,
+ADRE-2024-G4-P2-ClassVIII-Q065,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,65,,Which of the following is not extracted from crude oil?,Petrol,Bitumen tar,Kerosene,Turpentine oil,D,,official_final_key,0,,,pdf_text,40,0,
+ADRE-2024-G4-P2-ClassVIII-Q066,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,66,,"A shopkeeper offers two consecutive discounts—first 10% and subsequently 5%
+on a certain item. The equivalent discount offered on the item is",12·5%,15%,13%,14·5%,D,,official_final_key,0,,,pdf_text,41,0,
+ADRE-2024-G4-P2-ClassVIII-Q067,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,67,,The equivalent fraction of the decimal number 2·25 is,9 4,9 5,9 7,9 8,A,,official_final_key,1,drawing,exams/ADRE/2024/figures/G4-P2-ClassVIII/q067.png,pdf_text,41,0,
+ADRE-2024-G4-P2-ClassVIII-Q068,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,68,,"The total interest accrued on the principal amount of ₹10 at the simple interest
+rate of 10% per year for a period of 10 years is","₹1,000",₹100,₹10,₹1,C,,official_final_key,0,,,pdf_text,42,0,
+ADRE-2024-G4-P2-ClassVIII-Q069,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,69,,The angle between the minute hand and the hour hand of a clock at 3:00 p.m. is,30°,60°,90°,120°,C,,official_final_key,0,,,pdf_text,43,0,
+ADRE-2024-G4-P2-ClassVIII-Q070,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,70,,The two angles of a triangle are 75° and 65°. Twice the measure of its third angle is,40°,50°,60°,80°,D,,official_final_key,0,,,pdf_text,43,0,
+ADRE-2024-G4-P2-ClassVIII-Q071,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,71,,"The area of a triangle is 18 square units and the base of the triangle is 12 units.
+The height of the triangle would be",15 units,9 units,6 units,3 units,D,,official_final_key,0,,,pdf_text,44,0,
+ADRE-2024-G4-P2-ClassVIII-Q072,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,72,,The Roman numeral for the decimal number 59 is,CIX,DIX,LIX,MIX,C,,official_final_key,0,,,pdf_text,45,0,
+ADRE-2024-G4-P2-ClassVIII-Q073,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,73,,"A sum of ₹90 is distributed amongst A, B and C in such a way that A gets ₹2 more
+than B and B gets ₹2 more than C. The share of A is",₹28,₹30,₹32,₹34,C,,official_final_key,0,,,pdf_text,45,0,
+ADRE-2024-G4-P2-ClassVIII-Q074,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,74,,The sum of the prime numbers between 1 and 20 is,77,81,85,89,A,,official_final_key,0,,,pdf_text,46,0,
+ADRE-2024-G4-P2-ClassVIII-Q075,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,75,,"The quotient part, when 6001 is divided by 3, is",200,201,2000,2001,C,,official_final_key,0,,,pdf_text,46,0,
+ADRE-2024-G4-P2-ClassVIII-Q076,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,76,,"1×2×3× 4×5
 The value of	is
-1+2+3+ 4+5",5,6,7,8,,,,,,,D,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G4-P2-ClassVIII/q076.png,47,47,1,
-ADRE-2024-G4-P2-ClassVIII-Q077,ADRE,2024,IV,II,A,77,,"A person buys a defective item at ₹900, repairs it for ₹100 and sells the item at
-₹1,800. His profit percentage is",100%,80%,90%,180%,,,,,,,B,,official_final_key,0,,,48,48,0,
-ADRE-2024-G4-P2-ClassVIII-Q078,ADRE,2024,IV,II,A,78,,"The sum of 2+ 5 equals
-3 6",6 5,3 2,5,1,,,,,,,B,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G4-P2-ClassVIII/q078_1.png|exams/ADRE/2024/figures/G4-P2-ClassVIII/q078_2.png,48,49,1,
-ADRE-2024-G4-P2-ClassVIII-Q079,ADRE,2024,IV,II,A,79,,Which of the following is not equivalent to 0·000014?,1 ·4×10 ⁻⁶,1 ·4×10 ⁻⁵,14×10 ⁻⁶,0 ·14×10 ⁻⁴,,,,,,,A,,official_final_key,1,math,exams/ADRE/2024/figures/G4-P2-ClassVIII/q079.png,49,49,1,
-ADRE-2024-G4-P2-ClassVIII-Q080,ADRE,2024,IV,II,A,80,,What must be added to (a−b)² in order to get (a+b)²?,2ab,−2ab,4ab,−4ab,,,,,,,C,,official_final_key,1,math,exams/ADRE/2024/figures/G4-P2-ClassVIII/q080.png,50,50,1,
-ADRE-2024-G4-P2-ClassVIII-Q081,ADRE,2024,IV,II,A,81,,"1 1 1
+1+2+3+ 4+5",5,6,7,8,D,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G4-P2-ClassVIII/q076.png,pdf_text,47,1,
+ADRE-2024-G4-P2-ClassVIII-Q077,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,77,,"A person buys a defective item at ₹900, repairs it for ₹100 and sells the item at
+₹1,800. His profit percentage is",100%,80%,90%,180%,B,,official_final_key,0,,,pdf_text,48,0,
+ADRE-2024-G4-P2-ClassVIII-Q078,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,78,,"The sum of 2+ 5 equals
+3 6",6 5,3 2,5,1,B,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G4-P2-ClassVIII/q078_1.png|exams/ADRE/2024/figures/G4-P2-ClassVIII/q078_2.png,pdf_text,48,1,
+ADRE-2024-G4-P2-ClassVIII-Q079,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,79,,Which of the following is not equivalent to 0·000014?,1 ·4×10 ⁻⁶,1 ·4×10 ⁻⁵,14×10 ⁻⁶,0 ·14×10 ⁻⁴,A,,official_final_key,1,math,exams/ADRE/2024/figures/G4-P2-ClassVIII/q079.png,pdf_text,49,1,
+ADRE-2024-G4-P2-ClassVIII-Q080,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,80,,What must be added to (a−b)² in order to get (a+b)²?,2ab,−2ab,4ab,−4ab,C,,official_final_key,1,math,exams/ADRE/2024/figures/G4-P2-ClassVIII/q080.png,pdf_text,50,1,
+ADRE-2024-G4-P2-ClassVIII-Q081,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,81,,"1 1 1
 + + is equal to
 2 3 4
-12	13",13 13,24 24,12,13,,,,,,,C,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G4-P2-ClassVIII/q081.png,51,51,1,
-ADRE-2024-G4-P2-ClassVIII-Q082,ADRE,2024,IV,II,A,82,,"The length of one diagonal of a rectangle is 5 cm. If the ratio of the length and
-breadth of the rectangle is 4 : 3, then the perimeter of the rectangle is",25 cm,14 cm,12 cm,16 cm,,,,,,,B,,official_final_key,0,,,52,52,0,
-ADRE-2024-G4-P2-ClassVIII-Q083,ADRE,2024,IV,II,A,83,,"10 coins, each having circular surface area of 24 cm ² and thickness of 2 mm, are
-stacked one over the other. The volume occupied by the stack is",48 cm ³,480 cm ³,240 cm ³,42 cm ³,,,,,,,A,,official_final_key,0,,,53,53,0,
-ADRE-2024-G4-P2-ClassVIII-Q084,ADRE,2024,IV,II,A,84,,"If one of the angles of a right-angled triangle is 35°, then which of the following
-represents an angle of the triangle?",40°,45°,50°,55°,,,,,,,D,,official_final_key,0,,,53,53,0,
-ADRE-2024-G4-P2-ClassVIII-Q085,ADRE,2024,IV,II,A,85,,The angle traversed by the hour hand of a clock during a period of 2 hours is,30°,45°,60°,90°,,,,,,,C,,official_final_key,0,,,54,54,0,
-ADRE-2024-G4-P2-ClassVIII-Q086,ADRE,2024,IV,II,A,86,,"I saw an ice cube in the kitchen which had already melted due to heat of a nearby
-burner.",Rarely possible,Often possible,Impossible,Always possible,,,,,,,C,,official_final_key,0,,,55,55,0,
-ADRE-2024-G4-P2-ClassVIII-Q087,ADRE,2024,IV,II,A,87,,"If ‘×’ means subtraction, ‘−’ means addition, ‘+’ means division and ‘÷’ means
+12	13",13 13,24 24,12,13,C,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G4-P2-ClassVIII/q081.png,pdf_text,51,1,
+ADRE-2024-G4-P2-ClassVIII-Q082,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,82,,"The length of one diagonal of a rectangle is 5 cm. If the ratio of the length and
+breadth of the rectangle is 4 : 3, then the perimeter of the rectangle is",25 cm,14 cm,12 cm,16 cm,B,,official_final_key,0,,,pdf_text,52,0,
+ADRE-2024-G4-P2-ClassVIII-Q083,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,83,,"10 coins, each having circular surface area of 24 cm ² and thickness of 2 mm, are
+stacked one over the other. The volume occupied by the stack is",48 cm ³,480 cm ³,240 cm ³,42 cm ³,A,,official_final_key,0,,,pdf_text,53,0,
+ADRE-2024-G4-P2-ClassVIII-Q084,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,84,,"If one of the angles of a right-angled triangle is 35°, then which of the following
+represents an angle of the triangle?",40°,45°,50°,55°,D,,official_final_key,0,,,pdf_text,53,0,
+ADRE-2024-G4-P2-ClassVIII-Q085,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,85,,The angle traversed by the hour hand of a clock during a period of 2 hours is,30°,45°,60°,90°,C,,official_final_key,0,,,pdf_text,54,0,
+ADRE-2024-G4-P2-ClassVIII-Q086,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,86,,"I saw an ice cube in the kitchen which had already melted due to heat of a nearby
+burner.",Rarely possible,Often possible,Impossible,Always possible,C,,official_final_key,0,,,pdf_text,55,0,
+ADRE-2024-G4-P2-ClassVIII-Q087,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,87,,"If ‘×’ means subtraction, ‘−’ means addition, ‘+’ means division and ‘÷’ means
 multiplication, then which of the following statements is correct if calculated from
-left to right, ignoring BODMAS?",8×2÷5+3 =12,7−2+3÷5 =13,5− 4×3+2 = 3,3÷2− 4+5 = 9,,,,,,,C,,official_final_key,1,math,exams/ADRE/2024/figures/G4-P2-ClassVIII/q087.png,55,56,1,
-ADRE-2024-G4-P2-ClassVIII-Q088,ADRE,2024,IV,II,A,88,,Bacteria : Microscope :: Planets : ?,Telescope,Periscope,Bioscope,Stethoscope,,,,,,,A,,official_final_key,0,,,56,56,0,
-ADRE-2024-G4-P2-ClassVIII-Q089,ADRE,2024,IV,II,A,89,,"The same six-sided dice is rolled four times, and the outcomes are as shown below.
-How many dots are there opposite to three-dot face?",4,2,5,1,,,,,,,C,,official_final_key,1,drawing|text_mentions_visual,exams/ADRE/2024/figures/G4-P2-ClassVIII/q089.png,57,57,1,
-ADRE-2024-G4-P2-ClassVIII-Q090,ADRE,2024,IV,II,A,90,,"Select the appropriate set for correctly filling up the ‘ ?’ :
-BAD : ? :: PINK : QJOL",HAD,CBE,CAD,ABE,,,,,,,B,,official_final_key,0,,,58,58,0,
-ADRE-2024-G4-P2-ClassVIII-Q091,ADRE,2024,IV,II,A,91,,"Time by her watch when Neeta left home was 9:43 in the morning. When she
+left to right, ignoring BODMAS?",8×2÷5+3 =12,7−2+3÷5 =13,5− 4×3+2 = 3,3÷2− 4+5 = 9,C,,official_final_key,1,math,exams/ADRE/2024/figures/G4-P2-ClassVIII/q087.png,pdf_text,55,1,
+ADRE-2024-G4-P2-ClassVIII-Q088,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,88,,Bacteria : Microscope :: Planets : ?,Telescope,Periscope,Bioscope,Stethoscope,A,,official_final_key,0,,,pdf_text,56,0,
+ADRE-2024-G4-P2-ClassVIII-Q089,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,89,,"The same six-sided dice is rolled four times, and the outcomes are as shown below.
+How many dots are there opposite to three-dot face?",4,2,5,1,C,,official_final_key,1,drawing|text_mentions_visual,exams/ADRE/2024/figures/G4-P2-ClassVIII/q089.png,pdf_text,57,1,
+ADRE-2024-G4-P2-ClassVIII-Q090,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,90,,"Select the appropriate set for correctly filling up the ‘ ?’ :
+BAD : ? :: PINK : QJOL",HAD,CBE,CAD,ABE,B,,official_final_key,0,,,pdf_text,58,0,
+ADRE-2024-G4-P2-ClassVIII-Q091,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,91,,"Time by her watch when Neeta left home was 9:43 in the morning. When she
 arrived home, the watch showed the time as 11:55. How many minutes was Neeta
-travelling for?",72 minutes,128 minutes,122 minutes,132 minutes,,,,,,,D,,official_final_key,0,,,59,59,0,
-ADRE-2024-G4-P2-ClassVIII-Q092,ADRE,2024,IV,II,A,92,,Identify the correct Roman numeral.,Thousand : C,Hundred : C,Fifty : C,Ten : C,,,,,,,B,,official_final_key,0,,,60,60,0,
-ADRE-2024-G4-P2-ClassVIII-Q093,ADRE,2024,IV,II,A,93,,"My digital watch says 6:15 p.m. now, and the bus will leave in next 145 minutes.
-At what time will the bus depart?",Forty minutes past eight in the evening,Forty minutes past eight in the morning,Forty-eight minutes past six in the evening,Forty-eight minutes past six in the morning,,,,,,,A,,official_final_key,0,,,61,61,0,
-ADRE-2024-G4-P2-ClassVIII-Q094,ADRE,2024,IV,II,A,94,,Identify the word not of the same group.,Launch,Breakfast,Dinner,Supper,,,,,,,A,,official_final_key,0,,,62,63,0,
-ADRE-2024-G4-P2-ClassVIII-Q095,ADRE,2024,IV,II,A,95,,Identify the pair of words which follows the same rule as Mercury : Planet.,Horse : Stable,Milk : White,Atlantic : Saltwater,Copper : Metal,,,,,,,D,,official_final_key,0,,,63,64,0,
-ADRE-2024-G4-P2-ClassVIII-Q096,ADRE,2024,IV,II,A,96,,Which of the following words is not a subset of PANDEMIC?,CAN,RAIN,MEND,DAMN,,,,,,,B,,official_final_key,0,,,64,64,0,
-ADRE-2024-G4-P2-ClassVIII-Q097,ADRE,2024,IV,II,A,97,,"In Pellamy, their words for blue, green, black and red colours are green, black, red
+travelling for?",72 minutes,128 minutes,122 minutes,132 minutes,D,,official_final_key,0,,,pdf_text,59,0,
+ADRE-2024-G4-P2-ClassVIII-Q092,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,92,,Identify the correct Roman numeral.,Thousand : C,Hundred : C,Fifty : C,Ten : C,B,,official_final_key,0,,,pdf_text,60,0,
+ADRE-2024-G4-P2-ClassVIII-Q093,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,93,,"My digital watch says 6:15 p.m. now, and the bus will leave in next 145 minutes.
+At what time will the bus depart?",Forty minutes past eight in the evening,Forty minutes past eight in the morning,Forty-eight minutes past six in the evening,Forty-eight minutes past six in the morning,A,,official_final_key,0,,,pdf_text,61,0,
+ADRE-2024-G4-P2-ClassVIII-Q094,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,94,,Identify the word not of the same group.,Launch,Breakfast,Dinner,Supper,A,,official_final_key,0,,,pdf_text,62,0,
+ADRE-2024-G4-P2-ClassVIII-Q095,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,95,,Identify the pair of words which follows the same rule as Mercury : Planet.,Horse : Stable,Milk : White,Atlantic : Saltwater,Copper : Metal,D,,official_final_key,0,,,pdf_text,63,0,
+ADRE-2024-G4-P2-ClassVIII-Q096,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,96,,Which of the following words is not a subset of PANDEMIC?,CAN,RAIN,MEND,DAMN,B,,official_final_key,0,,,pdf_text,64,0,
+ADRE-2024-G4-P2-ClassVIII-Q097,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,97,,"In Pellamy, their words for blue, green, black and red colours are green, black, red
 and blue respectively. At sunset time in Pellamy, what would you say the colour of
-the sun is?",Blue,Red,Green,Black,,,,,,,A,,official_final_key,0,,,65,65,0,
-ADRE-2024-G4-P2-ClassVIII-Q098,ADRE,2024,IV,II,A,98,,"Statements :
+the sun is?",Blue,Red,Green,Black,A,,official_final_key,0,,,pdf_text,65,0,
+ADRE-2024-G4-P2-ClassVIII-Q098,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,98,,"Statements :
 All windows are floors.
 No floor is tall.
 Conclusions :
 1. Some windows are tall.
 2. No tall is floor.
-Select the correct option.",Only conclusion 1 follows,Only conclusion 2 follows,Either conclusion 1 or conclusion 2 follows,Neither conclusion 1 nor conclusion 2 follows,,,,,,,B,,official_final_key,0,,,66,66,0,
-ADRE-2024-G4-P2-ClassVIII-Q099,ADRE,2024,IV,II,A,99,,"If someone points at you and tells that you are the brother of the daughter of the
-person’s husband’s wife, then how are you related to that person?",Uncle,Father,Son,Brother,,,,,,,C,,official_final_key,0,,,68,68,0,
-ADRE-2024-G4-P2-ClassVIII-Q100,ADRE,2024,IV,II,A,100,,"What would come in the middle when the digits of the number 4358796 are
-reversed?",7,8,9,5,,,,,,,B,,official_final_key,0,,,68,68,0,
-ADRE-2024-G4-P2-ClassVIII-Q101,ADRE,2024,IV,II,A,101,,"Suraj took one-third of a birthday cake. Half of the remaining part was taken by
-Chanda, leaving the leftover for Tara. How much of the cake did Tara get?",One-fourth,One-fifth,One-third,One-sixth,,,,,,,C,,official_final_key,0,,,69,69,0,
-ADRE-2024-G4-P2-ClassVIII-Q102,ADRE,2024,IV,II,A,102,,"If POND is coded as ONMC, then how will LAKE be coded?",MBLF,EKAL,PELA,KZJD,,,,,,,D,,official_final_key,0,,,70,70,0,
-ADRE-2024-G4-P2-ClassVIII-Q103,ADRE,2024,IV,II,A,103,,Identify the incorrectly spelt word.,INCORRECT,INGENE,INSOLVENT,INTROVERT,,,,,,,B,,official_final_key,0,,,70,71,0,
-ADRE-2024-G4-P2-ClassVIII-Q104,ADRE,2024,IV,II,A,104,,Identify the item essential for meal.,Plate,Invitation,Table,Food,,,,,,,D,,official_final_key,0,,,71,71,0,
-ADRE-2024-G4-P2-ClassVIII-Q105,ADRE,2024,IV,II,A,105,,BECD : GJHI :: ?,PSQR : TWUV,MNPO : QRTS,ADBC : FIGH,CBDA : HGIP,,,,,,,C,,official_final_key,0,,,72,72,0,
-ADRE-2024-G4-P2-ClassVIII-Q106,ADRE,2024,IV,II,A,106,,"The length and breadth of a room are 8 meters and 6 meters respectively. Tom runs
+Select the correct option.",Only conclusion 1 follows,Only conclusion 2 follows,Either conclusion 1 or conclusion 2 follows,Neither conclusion 1 nor conclusion 2 follows,B,,official_final_key,0,,,pdf_text,66,0,
+ADRE-2024-G4-P2-ClassVIII-Q099,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,99,,"If someone points at you and tells that you are the brother of the daughter of the
+person’s husband’s wife, then how are you related to that person?",Uncle,Father,Son,Brother,C,,official_final_key,0,,,pdf_text,68,0,
+ADRE-2024-G4-P2-ClassVIII-Q100,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,100,,"What would come in the middle when the digits of the number 4358796 are
+reversed?",7,8,9,5,B,,official_final_key,0,,,pdf_text,68,0,
+ADRE-2024-G4-P2-ClassVIII-Q101,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,101,,"Suraj took one-third of a birthday cake. Half of the remaining part was taken by
+Chanda, leaving the leftover for Tara. How much of the cake did Tara get?",One-fourth,One-fifth,One-third,One-sixth,C,,official_final_key,0,,,pdf_text,69,0,
+ADRE-2024-G4-P2-ClassVIII-Q102,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,102,,"If POND is coded as ONMC, then how will LAKE be coded?",MBLF,EKAL,PELA,KZJD,D,,official_final_key,0,,,pdf_text,70,0,
+ADRE-2024-G4-P2-ClassVIII-Q103,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,103,,Identify the incorrectly spelt word.,INCORRECT,INGENE,INSOLVENT,INTROVERT,B,,official_final_key,0,,,pdf_text,70,0,
+ADRE-2024-G4-P2-ClassVIII-Q104,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,104,,Identify the item essential for meal.,Plate,Invitation,Table,Food,D,,official_final_key,0,,,pdf_text,71,0,
+ADRE-2024-G4-P2-ClassVIII-Q105,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,105,,BECD : GJHI :: ?,PSQR : TWUV,MNPO : QRTS,ADBC : FIGH,CBDA : HGIP,C,,official_final_key,0,,,pdf_text,72,0,
+ADRE-2024-G4-P2-ClassVIII-Q106,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,106,,"The length and breadth of a room are 8 meters and 6 meters respectively. Tom runs
 along all the four walls and finally along a diagonal in order to catch Jerry. How
-much total distance is covered by Tom?",38 meters,10 meters,14 meters,28 meters,,,,,,,A,,official_final_key,0,,,72,72,0,
-ADRE-2024-G4-P2-ClassVIII-Q107,ADRE,2024,IV,II,A,107,,"Pradip has a brother Rajiv. Pradip is the son of Kunti. Upendra is Kunti’s father.
-In terms of relationship, what is Rajiv of Upendra?",Grandfather,Grandson,Maternal uncle,Nephew,,,,,,,B,,official_final_key,0,,,73,73,0,
-ADRE-2024-G4-P2-ClassVIII-Q108,ADRE,2024,IV,II,A,108,,"What three digits would be in the middle of the result when the smallest possible
+much total distance is covered by Tom?",38 meters,10 meters,14 meters,28 meters,A,,official_final_key,0,,,pdf_text,72,0,
+ADRE-2024-G4-P2-ClassVIII-Q107,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,107,,"Pradip has a brother Rajiv. Pradip is the son of Kunti. Upendra is Kunti’s father.
+In terms of relationship, what is Rajiv of Upendra?",Grandfather,Grandson,Maternal uncle,Nephew,B,,official_final_key,0,,,pdf_text,73,0,
+ADRE-2024-G4-P2-ClassVIII-Q108,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,108,,"What three digits would be in the middle of the result when the smallest possible
 number is subtracted from the largest possible number created using all the digits
-of 49723?",739,389,954,395,,,,,,,D,,official_final_key,0,,,74,74,0,
-ADRE-2024-G4-P2-ClassVIII-Q109,ADRE,2024,IV,II,A,109,,Find the odd one out.,Kilometer,Hectometer,Decimeter,Perimeter,,,,,,,D,,official_final_key,0,,,74,74,0,
-ADRE-2024-G4-P2-ClassVIII-Q110,ADRE,2024,IV,II,A,110,,Identify the pair which is not similar to others.,Football : Goals,Cricket : Runs,Table Tennis : Score,Volleyball : Points,,,,,,,C,,official_final_key,0,,,75,75,0,
-ADRE-2024-G4-P2-ClassVIII-Q111,ADRE,2024,IV,II,A,111,,"What is the minimum number of straight lines required to draw the following
-figure?",16,14,11,12,,,,,,,A,,official_final_key,1,drawing|text_mentions_visual,exams/ADRE/2024/figures/G4-P2-ClassVIII/q111.png,76,76,1,
-ADRE-2024-G4-P2-ClassVIII-Q112,ADRE,2024,IV,II,A,112,,"What would come next in the following series?
-AN, CP, ER, ?",GT,FS,GS,FT,,,,,,,A,,official_final_key,0,,,77,77,0,
-ADRE-2024-G4-P2-ClassVIII-Q113,ADRE,2024,IV,II,A,113,,"Which set of letters would continue the following series?
-MAD, NAE, OAF, PAG, ?",QAE,RAH,RAE,QAH,,,,,,,D,,official_final_key,0,,,78,78,0,
-ADRE-2024-G4-P2-ClassVIII-Q114,ADRE,2024,IV,II,A,114,,"What would be the next in the following series?
-144, 100, 64, 36, ?",25,49,81,16,,,,,,,D,,official_final_key,0,,,79,79,0,
-ADRE-2024-G4-P2-ClassVIII-Q115,ADRE,2024,IV,II,A,115,,"What would fill the empty slot in the following series?
-AAK, EYM, IWO, UQ, USS",P,R,O,T,,,,,,,C,,official_final_key,0,,,80,80,0,
-ADRE-2024-G4-P2-ClassVIII-Q116,ADRE,2024,IV,II,A,116,,Which of the following numbers is incorrect in Roman?,Twenty-nine : XXVIIII,Fourteen : XIV,Forty-eight : XLVIII,Twenty-one : XXI,,,,,,,A,,official_final_key,0,,,81,81,0,
-ADRE-2024-G4-P2-ClassVIII-Q117,ADRE,2024,IV,II,A,117,,"Which of the following sequences would be meaningful for the given words?
-1. Word 2. Paragraph 3. Sentence 4. Letter 5. Phrase","4, 2, 5, 1, 3","4, 1, 5, 2, 3","4, 1, 5, 3, 2","4, 1, 3, 5, 2",,,,,,,C,,official_final_key,0,,,81,81,0,
-ADRE-2024-G4-P2-ClassVIII-Q118,ADRE,2024,IV,II,A,118,,"Rani is facing East and turns towards her left. Then she stretches both of her
-hands. Which direction is her left hand pointing to?",West,East,North,South,,,,,,,A,,official_final_key,0,,,82,82,0,
-ADRE-2024-G4-P2-ClassVIII-Q119,ADRE,2024,IV,II,A,119,,"Statements :
+of 49723?",739,389,954,395,D,,official_final_key,0,,,pdf_text,74,0,
+ADRE-2024-G4-P2-ClassVIII-Q109,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,109,,Find the odd one out.,Kilometer,Hectometer,Decimeter,Perimeter,D,,official_final_key,0,,,pdf_text,74,0,
+ADRE-2024-G4-P2-ClassVIII-Q110,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,110,,Identify the pair which is not similar to others.,Football : Goals,Cricket : Runs,Table Tennis : Score,Volleyball : Points,C,,official_final_key,0,,,pdf_text,75,0,
+ADRE-2024-G4-P2-ClassVIII-Q111,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,111,,"What is the minimum number of straight lines required to draw the following
+figure?",16,14,11,12,A,,official_final_key,1,drawing|text_mentions_visual,exams/ADRE/2024/figures/G4-P2-ClassVIII/q111.png,pdf_text,76,1,
+ADRE-2024-G4-P2-ClassVIII-Q112,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,112,,"What would come next in the following series?
+AN, CP, ER, ?",GT,FS,GS,FT,A,,official_final_key,0,,,pdf_text,77,0,
+ADRE-2024-G4-P2-ClassVIII-Q113,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,113,,"Which set of letters would continue the following series?
+MAD, NAE, OAF, PAG, ?",QAE,RAH,RAE,QAH,D,,official_final_key,0,,,pdf_text,78,0,
+ADRE-2024-G4-P2-ClassVIII-Q114,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,114,,"What would be the next in the following series?
+144, 100, 64, 36, ?",25,49,81,16,D,,official_final_key,0,,,pdf_text,79,0,
+ADRE-2024-G4-P2-ClassVIII-Q115,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,115,,"What would fill the empty slot in the following series?
+AAK, EYM, IWO,",P,R,O,T,C,,official_final_key,0,,,pdf_text,80,0,
+ADRE-2024-G4-P2-ClassVIII-Q116,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,116,,Which of the following numbers is incorrect in Roman?,Twenty-nine : XXVIIII,Fourteen : XIV,Forty-eight : XLVIII,Twenty-one : XXI,A,,official_final_key,0,,,pdf_text,81,0,
+ADRE-2024-G4-P2-ClassVIII-Q117,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,117,,"Which of the following sequences would be meaningful for the given words?
+1. Word 2. Paragraph 3. Sentence 4. Letter 5. Phrase","4, 2, 5, 1, 3","4, 1, 5, 2, 3","4, 1, 5, 3, 2","4, 1, 3, 5, 2",C,,official_final_key,0,,,pdf_text,81,0,
+ADRE-2024-G4-P2-ClassVIII-Q118,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,118,,"Rani is facing East and turns towards her left. Then she stretches both of her
+hands. Which direction is her left hand pointing to?",West,East,North,South,A,,official_final_key,0,,,pdf_text,82,0,
+ADRE-2024-G4-P2-ClassVIII-Q119,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,119,,"Statements :
 1. Rajib has a bruised knee.
 2. Athletes very often get hurt at sports.
-Which of the following can be inferred?",1 is the effect of 2,2 is the effect of 1,1 is independent of 2,Specific conclusion is not possible,,,,,,,D,,official_final_key,0,,,83,83,0,
-ADRE-2024-G4-P2-ClassVIII-Q120,ADRE,2024,IV,II,A,120,,"If MAN = 182, then CAT = ?",96,60,138,120,,,,,,,B,,official_final_key,0,,,84,84,0,
-ADRE-2024-G4-P2-ClassVIII-Q121,ADRE,2024,IV,II,A,121,,Identify the word with one pair of consecutive alphabets placed together.,Perimeter,Rigorous,Alphabet,Mariner,,,,,,,C,,official_final_key,0,,,85,85,0,
-ADRE-2024-G4-P2-ClassVIII-Q122,ADRE,2024,IV,II,A,122,,Which of the following pairs has similar relationship as School : Books ?,Field : Athletes,Office : Files,Auditorium : Audience,Table : Legs,,,,,,,B,,official_final_key,0,,,86,86,0,
-ADRE-2024-G4-P2-ClassVIII-Q123,ADRE,2024,IV,II,A,123,,"Insert appropriate addition/subtraction signs to get a correct equation in the
+Which of the following can be inferred?",1 is the effect of 2,2 is the effect of 1,1 is independent of 2,Specific conclusion is not possible,D,,official_final_key,0,,,pdf_text,83,0,
+ADRE-2024-G4-P2-ClassVIII-Q120,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,120,,"If MAN = 182, then CAT = ?",96,60,138,120,B,,official_final_key,0,,,pdf_text,84,0,
+ADRE-2024-G4-P2-ClassVIII-Q121,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,121,,Identify the word with one pair of consecutive alphabets placed together.,Perimeter,Rigorous,Alphabet,Mariner,C,,official_final_key,0,,,pdf_text,85,0,
+ADRE-2024-G4-P2-ClassVIII-Q122,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,122,,Which of the following pairs has similar relationship as School : Books ?,Field : Athletes,Office : Files,Auditorium : Audience,Table : Legs,B,,official_final_key,0,,,pdf_text,86,0,
+ADRE-2024-G4-P2-ClassVIII-Q123,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,123,,"Insert appropriate addition/subtraction signs to get a correct equation in the
 following :
-59 63 45 21 = 98","–, –, +","+, –, –","–, +, –","+, –, +",,,,,,,D,,official_final_key,0,,,86,87,0,
-ADRE-2024-G4-P2-ClassVIII-Q124,ADRE,2024,IV,II,A,124,,"Statements :
+59 63 45 21 = 98","–, –, +","+, –, –","–, +, –","+, –, +",D,,official_final_key,0,,,pdf_text,86,0,
+ADRE-2024-G4-P2-ClassVIII-Q124,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,124,,"Statements :
 No women teacher can play.
 Some women teachers are athletes.
 Conclusions :
 1. Male athletes can play.
 2. Some athletes can play.
-Select the correct option.",Only conclusion 1 follows,Only conclusion 2 follows,Either conclusion 1 or conclusion 2 follows,Neither conclusion 1 nor conclusion 2 follows,,,,,,,D,,official_final_key,0,,,87,88,0,
-ADRE-2024-G4-P2-ClassVIII-Q125,ADRE,2024,IV,II,A,125,,"What would replace ‘??’ in the following grid?
+Select the correct option.",Only conclusion 1 follows,Only conclusion 2 follows,Either conclusion 1 or conclusion 2 follows,Neither conclusion 1 nor conclusion 2 follows,D,,official_final_key,0,,,pdf_text,87,0,
+ADRE-2024-G4-P2-ClassVIII-Q125,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,125,,"What would replace ‘??’ in the following grid?
 C6 F8 I10
 M5 ?? S9
-R7 U9 X11",O6,P7,R7,Q6,,,,,,,B,,official_final_key,1,drawing,exams/ADRE/2024/figures/G4-P2-ClassVIII/q125.png,89,89,0,
-ADRE-2024-G4-P2-ClassVIII-Q126,ADRE,2024,IV,II,A,126,,Mark the synonym of ‘expose’.,Uncover,Cover up,Arrest,Distinguish,,,,,,,A,,official_final_key,0,,,91,,0,
-ADRE-2024-G4-P2-ClassVIII-Q127,ADRE,2024,IV,II,A,127,,Give one-word substitution for ‘a ruler with absolute power over a region’.,Prime Minister,Chief Minister,Traitor,Dictator,,,,,,,D,,official_final_key,0,,,91,,0,
-ADRE-2024-G4-P2-ClassVIII-Q128,ADRE,2024,IV,II,A,128,,"Fill in the best option in the blank :
-My mother is the _____ inspiration in my life.",bigger,big,biggestest,biggest,,,,,,,D,,official_final_key,0,,,91,,0,
-ADRE-2024-G4-P2-ClassVIII-Q129,ADRE,2024,IV,II,A,129,,"Which of the following means to retire, usually from sports?",Cast a ring,Hang up the boots,Fist of fury,Up the beanstalk,,,,,,,B,,official_final_key,0,,,91,,0,
-ADRE-2024-G4-P2-ClassVIII-Q130,ADRE,2024,IV,II,A,130,,"What will be the correct active voice of the following sentence?
-“The sound can be heard by me.”",The sound can hear me.,I can hear the sound.,The sound can be hear me.,I can be heard by the sound.,,,,,,,B,,official_final_key,0,,,91,,0,
-ADRE-2024-G4-P2-ClassVIII-Q131,ADRE,2024,IV,II,A,131,,What is the antonym of ‘exterior’?,Posterior,Interior,Superior,Inferior,,,,,,,B,,official_final_key,0,,,92,,0,
-ADRE-2024-G4-P2-ClassVIII-Q132,ADRE,2024,IV,II,A,132,,"Find the best preposition :
-The helicopter is flying _____ the village.",above,around,upon,on,,,,,,,A,,official_final_key,0,,,92,,0,
-ADRE-2024-G4-P2-ClassVIII-Q133,ADRE,2024,IV,II,A,133,,Identify the incorrectly spelt word.,Basic,Winter,Recsue,Micro,,,,,,,C,,official_final_key,0,,,92,,0,
-ADRE-2024-G4-P2-ClassVIII-Q134,ADRE,2024,IV,II,A,134,,"Choose the correct pronoun :
-Raghav’s mother asked _____ to clean the room.",he,his,him,it,,,,,,,C,,official_final_key,0,,,92,,0,
-ADRE-2024-G4-P2-ClassVIII-Q135,ADRE,2024,IV,II,A,135,,"Identify the subject in the following sentence :
-“The box is green in colour.”",The,Box,Green,Colour,,,,,,,B,,official_final_key,0,,,92,,0,
+R7 U9 X11",O6,P7,R7,Q6,B,,official_final_key,1,drawing,exams/ADRE/2024/figures/G4-P2-ClassVIII/q125.png,pdf_text,89,0,
+ADRE-2024-G4-P2-ClassVIII-Q126,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,126,,Mark the synonym of ‘expose’.,Uncover,Cover up,Arrest,Distinguish,A,,official_final_key,0,,,pdf_text,91,0,
+ADRE-2024-G4-P2-ClassVIII-Q127,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,127,,Give one-word substitution for ‘a ruler with absolute power over a region’.,Prime Minister,Chief Minister,Traitor,Dictator,D,,official_final_key,0,,,pdf_text,91,0,
+ADRE-2024-G4-P2-ClassVIII-Q128,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,128,,"Fill in the best option in the blank :
+My mother is the _____ inspiration in my life.",bigger,big,biggestest,biggest,D,,official_final_key,0,,,pdf_text,91,0,
+ADRE-2024-G4-P2-ClassVIII-Q129,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,129,,"Which of the following means to retire, usually from sports?",Cast a ring,Hang up the boots,Fist of fury,Up the beanstalk,B,,official_final_key,0,,,pdf_text,91,0,
+ADRE-2024-G4-P2-ClassVIII-Q130,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,130,,"What will be the correct active voice of the following sentence?
+“The sound can be heard by me.”",The sound can hear me.,I can hear the sound.,The sound can be hear me.,I can be heard by the sound.,B,,official_final_key,0,,,pdf_text,91,0,
+ADRE-2024-G4-P2-ClassVIII-Q131,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,131,,What is the antonym of ‘exterior’?,Posterior,Interior,Superior,Inferior,B,,official_final_key,0,,,pdf_text,92,0,
+ADRE-2024-G4-P2-ClassVIII-Q132,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,132,,"Find the best preposition :
+The helicopter is flying _____ the village.",above,around,upon,on,A,,official_final_key,0,,,pdf_text,92,0,
+ADRE-2024-G4-P2-ClassVIII-Q133,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,133,,Identify the incorrectly spelt word.,Basic,Winter,Recsue,Micro,C,,official_final_key,0,,,pdf_text,92,0,
+ADRE-2024-G4-P2-ClassVIII-Q134,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,134,,"Choose the correct pronoun :
+Raghav’s mother asked _____ to clean the room.",he,his,him,it,C,,official_final_key,0,,,pdf_text,92,0,
+ADRE-2024-G4-P2-ClassVIII-Q135,ADRE,2024,G4-P2-ClassVIII,Grade IV Paper II: Class VIII passed,A,135,,"Identify the subject in the following sentence :
+“The box is green in colour.”",The,Box,Green,Colour,B,,official_final_key,0,,,pdf_text,92,0,

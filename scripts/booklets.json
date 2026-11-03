@@ -10,7 +10,10 @@
    "brx",
    "hi",
    "en"
-  ]
+  ],
+  "paper_title": "Grade III Paper III: HSSLC (Class XII) passed",
+  "key_status": "final",
+  "source": "Repository axomrank/ADRE (SLRC Assam booklets)"
  },
  "ADRE/2022/G3-P4-Degree": {
   "conducting_body": "SLRC Assam",
@@ -23,7 +26,10 @@
    "brx",
    "hi",
    "en"
-  ]
+  ],
+  "paper_title": "Grade III Paper IV: Graduate",
+  "key_status": "final",
+  "source": "Repository axomrank/ADRE (SLRC Assam booklets)"
  },
  "ADRE/2022/G3-P5-Driver": {
   "conducting_body": "SLRC Assam",
@@ -36,7 +42,10 @@
    "brx",
    "hi",
    "en"
-  ]
+  ],
+  "paper_title": "Grade III Paper V: Driver",
+  "key_status": "final",
+  "source": "Repository axomrank/ADRE (SLRC Assam booklets)"
  },
  "ADRE/2022/G4-P1-HSLC": {
   "conducting_body": "SLRC Assam",
@@ -49,7 +58,10 @@
    "brx",
    "hi",
    "en"
-  ]
+  ],
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
+  "key_status": "final",
+  "source": "Repository axomrank/ADRE (SLRC Assam booklets)"
  },
  "ADRE/2022/G4-P2-ClassVIII": {
   "conducting_body": "SLRC Assam",
@@ -62,7 +74,10 @@
    "brx",
    "hi",
    "en"
-  ]
+  ],
+  "paper_title": "Grade IV Paper II: Class VIII passed",
+  "key_status": "final",
+  "source": "Repository axomrank/ADRE (SLRC Assam booklets)"
  },
  "ADRE/2024/G3-P3-HSSLC": {
   "conducting_body": "SLRC Assam",
@@ -75,7 +90,10 @@
    "bn",
    "brx",
    "hi"
-  ]
+  ],
+  "paper_title": "Grade III Paper III: HSSLC (Class XII) passed",
+  "key_status": "final",
+  "source": "Repository axomrank/ADRE (SLRC Assam booklets)"
  },
  "ADRE/2024/G3-P4-Degree": {
   "conducting_body": "SLRC Assam",
@@ -88,7 +106,10 @@
    "bn",
    "brx",
    "hi"
-  ]
+  ],
+  "paper_title": "Grade III Paper IV: Graduate",
+  "key_status": "final",
+  "source": "Repository axomrank/ADRE (SLRC Assam booklets)"
  },
  "ADRE/2024/G3-P5-Driver": {
   "conducting_body": "SLRC Assam",
@@ -101,7 +122,10 @@
    "bn",
    "brx",
    "hi"
-  ]
+  ],
+  "paper_title": "Grade III Paper V: Driver",
+  "key_status": "final",
+  "source": "Repository axomrank/ADRE (SLRC Assam booklets)"
  },
  "ADRE/2024/G4-P1-HSLC": {
   "conducting_body": "SLRC Assam",
@@ -114,7 +138,10 @@
    "bn",
    "brx",
    "hi"
-  ]
+  ],
+  "paper_title": "Grade IV Paper I: HSLC (Class X) passed",
+  "key_status": "final",
+  "source": "Repository axomrank/ADRE (SLRC Assam booklets)"
  },
  "ADRE/2024/G4-P2-ClassVIII": {
   "conducting_body": "SLRC Assam",
@@ -127,6 +154,188 @@
    "bn",
    "brx",
    "hi"
-  ]
+  ],
+  "paper_title": "Grade IV Paper II: Class VIII passed",
+  "key_status": "final",
+  "source": "Repository axomrank/ADRE (SLRC Assam booklets)"
+ },
+ "Assam-Police-Constable/2025/CWT-P2-SetA": {
+  "paper_title": "Combined Written Test 2025, Paper II (Constable AB/UB and equivalent posts), held 06-04-2025",
+  "conducting_body": "SLPRB Assam",
+  "booklet_set": "A",
+  "total_questions": 100,
+  "language_order": [
+   "as",
+   "bn",
+   "brx",
+   "en"
+  ],
+  "key_status": "provisional",
+  "source": "https://slprbassam.in/pdf/Notice2025/14042025/"
+ },
+ "Assam-Police-SI/2025/CWT-P1-SetA": {
+  "paper_title": "Combined Written Test 2025, Paper I (SI UB/AB, SI Communication, Asst. Deputy Controller Civil Defence), held 05-01-2025",
+  "conducting_body": "SLPRB Assam",
+  "booklet_set": "A",
+  "total_questions": 100,
+  "language_order": [
+   "as",
+   "bn",
+   "brx",
+   "en"
+  ],
+  "key_status": "final",
+  "source": "https://slprbassam.in/pdf/Notice2025/28022025/"
+ },
+ "TET/2021/Paper-I": {
+  "paper_title": "Assam TET 2021, Paper I (Lower Primary)",
+  "conducting_body": "Samagra Shiksha Axom",
+  "booklet_set": "A",
+  "total_questions": 100,
+  "language_order": [
+   "as",
+   "bn",
+   "brx",
+   "en"
+  ],
+  "source": "AglaSem Docs (unofficial copy)"
+ },
+ "TET/2021/Paper-II": {
+  "paper_title": "Assam TET 2021, Paper II (Upper Primary), Option A",
+  "conducting_body": "Samagra Shiksha Axom",
+  "booklet_set": "A",
+  "total_questions": 100,
+  "language_order": [
+   "as",
+   "bn",
+   "brx",
+   "en"
+  ],
+  "source": "AglaSem Docs (unofficial copy)"
+ },
+ "TET/2021/Special-Paper-I": {
+  "paper_title": "Assam Special TET 2021, Paper I (Lower Primary)",
+  "conducting_body": "Samagra Shiksha Axom",
+  "booklet_set": "A",
+  "total_questions": 150,
+  "language_order": [
+   "as",
+   "bn",
+   "brx",
+   "hi",
+   "en"
+  ],
+  "source": "AglaSem Docs (unofficial copy)",
+  "question_range": [
+   1,
+   120
+  ],
+  "note": "Q121-150 (Part V, optional Language-I in nine languages) are not included."
+ },
+ "APSC-CCE-Prelims/2023/GS-I": {
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper I",
+  "conducting_body": "Assam Public Service Commission",
+  "booklet_set": "A",
+  "total_questions": 100,
+  "language_order": [
+   "en"
+  ],
+  "key_status": "provisional",
+  "mode": "ocr",
+  "source": "https://apsc.nic.in/questions_2023.php ; keys: https://apsc.nic.in/answer_keys.php",
+  "start_page": 2
+ },
+ "APSC-CCE-Prelims/2023/GS-II": {
+  "paper_title": "Combined Competitive Examination (Preliminary) 2023, General Studies Paper II (CSAT)",
+  "conducting_body": "Assam Public Service Commission",
+  "booklet_set": "A",
+  "total_questions": 80,
+  "language_order": [
+   "en"
+  ],
+  "key_status": "provisional",
+  "mode": "ocr",
+  "source": "https://apsc.nic.in/questions_2023.php ; keys: https://apsc.nic.in/answer_keys.php",
+  "start_page": 2
+ },
+ "APSC-CCE-Prelims/2024/GS-I": {
+  "paper_title": "Combined Competitive Examination (Preliminary) 2024, General Studies Paper I",
+  "conducting_body": "Assam Public Service Commission",
+  "booklet_set": "A",
+  "total_questions": 100,
+  "language_order": [
+   "en"
+  ],
+  "key_status": "provisional",
+  "mode": "ocr",
+  "source": "https://apsc.nic.in/questions_2023.php ; keys: https://apsc.nic.in/answer_keys.php",
+  "start_page": 2
+ },
+ "APSC-CCE-Prelims/2024/GS-II": {
+  "paper_title": "Combined Competitive Examination (Preliminary) 2024, General Studies Paper II (CSAT)",
+  "conducting_body": "Assam Public Service Commission",
+  "booklet_set": "A",
+  "total_questions": 80,
+  "language_order": [
+   "en"
+  ],
+  "key_status": "provisional",
+  "mode": "ocr",
+  "source": "https://apsc.nic.in/questions_2023.php ; keys: https://apsc.nic.in/answer_keys.php",
+  "start_page": 2
+ },
+ "APSC-CCE-Prelims/2025/GS-I": {
+  "paper_title": "Combined Competitive Examination (Preliminary) 2025, General Studies Paper I",
+  "conducting_body": "Assam Public Service Commission",
+  "booklet_set": "A",
+  "total_questions": 100,
+  "language_order": [
+   "en"
+  ],
+  "key_status": "provisional",
+  "mode": "ocr",
+  "source": "https://apsc.nic.in/questions_2023.php ; keys: https://apsc.nic.in/answer_keys.php",
+  "start_page": 2,
+  "second_language": "as"
+ },
+ "APSC-CCE-Prelims/2025/GS-II": {
+  "paper_title": "Combined Competitive Examination (Preliminary) 2025, General Studies Paper II (CSAT)",
+  "conducting_body": "Assam Public Service Commission",
+  "booklet_set": "A",
+  "total_questions": 80,
+  "language_order": [
+   "en"
+  ],
+  "key_status": "provisional",
+  "mode": "ocr",
+  "source": "https://apsc.nic.in/questions_2023.php ; keys: https://apsc.nic.in/answer_keys.php",
+  "start_page": 2,
+  "second_language": "as"
+ },
+ "DME/2025/G3-Technical": {
+  "paper_title": "DME Assam Grade III (Technical) written test, held 12-01-2025",
+  "conducting_body": "Directorate of Medical Education, Assam",
+  "booklet_set": null,
+  "total_questions": 50,
+  "language_order": [
+   "en"
+  ],
+  "mode": "ocr",
+  "source": "freshersnow.com (unofficial copy)",
+  "start_page": 2,
+  "note": "Third-party scan containing Q1-50 with pages missing (about Q16-20 and Q36-40)."
+ },
+ "DME/2025/G3-NonTechnical": {
+  "paper_title": "DME Assam Grade III (Non-Technical) written test, held 30-03-2025",
+  "conducting_body": "Directorate of Medical Education, Assam",
+  "booklet_set": null,
+  "total_questions": 50,
+  "language_order": [
+   "en"
+  ],
+  "mode": "ocr",
+  "source": "careerpower.in (unofficial copy)",
+  "start_page": 2,
+  "note": "Third-party scan containing Q1-50 only; a candidate's tick marks are visible on some options and are not an answer key."
  }
 }

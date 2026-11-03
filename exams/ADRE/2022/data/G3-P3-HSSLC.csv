@@ -1,148 +1,148 @@
-id,exam,year,grade,paper,booklet_set,q_no,context_en,question_en,option_a_en,option_b_en,option_c_en,option_d_en,context_as,question_as,option_a_as,option_b_as,option_c_as,option_d_as,answer,answer_note,answer_source,has_visual,visual_types,images,page_en,page_as,needs_review,review_notes
-ADRE-2022-G3-P3-HSSLC-Q001,ADRE,2022,III,III,A,1,,Which colour is not present in the Olympic Flag ?,Red,Green,Purple,Yellow,,,,,,,,,,0,,,6,6,0,
-ADRE-2022-G3-P3-HSSLC-Q002,ADRE,2022,III,III,A,2,,The Capital City of Peru is,Bogota,Santiago,Havana,Lima,,,,,,,,,,0,,,6,6,0,
-ADRE-2022-G3-P3-HSSLC-Q003,ADRE,2022,III,III,A,3,,The National Stock Exchange is located in,Mumbai,Kolkata,Hyderabad,New Delhi,,,,,,,,,,0,,,7,7,0,
-ADRE-2022-G3-P3-HSSLC-Q004,ADRE,2022,III,III,A,4,,"From the following list identify the hardware component that can be used to
-transfer files from one computer to another.",BIOS,Hard Disk,CPU,USB Flash Drive,,,,,,,,,,0,,,8,7,0,
-ADRE-2022-G3-P3-HSSLC-Q005,ADRE,2022,III,III,A,5,,"The range which separates Indo-Gangetic Plains of Northern India from the
-Deccan Plateau of Southern India is",Karakoram Range,Satpura and Vindhya Range,Aravalli Range,Pir Panjal Range,,,,,,,,,,0,,,8,8,0,
-ADRE-2022-G3-P3-HSSLC-Q006,ADRE,2022,III,III,A,6,,"Amongst the following rivers, which one does not originate from the
-Himalayas ?",Indus,Ganga,Yamuna,Narmada,,,,,,,,,,0,,,9,8,0,
-ADRE-2022-G3-P3-HSSLC-Q007,ADRE,2022,III,III,A,7,,Water has maximum density at,100 ºC,–40 ºC,0 ºC,4 ºC,,,,,,,,,,0,,,9,9,0,
-ADRE-2022-G3-P3-HSSLC-Q008,ADRE,2022,III,III,A,8,,"Which social science studies the production, distribution and consumption of
-wealth ?",Commerce,Economics,Political Science,Sociology,,,,,,,,,,0,,,10,9,0,
-ADRE-2022-G3-P3-HSSLC-Q009,ADRE,2022,III,III,A,9,,Identify the normally radioactive material in the following list.,Plutonium,Germanium,Osmium,Cadmium,,,,,,,,,,0,,,10,10,0,
-ADRE-2022-G3-P3-HSSLC-Q010,ADRE,2022,III,III,A,10,,"In Volleyball, how many players per team are on the court ?",Five,Seven,Six,Eight,,,,,,,,,,0,,,11,10,0,
-ADRE-2022-G3-P3-HSSLC-Q011,ADRE,2022,III,III,A,11,,How many states of India shares border with Assam ?,Nine,Seven,Eight,Ten,,,,,,,,,,0,,,11,11,0,
-ADRE-2022-G3-P3-HSSLC-Q012,ADRE,2022,III,III,A,12,,"Who is the Finance Minister of Assam as on 01st of January, 2022 ?",Ajanta Neog,Chandra Mohan Patowary,Himanta Biswa Sarma,Pijush Hazarika,,,,,,,,,,0,,,12,11,0,
-ADRE-2022-G3-P3-HSSLC-Q013,ADRE,2022,III,III,A,13,,"As on 31st of March, 2022, how many districts are there in Assam ?",Thirty Four,Thirty Five,Thirty Three,Thirty Two,,,,,,,,,,0,,,12,12,0,
-ADRE-2022-G3-P3-HSSLC-Q014,ADRE,2022,III,III,A,14,,Which of the following countries share border with Assam ?,China,Nepal,Myanmar,Bhutan,,,,,,,,,,0,,,13,12,0,
-ADRE-2022-G3-P3-HSSLC-Q015,ADRE,2022,III,III,A,15,,"Amongst the following bridges, which one is at the Easternmost place ?",Naranarayan Setu,Saraighat Bridge,Bhupen Hazarika Setu,Koliabhomora Setu,,,,,,,,,,0,,,13,13,0,
-ADRE-2022-G3-P3-HSSLC-Q016,ADRE,2022,III,III,A,16,,Which of the following river is in the Barak Valley ?,Dikrong,Kushiyara,Boginadi,Bharalu,,,,,,,,,,0,,,14,13,0,
-ADRE-2022-G3-P3-HSSLC-Q017,ADRE,2022,III,III,A,17,,What is the State Tree of Assam ?,Hollong,Teak,Saal,Peepal,,,,,,,,,,0,,,14,14,0,
-ADRE-2022-G3-P3-HSSLC-Q018,ADRE,2022,III,III,A,18,,Poa Mecca and Hoygriv Madhab Temple is at which place of Assam ?,Sibsagar,Tezpur,Dumunichowki,Hajo,,,,,,,,,,0,,,15,14,0,
-ADRE-2022-G3-P3-HSSLC-Q019,ADRE,2022,III,III,A,19,,Name the tea research institute at Jorhat.,Tarai,Tocklai,Tamoi,Tingrai,,,,,,,,,,0,,,15,15,0,
-ADRE-2022-G3-P3-HSSLC-Q020,ADRE,2022,III,III,A,20,,Name the first talkie in Assamese.,Bhaiti,Baruar Sansaar,Joymoti,Indramalati,,,,,,,,,,0,,,15,15,0,
-ADRE-2022-G3-P3-HSSLC-Q021,ADRE,2022,III,III,A,21,,Swaraj Party was founded by :,Bhimrao Ambedkar and Sardar Vallabhbhai Patel,Aruna Asaf Ali and Subhash Chandra Bose,Bhagat Singh and Rajguru,Motilal Nehru and Chittaranjan Das,,,,,,,,,,0,,,16,16,0,
-ADRE-2022-G3-P3-HSSLC-Q022,ADRE,2022,III,III,A,22,,"Which article of Indian Constitution prohibits discrimination on the grounds
-of religion, race, caste, sex and place of birth ?",Article 25,Article 13,Article 15,Article 19,,,,,,,,,,0,,,17,16,0,
-ADRE-2022-G3-P3-HSSLC-Q023,ADRE,2022,III,III,A,23,,"The Gol Gumbad (Gumbaz), the mausoleum of Muhammad Adil Shah, is
-located in :",Bijapur,Delhi,Hyderabad,Bhopal,,,,,,,,,,0,,,17,17,0,
-ADRE-2022-G3-P3-HSSLC-Q024,ADRE,2022,III,III,A,24,,"What does ‘A’ stand for in ‘UDAN’, the initiative of the Ministry of Civil
-Aviation of India ?",Aam,Air,Aakash,Aviation,,,,,,,,,,0,,,18,18,0,
-ADRE-2022-G3-P3-HSSLC-Q025,ADRE,2022,III,III,A,25,,"Which company became the first Indian company to hit the ` 10 Lakh Crore
-market valuations ?",Airtel,TCS,Wipro,Reliance,,,,,,,,,,0,,,19,18,0,
-ADRE-2022-G3-P3-HSSLC-Q026,ADRE,2022,III,III,A,26,,"Which of the following pairs is INCORRECT with reference to the dance
-forms and their native states ?",Yakshagana – Tamil Nadu,Sattriya – Assam,Mohiniattam – Kerala,Odissi – Odisha,,,,,,,,,,0,,,19,19,0,
-ADRE-2022-G3-P3-HSSLC-Q027,ADRE,2022,III,III,A,27,,The only Ramsar site wetland in Assam is the :,Deepor beel,Bordoloni,Chandubi beel,Dibru-Saikhowa,,,,,,,,,,0,,,20,19,0,
-ADRE-2022-G3-P3-HSSLC-Q028,ADRE,2022,III,III,A,28,,"Which of the following ministries is NOT associated with the initiative of
-“Beti Bachao, Beti Padhao” scheme ?",Ministry of Health and Family Welfare,Ministry of Rural Development,Ministry of Women and Child Development,Ministry of Human Resource Development,,,,,,,,,,0,,,20,20,0,
-ADRE-2022-G3-P3-HSSLC-Q029,ADRE,2022,III,III,A,29,,The Assam Medical College is situated in :,Silchar,Jorhat,Guwahati,Dibrugarh,,,,,,,,,,0,,,21,21,0,
-ADRE-2022-G3-P3-HSSLC-Q030,ADRE,2022,III,III,A,30,,"The mission Indradhanush, an initiative of the Government of India, is
-associated with :",Immunisation,Cleanliness,Digitalisation,Highway development,,,,,,,,,,0,,,22,21,0,
-ADRE-2022-G3-P3-HSSLC-Q031,ADRE,2022,III,III,A,31,,Article 17 of the Constitution of India deals with the abolition of :,Slavery,Bonded Labour,Untouchability,Sati,,,,,,,,,,0,,,22,22,0,
-ADRE-2022-G3-P3-HSSLC-Q032,ADRE,2022,III,III,A,32,,Which of the following events did NOT take place in 1919 ?,Rowlatt Act was passed,Montagu – Chelmsford Reforms were announced,Partition of Bengal,Jallianwala Bagh tragedy,,,,,,,,,,0,,,23,22,0,
-ADRE-2022-G3-P3-HSSLC-Q033,ADRE,2022,III,III,A,33,,"Which of the following schemes was launched in July 2019 to accelerate
-water harvesting and conservation measures ?",Jal Shakti Abhiyan,Jal Vikas Abhiyan,Jal Hi Dhan Hai Abhiyan,Jal Bachao Abhiyan,,,,,,,,,,0,,,23,23,0,
-ADRE-2022-G3-P3-HSSLC-Q034,ADRE,2022,III,III,A,34,,Which of the following locations is NOT associated with the petroleum sector ?,Duliajan,Nazira,Bongaigaon,Margherita,,,,,,,,,,0,,,24,24,0,
-ADRE-2022-G3-P3-HSSLC-Q035,ADRE,2022,III,III,A,35,,Which country was first to implement Goods and Services Tax (GST) ?,Germany,France,Canada,USA,,,,,,,,,,0,,,24,24,0,
-ADRE-2022-G3-P3-HSSLC-Q036,ADRE,2022,III,III,A,36,,"As of January 2022, the state which has the maximum number of seats in the
-Rajya Sabha, is :",Karnataka,Madhya Pradesh,Rajasthan,Uttar Pradesh,,,,,,,,,,0,,,25,25,0,
-ADRE-2022-G3-P3-HSSLC-Q037,ADRE,2022,III,III,A,37,,Hiuen Tsang visited India during the reign of the King :,Harshavardhana,Ashoka,Vishnugupta,Samudragupta,,,,,,,,,,0,,,26,25,0,
-ADRE-2022-G3-P3-HSSLC-Q038,ADRE,2022,III,III,A,38,,Who among the following publishes the Economic Survey of India ?,National Development Council,Institute of Finance,Indian Statistical Institute,Ministry of Finance,,,,,,,,,,0,,,26,26,0,
-ADRE-2022-G3-P3-HSSLC-Q039,ADRE,2022,III,III,A,39,,"In which of the following economies, all productive resources are owned and
-controlled by the government ?",Socialist,Capitalist,Mixed,Dual,,,,,,,,,,0,,,27,26,0,
-ADRE-2022-G3-P3-HSSLC-Q040,ADRE,2022,III,III,A,40,,"In which of the following locations was the Quit India Movement launched by
-Mahatma Gandhi in the year 1942 ?",Shivaji Park,Brabourne Stadium,August Kranti Maidan,Pragati Maidan,,,,,,,,,,0,,,27,27,0,
-ADRE-2022-G3-P3-HSSLC-Q041,ADRE,2022,III,III,A,41,,"The LCM of two numbers is 40 and their HCF is 4. If the difference between
-the two numbers is 12, then the sum of the numbers is :",20,24,28,32,,,,,,,,,,1,drawing,exams/ADRE/2022/figures/G3-P3-HSSLC/q041.png,28,28,0,
-ADRE-2022-G3-P3-HSSLC-Q042,ADRE,2022,III,III,A,42,,"The value of the expression
+id,exam,year,paper_code,paper_title,booklet_set,q_no,context,question,option_a,option_b,option_c,option_d,answer,answer_note,answer_source,has_visual,visual_types,images,text_source,page,needs_review,review_notes
+ADRE-2022-G3-P3-HSSLC-Q001,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,1,,Which colour is not present in the Olympic Flag ?,Red,Green,Purple,Yellow,,,,0,,,pdf_text,6,0,
+ADRE-2022-G3-P3-HSSLC-Q002,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,2,,The Capital City of Peru is,Bogota,Santiago,Havana,Lima,,,,0,,,pdf_text,6,0,
+ADRE-2022-G3-P3-HSSLC-Q003,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,3,,The National Stock Exchange is located in,Mumbai,Kolkata,Hyderabad,New Delhi,,,,0,,,pdf_text,7,0,
+ADRE-2022-G3-P3-HSSLC-Q004,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,4,,"From the following list identify the hardware component that can be used to
+transfer files from one computer to another.",BIOS,Hard Disk,CPU,USB Flash Drive,,,,0,,,pdf_text,8,0,
+ADRE-2022-G3-P3-HSSLC-Q005,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,5,,"The range which separates Indo-Gangetic Plains of Northern India from the
+Deccan Plateau of Southern India is",Karakoram Range,Satpura and Vindhya Range,Aravalli Range,Pir Panjal Range,,,,0,,,pdf_text,8,0,
+ADRE-2022-G3-P3-HSSLC-Q006,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,6,,"Amongst the following rivers, which one does not originate from the
+Himalayas ?",Indus,Ganga,Yamuna,Narmada,,,,0,,,pdf_text,9,0,
+ADRE-2022-G3-P3-HSSLC-Q007,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,7,,Water has maximum density at,100 ºC,–40 ºC,0 ºC,4 ºC,,,,0,,,pdf_text,9,0,
+ADRE-2022-G3-P3-HSSLC-Q008,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,8,,"Which social science studies the production, distribution and consumption of
+wealth ?",Commerce,Economics,Political Science,Sociology,,,,0,,,pdf_text,10,0,
+ADRE-2022-G3-P3-HSSLC-Q009,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,9,,Identify the normally radioactive material in the following list.,Plutonium,Germanium,Osmium,Cadmium,,,,0,,,pdf_text,10,0,
+ADRE-2022-G3-P3-HSSLC-Q010,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,10,,"In Volleyball, how many players per team are on the court ?",Five,Seven,Six,Eight,,,,0,,,pdf_text,11,0,
+ADRE-2022-G3-P3-HSSLC-Q011,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,11,,How many states of India shares border with Assam ?,Nine,Seven,Eight,Ten,,,,0,,,pdf_text,11,0,
+ADRE-2022-G3-P3-HSSLC-Q012,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,12,,"Who is the Finance Minister of Assam as on 01st of January, 2022 ?",Ajanta Neog,Chandra Mohan Patowary,Himanta Biswa Sarma,Pijush Hazarika,,,,0,,,pdf_text,12,0,
+ADRE-2022-G3-P3-HSSLC-Q013,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,13,,"As on 31st of March, 2022, how many districts are there in Assam ?",Thirty Four,Thirty Five,Thirty Three,Thirty Two,,,,0,,,pdf_text,12,0,
+ADRE-2022-G3-P3-HSSLC-Q014,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,14,,Which of the following countries share border with Assam ?,China,Nepal,Myanmar,Bhutan,,,,0,,,pdf_text,13,0,
+ADRE-2022-G3-P3-HSSLC-Q015,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,15,,"Amongst the following bridges, which one is at the Easternmost place ?",Naranarayan Setu,Saraighat Bridge,Bhupen Hazarika Setu,Koliabhomora Setu,,,,0,,,pdf_text,13,0,
+ADRE-2022-G3-P3-HSSLC-Q016,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,16,,Which of the following river is in the Barak Valley ?,Dikrong,Kushiyara,Boginadi,Bharalu,,,,0,,,pdf_text,14,0,
+ADRE-2022-G3-P3-HSSLC-Q017,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,17,,What is the State Tree of Assam ?,Hollong,Teak,Saal,Peepal,,,,0,,,pdf_text,14,0,
+ADRE-2022-G3-P3-HSSLC-Q018,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,18,,Poa Mecca and Hoygriv Madhab Temple is at which place of Assam ?,Sibsagar,Tezpur,Dumunichowki,Hajo,,,,0,,,pdf_text,15,0,
+ADRE-2022-G3-P3-HSSLC-Q019,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,19,,Name the tea research institute at Jorhat.,Tarai,Tocklai,Tamoi,Tingrai,,,,0,,,pdf_text,15,0,
+ADRE-2022-G3-P3-HSSLC-Q020,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,20,,Name the first talkie in Assamese.,Bhaiti,Baruar Sansaar,Joymoti,Indramalati,,,,0,,,pdf_text,15,0,
+ADRE-2022-G3-P3-HSSLC-Q021,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,21,,Swaraj Party was founded by :,Bhimrao Ambedkar and Sardar Vallabhbhai Patel,Aruna Asaf Ali and Subhash Chandra Bose,Bhagat Singh and Rajguru,Motilal Nehru and Chittaranjan Das,,,,0,,,pdf_text,16,0,
+ADRE-2022-G3-P3-HSSLC-Q022,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,22,,"Which article of Indian Constitution prohibits discrimination on the grounds
+of religion, race, caste, sex and place of birth ?",Article 25,Article 13,Article 15,Article 19,,,,0,,,pdf_text,17,0,
+ADRE-2022-G3-P3-HSSLC-Q023,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,23,,"The Gol Gumbad (Gumbaz), the mausoleum of Muhammad Adil Shah, is
+located in :",Bijapur,Delhi,Hyderabad,Bhopal,,,,0,,,pdf_text,17,0,
+ADRE-2022-G3-P3-HSSLC-Q024,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,24,,"What does ‘A’ stand for in ‘UDAN’, the initiative of the Ministry of Civil
+Aviation of India ?",Aam,Air,Aakash,Aviation,,,,0,,,pdf_text,18,0,
+ADRE-2022-G3-P3-HSSLC-Q025,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,25,,"Which company became the first Indian company to hit the ` 10 Lakh Crore
+market valuations ?",Airtel,TCS,Wipro,Reliance,,,,0,,,pdf_text,19,0,
+ADRE-2022-G3-P3-HSSLC-Q026,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,26,,"Which of the following pairs is INCORRECT with reference to the dance
+forms and their native states ?",Yakshagana – Tamil Nadu,Sattriya – Assam,Mohiniattam – Kerala,Odissi – Odisha,,,,0,,,pdf_text,19,0,
+ADRE-2022-G3-P3-HSSLC-Q027,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,27,,The only Ramsar site wetland in Assam is the :,Deepor beel,Bordoloni,Chandubi beel,Dibru-Saikhowa,,,,0,,,pdf_text,20,0,
+ADRE-2022-G3-P3-HSSLC-Q028,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,28,,"Which of the following ministries is NOT associated with the initiative of
+“Beti Bachao, Beti Padhao” scheme ?",Ministry of Health and Family Welfare,Ministry of Rural Development,Ministry of Women and Child Development,Ministry of Human Resource Development,,,,0,,,pdf_text,20,0,
+ADRE-2022-G3-P3-HSSLC-Q029,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,29,,The Assam Medical College is situated in :,Silchar,Jorhat,Guwahati,Dibrugarh,,,,0,,,pdf_text,21,0,
+ADRE-2022-G3-P3-HSSLC-Q030,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,30,,"The mission Indradhanush, an initiative of the Government of India, is
+associated with :",Immunisation,Cleanliness,Digitalisation,Highway development,,,,0,,,pdf_text,22,0,
+ADRE-2022-G3-P3-HSSLC-Q031,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,31,,Article 17 of the Constitution of India deals with the abolition of :,Slavery,Bonded Labour,Untouchability,Sati,,,,0,,,pdf_text,22,0,
+ADRE-2022-G3-P3-HSSLC-Q032,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,32,,Which of the following events did NOT take place in 1919 ?,Rowlatt Act was passed,Montagu – Chelmsford Reforms were announced,Partition of Bengal,Jallianwala Bagh tragedy,,,,0,,,pdf_text,23,0,
+ADRE-2022-G3-P3-HSSLC-Q033,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,33,,"Which of the following schemes was launched in July 2019 to accelerate
+water harvesting and conservation measures ?",Jal Shakti Abhiyan,Jal Vikas Abhiyan,Jal Hi Dhan Hai Abhiyan,Jal Bachao Abhiyan,,,,0,,,pdf_text,23,0,
+ADRE-2022-G3-P3-HSSLC-Q034,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,34,,Which of the following locations is NOT associated with the petroleum sector ?,Duliajan,Nazira,Bongaigaon,Margherita,,,,0,,,pdf_text,24,0,
+ADRE-2022-G3-P3-HSSLC-Q035,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,35,,Which country was first to implement Goods and Services Tax (GST) ?,Germany,France,Canada,USA,,,,0,,,pdf_text,24,0,
+ADRE-2022-G3-P3-HSSLC-Q036,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,36,,"As of January 2022, the state which has the maximum number of seats in the
+Rajya Sabha, is :",Karnataka,Madhya Pradesh,Rajasthan,Uttar Pradesh,,,,0,,,pdf_text,25,0,
+ADRE-2022-G3-P3-HSSLC-Q037,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,37,,Hiuen Tsang visited India during the reign of the King :,Harshavardhana,Ashoka,Vishnugupta,Samudragupta,,,,0,,,pdf_text,26,0,
+ADRE-2022-G3-P3-HSSLC-Q038,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,38,,Who among the following publishes the Economic Survey of India ?,National Development Council,Institute of Finance,Indian Statistical Institute,Ministry of Finance,,,,0,,,pdf_text,26,0,
+ADRE-2022-G3-P3-HSSLC-Q039,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,39,,"In which of the following economies, all productive resources are owned and
+controlled by the government ?",Socialist,Capitalist,Mixed,Dual,,,,0,,,pdf_text,27,0,
+ADRE-2022-G3-P3-HSSLC-Q040,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,40,,"In which of the following locations was the Quit India Movement launched by
+Mahatma Gandhi in the year 1942 ?",Shivaji Park,Brabourne Stadium,August Kranti Maidan,Pragati Maidan,,,,0,,,pdf_text,27,0,
+ADRE-2022-G3-P3-HSSLC-Q041,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,41,,"The LCM of two numbers is 40 and their HCF is 4. If the difference between
+the two numbers is 12, then the sum of the numbers is :",20,24,28,32,,,,1,drawing,exams/ADRE/2022/figures/G3-P3-HSSLC/q041.png,pdf_text,28,0,
+ADRE-2022-G3-P3-HSSLC-Q042,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,42,,"The value of the expression
 51 + 134 + 5 42 + 16 + 9
-is :",52,8,19,9,,,,,,,,,,1,drawing|math,exams/ADRE/2022/figures/G3-P3-HSSLC/q042.png,29,28,1,
-ADRE-2022-G3-P3-HSSLC-Q043,ADRE,2022,III,III,A,43,,"The number when divided by 2, leaves remainder 1; when divided by 3,
-leaves remainder 2 and when divided by 4, leaves remainder 3, is :",25,41,13,11,,,,,,,,,,0,,,30,29,0,
-ADRE-2022-G3-P3-HSSLC-Q044,ADRE,2022,III,III,A,44,,"When the numerator of a fraction increases by 3, the fraction increases by its
-three-fourth. The numerator of the fraction is :",3,4,5,6,,,,,,,,,,0,,,31,30,0,
-ADRE-2022-G3-P3-HSSLC-Q045,ADRE,2022,III,III,A,45,,"1 1 1	2
+is :",52,8,19,9,,,,1,drawing|math,exams/ADRE/2022/figures/G3-P3-HSSLC/q042.png,pdf_text,29,1,
+ADRE-2022-G3-P3-HSSLC-Q043,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,43,,"The number when divided by 2, leaves remainder 1; when divided by 3,
+leaves remainder 2 and when divided by 4, leaves remainder 3, is :",25,41,13,11,,,,0,,,pdf_text,30,0,
+ADRE-2022-G3-P3-HSSLC-Q044,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,44,,"When the numerator of a fraction increases by 3, the fraction increases by its
+three-fourth. The numerator of the fraction is :",3,4,5,6,,,,0,,,pdf_text,31,0,
+ADRE-2022-G3-P3-HSSLC-Q045,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,45,,"1 1 1	2
 The smallest among,, and is :
 2 3 4	3
-2	1",3 1,2 1,3,4,,,,,,,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G3-P3-HSSLC/q045.png,32,31,0,
-ADRE-2022-G3-P3-HSSLC-Q046,ADRE,2022,III,III,A,46,,"If x = 3, then the value of x⁴ + is :
+2	1",3 1,2 1,3,4,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G3-P3-HSSLC/q045.png,pdf_text,32,0,
+ADRE-2022-G3-P3-HSSLC-Q046,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,46,,"If x = 3, then the value of x⁴ + is :
 x⁴
-1	1",9 9 1,2 9 1,9 2,9,,,,,,,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G3-P3-HSSLC/q046.png,33,32,0,
-ADRE-2022-G3-P3-HSSLC-Q047,ADRE,2022,III,III,A,47,,"x y z	x + y +z
+1	1",9 9 1,2 9 1,9 2,9,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G3-P3-HSSLC/q046.png,pdf_text,33,0,
+ADRE-2022-G3-P3-HSSLC-Q047,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,47,,"x y z	x + y +z
 If = =, then	is equal to
-3 4 7	2z",1,3,2,4,,,,,,,,,,1,drawing|math|table_layout,exams/ADRE/2022/figures/G3-P3-HSSLC/q047.png,34,33,1,
-ADRE-2022-G3-P3-HSSLC-Q048,ADRE,2022,III,III,A,48,,"The sum of the four consecutive alternate numbers is 64. The smallest
-number amongst them is :",13,11,16,9,,,,,,,,,,0,,,35,34,0,
-ADRE-2022-G3-P3-HSSLC-Q049,ADRE,2022,III,III,A,49,,"Two numbers are in the ratio of 2 : 3 and the product of their LCM and HCF
-is 96. The sum of the numbers is :",8,12,20,36,,,,,,,,,,0,,,35,35,0,
-ADRE-2022-G3-P3-HSSLC-Q050,ADRE,2022,III,III,A,50,,"If the salary of A is 25% more than that of B, how much percentage is the
-salary of B lower than that of A ?",20% 1,25% 2,12 % 2,16 % 3,,,,,,,,,,1,drawing,exams/ADRE/2022/figures/G3-P3-HSSLC/q050.png,36,36,0,
-ADRE-2022-G3-P3-HSSLC-Q051,ADRE,2022,III,III,A,51,,"98 toffees were distributed to some boys in a group. Each boy in the group got
+3 4 7	2z",1,3,2,4,,,,1,drawing|math|table_layout,exams/ADRE/2022/figures/G3-P3-HSSLC/q047.png,pdf_text,34,1,
+ADRE-2022-G3-P3-HSSLC-Q048,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,48,,"The sum of the four consecutive alternate numbers is 64. The smallest
+number amongst them is :",13,11,16,9,,,,0,,,pdf_text,35,0,
+ADRE-2022-G3-P3-HSSLC-Q049,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,49,,"Two numbers are in the ratio of 2 : 3 and the product of their LCM and HCF
+is 96. The sum of the numbers is :",8,12,20,36,,,,0,,,pdf_text,35,0,
+ADRE-2022-G3-P3-HSSLC-Q050,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,50,,"If the salary of A is 25% more than that of B, how much percentage is the
+salary of B lower than that of A ?",20% 1,25% 2,12 % 2,16 % 3,,,,1,drawing,exams/ADRE/2022/figures/G3-P3-HSSLC/q050.png,pdf_text,36,0,
+ADRE-2022-G3-P3-HSSLC-Q051,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,51,,"98 toffees were distributed to some boys in a group. Each boy in the group got
 twice as many of the toffees as the number of boys. The number of boys in the
-group was :",5,7,10,14,,,,,,,,,,0,,,37,36,0,
-ADRE-2022-G3-P3-HSSLC-Q052,ADRE,2022,III,III,A,52,,"a
+group was :",5,7,10,14,,,,0,,,pdf_text,37,0,
+ADRE-2022-G3-P3-HSSLC-Q052,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,52,,"a
 If cos θ =, then the value of sec θ will be :
 b
-a² – b²	b",b 2 2,a b,a + b,a + b,,,,,,,,,,1,drawing|math|table_layout,exams/ADRE/2022/figures/G3-P3-HSSLC/q052.png,38,37,1,
-ADRE-2022-G3-P3-HSSLC-Q053,ADRE,2022,III,III,A,53,,The perimeter of an equilateral triangle is 6 cm. The area of the triangle is :,6 cm²,6 cm²,3 cm²,3 cm²,,,,,,,,,,1,drawing,exams/ADRE/2022/figures/G3-P3-HSSLC/q053.png,39,39,0,
-ADRE-2022-G3-P3-HSSLC-Q054,ADRE,2022,III,III,A,54,,The value of 0.04 + 1.44 + 1.69 + 0.0009 is :,1.73,2.03,2.73,1.03,,,,,,,,,,1,drawing|math,exams/ADRE/2022/figures/G3-P3-HSSLC/q054.png,40,39,1,
-ADRE-2022-G3-P3-HSSLC-Q055,ADRE,2022,III,III,A,55,,"45% of a number is same as 30% of another number. The ratio of the first
-number to the second number is :",2 : 3,3 : 2,3 : 5,2 : 5,,,,,,,,,,0,,,41,40,0,
-ADRE-2022-G3-P3-HSSLC-Q056,ADRE,2022,III,III,A,56,,"Liza deposits money in her savings bank in such a way that every next day
+a² – b²	b",b 2 2,a b,a + b,a + b,,,,1,drawing|math|table_layout,exams/ADRE/2022/figures/G3-P3-HSSLC/q052.png,pdf_text,38,1,
+ADRE-2022-G3-P3-HSSLC-Q053,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,53,,The perimeter of an equilateral triangle is 6 cm. The area of the triangle is :,6 cm²,6 cm²,3 cm²,3 cm²,,,,1,drawing,exams/ADRE/2022/figures/G3-P3-HSSLC/q053.png,pdf_text,39,0,
+ADRE-2022-G3-P3-HSSLC-Q054,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,54,,The value of 0.04 + 1.44 + 1.69 + 0.0009 is :,1.73,2.03,2.73,1.03,,,,1,drawing|math,exams/ADRE/2022/figures/G3-P3-HSSLC/q054.png,pdf_text,40,1,
+ADRE-2022-G3-P3-HSSLC-Q055,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,55,,"45% of a number is same as 30% of another number. The ratio of the first
+number to the second number is :",2 : 3,3 : 2,3 : 5,2 : 5,,,,0,,,pdf_text,41,0,
+ADRE-2022-G3-P3-HSSLC-Q056,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,56,,"Liza deposits money in her savings bank in such a way that every next day
 her deposit amount is ` 12 more than her previous day deposit. If she starts
 her deposit with ` 12 on the first day, the total amount deposited by Liza at
-the end of 30 days will be :","` 5,420","` 5,580","` 5,620","` 5,780",,,,,,,,,,0,,,42,41,0,
-ADRE-2022-G3-P3-HSSLC-Q057,ADRE,2022,III,III,A,57,,"Find the median of the data set.
-1, 2, 4, 1, 5, 12, 7, 8, 5, 1, 16, 17, 12",8,7,5,4,,,,,,,,,,0,,,42,42,0,
-ADRE-2022-G3-P3-HSSLC-Q058,ADRE,2022,III,III,A,58,,"225 25 16
+the end of 30 days will be :","` 5,420","` 5,580","` 5,620","` 5,780",,,,0,,,pdf_text,42,0,
+ADRE-2022-G3-P3-HSSLC-Q057,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,57,,"Find the median of the data set.
+1, 2, 4, 1, 5, 12, 7, 8, 5, 1, 16, 17, 12",8,7,5,4,,,,0,,,pdf_text,42,0,
+ADRE-2022-G3-P3-HSSLC-Q058,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,58,,"225 25 16
 Find the value of	–	–.
 729 144 81
-5	7",– 9 20,– 12 11,– 27,– 36,,,,,,,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G3-P3-HSSLC/q058.png,43,43,0,
-ADRE-2022-G3-P3-HSSLC-Q059,ADRE,2022,III,III,A,59,,"‘A’ starts his journey at 1:00 p.m. from a location P with a speed of 1 m/sec.
+5	7",– 9 20,– 12 11,– 27,– 36,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G3-P3-HSSLC/q058.png,pdf_text,43,0,
+ADRE-2022-G3-P3-HSSLC-Q059,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,59,,"‘A’ starts his journey at 1:00 p.m. from a location P with a speed of 1 m/sec.
 ‘B’ starts his journey from the same location P and along the same direction
 at 1:10 p.m. with a speed of 2 m/sec. If ‘B’ meets ‘A’ at the location Q, then the
-distance PQ is :",1.5 km,1.75 km,1.2 km,1.25 km,,,,,,,,,,0,,,44,44,0,
-ADRE-2022-G3-P3-HSSLC-Q060,ADRE,2022,III,III,A,60,,"The price of an article is first decreased by 40% and then increased by 20%.
-The net change in the price will be :",20%,40%,24%,28%,,,,,,,,,,0,,,45,45,0,
-ADRE-2022-G3-P3-HSSLC-Q061,ADRE,2022,III,III,A,61,From Q. 61 – Q. 63 : Insert the correct options in the blank space :,"On the moon, ________ air because the Moon’s gravitational field is too weak
-to retain an atmosphere.",there is no,where no,no,is no,,,,,,,,,,0,,,46,,0,
-ADRE-2022-G3-P3-HSSLC-Q062,ADRE,2022,III,III,A,62,From Q. 61 – Q. 63 : Insert the correct options in the blank space :,"_______ in front of a camera lens changes the colour of the light that reaches
-the film.",Placed a filter,A filter is placed,A filter placed,When a filter placed,,,,,,,,,,0,,,46,,0,
-ADRE-2022-G3-P3-HSSLC-Q063,ADRE,2022,III,III,A,63,From Q. 61 – Q. 63 : Insert the correct options in the blank space :,"In 1850, Yale University established Sheffield Scientific School, ________.",engineers were educated there,where engineers were educated,"in which, were engineers educated",where were engineers educated,,,,,,,,,,0,,,46,,0,
-ADRE-2022-G3-P3-HSSLC-Q064,ADRE,2022,III,III,A,64,"From Q. 64 to Q. 67 : Choose the correct pair of words which are SYNONYMS to
-each other :",,Emigrant – Immigrant,Piece – Pierce,Frugal – Thrifty,Irritate – Instigate,,,,,,,,,,0,,,46,,0,
-ADRE-2022-G3-P3-HSSLC-Q065,ADRE,2022,III,III,A,65,"From Q. 64 to Q. 67 : Choose the correct pair of words which are SYNONYMS to
-each other :",,Rely – Resist,Rule – Rue,Secret – Clandestine,Site – Sight,,,,,,,,,,0,,,46,,0,
-ADRE-2022-G3-P3-HSSLC-Q066,ADRE,2022,III,III,A,66,"From Q. 64 to Q. 67 : Choose the correct pair of words which are SYNONYMS to
-each other :",,Deride – Arrive,Derive – Divide,Deride – Mock,Mock – Praise,,,,,,,,,,0,,,46,,0,
-ADRE-2022-G3-P3-HSSLC-Q067,ADRE,2022,III,III,A,67,"From Q. 64 to Q. 67 : Choose the correct pair of words which are SYNONYMS to
-each other :",,Citizen – Foreigner,Citizen – Emigrant,Citizen – Subject,Citizen – Immigrant,,,,,,,,,,0,,,46,,0,
-ADRE-2022-G3-P3-HSSLC-Q068,ADRE,2022,III,III,A,68,"From Q. 68 to Q. 70 : Choose the correct pair of words which are ANTONYMS to
-each other :",,Folly – Stupidity,Sweet – Salty,Visible – Unvisible,Scatter – Collect,,,,,,,,,,0,,,46,,0,
-ADRE-2022-G3-P3-HSSLC-Q069,ADRE,2022,III,III,A,69,"From Q. 68 to Q. 70 : Choose the correct pair of words which are ANTONYMS to
-each other :",,Advance – Retreat,Abandon – Desert,Elevate – Raise,Value – Success,,,,,,,,,,0,,,47,,0,
-ADRE-2022-G3-P3-HSSLC-Q070,ADRE,2022,III,III,A,70,"From Q. 68 to Q. 70 : Choose the correct pair of words which are ANTONYMS to
-each other :",,Acquit – Convict,Expect – Hope,Faithful – Loyal,End – Finish,,,,,,,,,,0,,,47,,0,
-ADRE-2022-G3-P3-HSSLC-Q071,ADRE,2022,III,III,A,71,"From Q. 71 to Q. 76 : Choose the correct options which best explains the meaning
-of the given idioms :",“To split hairs”,To quarrel bitterly,To complain about every small detail,To argue about trifles,To study every detail minutely,,,,,,,,,,0,,,47,,0,
-ADRE-2022-G3-P3-HSSLC-Q072,ADRE,2022,III,III,A,72,"From Q. 71 to Q. 76 : Choose the correct options which best explains the meaning
-of the given idioms :",“Nail the lie to the counter”,To blame a person for something,To expose publicly,To investigate an allegation,To lie vehemently,,,,,,,,,,0,,,47,,0,
-ADRE-2022-G3-P3-HSSLC-Q073,ADRE,2022,III,III,A,73,"From Q. 71 to Q. 76 : Choose the correct options which best explains the meaning
-of the given idioms :",“To see red”,To be mad with anger,To see danger,Sunset,To be drunk,,,,,,,,,,0,,,47,,0,
-ADRE-2022-G3-P3-HSSLC-Q074,ADRE,2022,III,III,A,74,"From Q. 71 to Q. 76 : Choose the correct options which best explains the meaning
-of the given idioms :",“To hit below the belt”,To trick the opponent,To defeat the opponent,To take bribe,To act unfairly in a contest,,,,,,,,,,0,,,47,,0,
-ADRE-2022-G3-P3-HSSLC-Q075,ADRE,2022,III,III,A,75,"From Q. 71 to Q. 76 : Choose the correct options which best explains the meaning
-of the given idioms :",“To beat about the bush”,To prune the bush,To approach a matter directly,To approach a matter in a roundabout manner,To discuss a matter endlessly,,,,,,,,,,0,,,47,,0,
-ADRE-2022-G3-P3-HSSLC-Q076,ADRE,2022,III,III,A,76,"From Q. 71 to Q. 76 : Choose the correct options which best explains the meaning
-of the given idioms :",“Bird in hand is better than two in the bush”,Probability is better than possibility,Certainty is better than possibility,Possibility is better than probability,Probability indicates certainty,,,,,,,,,,0,,,47,,0,
-ADRE-2022-G3-P3-HSSLC-Q077,ADRE,2022,III,III,A,77,,"Choose the correct order to complete the sentence :
+distance PQ is :",1.5 km,1.75 km,1.2 km,1.25 km,,,,0,,,pdf_text,44,0,
+ADRE-2022-G3-P3-HSSLC-Q060,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,60,,"The price of an article is first decreased by 40% and then increased by 20%.
+The net change in the price will be :",20%,40%,24%,28%,,,,0,,,pdf_text,45,0,
+ADRE-2022-G3-P3-HSSLC-Q061,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,61,From Q. 61 – Q. 63 : Insert the correct options in the blank space :,"On the moon, ________ air because the Moon’s gravitational field is too weak
+to retain an atmosphere.",there is no,where no,no,is no,,,,0,,,pdf_text,46,0,
+ADRE-2022-G3-P3-HSSLC-Q062,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,62,From Q. 61 – Q. 63 : Insert the correct options in the blank space :,"_______ in front of a camera lens changes the colour of the light that reaches
+the film.",Placed a filter,A filter is placed,A filter placed,When a filter placed,,,,0,,,pdf_text,46,0,
+ADRE-2022-G3-P3-HSSLC-Q063,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,63,From Q. 61 – Q. 63 : Insert the correct options in the blank space :,"In 1850, Yale University established Sheffield Scientific School, ________.",engineers were educated there,where engineers were educated,"in which, were engineers educated",where were engineers educated,,,,0,,,pdf_text,46,0,
+ADRE-2022-G3-P3-HSSLC-Q064,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,64,"From Q. 64 to Q. 67 : Choose the correct pair of words which are SYNONYMS to
+each other :",,Emigrant – Immigrant,Piece – Pierce,Frugal – Thrifty,Irritate – Instigate,,,,0,,,pdf_text,46,0,
+ADRE-2022-G3-P3-HSSLC-Q065,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,65,"From Q. 64 to Q. 67 : Choose the correct pair of words which are SYNONYMS to
+each other :",,Rely – Resist,Rule – Rue,Secret – Clandestine,Site – Sight,,,,0,,,pdf_text,46,0,
+ADRE-2022-G3-P3-HSSLC-Q066,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,66,"From Q. 64 to Q. 67 : Choose the correct pair of words which are SYNONYMS to
+each other :",,Deride – Arrive,Derive – Divide,Deride – Mock,Mock – Praise,,,,0,,,pdf_text,46,0,
+ADRE-2022-G3-P3-HSSLC-Q067,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,67,"From Q. 64 to Q. 67 : Choose the correct pair of words which are SYNONYMS to
+each other :",,Citizen – Foreigner,Citizen – Emigrant,Citizen – Subject,Citizen – Immigrant,,,,0,,,pdf_text,46,0,
+ADRE-2022-G3-P3-HSSLC-Q068,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,68,"From Q. 68 to Q. 70 : Choose the correct pair of words which are ANTONYMS to
+each other :",,Folly – Stupidity,Sweet – Salty,Visible – Unvisible,Scatter – Collect,,,,0,,,pdf_text,46,0,
+ADRE-2022-G3-P3-HSSLC-Q069,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,69,"From Q. 68 to Q. 70 : Choose the correct pair of words which are ANTONYMS to
+each other :",,Advance – Retreat,Abandon – Desert,Elevate – Raise,Value – Success,,,,0,,,pdf_text,47,0,
+ADRE-2022-G3-P3-HSSLC-Q070,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,70,"From Q. 68 to Q. 70 : Choose the correct pair of words which are ANTONYMS to
+each other :",,Acquit – Convict,Expect – Hope,Faithful – Loyal,End – Finish,,,,0,,,pdf_text,47,0,
+ADRE-2022-G3-P3-HSSLC-Q071,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,71,"From Q. 71 to Q. 76 : Choose the correct options which best explains the meaning
+of the given idioms :",“To split hairs”,To quarrel bitterly,To complain about every small detail,To argue about trifles,To study every detail minutely,,,,0,,,pdf_text,47,0,
+ADRE-2022-G3-P3-HSSLC-Q072,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,72,"From Q. 71 to Q. 76 : Choose the correct options which best explains the meaning
+of the given idioms :",“Nail the lie to the counter”,To blame a person for something,To expose publicly,To investigate an allegation,To lie vehemently,,,,0,,,pdf_text,47,0,
+ADRE-2022-G3-P3-HSSLC-Q073,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,73,"From Q. 71 to Q. 76 : Choose the correct options which best explains the meaning
+of the given idioms :",“To see red”,To be mad with anger,To see danger,Sunset,To be drunk,,,,0,,,pdf_text,47,0,
+ADRE-2022-G3-P3-HSSLC-Q074,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,74,"From Q. 71 to Q. 76 : Choose the correct options which best explains the meaning
+of the given idioms :",“To hit below the belt”,To trick the opponent,To defeat the opponent,To take bribe,To act unfairly in a contest,,,,0,,,pdf_text,47,0,
+ADRE-2022-G3-P3-HSSLC-Q075,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,75,"From Q. 71 to Q. 76 : Choose the correct options which best explains the meaning
+of the given idioms :",“To beat about the bush”,To prune the bush,To approach a matter directly,To approach a matter in a roundabout manner,To discuss a matter endlessly,,,,0,,,pdf_text,47,0,
+ADRE-2022-G3-P3-HSSLC-Q076,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,76,"From Q. 71 to Q. 76 : Choose the correct options which best explains the meaning
+of the given idioms :",“Bird in hand is better than two in the bush”,Probability is better than possibility,Certainty is better than possibility,Possibility is better than probability,Probability indicates certainty,,,,0,,,pdf_text,47,0,
+ADRE-2022-G3-P3-HSSLC-Q077,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,77,,"Choose the correct order to complete the sentence :
 I. I smelled the gas
 II. Door of my house then
 III. As soon as
-IV. I opened the front","I, II, III, IV","II, III, IV, I","III, IV, II, I","III, IV, I, II",,,,,,,,,,0,,,48,,0,
-ADRE-2022-G3-P3-HSSLC-Q078,ADRE,2022,III,III,A,78,,"The following sentence is divided into four parts. One of the parts has an
+IV. I opened the front","I, II, III, IV","II, III, IV, I","III, IV, II, I","III, IV, I, II",,,,0,,,pdf_text,48,0,
+ADRE-2022-G3-P3-HSSLC-Q078,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,78,,"The following sentence is divided into four parts. One of the parts has an
 error in it. Read the sentence and find the part containing the error :
 “The movement which aims at
 (I)
@@ -151,56 +151,56 @@ raising awareness about climate change, hopes
 to bring people together to think about
 (III)
 what they can do for reducing harmful pollution.”
-(IV)",IV,III,I,II,,,,,,,,,,1,drawing,exams/ADRE/2022/figures/G3-P3-HSSLC/q078.png,48,,0,
-ADRE-2022-G3-P3-HSSLC-Q079,ADRE,2022,III,III,A,79,,"“For the little boy, a lolly was tangible, whereas a promise was not.”
-The word tangible in this sentence means",Basic,Untouchable,Actual,Edible,,,,,,,,,,1,drawing,exams/ADRE/2022/figures/G3-P3-HSSLC/q079.png,48,,0,
-ADRE-2022-G3-P3-HSSLC-Q080,ADRE,2022,III,III,A,80,,Which among the following options is correct ?,My thoughts are with the families of those who have lost their loved ones in this unfortunate accident.,My thoughts are with the families of those who has lost their loved ones in this unfortunate incident.,My thoughts are with the families of those who have lost their loved ones in this unfortunate events.,My thoughts are with the families of those who have lost their loved ones in this unfortunate incidents.,,,,,,,,,,0,,,48,,0,
-ADRE-2022-G3-P3-HSSLC-Q081,ADRE,2022,III,III,A,81,,"Which letter of the English Alphabet is the seventh from left of sixteenth
-from right ?",D,W,R,E,,,,,,,,,,0,,,49,49,0,
-ADRE-2022-G3-P3-HSSLC-Q082,ADRE,2022,III,III,A,82,,"Five boys are sitting in a circle facing inward. Ajay is between Rohit and
+(IV)",IV,III,I,II,,,,1,drawing,exams/ADRE/2022/figures/G3-P3-HSSLC/q078.png,pdf_text,48,0,
+ADRE-2022-G3-P3-HSSLC-Q079,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,79,,"“For the little boy, a lolly was tangible, whereas a promise was not.”
+The word tangible in this sentence means",Basic,Untouchable,Actual,Edible,,,,1,drawing,exams/ADRE/2022/figures/G3-P3-HSSLC/q079.png,pdf_text,48,0,
+ADRE-2022-G3-P3-HSSLC-Q080,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,80,,Which among the following options is correct ?,My thoughts are with the families of those who have lost their loved ones in this unfortunate accident.,My thoughts are with the families of those who has lost their loved ones in this unfortunate incident.,My thoughts are with the families of those who have lost their loved ones in this unfortunate events.,My thoughts are with the families of those who have lost their loved ones in this unfortunate incidents.,,,,0,,,pdf_text,48,0,
+ADRE-2022-G3-P3-HSSLC-Q081,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,81,,"Which letter of the English Alphabet is the seventh from left of sixteenth
+from right ?",D,W,R,E,,,,0,,,pdf_text,49,0,
+ADRE-2022-G3-P3-HSSLC-Q082,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,82,,"Five boys are sitting in a circle facing inward. Ajay is between Rohit and
 Doljit. Suman is at the left of Shyamal, Rohit is at the left of Suman. Who is
-sitting at the immediate right of Ajay ?",Suman,Shyamal,Rohit,Doljit,,,,,,,,,,0,,,50,49,0,
-ADRE-2022-G3-P3-HSSLC-Q083,ADRE,2022,III,III,A,83,,"A man is 3 years older than his wife and four times as old as his son. If the
-son becomes 15 years old after 3 years, the present age of his wife is :",60 years,51 years,48 years,45 years,,,,,,,,,,0,,,50,50,0,
-ADRE-2022-G3-P3-HSSLC-Q084,ADRE,2022,III,III,A,84,,"Sarita and Savita were coming to each other in the garden in the morning.
+sitting at the immediate right of Ajay ?",Suman,Shyamal,Rohit,Doljit,,,,0,,,pdf_text,50,0,
+ADRE-2022-G3-P3-HSSLC-Q083,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,83,,"A man is 3 years older than his wife and four times as old as his son. If the
+son becomes 15 years old after 3 years, the present age of his wife is :",60 years,51 years,48 years,45 years,,,,0,,,pdf_text,50,0,
+ADRE-2022-G3-P3-HSSLC-Q084,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,84,,"Sarita and Savita were coming to each other in the garden in the morning.
 Savita saw that Sarita’s shadow was at Sarita’s left side. Which direction
-was Savita facing to ?",South,East,North,West,,,,,,,,,,0,,,51,51,0,
-ADRE-2022-G3-P3-HSSLC-Q085,ADRE,2022,III,III,A,85,,"If 20% of a is b, then b% of 20 is the same as :",4% of a,6% of a,8% of a,10% of a,,,,,,,,,,0,,,52,51,0,
-ADRE-2022-G3-P3-HSSLC-Q086,ADRE,2022,III,III,A,86,,"Kabita walks from her office 2 km to the east, then 8 km towards her right,
+was Savita facing to ?",South,East,North,West,,,,0,,,pdf_text,51,0,
+ADRE-2022-G3-P3-HSSLC-Q085,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,85,,"If 20% of a is b, then b% of 20 is the same as :",4% of a,6% of a,8% of a,10% of a,,,,0,,,pdf_text,52,0,
+ADRE-2022-G3-P3-HSSLC-Q086,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,86,,"Kabita walks from her office 2 km to the east, then 8 km towards her right,
 then 2 km towards the east and then 4 km towards the south. Finally she
 turns left and walks 1 km to reach her apartment. The shortest aerial
-distance between Kabita’s office and her apartment is :",25 km,13 km,12 km,17 km,,,,,,,,,,0,,,53,52,0,
-ADRE-2022-G3-P3-HSSLC-Q087,ADRE,2022,III,III,A,87,,"Select the number pair in which the two numbers are related in the same
-way as 35 : 6.",85 : 9,64 : 8,26 : 5,120 : 11,,,,,,,,,,0,,,53,53,0,
-ADRE-2022-G3-P3-HSSLC-Q088,ADRE,2022,III,III,A,88,,"Arrange the following words in a logical and meaningful order :
+distance between Kabita’s office and her apartment is :",25 km,13 km,12 km,17 km,,,,0,,,pdf_text,53,0,
+ADRE-2022-G3-P3-HSSLC-Q087,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,87,,"Select the number pair in which the two numbers are related in the same
+way as 35 : 6.",85 : 9,64 : 8,26 : 5,120 : 11,,,,0,,,pdf_text,53,0,
+ADRE-2022-G3-P3-HSSLC-Q088,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,88,,"Arrange the following words in a logical and meaningful order :
 (1) Cloud	(2) Rainbow	(3) Devastation
-(4) Rain	(5) Low Pressure (6) Flood","1, 5, 4, 2, 6, 3","5, 1, 4, 2, 6, 3","5, 4, 1, 2, 3, 6","1, 5, 2, 4, 6, 3",,,,,,,,,,1,table_layout,exams/ADRE/2022/figures/G3-P3-HSSLC/q088.png,54,53,0,
-ADRE-2022-G3-P3-HSSLC-Q089,ADRE,2022,III,III,A,89,,"If HONESTY is written as 5132468 and POVERTY is as 7192068, then in the
-same code, HORSE is written as :",50124,51042,51024,52014,,,,,,,,,,0,,,55,54,0,
-ADRE-2022-G3-P3-HSSLC-Q090,ADRE,2022,III,III,A,90,,"Two trains of 200 m and 100 m long are running parallel at the rate of
+(4) Rain	(5) Low Pressure (6) Flood","1, 5, 4, 2, 6, 3","5, 1, 4, 2, 6, 3","5, 4, 1, 2, 3, 6","1, 5, 2, 4, 6, 3",,,,1,table_layout,exams/ADRE/2022/figures/G3-P3-HSSLC/q088.png,pdf_text,54,0,
+ADRE-2022-G3-P3-HSSLC-Q089,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,89,,"If HONESTY is written as 5132468 and POVERTY is as 7192068, then in the
+same code, HORSE is written as :",50124,51042,51024,52014,,,,0,,,pdf_text,55,0,
+ADRE-2022-G3-P3-HSSLC-Q090,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,90,,"Two trains of 200 m and 100 m long are running parallel at the rate of
 20 m/sec. and 22 m/sec. respectively. How much time will they take to cross
-each other, if the trains are running along the same direction ?",212 sec.,135 sec.,150 sec.,120 sec.,,,,,,,,,,0,,,56,55,0,
-ADRE-2022-G3-P3-HSSLC-Q091,ADRE,2022,III,III,A,91,,"1 1 1
+each other, if the trains are running along the same direction ?",212 sec.,135 sec.,150 sec.,120 sec.,,,,0,,,pdf_text,56,0,
+ADRE-2022-G3-P3-HSSLC-Q091,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,91,,"1 1 1
 The ratio of the sides of a triangle is : : and its perimeter is 104 cm. The
 2 3 4
-longest arm of the triangle is :",52 cm,48 cm,44 cm,40 cm,,,,,,,,,,1,drawing,exams/ADRE/2022/figures/G3-P3-HSSLC/q091.png,56,56,0,
-ADRE-2022-G3-P3-HSSLC-Q092,ADRE,2022,III,III,A,92,,"Priya booked a ticket for a movie whose trailer was released 20 days before
+longest arm of the triangle is :",52 cm,48 cm,44 cm,40 cm,,,,1,drawing,exams/ADRE/2022/figures/G3-P3-HSSLC/q091.png,pdf_text,56,0,
+ADRE-2022-G3-P3-HSSLC-Q092,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,92,,"Priya booked a ticket for a movie whose trailer was released 20 days before
 she booked the ticket. She watched the movie 45 days after the trailer was
 released. The movie was released 16 day before the day on which Priya
 watched the movie. On which day of the week was the movie released if she
-booked the ticket on Sunday ?",Friday,Saturday,Sunday,Tuesday,,,,,,,,,,0,,,58,57,0,
-ADRE-2022-G3-P3-HSSLC-Q093,ADRE,2022,III,III,A,93,From Q. 93 to Q. 95 : Find the missing numbers/letters/words.,5 : 27 :: 9 : ________,83,81,36,18,,,,,,,,,,0,,,58,58,0,
-ADRE-2022-G3-P3-HSSLC-Q094,ADRE,2022,III,III,A,94,From Q. 93 to Q. 95 : Find the missing numbers/letters/words.,AQRD : BRSE :: LMTJ : ________,MNRK,MNSK,MNUK,MMUK,,,,,,,,,,0,,,58,,0,
-ADRE-2022-G3-P3-HSSLC-Q095,ADRE,2022,III,III,A,95,From Q. 93 to Q. 95 : Find the missing numbers/letters/words.,Bus : Driver :: Horse : ________,Saddle,Rein,Horseman,Stirrup,,,,,,,,,,0,,,58,,0,
-ADRE-2022-G3-P3-HSSLC-Q096,ADRE,2022,III,III,A,96,"From Q. 96 – Q. 98 : Three out of the following four options are alike in a
+booked the ticket on Sunday ?",Friday,Saturday,Sunday,Tuesday,,,,0,,,pdf_text,58,0,
+ADRE-2022-G3-P3-HSSLC-Q093,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,93,From Q. 93 to Q. 95 : Find the missing numbers/letters/words.,5 : 27 :: 9 : ________,83,81,36,18,,,,0,,,pdf_text,58,0,
+ADRE-2022-G3-P3-HSSLC-Q094,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,94,From Q. 93 to Q. 95 : Find the missing numbers/letters/words.,AQRD : BRSE :: LMTJ : ________,MNRK,MNSK,MNUK,MMUK,,,,0,,,pdf_text,58,0,
+ADRE-2022-G3-P3-HSSLC-Q095,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,95,From Q. 93 to Q. 95 : Find the missing numbers/letters/words.,Bus : Driver :: Horse : ________,Saddle,Rein,Horseman,Stirrup,,,,0,,,pdf_text,58,0,
+ADRE-2022-G3-P3-HSSLC-Q096,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,96,"From Q. 96 – Q. 98 : Three out of the following four options are alike in a
 particular pattern and hence form a group. Find the one which does NOT
-belong to the group.",,2837,7651,3925,9762,,,,,,,,,,0,,,59,59,0,
-ADRE-2022-G3-P3-HSSLC-Q097,ADRE,2022,III,III,A,97,"From Q. 96 – Q. 98 : Three out of the following four options are alike in a
+belong to the group.",,2837,7651,3925,9762,,,,0,,,pdf_text,59,0,
+ADRE-2022-G3-P3-HSSLC-Q097,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,97,"From Q. 96 – Q. 98 : Three out of the following four options are alike in a
 particular pattern and hence form a group. Find the one which does NOT
-belong to the group.",225	100,3375 169,1331 289,2744,5832,,,,,,,,,,1,drawing,exams/ADRE/2022/figures/G3-P3-HSSLC/q097.png,59,,0,
-ADRE-2022-G3-P3-HSSLC-Q098,ADRE,2022,III,III,A,98,"From Q. 96 – Q. 98 : Three out of the following four options are alike in a
+belong to the group.",225	100,3375 169,1331 289,2744,5832,,,,1,drawing,exams/ADRE/2022/figures/G3-P3-HSSLC/q097.png,pdf_text,59,0,
+ADRE-2022-G3-P3-HSSLC-Q098,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,98,"From Q. 96 – Q. 98 : Three out of the following four options are alike in a
 particular pattern and hence form a group. Find the one which does NOT
-belong to the group.",,Emission,Pollution,Contamination,Adulteration,,,,,,,,,,0,,,60,59,0,
-ADRE-2022-G3-P3-HSSLC-Q099,ADRE,2022,III,III,A,99,,Find the number of triangles in the given figure :,12,18,22,26,,,,,,,,,,1,image|text_mentions_visual,exams/ADRE/2022/figures/G3-P3-HSSLC/q099.png,61,60,1,
-ADRE-2022-G3-P3-HSSLC-Q100,ADRE,2022,III,III,A,100,,"Identify the diagram that best represents the relationship among the classes :
-New Delhi, Sri Lanka, Asia",,,,,,,,,,,,,,1,image|option_images|text_mentions_visual,exams/ADRE/2022/figures/G3-P3-HSSLC/q100.png,62,61,1,
+belong to the group.",,Emission,Pollution,Contamination,Adulteration,,,,0,,,pdf_text,60,0,
+ADRE-2022-G3-P3-HSSLC-Q099,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,99,,Find the number of triangles in the given figure :,12,18,22,26,,,,1,image|text_mentions_visual,exams/ADRE/2022/figures/G3-P3-HSSLC/q099.png,pdf_text,61,1,
+ADRE-2022-G3-P3-HSSLC-Q100,ADRE,2022,G3-P3-HSSLC,Grade III Paper III: HSSLC (Class XII) passed,A,100,,"Identify the diagram that best represents the relationship among the classes :
+New Delhi, Sri Lanka, Asia",,,,,,,,1,image|option_images|text_mentions_visual,exams/ADRE/2022/figures/G3-P3-HSSLC/q100.png,pdf_text,62,1,
