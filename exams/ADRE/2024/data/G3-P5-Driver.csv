@@ -1,0 +1,190 @@
+id,exam,year,grade,paper,booklet_set,q_no,context_en,question_en,option_a_en,option_b_en,option_c_en,option_d_en,context_as,question_as,option_a_as,option_b_as,option_c_as,option_d_as,answer,answer_note,answer_source,has_visual,visual_types,images,page_en,page_as,needs_review,review_notes
+ADRE-2024-G3-P5-Driver-Q001,ADRE,2024,III,V,A,1,,"As on 1st of January, 2024, who is the Speaker of Assam Legislative Assembly ?",Hitendra Nath Goswami,Numal Momin,Biswajit Daimary,Rupsing Teron,,,,,,,C,,official_final_key,0,,,6,6,0,
+ADRE-2024-G3-P5-Driver-Q002,ADRE,2024,III,V,A,2,,"In which of the following, cash amount can be withdrawn ?",ATM,NEFT,UPI,IFSC,,,,,,,A,,official_final_key,0,,,6,6,0,
+ADRE-2024-G3-P5-Driver-Q003,ADRE,2024,III,V,A,3,,"After picking up his passenger at the office, the taxi driver drove six kilometers before he turned
+left at the post office. Then he drove for eight kilometers to arrive at the airport. By a straight line,
+how far is the airport from the office ?",Ten kilometers,Twelve kilometers,Eight kilometers,Fourteen kilometers,,,,,,,A,,official_final_key,0,,,7,7,0,
+ADRE-2024-G3-P5-Driver-Q004,ADRE,2024,III,V,A,4,,"If Raghu says that his mother is the only daughter of Himadri’s mother, how is Himadri related to
+Raghu ?",Brother,Maternal Uncle,Grandfather,Son,,,,,,,B,,official_final_key,0,,,7,7,0,
+ADRE-2024-G3-P5-Driver-Q005,ADRE,2024,III,V,A,5,,"Which of the following punctuation mark is missing in the sentence ?
+Rakesh suddenly said, Last night I heard a fox howling.","{, }",{. },{ “ ” },{ ! },,,,,,,C,,official_final_key,0,,,8,,0,
+ADRE-2024-G3-P5-Driver-Q006,ADRE,2024,III,V,A,6,,What is the antonym of SLOW ?,Fast,Reverse,Side,Upwards,,,,,,,A,,official_final_key,0,,,8,,0,
+ADRE-2024-G3-P5-Driver-Q007,ADRE,2024,III,V,A,7,,What is the opposite of BEAUTIFUL ?,Dirty,Unruly,Handsome,Ugly,,,,,,,D,,official_final_key,0,,,8,,0,
+ADRE-2024-G3-P5-Driver-Q008,ADRE,2024,III,V,A,8,,Which word is incorrectly spelt ?,Possible,Permission,Pressure,Posess,,,,,,,D,,official_final_key,0,,,8,,0,
+ADRE-2024-G3-P5-Driver-Q009,ADRE,2024,III,V,A,9,,The count of prime numbers between 1 and 20 is :,7,9,8,10,,,,,,,C,,official_final_key,0,,,8,8,0,
+ADRE-2024-G3-P5-Driver-Q010,ADRE,2024,III,V,A,10,,Which word is incorrectly spelt ?,Expert,Carpet,Dapart,Puppet,,,,,,,C,,official_final_key,0,,,8,,0,
+ADRE-2024-G3-P5-Driver-Q011,ADRE,2024,III,V,A,11,,A number when increased by 11% becomes 777. The number is :,770,750,710,700,,,,,,,D,,official_final_key,0,,,9,9,0,
+ADRE-2024-G3-P5-Driver-Q012,ADRE,2024,III,V,A,12,,Moreh (Manipur) is a road connection point of India with which country ?,Thailand,Nepal,Myanmar,Bhutan,,,,,,,C,,official_final_key,0,,,9,9,0,
+ADRE-2024-G3-P5-Driver-Q013,ADRE,2024,III,V,A,13,,Which word of the following list is not a pronoun ?,He,She,And,They,,,,,,,C,,official_final_key,0,,,9,,0,
+ADRE-2024-G3-P5-Driver-Q014,ADRE,2024,III,V,A,14,,"The sum of two numbers is 12 and the difference of their squares is 60. The difference between the
+numbers is :",3,5,7,9,,,,,,,B,,official_final_key,0,,,9,9,0,
+ADRE-2024-G3-P5-Driver-Q015,ADRE,2024,III,V,A,15,,Which language name is correctly spelt ?,Franch,English,Porteugese,Spenish,,,,,,,B,,official_final_key,0,,,10,,0,
+ADRE-2024-G3-P5-Driver-Q016,ADRE,2024,III,V,A,16,,Where was the first capital of Ahom Kingdom established ?,Rongpur,Garhgaon,Charaideo,Guwahati,,,,,,,C,,official_final_key,0,,,10,10,0,
+ADRE-2024-G3-P5-Driver-Q017,ADRE,2024,III,V,A,17,,Which of the following was not a ruling dynasty of ancient Assam ?,Maurya,Varman,Pala,Koch,,,,,,,A,,official_final_key,0,,,10,10,0,
+ADRE-2024-G3-P5-Driver-Q018,ADRE,2024,III,V,A,18,,What does ‘fair’ in the sentence “They played a fair match” mean ?,Very long,Within the rules,Breaking many rules,All players are seniors,,,,,,,B,,official_final_key,0,,,11,,0,
+ADRE-2024-G3-P5-Driver-Q019,ADRE,2024,III,V,A,19,,"If the number 47329 is doubled, what would be the digit exactly in the middle of the result ?",6,7,4,5,,,,,,,A,,official_final_key,0,,,11,11,0,
+ADRE-2024-G3-P5-Driver-Q020,ADRE,2024,III,V,A,20,,What type of horn is permitted in a vehicle in India ?,Multitoned horn,Electric horn,Air horn,Any type of horn,,,,,,,B,,official_final_key,0,,,11,11,0,
+ADRE-2024-G3-P5-Driver-Q021,ADRE,2024,III,V,A,21,,"How long is an applicant required to wait to apply for driving licence after he has obtained the
+Learner’s Licence ?",30 days,60 days,45 days,6 months,,,,,,,A,,official_final_key,0,,,11,12,0,
+ADRE-2024-G3-P5-Driver-Q022,ADRE,2024,III,V,A,22,,Which of the following is an output device ?,Keyboard,Speaker,Mouse,Microphone,,,,,,,B,,official_final_key,0,,,12,12,0,
+ADRE-2024-G3-P5-Driver-Q023,ADRE,2024,III,V,A,23,,"What single word would mean the same as “the base frame of a car or bus, or any such wheeled
+vehicle” ?",Framework,Chassis,Cabin,Monocoque,,,,,,,B,,official_final_key,0,,,12,,0,
+ADRE-2024-G3-P5-Driver-Q024,ADRE,2024,III,V,A,24,,The flag of which country is triangular in shape ?,Brazil,Kuala Lumpur,Sri Lanka,Nepal,,,,,,,D,,official_final_key,0,,,12,13,0,
+ADRE-2024-G3-P5-Driver-Q025,ADRE,2024,III,V,A,25,,Who wrote Arthasashtra ?,Brahmagupta,Swami Vivekananda,Raghuram Rajan,Chanakya,,,,,,,D,,official_final_key,0,,,13,13,0,
+ADRE-2024-G3-P5-Driver-Q026,ADRE,2024,III,V,A,26,,The numbers that cannot be expressed in the form of fractions are called :,Whole numbers,Recurring numbers,Prime numbers,Irrational numbers,,,,,,,D,,official_final_key,0,,,13,13,0,
+ADRE-2024-G3-P5-Driver-Q027,ADRE,2024,III,V,A,27,,A man types at the rate of 45 words per minute. How long will he take to type 555 words ?,12 min 15 sec,12 min 20 sec,12 min 30 sec,12 min 45 sec,,,,,,,B,,official_final_key,0,,,14,14,0,
+ADRE-2024-G3-P5-Driver-Q028,ADRE,2024,III,V,A,28,,A number when multiplied with 1111 results in 7777. The number is :,7,17,70,77,,,,,,,A,,official_final_key,0,,,14,14,0,
+ADRE-2024-G3-P5-Driver-Q029,ADRE,2024,III,V,A,29,,Who was the commander of Koch King Naranarayan’s army ?,Raghabendra,Chakradhwaj,Tingrai,Chilarai,,,,,,,D,,official_final_key,0,,,15,15,0,
+ADRE-2024-G3-P5-Driver-Q030,ADRE,2024,III,V,A,30,,Oja pali is a religious component of which region of Assam ?,Lakhimpur - Dibrugarh region,Silchar - Karimganj region,Haflong - Hamren region,Mangaldoi - Nalbari region,,,,,,,D,,official_final_key,0,,,15,15,0,
+ADRE-2024-G3-P5-Driver-Q031,ADRE,2024,III,V,A,31,,What is the synonym of BRAKE ?,Parking,Slow,Clutch,Gear,,,,,,,B,,official_final_key,0,,,16,,0,
+ADRE-2024-G3-P5-Driver-Q032,ADRE,2024,III,V,A,32,,Find the value of 18−[6−(4+2)]−5.,9,16,13,11,,,,,,,C,,official_final_key,0,,,16,16,0,
+ADRE-2024-G3-P5-Driver-Q033,ADRE,2024,III,V,A,33,,What is the Collective noun for bananas ?,bunch,pack,bouquet,bowl,,,,,,,A,,official_final_key,0,,,16,,0,
+ADRE-2024-G3-P5-Driver-Q034,ADRE,2024,III,V,A,34,,2% of 3% of 5000 is :,5,3,2,6,,,,,,,B,,official_final_key,0,,,16,16,0,
+ADRE-2024-G3-P5-Driver-Q035,ADRE,2024,III,V,A,35,,"In India, a vehicle is driven on the ____________.",right side of the road with the driver sitting on the left side of the vehicle,left side of the road with the driver sitting on the right side of the vehicle,right side of the road with the driver sitting on the right side of the vehicle,left side of the road with the driver sitting on the left side of the vehicle,,,,,,,B,,official_final_key,0,,,17,17,0,
+ADRE-2024-G3-P5-Driver-Q036,ADRE,2024,III,V,A,36,,"When TANK is coded as KNAT, then what would be the fifth letter if PROCESS is coded in the
+same way ?",C,E,O,R,,,,,,,C,,official_final_key,0,,,18,18,0,
+ADRE-2024-G3-P5-Driver-Q037,ADRE,2024,III,V,A,37,,In which event did Neeraj Chopra win Gold Medal in 2020 Olympic Games ?,Discus throw,Hammer throw,Shot put,Javelin throw,,,,,,,D,,official_final_key,0,,,18,18,0,
+ADRE-2024-G3-P5-Driver-Q038,ADRE,2024,III,V,A,38,,"First serialized on social media and then published as a book, Life of a driver : Cabin’or Ipare is
+written by :",Pratibhu Dutta,Rupam Dutta,Debabrata Das,Ramanuj Goswami,,,,,,,B,,official_final_key,0,,,19,19,0,
+ADRE-2024-G3-P5-Driver-Q039,ADRE,2024,III,V,A,39,,What does “apple of one’s eye” mean ?,Target for practice,"Special favourite, beloved person or thing",Most hated person,A sincere and loyal person,,,,,,,B,,official_final_key,0,,,19,,0,
+ADRE-2024-G3-P5-Driver-Q040,ADRE,2024,III,V,A,40,,The place value of 2 in 4213.6 is :,213,2,200,20,,,,,,,C,,official_final_key,0,,,19,19,0,
+ADRE-2024-G3-P5-Driver-Q041,ADRE,2024,III,V,A,41,,Which of the following should not be in the same group ?,Paper,Eraser,Pen,Textbook,,,,,,,D,,official_final_key,0,,,20,20,0,
+ADRE-2024-G3-P5-Driver-Q042,ADRE,2024,III,V,A,42,,Which of the following items is related to works by Sir Isaac Newton ?,Rocket,Atom Bomb,Semiconductor,Automobile,,,,,,,A,,official_final_key,0,,,20,20,0,
+ADRE-2024-G3-P5-Driver-Q043,ADRE,2024,III,V,A,43,,Which of the following set is incorrectly matched ?,M : 13,S : 20,W : 23,K : 11,,,,,,,B,,official_final_key,0,,,20,20,0,
+ADRE-2024-G3-P5-Driver-Q044,ADRE,2024,III,V,A,44,,Which of the following is the highest mountain peak of India ?,Everest,Annapurna,Nanda Devi,Kanchenjunga,,,,,,,D,,official_final_key,0,,,21,21,0,
+ADRE-2024-G3-P5-Driver-Q045,ADRE,2024,III,V,A,45,,The average of first ten consecutive natural numbers is :,5,6,5.5,6.5,,,,,,,C,,official_final_key,0,,,21,21,0,
+ADRE-2024-G3-P5-Driver-Q046,ADRE,2024,III,V,A,46,,Dangerous driving means :,Jumping a red traffic light,Violating stop line,Using phone,Any one of all three,,,,,,,D,,official_final_key,0,,,21,22,0,
+ADRE-2024-G3-P5-Driver-Q047,ADRE,2024,III,V,A,47,,"Which of the following numbers has the highest digit in Tens place ?
+(i) 736	(ii) 269	(iii) 958	(iv) 219	(v) 793",(v),(iii),(iv),(i),,,,,,,A,,official_final_key,1,table_layout,exams/ADRE/2024/figures/G3-P5-Driver/q047.png,22,22,0,
+ADRE-2024-G3-P5-Driver-Q048,ADRE,2024,III,V,A,48,,How can you distinguish a Transport vehicle from other vehicles ?,Looking at tyre size,By the colour of the vehicle,By vehicle size,Registration number plate,,,,,,,D,,official_final_key,0,,,23,23,0,
+ADRE-2024-G3-P5-Driver-Q049,ADRE,2024,III,V,A,49,,"Identify the combination similar to :
+Tyres : Round : Black",Trees : Green : Tall,Windows : Glass : Square,Pipes : Round : Plastic,Bricks : Rectangle : Red,,,,,,,D,,official_final_key,0,,,23,23,0,
+ADRE-2024-G3-P5-Driver-Q050,ADRE,2024,III,V,A,50,,"What is the minimum required educational qualification for obtaining driving licence to drive
+Non Transport Vehicle ?",Class VIII Pass,Matric Pass,Class IX Pass,Not Mandatory,,,,,,,D,,official_final_key,0,,,24,24,0,
+ADRE-2024-G3-P5-Driver-Q051,ADRE,2024,III,V,A,51,,Which country is Hollywood in ?,United States of America,England,France,Japan,,,,,,,A,,official_final_key,0,,,24,24,0,
+ADRE-2024-G3-P5-Driver-Q052,ADRE,2024,III,V,A,52,,Which of the following is not a region of Assam ?,Brahmaputra valley,Karbi plateau,Barak valley,Deccan plateau,,,,,,,D,,official_final_key,0,,,25,25,0,
+ADRE-2024-G3-P5-Driver-Q053,ADRE,2024,III,V,A,53,,The minimum educational qualification required for a bus conductor licence in Assam is __________.,Class VIII Pass,HSLC Pass,Class IX Pass,Not mandatory,,,,,,,A,,official_final_key,0,,,25,25,0,
+ADRE-2024-G3-P5-Driver-Q054,ADRE,2024,III,V,A,54,,"Validity of driving licence for drivers of goods vehicle carrying Dangerous and Hazardous goods is
+__________.",1 year,2 years,3 years,5 years,,,,,,,A,,official_final_key,0,,,26,26,0,
+ADRE-2024-G3-P5-Driver-Q055,ADRE,2024,III,V,A,55,,What is generally considered as proof of casting vote ?,Tick mark against name on Electoral Rolls (Voters List),Mark of indelible ink on finger nail (or other body position),Possession of Voter’s slip,Permission to enter voting booth,,,,,,,B,,official_final_key,0,,,26,26,0,
+ADRE-2024-G3-P5-Driver-Q056,ADRE,2024,III,V,A,56,,"Fill in the blank :
+Raju __________ his intention to contest in the next elections.",Wished,Conditioned,Declared,Promised,,,,,,,C,,official_final_key,0,,,27,,0,
+ADRE-2024-G3-P5-Driver-Q057,ADRE,2024,III,V,A,57,,If 1+2+3+...+9+10=55 then 2+3+4+...+10+11=?,65,66,64,62,,,,,,,A,,official_final_key,0,,,27,27,0,
+ADRE-2024-G3-P5-Driver-Q058,ADRE,2024,III,V,A,58,,Name the first Swargadeo of Assam.,Suhungmung,Suhenpha,Sutupha,Sukapha,,,,,,,D,,official_final_key,0,,,28,28,0,
+ADRE-2024-G3-P5-Driver-Q059,ADRE,2024,III,V,A,59,,Air : Eagle : : Water : ?,Duck,Cuckoo,Pigeon,Ostrich,,,,,,,A,,official_final_key,0,,,28,28,0,
+ADRE-2024-G3-P5-Driver-Q060,ADRE,2024,III,V,A,60,,Zebra crossing lines marked on roads are meant for :,Reducing speed,Pedestrian crossing,Giving preference to other vehicles,Crossing of Animals,,,,,,,B,,official_final_key,0,,,28,28,0,
+ADRE-2024-G3-P5-Driver-Q061,ADRE,2024,III,V,A,61,,Which word would appear at the last in a standard English dictionary ?,JANUARY,OCTOBER,DECEMBER,MARCH,,,,,,,B,,official_final_key,0,,,29,29,0,
+ADRE-2024-G3-P5-Driver-Q062,ADRE,2024,III,V,A,62,,The maximum age limit to obtain a driving licence in India is ____________.,65 years,70 years,80 years,"Age, no bar",,,,,,,D,,official_final_key,0,,,30,30,0,
+ADRE-2024-G3-P5-Driver-Q063,ADRE,2024,III,V,A,63,,Name the punctuation mark ‘:’.,Comma,Colon,Hyphen,Exclamation,,,,,,,B,,official_final_key,0,,,30,,0,
+ADRE-2024-G3-P5-Driver-Q064,ADRE,2024,III,V,A,64,,Identify the word which cannot be made by using the letters present in LEMONADE.,LEAD,MADE,DEAF,DEAL,,,,,,,C,,official_final_key,0,,,30,30,0,
+ADRE-2024-G3-P5-Driver-Q065,ADRE,2024,III,V,A,65,,"1 − 1 − 1 −
+The value of the expression 2 3 4 is :
+1	1	1	1",6 1 1,4 1,3,24,,,,,,,B,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G3-P5-Driver/q065.png,31,31,1,
+ADRE-2024-G3-P5-Driver-Q066,ADRE,2024,III,V,A,66,,The maximum punishment for drunken driving as first offence is __________.,Upto 6 months imprisonment,"` 10,000 /- fine","` 10,000 /- fine and upto 6 months imprisonment","` 20,000 /- fine",,,,,,,C,,official_final_key,0,,,31,31,0,
+ADRE-2024-G3-P5-Driver-Q067,ADRE,2024,III,V,A,67,,Which of the following states does not share borders with Assam ?,Nagaland,Bihar,Mizoram,Tripura,,,,,,,B,,official_final_key,0,,,32,32,0,
+ADRE-2024-G3-P5-Driver-Q068,ADRE,2024,III,V,A,68,,A yellow coloured number plate on an Indian vehicle indicates :,Electric vehicle,Commercial vehicle,Ambulance,Governor’s vehicle,,,,,,,B,,official_final_key,0,,,33,33,0,
+ADRE-2024-G3-P5-Driver-Q069,ADRE,2024,III,V,A,69,,"If 7 mangoes cost ` 91, then the cost of 3 mangoes is :",` 28,` 35,` 37,` 39,,,,,,,D,,official_final_key,0,,,34,34,0,
+ADRE-2024-G3-P5-Driver-Q070,ADRE,2024,III,V,A,70,,"A person purchases a defective item at ` 1,500, repairs it at ` 900 and sells the item at ` 5,000. The
+sales tax he had to pay is ` 100. The net profit percentage the person earns on selling the item is :",80%,60%,120%,100%,,,,,,,D,,official_final_key,0,,,34,34,0,
+ADRE-2024-G3-P5-Driver-Q071,ADRE,2024,III,V,A,71,,"What would come as the next character after B, E, J, Q ?",T,U,W,Z,,,,,,,D,,official_final_key,0,,,35,35,0,
+ADRE-2024-G3-P5-Driver-Q072,ADRE,2024,III,V,A,72,,What was the name of the capital of ancient Kamrupa Kingdom ?,Darranga,Pragjyotishpur,Garhgaon,Itakhuli,,,,,,,B,,official_final_key,0,,,35,35,0,
+ADRE-2024-G3-P5-Driver-Q073,ADRE,2024,III,V,A,73,,Lohri and Baisakhi are commonly celebrated in which state ?,West Bengal,Punjab,Maharashtra,Chhattisgarh,,,,,,,B,,official_final_key,0,,,35,36,0,
+ADRE-2024-G3-P5-Driver-Q074,ADRE,2024,III,V,A,74,,Which colour of paint is prohibited on vehicles except Defence Vehicles ?,Orange,Saffron,Olive Green,Dark Blue,,,,,,,C,,official_final_key,0,,,36,36,0,
+ADRE-2024-G3-P5-Driver-Q075,ADRE,2024,III,V,A,75,,When are the elections for Lok Sabha generally held ?,Every five (5) years,Every four (4) years,Every six (6) years,Every ten (10) years,,,,,,,A,,official_final_key,0,,,37,37,0,
+ADRE-2024-G3-P5-Driver-Q076,ADRE,2024,III,V,A,76,,"Rakesh is taller than Subodh. Their friend Atanu is the only one to be in the basketball team that
+requires player’s height to be above six feet. According to height, who is in the middle ?",Subodh,Atanu,Rakesh,Cannot be determined,,,,,,,C,,official_final_key,0,,,37,37,0,
+ADRE-2024-G3-P5-Driver-Q077,ADRE,2024,III,V,A,77,,Mark the correctly spelt word :,Essantial,Essentsial,Essencial,Essential,,,,,,,D,,official_final_key,0,,,38,,0,
+ADRE-2024-G3-P5-Driver-Q078,ADRE,2024,III,V,A,78,,The song “Poka Dhanor Majey Majey” was written by :,Tafazzul Ali,Anandiram Barua,Parbati Prasad Barua,Rudra Barua,,,,,,,D,,official_final_key,0,,,38,38,0,
+ADRE-2024-G3-P5-Driver-Q079,ADRE,2024,III,V,A,79,,"Which word in the following sentence is an Adverb ?
+“The tiger is running faster”.",Tiger,The,Faster,Running,,,,,,,C,,official_final_key,0,,,38,,0,
+ADRE-2024-G3-P5-Driver-Q080,ADRE,2024,III,V,A,80,,Pongal is a winter folk festival primarily of which State ?,Tamil Nadu,Bihar,Madhya Pradesh,Punjab,,,,,,,A,,official_final_key,0,,,39,39,0,
+ADRE-2024-G3-P5-Driver-Q081,ADRE,2024,III,V,A,81,,"Which of the following communities of Assam features prominently in Rita Choudhury’s novel,
+Deu Langkhui ?",The Kacharis,The Mishings,The Tiwas,The Mottocks,,,,,,,C,,official_final_key,0,,,39,39,0,
+ADRE-2024-G3-P5-Driver-Q082,ADRE,2024,III,V,A,82,,The number plate of an Electric Vehicle (EV) in India is coloured _________.,White,Yellow,Green,Black,,,,,,,C,,official_final_key,0,,,40,40,0,
+ADRE-2024-G3-P5-Driver-Q083,ADRE,2024,III,V,A,83,,"4 5 6	7
+The smallest fraction amongst,, and is :
+5 6 7	8
+4	5	6	7",5,6,7,8,,,,,,,A,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G3-P5-Driver/q083.png,40,40,1,
+ADRE-2024-G3-P5-Driver-Q084,ADRE,2024,III,V,A,84,,"The fraction equivalent of the recurring number 0.222... is :
+11	1	3	2",49,9,19,9,,,,,,,D,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G3-P5-Driver/q084.png,41,41,1,
+ADRE-2024-G3-P5-Driver-Q085,ADRE,2024,III,V,A,85,,What is presently the minimum age to be eligible for voting in the General Elections of India ?,21 (Twenty one) years,20 (Twenty) years,18 (Eighteen) years,16 (Sixteen) years,,,,,,,C,,official_final_key,0,,,41,41,0,
+ADRE-2024-G3-P5-Driver-Q086,ADRE,2024,III,V,A,86,,Which of the following scale is used to measure earthquakes ?,Richter Scale,Enhanced Fuzita Scale,Volumetric Scale,Reaumer Scale,,,,,,,A,,official_final_key,0,,,42,42,0,
+ADRE-2024-G3-P5-Driver-Q087,ADRE,2024,III,V,A,87,,"Babli was born a year after her parent’s marriage. At present Babli is six years old, and her father
+is twenty five years older than her. If the father is two years older than his wife, at what age did
+Babli’s mother get married ?",22 years,23 years,21 years,cannot be determined,,,,,,,A,,official_final_key,0,,,43,43,0,
+ADRE-2024-G3-P5-Driver-Q088,ADRE,2024,III,V,A,88,,The compensation for ‘Hit and Run’ Motor Accident case resulting in death is __________.,Rupees One Lakh,Rupees Two Lakhs,Rupees Two Lakh Fifty Thousand,Rupees Fifty Thousand,,,,,,,B,,official_final_key,0,,,43,43,0,
+ADRE-2024-G3-P5-Driver-Q089,ADRE,2024,III,V,A,89,,Find the odd one out.,436,298,746,639,,,,,,,D,,official_final_key,0,,,44,44,0,
+ADRE-2024-G3-P5-Driver-Q090,ADRE,2024,III,V,A,90,,Who of the following was amongst the first disciples of Srimanta Sankardev ?,Madhabdev,Lachit Barphukan,Ananta Kandali,Mahendra Narayan,,,,,,,A,,official_final_key,0,,,45,45,0,
+ADRE-2024-G3-P5-Driver-Q091,ADRE,2024,III,V,A,91,,121+ 81+ 25 is equal to :,121,81,25,36,,,,,,,C,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P5-Driver/q091.png,45,45,1,
+ADRE-2024-G3-P5-Driver-Q092,ADRE,2024,III,V,A,92,,Which of the following words would come first in an English Dictionary ?,Hectometer,Decimeter,Kilometer,Centimeter,,,,,,,D,,official_final_key,0,,,46,46,0,
+ADRE-2024-G3-P5-Driver-Q093,ADRE,2024,III,V,A,93,,Which word is the Synonym of STRANGE ?,Abnormal,Complete,Strong,Perfect,,,,,,,A,,official_final_key,0,,,46,,0,
+ADRE-2024-G3-P5-Driver-Q094,ADRE,2024,III,V,A,94,,A piece of land surrounded by water on three sides is called :,Peninsula,Island,Isthmus,Atoll,,,,,,,A,,official_final_key,0,,,46,46,0,
+ADRE-2024-G3-P5-Driver-Q095,ADRE,2024,III,V,A,95,,Each angle of an equilateral triangle is :,908,608,458,308,,,,,,,B,,official_final_key,0,,,47,47,0,
+ADRE-2024-G3-P5-Driver-Q096,ADRE,2024,III,V,A,96,,Identify the Article in : The man was walking fast.,man,walking,fast,the,,,,,,,D,,official_final_key,0,,,47,,0,
+ADRE-2024-G3-P5-Driver-Q097,ADRE,2024,III,V,A,97,,The penalty for driving at excessive speed by a Light Motor Vehicle driver is __________.,"` 1,000/- to ` 2,000/-","` 3,000/-",` 500/-,"` 5,000/-",,,,,,,A,,official_final_key,0,,,47,47,0,
+ADRE-2024-G3-P5-Driver-Q098,ADRE,2024,III,V,A,98,,Find the correct sentence :,Please listen to what I am saying.,Please listen what I am saying.,Please listen to what I saying.,Please listen to what I is saying.,,,,,,,A,,official_final_key,0,,,48,,0,
+ADRE-2024-G3-P5-Driver-Q099,ADRE,2024,III,V,A,99,,"The perimeter of a rectangle is 34 cm and the length is longer than the breadth by 7 cm. The area
+of the rectangle is :",40 cm²,60 cm²,238 cm²,64 cm²,,,,,,,B,,official_final_key,0,,,48,48,0,
+ADRE-2024-G3-P5-Driver-Q100,ADRE,2024,III,V,A,100,,Who is known as the Father of Indian Constitution ?,Pt. Jawaharlal Nehru,Dr. Bhimrao Ambedkar,Dr. Rajendra Prasad,Dr. Sarvepalli Radhakrishnan,,,,,,,B,,official_final_key,0,,,48,48,0,
+ADRE-2024-G3-P5-Driver-Q101,ADRE,2024,III,V,A,101,,The capital of Australia is :,Sydney,Canberra,San Francisco,Sao Paulo,,,,,,,B,,official_final_key,0,,,49,49,0,
+ADRE-2024-G3-P5-Driver-Q102,ADRE,2024,III,V,A,102,,"Who was the commander of Mughal army that was defeated by Lachit Barphukan at
+Saraighat ?",Man Singh,Vikram Singh,Vijay Singh,Ram Singh,,,,,,,D,,official_final_key,0,,,49,49,0,
+ADRE-2024-G3-P5-Driver-Q103,ADRE,2024,III,V,A,103,,"What would be placed to continue the sequence 4, 6, 8, 12, 14, 18, *, *, 30 ?","20, 22","20, 24","20, 26","20, 28",,,,,,,B,,official_final_key,0,,,50,50,0,
+ADRE-2024-G3-P5-Driver-Q104,ADRE,2024,III,V,A,104,,"The difference between the smallest of the 4-digit number and the largest of the 3-digit number
+is :",1,11,101,111,,,,,,,A,,official_final_key,0,,,50,50,0,
+ADRE-2024-G3-P5-Driver-Q105,ADRE,2024,III,V,A,105,,After how many days must a newly registered vehicle renew the Pollution Under Control certificate ?,1 year,2 years,6 months,3 years,,,,,,,A,,official_final_key,0,,,51,51,0,
+ADRE-2024-G3-P5-Driver-Q106,ADRE,2024,III,V,A,106,,"To drive a Transport vehicle, an applicant must have a Light Motor Vehicle driving licence
+atleast for how many years ?",3 years,1 year,2 years,5 years,,,,,,,B,,official_final_key,0,,,51,51,0,
+ADRE-2024-G3-P5-Driver-Q107,ADRE,2024,III,V,A,107,,Which of the following places has the largest cricket stadium ?,Dharamshala,Kolkata,Motera,Hyderabad,,,,,,,C,,official_final_key,0,,,52,52,0,
+ADRE-2024-G3-P5-Driver-Q108,ADRE,2024,III,V,A,108,,Who found the sea route to India from Europe ?,Christopher Columbus,Marco Polo,Vasco da Gama,James Cook,,,,,,,C,,official_final_key,0,,,52,52,0,
+ADRE-2024-G3-P5-Driver-Q109,ADRE,2024,III,V,A,109,,Which of the following is a Union Territory of India ?,Jammu and Kashmir,Goa,Sikkim,Telangana,,,,,,,A,,official_final_key,0,,,53,53,0,
+ADRE-2024-G3-P5-Driver-Q110,ADRE,2024,III,V,A,110,,Which of the following is not the name of a Continent ?,North America,South America,Arctic,Antarctica,,,,,,,C,,official_final_key,0,,,53,53,0,
+ADRE-2024-G3-P5-Driver-Q111,ADRE,2024,III,V,A,111,,Which of the following equipments is mandatory for petrol vehicles of India ?,Spare wheel,Windshield wipers,Catalytic converter,GPS tracker,,,,,,,C,,official_final_key,0,,,53,54,0,
+ADRE-2024-G3-P5-Driver-Q112,ADRE,2024,III,V,A,112,,"The factor by which a decimal number is to be multiplied to shift the decimal point by three digits
+to the right is :",10,100,"1,000","10,000",,,,,,,C,,official_final_key,0,,,54,54,0,
+ADRE-2024-G3-P5-Driver-Q113,ADRE,2024,III,V,A,113,,Ashmita Chaliha plays for India in which sport ?,Badminton,Table Tennis,Lawn Tennis,Lawn Bowl,,,,,,,A,,official_final_key,0,,,55,55,0,
+ADRE-2024-G3-P5-Driver-Q114,ADRE,2024,III,V,A,114,,Which of the following is the name of a Continent ?,Austria,Armenia,Andrea,Australia,,,,,,,D,,official_final_key,0,,,55,55,0,
+ADRE-2024-G3-P5-Driver-Q115,ADRE,2024,III,V,A,115,,"By what factor a decimal number is to be divided so that the decimal point shifts by two digits to
+the left ?",0.1,10,100,1000,,,,,,,C,,official_final_key,0,,,56,56,0,
+ADRE-2024-G3-P5-Driver-Q116,ADRE,2024,III,V,A,116,,"3/10
+The decimal representation of	is :
+6/5",0.5,0.75,0.65,0.25,,,,,,,D,,official_final_key,1,drawing|math|table_layout,exams/ADRE/2024/figures/G3-P5-Driver/q116.png,56,56,1,
+ADRE-2024-G3-P5-Driver-Q117,ADRE,2024,III,V,A,117,,"A person purchases a defective item for ` 900, repairs it for ` 100 and sells the item for ` 1800. His
+percentage of profit is :",100%,80%,90%,180%,,,,,,,B,,official_final_key,0,,,57,57,0,
+ADRE-2024-G3-P5-Driver-Q118,ADRE,2024,III,V,A,118,,Which country was Winston Churchill a Prime Minister of ?,United Kingdom,Brazil,United States of America,Switzerland,,,,,,,A,,official_final_key,0,,,57,57,0,
+ADRE-2024-G3-P5-Driver-Q119,ADRE,2024,III,V,A,119,,Which of the following is a proper noun ?,Big Ocean,Wide River,Deep Lake,Pacific Ocean,,,,,,,D,,official_final_key,0,,,58,,0,
+ADRE-2024-G3-P5-Driver-Q120,ADRE,2024,III,V,A,120,,"“ Two weeks from now, the festivals would start”. Identify a single word substitution of the
+underlined phrase.",Weekend,Month,Fortnight,Year,,,,,,,C,,official_final_key,1,drawing|math,exams/ADRE/2024/figures/G3-P5-Driver/q120.png,58,,1,
+ADRE-2024-G3-P5-Driver-Q121,ADRE,2024,III,V,A,121,,The area of a square is 169 metre². The measure of the side of the square is :,17 metre,19 metre,12 metre,13 metre,,,,,,,D,,official_final_key,0,,,58,58,0,
+ADRE-2024-G3-P5-Driver-Q122,ADRE,2024,III,V,A,122,,What is a collective noun for dancers ?,Troupe,Gang,Panel,Board,,,,,,,A,,official_final_key,0,,,58,,0,
+ADRE-2024-G3-P5-Driver-Q123,ADRE,2024,III,V,A,123,,"Identify the Conjunction in the sentence :
+Rakesh and Subham are good friends.",Are,Good,Friends,And,,,,,,,D,,official_final_key,0,,,58,,0,
+ADRE-2024-G3-P5-Driver-Q124,ADRE,2024,III,V,A,124,,The 2020 Summer Olympic Games was held in which country ?,South Korea,Japan,China,Singapore,,,,,,,B,,official_final_key,0,,,58,58,0,
+ADRE-2024-G3-P5-Driver-Q125,ADRE,2024,III,V,A,125,,The place value of ‘5’ in 425639 is :,5600,25000,5000,5639,,,,,,,C,,official_final_key,0,,,59,59,0,
+ADRE-2024-G3-P5-Driver-Q126,ADRE,2024,III,V,A,126,,Who amongst the following led the 1857 rebellion against East India Company ?,Rani Ahilya Bai,Rani Laxmi Bai,Chand Bibi,Rezia Sultana,,,,,,,B,,official_final_key,0,,,59,59,0,
+ADRE-2024-G3-P5-Driver-Q127,ADRE,2024,III,V,A,127,,Identify the correctly spelt term.,Traffic Single,Traffic Signel,Traffic Signal,Trafic Signal,,,,,,,C,,official_final_key,0,,,60,60,0,
+ADRE-2024-G3-P5-Driver-Q128,ADRE,2024,III,V,A,128,,Which of the following is not mandatory for a commercial vehicle in Assam ?,Vehicle Registration,Night Driving permit,Pollution Under Control,Fitness Certificate,,,,,,,B,,official_final_key,0,,,60,60,0,
+ADRE-2024-G3-P5-Driver-Q129,ADRE,2024,III,V,A,129,,Why are Red and Blue lights used in Ambulances ?,"To alert all drivers, even those with colour blindness",Because they look good,Red stands for danger and Blue for emergency,They can be seen from far,,,,,,,D,,official_final_key,0,,,61,61,0,
+ADRE-2024-G3-P5-Driver-Q130,ADRE,2024,III,V,A,130,,What does “get out of hand” mean ?,To walk away,To be very slippery,To become uncontrollable,To get lost,,,,,,,C,,official_final_key,0,,,62,,0,
+ADRE-2024-G3-P5-Driver-Q131,ADRE,2024,III,V,A,131,,Fill in the blank : Pradhan is a __________ driver.,Good,Better,Expert,Best,,,,,,,A,,official_final_key,0,,,62,,0,
+ADRE-2024-G3-P5-Driver-Q132,ADRE,2024,III,V,A,132,,"The HCF of 12, 24 and 30 is :",2,3,6,12,,,,,,,C,,official_final_key,0,,,62,62,0,
+ADRE-2024-G3-P5-Driver-Q133,ADRE,2024,III,V,A,133,,Who presents the Union Budget of India ?,The Finance Minister,The Prime Minister,The Home Minister,The President of India,,,,,,,A,,official_final_key,0,,,62,62,0,
+ADRE-2024-G3-P5-Driver-Q134,ADRE,2024,III,V,A,134,,The new name for Twitter is :,AXE,XX,EAX,X,,,,,,,D,,official_final_key,0,,,63,63,0,
+ADRE-2024-G3-P5-Driver-Q135,ADRE,2024,III,V,A,135,,In which country did Mohandas Karamchand Gandhi stay before coming to India ?,South Africa,Uganda,Egypt,Sri Lanka,,,,,,,A,,official_final_key,0,,,63,63,0,
+ADRE-2024-G3-P5-Driver-Q136,ADRE,2024,III,V,A,136,,"A sequence of numbers is written in such a way that each number is greater than the preceding
+number by 3. Starting the sequence from −2, the 10th number in the sequence is :",23,25,28,30,,,,,,,B,,official_final_key,0,,,64,64,0,
+ADRE-2024-G3-P5-Driver-Q137,ADRE,2024,III,V,A,137,,Identify the item which is not of same type.,Payment,Rent,Price,Bill,,,,,,,A,,official_final_key,0,,,64,64,0,
+ADRE-2024-G3-P5-Driver-Q138,ADRE,2024,III,V,A,138,,Identify the Antonym of WORST.,Better,Best,Good,Fantastic,,,,,,,B,,official_final_key,0,,,65,,0,
+ADRE-2024-G3-P5-Driver-Q139,ADRE,2024,III,V,A,139,,Choose the correct option : Teacher __________ Puja for her bad handwriting.,Scold,Scolding,Scolded,Scolder,,,,,,,C,,official_final_key,0,,,65,,0,
+ADRE-2024-G3-P5-Driver-Q140,ADRE,2024,III,V,A,140,,The armies of East India Company defeated Siraj U’ Daulah at which battle ?,Battle of Buxar,Battle of Plassey,Battle of Nalapani,Battle of Jhelum,,,,,,,B,,official_final_key,0,,,65,65,0,
+ADRE-2024-G3-P5-Driver-Q141,ADRE,2024,III,V,A,141,,Which Pronoun can be used to refer to your friends running at a distance ?,We,It,That,They,,,,,,,D,,official_final_key,0,,,65,,0,
+ADRE-2024-G3-P5-Driver-Q142,ADRE,2024,III,V,A,142,,Maximum speed limit for Motor cycles on Municipal Roads in Assam :,80 km/hour,70 km/hour,60 km/hour,50 km/hour,,,,,,,D,,official_final_key,0,,,65,65,0,
+ADRE-2024-G3-P5-Driver-Q143,ADRE,2024,III,V,A,143,,In which sport did Deepa Karmakar represent India ?,Badminton,Shooting,Gymnastics,Table Tennis,,,,,,,C,,official_final_key,0,,,66,66,0,
+ADRE-2024-G3-P5-Driver-Q144,ADRE,2024,III,V,A,144,,Which of the following is the Article in “Our instructor asked us to push the car” ?,The,Instructor,Push,Asked,,,,,,,A,,official_final_key,0,,,66,,0,
+ADRE-2024-G3-P5-Driver-Q145,ADRE,2024,III,V,A,145,,The Bordubi Tilinga Mandir is near which town ?,Bongaigaon,Dhemaji,Tezpur,Duliajan,,,,,,,D,,official_final_key,0,,,66,66,0,
+ADRE-2024-G3-P5-Driver-Q146,ADRE,2024,III,V,A,146,,The sum of the angles of a quadrilateral is :,908,1808,3608,4008,,,,,,,C,,official_final_key,0,,,67,67,0,
+ADRE-2024-G3-P5-Driver-Q147,ADRE,2024,III,V,A,147,,Which of the following is correct ?,Good : Better : Best,Good : Gooder : Goodest,Best : Bester : Bestest,Better : Betterer : Betterest,,,,,,,A,,official_final_key,0,,,67,,0,
+ADRE-2024-G3-P5-Driver-Q148,ADRE,2024,III,V,A,148,,Jonki and Panei are characters of a story based on which community ?,Dimasa,Idu Misimi,Mising,Singpho,,,,,,,C,,official_final_key,0,,,67,67,0,
+ADRE-2024-G3-P5-Driver-Q149,ADRE,2024,III,V,A,149,,The triangular shaped traffic road sign falls in the category of __________.,Mandatory,Informative,Cautionary,Emergency,,,,,,,C,,official_final_key,0,,,68,68,0,
+ADRE-2024-G3-P5-Driver-Q150,ADRE,2024,III,V,A,150,,"If 12 mangoes cost ` 300 and 15 apples cost ` 450, then the total cost of 4 mangoes and 3 apples
+is :",` 290,` 109,` 190,` 209,,,,,,,C,,official_final_key,0,,,68,68,0,

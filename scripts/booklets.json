@@ -1,0 +1,132 @@
+{
+ "ADRE/2022/G3-P3-HSSLC": {
+  "conducting_body": "SLRC Assam",
+  "booklet_set": "A",
+  "total_questions": 100,
+  "max_marks": 150,
+  "language_order": [
+   "as",
+   "bn",
+   "brx",
+   "hi",
+   "en"
+  ]
+ },
+ "ADRE/2022/G3-P4-Degree": {
+  "conducting_body": "SLRC Assam",
+  "booklet_set": "A",
+  "total_questions": 100,
+  "max_marks": 175,
+  "language_order": [
+   "as",
+   "bn",
+   "brx",
+   "hi",
+   "en"
+  ]
+ },
+ "ADRE/2022/G3-P5-Driver": {
+  "conducting_body": "SLRC Assam",
+  "booklet_set": "A",
+  "total_questions": 100,
+  "max_marks": 150,
+  "language_order": [
+   "as",
+   "bn",
+   "brx",
+   "hi",
+   "en"
+  ]
+ },
+ "ADRE/2022/G4-P1-HSLC": {
+  "conducting_body": "SLRC Assam",
+  "booklet_set": "A",
+  "total_questions": 135,
+  "max_marks": 135,
+  "language_order": [
+   "as",
+   "bn",
+   "brx",
+   "hi",
+   "en"
+  ]
+ },
+ "ADRE/2022/G4-P2-ClassVIII": {
+  "conducting_body": "SLRC Assam",
+  "booklet_set": "A",
+  "total_questions": 135,
+  "max_marks": 135,
+  "language_order": [
+   "as",
+   "bn",
+   "brx",
+   "hi",
+   "en"
+  ]
+ },
+ "ADRE/2024/G3-P3-HSSLC": {
+  "conducting_body": "SLRC Assam",
+  "booklet_set": "A",
+  "total_questions": 150,
+  "max_marks": 150,
+  "language_order": [
+   "en",
+   "as",
+   "bn",
+   "brx",
+   "hi"
+  ]
+ },
+ "ADRE/2024/G3-P4-Degree": {
+  "conducting_body": "SLRC Assam",
+  "booklet_set": "A",
+  "total_questions": 150,
+  "max_marks": 175,
+  "language_order": [
+   "en",
+   "as",
+   "bn",
+   "brx",
+   "hi"
+  ]
+ },
+ "ADRE/2024/G3-P5-Driver": {
+  "conducting_body": "SLRC Assam",
+  "booklet_set": "A",
+  "total_questions": 150,
+  "max_marks": 150,
+  "language_order": [
+   "en",
+   "as",
+   "bn",
+   "brx",
+   "hi"
+  ]
+ },
+ "ADRE/2024/G4-P1-HSLC": {
+  "conducting_body": "SLRC Assam",
+  "booklet_set": "A",
+  "total_questions": 135,
+  "max_marks": 135,
+  "language_order": [
+   "en",
+   "as",
+   "bn",
+   "brx",
+   "hi"
+  ]
+ },
+ "ADRE/2024/G4-P2-ClassVIII": {
+  "conducting_body": "SLRC Assam",
+  "booklet_set": "A",
+  "total_questions": 135,
+  "max_marks": 135,
+  "language_order": [
+   "en",
+   "as",
+   "bn",
+   "brx",
+   "hi"
+  ]
+ }
+}

@@ -1,0 +1,435 @@
+id,exam,year,grade,paper,booklet_set,q_no,context_en,question_en,option_a_en,option_b_en,option_c_en,option_d_en,context_as,question_as,option_a_as,option_b_as,option_c_as,option_d_as,answer,answer_note,answer_source,has_visual,visual_types,images,page_en,page_as,needs_review,review_notes
+ADRE-2022-G3-P4-Degree-Q001,ADRE,2022,III,IV,A,1,,The term “Tirthankaras” is associated with,Jainism,Buddhism,Sikhism,Hinduism,,,,,,,,,,0,,,6,6,0,
+ADRE-2022-G3-P4-Degree-Q002,ADRE,2022,III,IV,A,2,,"The State of Northeast India that does not share borders with Bangladesh, is",Manipur,Tripura,Meghalaya,Mizoram,,,,,,,,,,0,,,6,6,0,
+ADRE-2022-G3-P4-Degree-Q003,ADRE,2022,III,IV,A,3,,Find the odd one out.,Gangtok,Imphal,Agartala,Dimapur,,,,,,,,,,0,,,7,7,0,
+ADRE-2022-G3-P4-Degree-Q004,ADRE,2022,III,IV,A,4,,"Which one of the following groups, is the festival “Lai Haraoba” associated
+with ?",Mishings,Karbis,Garos,Meiteis,,,,,,,,,,0,,,7,7,0,
+ADRE-2022-G3-P4-Degree-Q005,ADRE,2022,III,IV,A,5,,Where in Northeast India is Kangla fort located ?,Agartala,Gangtok,Itanagar,Imphal,,,,,,,,,,0,,,8,8,0,
+ADRE-2022-G3-P4-Degree-Q006,ADRE,2022,III,IV,A,6,,Which of the following is NOT a correct statement ?,Sundarbans delta is home to the largest mangrove forest in the world.,China is world’s largest mica producer.,Easter Island is a land area that is antipodal to India.,India’s largest inland salt water lake is located in Gujarat.,,,,,,,,,,0,,,9,8,0,
+ADRE-2022-G3-P4-Degree-Q007,ADRE,2022,III,IV,A,7,,"According to the Election Commission of India, in order to be recognized as a
+National Party, a political party must be treated a recognized political party
+in at least how many states ?",One,Four,Five,Three,,,,,,,,,,0,,,9,9,0,
+ADRE-2022-G3-P4-Degree-Q008,ADRE,2022,III,IV,A,8,,"Who amongst the following said, “Freedom is my birth right and I shall have
+it” ?",Chandra Sekhar Azad,Bal Gangadhar Tilak,Gopal Krishna Gokhale,Bhagat Singh,,,,,,,,,,0,,,10,9,0,
+ADRE-2022-G3-P4-Degree-Q009,ADRE,2022,III,IV,A,9,,"The second battle of Panipat fought between Akbar and Hemu was in the
+year",1526,1536,1556,1576,,,,,,,,,,0,,,10,10,0,
+ADRE-2022-G3-P4-Degree-Q010,ADRE,2022,III,IV,A,10,,"When did the Election Commission of India first enforce the “None Of The
+Above (NOTA)” in the voting option in the assembly election in India ?","August, 2012","November, 2013","January, 2015","October, 2014",,,,,,,,,,0,,,11,10,0,
+ADRE-2022-G3-P4-Degree-Q011,ADRE,2022,III,IV,A,11,,Where is the Headquarters of the International Court of Justice located ?,Paris,The Hague,Washington D.C.,New York,,,,,,,,,,0,,,11,11,0,
+ADRE-2022-G3-P4-Degree-Q012,ADRE,2022,III,IV,A,12,,Which one of the following steps did the Rowlatt Act incorporate ?,Forced to buy foreign goods,Restriction on wearing Khadi,Imprisonment without trial,Restriction on travelling abroad,,,,,,,,,,0,,,12,11,0,
+ADRE-2022-G3-P4-Degree-Q013,ADRE,2022,III,IV,A,13,,"In which year did the Supreme Court of India appoint its first woman judge
+and whom did it appoint ?","1985, R. Bhanumathi","1987, Indu Malhotra","1989, Fatima Beevi","1992, Indira Banerjee",,,,,,,,,,0,,,12,12,0,
+ADRE-2022-G3-P4-Degree-Q014,ADRE,2022,III,IV,A,14,,"The minimum age for acquiring voting right in India was reduced from
+21 years to 18 years, in the year",1986,1988,1990,1992,,,,,,,,,,0,,,13,12,0,
+ADRE-2022-G3-P4-Degree-Q015,ADRE,2022,III,IV,A,15,,"In which year did the British transfer the capital of India from Calcutta to
+Delhi ?",1911,1913,1907,1910,,,,,,,,,,0,,,13,13,0,
+ADRE-2022-G3-P4-Degree-Q016,ADRE,2022,III,IV,A,16,,"The Chief of the Ahom Military during the reign of Chuhungmung and the
+husband of Mula Gabhoru was",Purnananda Buragohain,Frashenmung Bor Gohain,Khamsen Borgohain,Konseng Borpatra Gohain,,,,,,,,,,0,,,14,13,0,
+ADRE-2022-G3-P4-Degree-Q017,ADRE,2022,III,IV,A,17,,In which year the title ‘Viceroy’ was given to ‘Governor General of India’ ?,1867,1858,1876,1905,,,,,,,,,,0,,,14,14,0,
+ADRE-2022-G3-P4-Degree-Q018,ADRE,2022,III,IV,A,18,,"Bodoland Territorial Council is a result of which of the following
+Constitutional provisions ?",Second Schedule,Seventh Schedule,Sixth Schedule,Fifth Schedule,,,,,,,,,,0,,,15,14,0,
+ADRE-2022-G3-P4-Degree-Q019,ADRE,2022,III,IV,A,19,,Pakyong airport is located in,Arunachal Pradesh,Sikkim,Manipur,Mizoram,,,,,,,,,,0,,,15,15,0,
+ADRE-2022-G3-P4-Degree-Q020,ADRE,2022,III,IV,A,20,,The most common animal figure found at all the Harappan sites is the,Unihorn bull,Cow,Elephant,Tiger,,,,,,,,,,0,text_mentions_visual,exams/ADRE/2022/figures/G3-P4-Degree/q020.png,15,15,1,
+ADRE-2022-G3-P4-Degree-Q021,ADRE,2022,III,IV,A,21,,How many rings are there on the Olympics flag ?,4,5,6,7,,,,,,,,,,0,,,16,16,0,
+ADRE-2022-G3-P4-Degree-Q022,ADRE,2022,III,IV,A,22,,The capital city of Argentina is,Buenos Aires,Santiago,Bogota,Lima,,,,,,,,,,0,,,16,16,0,
+ADRE-2022-G3-P4-Degree-Q023,ADRE,2022,III,IV,A,23,,Air Asia has its headquarters in,Mumbai,Kuala Lumpur,Jakarta,Bangkok,,,,,,,,,,0,,,17,17,0,
+ADRE-2022-G3-P4-Degree-Q024,ADRE,2022,III,IV,A,24,,Which of the following is not an operating system for Computers ?,Windows 11,Linux,Microsoft Office,Ubuntu,,,,,,,,,,1,drawing,exams/ADRE/2022/figures/G3-P4-Degree/q024.png,17,17,0,
+ADRE-2022-G3-P4-Degree-Q025,ADRE,2022,III,IV,A,25,,"Which of the following is presently considered as the highest Himalayan
+peak of India ?",Kanchenjunga,Nanda Devi,Kamet,Mana,,,,,,,,,,0,,,18,18,0,
+ADRE-2022-G3-P4-Degree-Q026,ADRE,2022,III,IV,A,26,,"Which mythical underground river is considered to have joined Ganga and
+Yamuna at Triveni Sangam of Prayagraj (formerly Prayag of Allahabad) ?",Bhagirathi,Alakananda,Saraswati,Satadru,,,,,,,,,,0,,,19,18,0,
+ADRE-2022-G3-P4-Degree-Q027,ADRE,2022,III,IV,A,27,,Which of the following is measured in Carats ?,Steel rod,Milk fat,Saffron,Gold,,,,,,,,,,0,,,19,19,0,
+ADRE-2022-G3-P4-Degree-Q028,ADRE,2022,III,IV,A,28,,"Which branch of study deals with the history of life on Earth as based on
+fossils ?",Palaeontology,Archaeology,Geology,Geomorphology,,,,,,,,,,0,,,20,19,0,
+ADRE-2022-G3-P4-Degree-Q029,ADRE,2022,III,IV,A,29,,Which instrument is used to measure atmospheric pressure ?,Nanometer,Barometer,Altimeter,Hydrometer,,,,,,,,,,0,,,20,20,0,
+ADRE-2022-G3-P4-Degree-Q030,ADRE,2022,III,IV,A,30,,"In a game of Kho Kho, how many members of chasing team enters the field
+and sit on their knees ?",Eight,Ten,Nine,Seven,,,,,,,,,,0,,,21,20,0,
+ADRE-2022-G3-P4-Degree-Q031,ADRE,2022,III,IV,A,31,,Which of the following is not native to India ?,Chimpanzee,One Horned Rhino,Pygmy Hog,Leopard,,,,,,,,,,0,,,21,21,0,
+ADRE-2022-G3-P4-Degree-Q032,ADRE,2022,III,IV,A,32,,Which is officially the National tree of India ?,Deodar,Banyan,Peepal,Neem,,,,,,,,,,0,,,22,21,0,
+ADRE-2022-G3-P4-Degree-Q033,ADRE,2022,III,IV,A,33,,Agnes Gonxha Bejaxhui has been more popularly known as,Miraben,Arundhati Roy,Mother Teresa,Sister Nivedita,,,,,,,,,,0,,,22,22,0,
+ADRE-2022-G3-P4-Degree-Q034,ADRE,2022,III,IV,A,34,,Who invented the codes for Telegraph ?,Benjamin Franklin,Samuel Morse,Albert Einstein,John Baird,,,,,,,,,,0,,,23,22,0,
+ADRE-2022-G3-P4-Degree-Q035,ADRE,2022,III,IV,A,35,,What is the full form of NEFA – as Arunachal Pradesh was known earlier ?,North-East Frontier Area,North-East Frontier Assembly,North-East Frontier Activity,North-East Frontier Agency,,,,,,,,,,0,,,23,23,0,
+ADRE-2022-G3-P4-Degree-Q036,ADRE,2022,III,IV,A,36,,Which of the following festival is mainly celebrated in Kerala ?,Diwali,Onam,Pongal,Lohri,,,,,,,,,,0,,,24,23,0,
+ADRE-2022-G3-P4-Degree-Q037,ADRE,2022,III,IV,A,37,,The male lead role in which movie was played by Zubeen Garg ?,Mission China,Mission Kashmir,Mission Chennai,Mission Kabul,,,,,,,,,,0,,,24,24,0,
+ADRE-2022-G3-P4-Degree-Q038,ADRE,2022,III,IV,A,38,,Who wrote the book ‘Malgudi Days’ ?,R.K. Laxman,K.R. Narayanan,R.K. Narayan,R.K. Pandit,,,,,,,,,,0,,,25,24,0,
+ADRE-2022-G3-P4-Degree-Q039,ADRE,2022,III,IV,A,39,,Drones are,Interstellar laser weapons,Night vision binoculors,Crawling land mine detectors,Unmanned ariel vehicles,,,,,,,,,,0,,,25,25,0,
+ADRE-2022-G3-P4-Degree-Q040,ADRE,2022,III,IV,A,40,,"In the following list, who was a football player ?",Gilbertson Sangma,Carfew Roy,Tayebunnesa,Mithu Baruah,,,,,,,,,,0,,,26,25,0,
+ADRE-2022-G3-P4-Degree-Q041,ADRE,2022,III,IV,A,41,,Which of the following states does not share border with Assam ?,Nagaland,Sikkim,Mizoram,West Bengal,,,,,,,,,,0,,,26,26,0,
+ADRE-2022-G3-P4-Degree-Q042,ADRE,2022,III,IV,A,42,,Which district of Assam was created in January 2022 ?,Bajali,Baksa,Tamulpur,Hojai,,,,,,,,,,0,,,27,26,0,
+ADRE-2022-G3-P4-Degree-Q043,ADRE,2022,III,IV,A,43,,Who presented the Budget for 2021-22 in Assam ?,Himanta Biswa Sarma,Ajanta Neag,Atul Bora,Ranoj Pegu,,,,,,,,,,0,,,27,27,0,
+ADRE-2022-G3-P4-Degree-Q044,ADRE,2022,III,IV,A,44,,Which of the following river is on the south bank of River Brahmaputra ?,Manas,Subansiri,Dikhow,Ranganadi,,,,,,,,,,0,,,28,27,0,
+ADRE-2022-G3-P4-Degree-Q045,ADRE,2022,III,IV,A,45,,Which one amongst the following is the oldest production unit ?,Digboi Refinery,Numaligarh Refinery,Bongaigaon Refinery,Guwahati Refinery,,,,,,,,,,0,,,28,28,0,
+ADRE-2022-G3-P4-Degree-Q046,ADRE,2022,III,IV,A,46,,Which amongst the following is a UNESCO Heritage site ?,Majuli River Island,Sualkuchi,Kamakhya Temple,Manas National Park,,,,,,,,,,0,,,29,28,0,
+ADRE-2022-G3-P4-Degree-Q047,ADRE,2022,III,IV,A,47,,Kaziranga National Park does not touch which of the following districts ?,Golaghat,Karbi Anglong,Nagaon,Morigaon,,,,,,,,,,0,,,29,29,0,
+ADRE-2022-G3-P4-Degree-Q048,ADRE,2022,III,IV,A,48,,"Whose resting place is at Saraguri Chapori at Dikhowmukh, near Sibsagar ?",Bishnu Prasad Rabha,Swargadeo Sukapha,Ajan Pir,Srimanta Sankardev,,,,,,,,,,0,,,30,29,0,
+ADRE-2022-G3-P4-Degree-Q049,ADRE,2022,III,IV,A,49,,Who established the Gurudwara at Dhubri ?,Guru Nanak,Guru Tegh Bahadur,Guru Angad,Guru Arjan,,,,,,,,,,0,,,30,30,0,
+ADRE-2022-G3-P4-Degree-Q050,ADRE,2022,III,IV,A,50,,Who was the first female actress of Assamese Cinema ?,Aidew Handique,Ebha Ashaw,Abanti Handique,Vidya Rao,,,,,,,,,,0,,,30,30,0,
+ADRE-2022-G3-P4-Degree-Q051,ADRE,2022,III,IV,A,51,,"Q is the only sister of A, who is the only son of B. B’s wife is the daughter of
+P, who has only one son R. How is R related to Q ?",Father-in-law,Uncle,Son,Father,,,,,,,,,,0,,,31,31,0,
+ADRE-2022-G3-P4-Degree-Q052,ADRE,2022,III,IV,A,52,,"In a row of boys, Srinath is 7th from left and Prabin is 12th from right. If they
+interchange their positions, Srinath becomes 22nd from the left. How many
+boys are there in the row ?",19,31,33,34,,,,,,,,,,0,,,32,31,0,
+ADRE-2022-G3-P4-Degree-Q053,ADRE,2022,III,IV,A,53,,"If 72 96 = 6927, 58 87 = 7885, then 79 86 = ?",7689,8976,6897,6978,,,,,,,,,,1,symbol_image,exams/ADRE/2022/figures/G3-P4-Degree/q053.png,33,32,0,
+ADRE-2022-G3-P4-Degree-Q054,ADRE,2022,III,IV,A,54,,"If ‘ ÷’ means ‘addition’, ‘+’ means ‘subtraction’, ‘–’ means ‘multiplication’ and
+‘×’ means ‘division’, then the value of 18 ÷ 12 × 4 – 5 is",25,35,40,33,,,,,,,,,,1,math,exams/ADRE/2022/figures/G3-P4-Degree/q054.png,33,33,1,
+ADRE-2022-G3-P4-Degree-Q055,ADRE,2022,III,IV,A,55,,"The missing term in the sequence 7, 11, 19, 31, ______, 67 is",43,47,51,45,,,,,,,,,,0,,,34,34,0,
+ADRE-2022-G3-P4-Degree-Q056,ADRE,2022,III,IV,A,56,,"The Chairman enters the Assembly Hall 10 min before 12:30 hours to
+conduct the interview. The Chairman was 20 min earlier than the MD. The
+MD was 30 min late as per time fixed for the interview. The time fixed for the
+interview was :",12:50 hours,12:40 hours,12:00 hours,12:10 hours,,,,,,,,,,0,,,35,34,0,
+ADRE-2022-G3-P4-Degree-Q057,ADRE,2022,III,IV,A,57,,"The 8th term of the sequence 2, 6, 18, 54, …… is",4370,4374,7443,7434,,,,,,,,,,0,,,36,35,0,
+ADRE-2022-G3-P4-Degree-Q058,ADRE,2022,III,IV,A,58,,"Two numbers are respectively 20% and 50% more than a third number. The
+ratio of the two numbers is",2 : 5,3 : 5,4 : 5,7 : 5,,,,,,,,,,0,,,36,36,0,
+ADRE-2022-G3-P4-Degree-Q059,ADRE,2022,III,IV,A,59,,"The simple interest earned by ` 4,000 in 18 months at 12% per annum is",` 216,` 720,` 360,` 960,,,,,,,,,,0,,,37,37,0,
+ADRE-2022-G3-P4-Degree-Q060,ADRE,2022,III,IV,A,60,,"When a number is divided by 893 the remainder is 193. If the same number
+is divided by 47, the remainder will be :",3,25,5,33,,,,,,,,,,0,,,38,37,0,
+ADRE-2022-G3-P4-Degree-Q061,ADRE,2022,III,IV,A,61,,"A hostel has 120 students and food supplies are for 45 days. If 30 more
+students joined the hostel, then how many days the hostel will run with the
+existing food ?",40 days,38 days,36 days,32 days,,,,,,,,,,0,,,38,38,0,
+ADRE-2022-G3-P4-Degree-Q062,ADRE,2022,III,IV,A,62,,"A 20 m long ladder is leaning on a vertical wall. It makes an angle of 30°
+with the ground. The height of the point the ladder touches wall is",10 m,17.32 m,8.16 m,13 m,,,,,,,,,,1,math,exams/ADRE/2022/figures/G3-P4-Degree/q062.png,39,39,1,
+ADRE-2022-G3-P4-Degree-Q063,ADRE,2022,III,IV,A,63,,"A wheel can cover a distance of 22 km in 1000 rounds. The radius of the
+wheel is",4.5 m,2.1 m,2.8 m,3.5 m,,,,,,,,,,0,,,40,39,0,
+ADRE-2022-G3-P4-Degree-Q064,ADRE,2022,III,IV,A,64,,"In a school with 10 teachers, one retires and immediately a new teacher of
+age 25 years joins. As a result, the average age of the teacher reduces by 3.
+The age of the retired teacher is",55 years,65 years,58 years,60 years,,,,,,,,,,0,,,41,40,0,
+ADRE-2022-G3-P4-Degree-Q065,ADRE,2022,III,IV,A,65,,"The ratio of the number of boys and girls in a school of 720 students is 7 : 5.
+How many more girls should be admitted to make the ratio 1 : 1 ?",60,120,180,240,,,,,,,,,,0,,,41,41,0,
+ADRE-2022-G3-P4-Degree-Q066,ADRE,2022,III,IV,A,66,,"Shyam stored ` 35 in the form of 1 rupee coin and 50 paise coins in the ratio
+2 : 3. The number of 50 paise coins are :",20,25,30,35,,,,,,,,,,0,,,42,42,0,
+ADRE-2022-G3-P4-Degree-Q067,ADRE,2022,III,IV,A,67,,"The pie chart shows the expenditure breakup of a company for a given year.
+The angle subtended by the Tax segment is
+Fig. : Expenditure (in Lakhs)",90°,45°,72°,81°,,,,,,,,,,1,image|math|text_mentions_visual,exams/ADRE/2022/figures/G3-P4-Degree/q067.png,44,42,1,
+ADRE-2022-G3-P4-Degree-Q068,ADRE,2022,III,IV,A,68,,Select the appropriate figure to continue the figure series.,,,,,,,,,,,,,,1,image|option_images|text_mentions_visual,exams/ADRE/2022/figures/G3-P4-Degree/q068.png,46,45,1,
+ADRE-2022-G3-P4-Degree-Q069,ADRE,2022,III,IV,A,69,,"What number should replace the question mark (?) ?
+53	?",14,55,15,45,,,,,,,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G3-P4-Degree/q069.png,48,46,0,
+ADRE-2022-G3-P4-Degree-Q070,ADRE,2022,III,IV,A,70,,"Identify the diagram that best represents the relationship among the given
+classes :
+BROTHER, HUSBAND, MEN",,,,,,,,,,,,,,1,image|option_images|text_mentions_visual,exams/ADRE/2022/figures/G3-P4-Degree/q070.png,49,48,1,
+ADRE-2022-G3-P4-Degree-Q071,ADRE,2022,III,IV,A,71,"Q. 71-80 : Read the passage carefully and answer the questions given below :
+At last the bomb was made. The site chosen for the test explosion was the
+desert region north of Almogordo, two hundred miles from Los Alamos. The
+bomb was taken by road and placed on a gaunt tower, one hundred feet high
+and weighing thirty-two tons, erected on the top of a hill. The code name for
+it was Zero Hill. Zero hour was 5:30 a.m. on Monday, July 16, 1945.
+Oppenheimer himself was at the control centre about nine miles from
+Zero Hill. There were a thousand spectators including scientists, government
+officials and a strong security force. All not on duty were told to lie down flat,
+face and eyes directed towards the ground and with the head away from zero.
+At forty-five seconds to zero hour Dr. Joseph L. Mckibban of California
+University set in motion a weird master robot which set other robots in
+motion. More than five hundred miles of wiring were used to start the bomb.
+Electronic impulses were set in motion and relayed messages; electrons
+moved into position. Observers stood with coloured film over their eyes and
+heads averted.
+Overhead two B-29 super fortresses hovered, equipped with recording
+instruments to test reactions in the atmosphere. Ten seconds before zero
+hour a green flare warned the spectators to keep down. Then came the
+blinding flash.
+The whole area was suddenly brighter than the brightest day light, and
+the bomb was a ball of fire. Even at nine miles, the heat was scorching. Then
+came the tremendous roar and the heavy pressure wave, which knocked
+down two men outside the control centre. And then came the cloud – the
+mushroom cloud, all the colours of the rainbow, ironically beautiful surging
+upto over 40,000 feet, over 10,000 feet higher than Everest. The great steel
+tower had gone. Lead lined Sherman tanks took scientists towards the huge
+sloping crater where it had stood, to see the effects of radiation on the surface
+of the earth.",Zero Hill was located in,Desert region of Almogordo,Desert region of Los Alamos,Desert region north of Almogordo,Desert region south of Almogordo,,,,,,,,,,0,,,51,,0,
+ADRE-2022-G3-P4-Degree-Q072,ADRE,2022,III,IV,A,72,"Q. 71-80 : Read the passage carefully and answer the questions given below :
+At last the bomb was made. The site chosen for the test explosion was the
+desert region north of Almogordo, two hundred miles from Los Alamos. The
+bomb was taken by road and placed on a gaunt tower, one hundred feet high
+and weighing thirty-two tons, erected on the top of a hill. The code name for
+it was Zero Hill. Zero hour was 5:30 a.m. on Monday, July 16, 1945.
+Oppenheimer himself was at the control centre about nine miles from
+Zero Hill. There were a thousand spectators including scientists, government
+officials and a strong security force. All not on duty were told to lie down flat,
+face and eyes directed towards the ground and with the head away from zero.
+At forty-five seconds to zero hour Dr. Joseph L. Mckibban of California
+University set in motion a weird master robot which set other robots in
+motion. More than five hundred miles of wiring were used to start the bomb.
+Electronic impulses were set in motion and relayed messages; electrons
+moved into position. Observers stood with coloured film over their eyes and
+heads averted.
+Overhead two B-29 super fortresses hovered, equipped with recording
+instruments to test reactions in the atmosphere. Ten seconds before zero
+hour a green flare warned the spectators to keep down. Then came the
+blinding flash.
+The whole area was suddenly brighter than the brightest day light, and
+the bomb was a ball of fire. Even at nine miles, the heat was scorching. Then
+came the tremendous roar and the heavy pressure wave, which knocked
+down two men outside the control centre. And then came the cloud – the
+mushroom cloud, all the colours of the rainbow, ironically beautiful surging
+upto over 40,000 feet, over 10,000 feet higher than Everest. The great steel
+tower had gone. Lead lined Sherman tanks took scientists towards the huge
+sloping crater where it had stood, to see the effects of radiation on the surface
+of the earth.",Hover means,To remain in the air at one place,To move to and fro,To circle around,To move up and down,,,,,,,,,,0,,,51,,0,
+ADRE-2022-G3-P4-Degree-Q073,ADRE,2022,III,IV,A,73,"Q. 71-80 : Read the passage carefully and answer the questions given below :
+At last the bomb was made. The site chosen for the test explosion was the
+desert region north of Almogordo, two hundred miles from Los Alamos. The
+bomb was taken by road and placed on a gaunt tower, one hundred feet high
+and weighing thirty-two tons, erected on the top of a hill. The code name for
+it was Zero Hill. Zero hour was 5:30 a.m. on Monday, July 16, 1945.
+Oppenheimer himself was at the control centre about nine miles from
+Zero Hill. There were a thousand spectators including scientists, government
+officials and a strong security force. All not on duty were told to lie down flat,
+face and eyes directed towards the ground and with the head away from zero.
+At forty-five seconds to zero hour Dr. Joseph L. Mckibban of California
+University set in motion a weird master robot which set other robots in
+motion. More than five hundred miles of wiring were used to start the bomb.
+Electronic impulses were set in motion and relayed messages; electrons
+moved into position. Observers stood with coloured film over their eyes and
+heads averted.
+Overhead two B-29 super fortresses hovered, equipped with recording
+instruments to test reactions in the atmosphere. Ten seconds before zero
+hour a green flare warned the spectators to keep down. Then came the
+blinding flash.
+The whole area was suddenly brighter than the brightest day light, and
+the bomb was a ball of fire. Even at nine miles, the heat was scorching. Then
+came the tremendous roar and the heavy pressure wave, which knocked
+down two men outside the control centre. And then came the cloud – the
+mushroom cloud, all the colours of the rainbow, ironically beautiful surging
+upto over 40,000 feet, over 10,000 feet higher than Everest. The great steel
+tower had gone. Lead lined Sherman tanks took scientists towards the huge
+sloping crater where it had stood, to see the effects of radiation on the surface
+of the earth.",The bomb exploded,"emitting heat, sound and heavy pressure wave",emitting cloud and cloudburst,without creating much physical disturbances,creating a lot of physical and mental disturbances,,,,,,,,,,0,,,51,,0,
+ADRE-2022-G3-P4-Degree-Q074,ADRE,2022,III,IV,A,74,"Q. 71-80 : Read the passage carefully and answer the questions given below :
+At last the bomb was made. The site chosen for the test explosion was the
+desert region north of Almogordo, two hundred miles from Los Alamos. The
+bomb was taken by road and placed on a gaunt tower, one hundred feet high
+and weighing thirty-two tons, erected on the top of a hill. The code name for
+it was Zero Hill. Zero hour was 5:30 a.m. on Monday, July 16, 1945.
+Oppenheimer himself was at the control centre about nine miles from
+Zero Hill. There were a thousand spectators including scientists, government
+officials and a strong security force. All not on duty were told to lie down flat,
+face and eyes directed towards the ground and with the head away from zero.
+At forty-five seconds to zero hour Dr. Joseph L. Mckibban of California
+University set in motion a weird master robot which set other robots in
+motion. More than five hundred miles of wiring were used to start the bomb.
+Electronic impulses were set in motion and relayed messages; electrons
+moved into position. Observers stood with coloured film over their eyes and
+heads averted.
+Overhead two B-29 super fortresses hovered, equipped with recording
+instruments to test reactions in the atmosphere. Ten seconds before zero
+hour a green flare warned the spectators to keep down. Then came the
+blinding flash.
+The whole area was suddenly brighter than the brightest day light, and
+the bomb was a ball of fire. Even at nine miles, the heat was scorching. Then
+came the tremendous roar and the heavy pressure wave, which knocked
+down two men outside the control centre. And then came the cloud – the
+mushroom cloud, all the colours of the rainbow, ironically beautiful surging
+upto over 40,000 feet, over 10,000 feet higher than Everest. The great steel
+tower had gone. Lead lined Sherman tanks took scientists towards the huge
+sloping crater where it had stood, to see the effects of radiation on the surface
+of the earth.",Electronic impulses,were not effective,relayed messages,warned the spectators,greeted the spectators,,,,,,,,,,0,,,51,,0,
+ADRE-2022-G3-P4-Degree-Q075,ADRE,2022,III,IV,A,75,"Q. 71-80 : Read the passage carefully and answer the questions given below :
+At last the bomb was made. The site chosen for the test explosion was the
+desert region north of Almogordo, two hundred miles from Los Alamos. The
+bomb was taken by road and placed on a gaunt tower, one hundred feet high
+and weighing thirty-two tons, erected on the top of a hill. The code name for
+it was Zero Hill. Zero hour was 5:30 a.m. on Monday, July 16, 1945.
+Oppenheimer himself was at the control centre about nine miles from
+Zero Hill. There were a thousand spectators including scientists, government
+officials and a strong security force. All not on duty were told to lie down flat,
+face and eyes directed towards the ground and with the head away from zero.
+At forty-five seconds to zero hour Dr. Joseph L. Mckibban of California
+University set in motion a weird master robot which set other robots in
+motion. More than five hundred miles of wiring were used to start the bomb.
+Electronic impulses were set in motion and relayed messages; electrons
+moved into position. Observers stood with coloured film over their eyes and
+heads averted.
+Overhead two B-29 super fortresses hovered, equipped with recording
+instruments to test reactions in the atmosphere. Ten seconds before zero
+hour a green flare warned the spectators to keep down. Then came the
+blinding flash.
+The whole area was suddenly brighter than the brightest day light, and
+the bomb was a ball of fire. Even at nine miles, the heat was scorching. Then
+came the tremendous roar and the heavy pressure wave, which knocked
+down two men outside the control centre. And then came the cloud – the
+mushroom cloud, all the colours of the rainbow, ironically beautiful surging
+upto over 40,000 feet, over 10,000 feet higher than Everest. The great steel
+tower had gone. Lead lined Sherman tanks took scientists towards the huge
+sloping crater where it had stood, to see the effects of radiation on the surface
+of the earth.",The spectators included,"scientists, government officials and a strong security force.","scientists, artists and a strong security force.","scientists, a strong security force and footballers.","scientists, technicians and a strong security force.",,,,,,,,,,0,,,51,,0,
+ADRE-2022-G3-P4-Degree-Q076,ADRE,2022,III,IV,A,76,"Q. 71-80 : Read the passage carefully and answer the questions given below :
+At last the bomb was made. The site chosen for the test explosion was the
+desert region north of Almogordo, two hundred miles from Los Alamos. The
+bomb was taken by road and placed on a gaunt tower, one hundred feet high
+and weighing thirty-two tons, erected on the top of a hill. The code name for
+it was Zero Hill. Zero hour was 5:30 a.m. on Monday, July 16, 1945.
+Oppenheimer himself was at the control centre about nine miles from
+Zero Hill. There were a thousand spectators including scientists, government
+officials and a strong security force. All not on duty were told to lie down flat,
+face and eyes directed towards the ground and with the head away from zero.
+At forty-five seconds to zero hour Dr. Joseph L. Mckibban of California
+University set in motion a weird master robot which set other robots in
+motion. More than five hundred miles of wiring were used to start the bomb.
+Electronic impulses were set in motion and relayed messages; electrons
+moved into position. Observers stood with coloured film over their eyes and
+heads averted.
+Overhead two B-29 super fortresses hovered, equipped with recording
+instruments to test reactions in the atmosphere. Ten seconds before zero
+hour a green flare warned the spectators to keep down. Then came the
+blinding flash.
+The whole area was suddenly brighter than the brightest day light, and
+the bomb was a ball of fire. Even at nine miles, the heat was scorching. Then
+came the tremendous roar and the heavy pressure wave, which knocked
+down two men outside the control centre. And then came the cloud – the
+mushroom cloud, all the colours of the rainbow, ironically beautiful surging
+upto over 40,000 feet, over 10,000 feet higher than Everest. The great steel
+tower had gone. Lead lined Sherman tanks took scientists towards the huge
+sloping crater where it had stood, to see the effects of radiation on the surface
+of the earth.",Who was at the control tower ?,Oppenheimer,McKibbon,both Oppenheimer and McKibbon,Government officials,,,,,,,,,,0,,,52,,0,
+ADRE-2022-G3-P4-Degree-Q077,ADRE,2022,III,IV,A,77,"Q. 71-80 : Read the passage carefully and answer the questions given below :
+At last the bomb was made. The site chosen for the test explosion was the
+desert region north of Almogordo, two hundred miles from Los Alamos. The
+bomb was taken by road and placed on a gaunt tower, one hundred feet high
+and weighing thirty-two tons, erected on the top of a hill. The code name for
+it was Zero Hill. Zero hour was 5:30 a.m. on Monday, July 16, 1945.
+Oppenheimer himself was at the control centre about nine miles from
+Zero Hill. There were a thousand spectators including scientists, government
+officials and a strong security force. All not on duty were told to lie down flat,
+face and eyes directed towards the ground and with the head away from zero.
+At forty-five seconds to zero hour Dr. Joseph L. Mckibban of California
+University set in motion a weird master robot which set other robots in
+motion. More than five hundred miles of wiring were used to start the bomb.
+Electronic impulses were set in motion and relayed messages; electrons
+moved into position. Observers stood with coloured film over their eyes and
+heads averted.
+Overhead two B-29 super fortresses hovered, equipped with recording
+instruments to test reactions in the atmosphere. Ten seconds before zero
+hour a green flare warned the spectators to keep down. Then came the
+blinding flash.
+The whole area was suddenly brighter than the brightest day light, and
+the bomb was a ball of fire. Even at nine miles, the heat was scorching. Then
+came the tremendous roar and the heavy pressure wave, which knocked
+down two men outside the control centre. And then came the cloud – the
+mushroom cloud, all the colours of the rainbow, ironically beautiful surging
+upto over 40,000 feet, over 10,000 feet higher than Everest. The great steel
+tower had gone. Lead lined Sherman tanks took scientists towards the huge
+sloping crater where it had stood, to see the effects of radiation on the surface
+of the earth.",It is implied in the passage that the spectators were told to,"lie down flat, face and eyes directed towards the ground and with the head away from zero.",cover their eyes with coloured films and keep their head averted.,"lie down flat, face and eyes directed towards the ground and with the head towards zero.",cover their heads with coloured films and eyes closed.,,,,,,,,,,0,,,52,,0,
+ADRE-2022-G3-P4-Degree-Q078,ADRE,2022,III,IV,A,78,"Q. 71-80 : Read the passage carefully and answer the questions given below :
+At last the bomb was made. The site chosen for the test explosion was the
+desert region north of Almogordo, two hundred miles from Los Alamos. The
+bomb was taken by road and placed on a gaunt tower, one hundred feet high
+and weighing thirty-two tons, erected on the top of a hill. The code name for
+it was Zero Hill. Zero hour was 5:30 a.m. on Monday, July 16, 1945.
+Oppenheimer himself was at the control centre about nine miles from
+Zero Hill. There were a thousand spectators including scientists, government
+officials and a strong security force. All not on duty were told to lie down flat,
+face and eyes directed towards the ground and with the head away from zero.
+At forty-five seconds to zero hour Dr. Joseph L. Mckibban of California
+University set in motion a weird master robot which set other robots in
+motion. More than five hundred miles of wiring were used to start the bomb.
+Electronic impulses were set in motion and relayed messages; electrons
+moved into position. Observers stood with coloured film over their eyes and
+heads averted.
+Overhead two B-29 super fortresses hovered, equipped with recording
+instruments to test reactions in the atmosphere. Ten seconds before zero
+hour a green flare warned the spectators to keep down. Then came the
+blinding flash.
+The whole area was suddenly brighter than the brightest day light, and
+the bomb was a ball of fire. Even at nine miles, the heat was scorching. Then
+came the tremendous roar and the heavy pressure wave, which knocked
+down two men outside the control centre. And then came the cloud – the
+mushroom cloud, all the colours of the rainbow, ironically beautiful surging
+upto over 40,000 feet, over 10,000 feet higher than Everest. The great steel
+tower had gone. Lead lined Sherman tanks took scientists towards the huge
+sloping crater where it had stood, to see the effects of radiation on the surface
+of the earth.",B-29 superfortresses and Sherman tanks are used to,check the effect of the bomb on the ground and air respectively.,check effect of radiation on the ground and air respectively.,check effect of radiation in the air and ground respectively.,check the effect of the bomb on the great steel tower.,,,,,,,,,,0,,,52,,0,
+ADRE-2022-G3-P4-Degree-Q079,ADRE,2022,III,IV,A,79,"Q. 71-80 : Read the passage carefully and answer the questions given below :
+At last the bomb was made. The site chosen for the test explosion was the
+desert region north of Almogordo, two hundred miles from Los Alamos. The
+bomb was taken by road and placed on a gaunt tower, one hundred feet high
+and weighing thirty-two tons, erected on the top of a hill. The code name for
+it was Zero Hill. Zero hour was 5:30 a.m. on Monday, July 16, 1945.
+Oppenheimer himself was at the control centre about nine miles from
+Zero Hill. There were a thousand spectators including scientists, government
+officials and a strong security force. All not on duty were told to lie down flat,
+face and eyes directed towards the ground and with the head away from zero.
+At forty-five seconds to zero hour Dr. Joseph L. Mckibban of California
+University set in motion a weird master robot which set other robots in
+motion. More than five hundred miles of wiring were used to start the bomb.
+Electronic impulses were set in motion and relayed messages; electrons
+moved into position. Observers stood with coloured film over their eyes and
+heads averted.
+Overhead two B-29 super fortresses hovered, equipped with recording
+instruments to test reactions in the atmosphere. Ten seconds before zero
+hour a green flare warned the spectators to keep down. Then came the
+blinding flash.
+The whole area was suddenly brighter than the brightest day light, and
+the bomb was a ball of fire. Even at nine miles, the heat was scorching. Then
+came the tremendous roar and the heavy pressure wave, which knocked
+down two men outside the control centre. And then came the cloud – the
+mushroom cloud, all the colours of the rainbow, ironically beautiful surging
+upto over 40,000 feet, over 10,000 feet higher than Everest. The great steel
+tower had gone. Lead lined Sherman tanks took scientists towards the huge
+sloping crater where it had stood, to see the effects of radiation on the surface
+of the earth.",The beauty of the mushroom cloud is ironical because,It knocked down two men outside the control centre.,Of the devastating nature of the bomb.,The bomb destroyed the steel tower.,Clouds are not devastating.,,,,,,,,,,0,,,52,,0,
+ADRE-2022-G3-P4-Degree-Q080,ADRE,2022,III,IV,A,80,"Q. 71-80 : Read the passage carefully and answer the questions given below :
+At last the bomb was made. The site chosen for the test explosion was the
+desert region north of Almogordo, two hundred miles from Los Alamos. The
+bomb was taken by road and placed on a gaunt tower, one hundred feet high
+and weighing thirty-two tons, erected on the top of a hill. The code name for
+it was Zero Hill. Zero hour was 5:30 a.m. on Monday, July 16, 1945.
+Oppenheimer himself was at the control centre about nine miles from
+Zero Hill. There were a thousand spectators including scientists, government
+officials and a strong security force. All not on duty were told to lie down flat,
+face and eyes directed towards the ground and with the head away from zero.
+At forty-five seconds to zero hour Dr. Joseph L. Mckibban of California
+University set in motion a weird master robot which set other robots in
+motion. More than five hundred miles of wiring were used to start the bomb.
+Electronic impulses were set in motion and relayed messages; electrons
+moved into position. Observers stood with coloured film over their eyes and
+heads averted.
+Overhead two B-29 super fortresses hovered, equipped with recording
+instruments to test reactions in the atmosphere. Ten seconds before zero
+hour a green flare warned the spectators to keep down. Then came the
+blinding flash.
+The whole area was suddenly brighter than the brightest day light, and
+the bomb was a ball of fire. Even at nine miles, the heat was scorching. Then
+came the tremendous roar and the heavy pressure wave, which knocked
+down two men outside the control centre. And then came the cloud – the
+mushroom cloud, all the colours of the rainbow, ironically beautiful surging
+upto over 40,000 feet, over 10,000 feet higher than Everest. The great steel
+tower had gone. Lead lined Sherman tanks took scientists towards the huge
+sloping crater where it had stood, to see the effects of radiation on the surface
+of the earth.",A synonym and antonym for the word Scorching would be,"Searing, Soothing","Searing, Burning","Soothing, Cooling","Soothing, Heating",,,,,,,,,,0,,,52,,0,
+ADRE-2022-G3-P4-Degree-Q081,ADRE,2022,III,IV,A,81,,The value of 20 × 45 + 0.04 + 0.64 is,26,31,36,41,,,,,,,,,,1,drawing|math,exams/ADRE/2022/figures/G3-P4-Degree/q081.png,53,53,1,
+ADRE-2022-G3-P4-Degree-Q082,ADRE,2022,III,IV,A,82,,"x 2	3x + 5y 6x + 4y
+If =, then	+	is equal to
+y 3	3x – 5y 6x – y
+1	2",3 1,3 2,– 3,– 3,,,,,,,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G3-P4-Degree/q082.png,54,53,0,
+ADRE-2022-G3-P4-Degree-Q083,ADRE,2022,III,IV,A,83,,"If the sum of five consecutive numbers is 190, then the lowest number
+amongst them is",40,19,38,36,,,,,,,,,,0,,,55,54,0,
+ADRE-2022-G3-P4-Degree-Q084,ADRE,2022,III,IV,A,84,,"The least number by which 2450 must be multiplied to make it a perfect
+square, is",2,3,4,5,,,,,,,,,,0,,,55,55,0,
+ADRE-2022-G3-P4-Degree-Q085,ADRE,2022,III,IV,A,85,,"If the price of sugar increases by 20%, by what percentage should a
+household reduce its consumption of sugar so that the budget remains the
+same ?",13²₃ %,14₃² %,15²₃ %,16₃² %,,,,,,,,,,1,drawing,exams/ADRE/2022/figures/G3-P4-Degree/q085.png,56,56,0,
+ADRE-2022-G3-P4-Degree-Q086,ADRE,2022,III,IV,A,86,,"p, q, r are three numbers such that the LCM of p and q is q and the LCM of
+q and r is r. The LCM of p, q and r will be",q,r,qr,pqr,,,,,,,,,,0,,,57,57,0,
+ADRE-2022-G3-P4-Degree-Q087,ADRE,2022,III,IV,A,87,,"A 100 metre long train moving in a uniform speed of 20 m/sec crosses a
+bridge of length 1 km. The time taken by the train to cross the bridge is",45 seconds,50 seconds,55 seconds,60 seconds,,,,,,,,,,0,,,58,57,0,
+ADRE-2022-G3-P4-Degree-Q088,ADRE,2022,III,IV,A,88,,"The conversion of 0.03––7 in the fractional form is
+37	37",990 37,999 37,100,1000,,,,,,,,,,1,drawing|table_layout,exams/ADRE/2022/figures/G3-P4-Degree/q088.png,59,58,0,
+ADRE-2022-G3-P4-Degree-Q089,ADRE,2022,III,IV,A,89,,"The remainder when –76 is divided by 3, is",–1,1,2,–2,,,,,,,,,,0,,,60,59,0,
+ADRE-2022-G3-P4-Degree-Q090,ADRE,2022,III,IV,A,90,,"The angles of a quadrilateral are in the ratio of 1 : 3 : 4 : 7. The difference
+between the largest and the smallest angle is",120°,140°,144°,145°,,,,,,,,,,1,math,exams/ADRE/2022/figures/G3-P4-Degree/q090.png,60,60,1,
+ADRE-2022-G3-P4-Degree-Q091,ADRE,2022,III,IV,A,91,Q. 91 to Q. 94 : Insert the correct options in the blank spaces :,The tenants were asked to throw all recyclable trash into _____,the green big plastic bag,the big plastic green bag,the big green plastic bag,the green plastic big bag,,,,,,,,,,0,,,61,,0,
+ADRE-2022-G3-P4-Degree-Q092,ADRE,2022,III,IV,A,92,Q. 91 to Q. 94 : Insert the correct options in the blank spaces :,"The process uses an innovative digital technology ______ the products with as
+many colours as the image contains.",that imprints it,that imprints,that it imprints,that imprints on,,,,,,,,,,0,text_mentions_visual,exams/ADRE/2022/figures/G3-P4-Degree/q092.png,61,,1,
+ADRE-2022-G3-P4-Degree-Q093,ADRE,2022,III,IV,A,93,Q. 91 to Q. 94 : Insert the correct options in the blank spaces :,I quoted it from _____.,Mind,Heart,Soul,Imagination,,,,,,,,,,0,,,61,,0,
+ADRE-2022-G3-P4-Degree-Q094,ADRE,2022,III,IV,A,94,Q. 91 to Q. 94 : Insert the correct options in the blank spaces :,The company _______ because of the prolonged strikes and lockouts.,went into black,went into green,went into yellow,went into red,,,,,,,,,,0,,,61,,0,
+ADRE-2022-G3-P4-Degree-Q095,ADRE,2022,III,IV,A,95,"Q. 95 – Q.96 : Choose the correct pair of words which are SYNONYMS of each
+other.",,Regent – Substitute,Monotony – Variety,Ancestry – Posterity,Precept – Example,,,,,,,,,,0,,,61,,0,
+ADRE-2022-G3-P4-Degree-Q096,ADRE,2022,III,IV,A,96,"Q. 95 – Q.96 : Choose the correct pair of words which are SYNONYMS of each
+other.",,Vacillate – Waver,Oscillate – Stand,Undulate – Flow,Spiral – Drip,,,,,,,,,,0,,,62,,0,
+ADRE-2022-G3-P4-Degree-Q097,ADRE,2022,III,IV,A,97,,Choose the correct pair of words which are ANTONYMS of each other.,Lazy – Indolent,Glide – Drift,Entire – Total,Obligatory – Voluntary,,,,,,,,,,0,,,62,,0,
+ADRE-2022-G3-P4-Degree-Q098,ADRE,2022,III,IV,A,98,,"Choose the option which will best replace the underlined words in the
+sentence to make it correct :
+“She done it to quick so it came out looking rough.”",done it too quickly,did it too quick,did it too quickly,did it to quickly,,,,,,,,,,1,drawing,exams/ADRE/2022/figures/G3-P4-Degree/q098.png,62,,0,
+ADRE-2022-G3-P4-Degree-Q099,ADRE,2022,III,IV,A,99,,"Choose the correct option which best explains the meaning of the idiom
+“To give up the ghost”.",To exorcise a ghost,To die,To be possessed by the devil,To worship the devil,,,,,,,,,,0,,,62,,0,
+ADRE-2022-G3-P4-Degree-Q100,ADRE,2022,III,IV,A,100,,The application letter and the resume perform :,the same task,two opposite tasks,overlapping tasks,two different tasks,,,,,,,,,,0,,,62,,0,

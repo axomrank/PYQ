@@ -1,22 +1,4 @@
-# Dependencies
-/node_modules
-/.pnpm-store
-
-# Next.js build output
-/.next/
-/out/
-
-# Production & temp
-/build
-/.DS_Store
-*.pem
-
-# Local env files
-.env*.local
-
-# Vercel
-.vercel
-
-# TypeScript
-*.tsbuildinfo
-next-env.d.ts
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
