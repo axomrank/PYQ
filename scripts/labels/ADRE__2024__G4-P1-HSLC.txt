@@ -1,0 +1,135 @@
+1|ENG-V|Antonyms
+2|ENG-G|Punctuation
+3|ENG-V|Collective nouns
+4|ENG-V|Idioms and phrases
+5|ENG-V|Synonyms
+6|ENG-V|Spelling
+7|ENG-G|Fill in the blanks
+8|ENG-G|Verbs
+9|ENG-V|One word substitution
+10|ENG-G|Prepositions
+11|HIS-A|Chola Empire
+12|HIS-S|Ahom kingdom
+13|POL-G|NITI Aayog
+14|GEO-I|State capitals
+15|HIS-W|Ancient world
+16|GEO-S|Borders of Assam
+17|POL-C|Parliament
+18|POL-C|Preamble
+19|GEO-I|Mountain ranges
+20|GEO-S|Districts of Assam
+21|GK-P|Personalities of Assam
+22|SCI-P|Scientific instruments
+23|CUL-S|Festivals of Assam
+24|GEO-P|Glaciers
+25|GEO-I|Borders of India
+26|GEO-S|Districts of Assam
+27|GEO-W|International boundaries
+28|CUL-I|Classical dances
+29|CUL-S|Communities of Assam
+30|GEO-W|Countries
+31|GEO-W|Straits and canals
+32|CUL-S|Communities of Assam
+33|GEO-I|Hill stations
+34|HIS-M|Delhi Sultanate
+35|HIS-S|Ancient Assam
+36|POL-C|Preamble
+37|POL-C|Citizenship
+38|HIS-S|Chutiya kingdom
+39|GK-P|World leaders
+40|GEO-I|Rivers
+41|MAT-A|Age problems
+42|MAT-N|Powers and exponents
+43|MAT-A|Ratio and proportion
+44|MAT-N|Powers and exponents
+45|MAT-N|Square roots
+46|MAT-A|Percentage
+47|MAT-N|Roman numerals
+48|MAT-L|Polynomials
+49|MAT-N|Recurring decimals
+50|MAT-A|Compound interest
+51|MAT-G|Clock angles
+52|MAT-G|Squares
+53|MAT-N|Integers
+54|MAT-N|Remainders
+55|MAT-L|Algebraic identities
+56|MAT-N|Sum of odd numbers
+57|MAT-N|LCM and HCF
+58|RSN-L|Calendar
+59|MAT-N|Divisibility
+60|MAT-L|Algebraic expressions
+61|GK-S|Olympics
+62|GK-P|Inventors
+63|MAT-A|Age problems
+64|GK-S|Sportspersons of Assam
+65|CUL-L|Hindi literature
+66|GEO-W|Rainforests
+67|SCI-B|Micro-organisms
+68|CUL-I|World arts
+69|CUL-S|Archaeological sites of Assam
+70|GEO-W|World currencies
+71|GEO-W|Countries
+72|GK-A|Nobel Prize
+73|GK-A|Gallantry awards
+74|HIS-O|Quit India Movement
+75|GK-M|National flags
+76|SCI-H|Human body
+77|CUL-S|Assamese personalities
+78|CUL-S|Religious places of Assam
+79|POL-S|Administrative divisions
+80|CUL-I|Monuments of India
+81|POL-I|India-China relations
+82|CUL-L|Assamese literature
+83|GEO-S|UNESCO sites in Assam
+84|CUL-L|Assamese literature
+85|GK-O|Airlines
+86|GK-S|Tennis
+87|SCI-H|Vitamins
+88|HIS-M|Vijayanagara Empire
+89|ENV|Energy sources
+90|CUL-L|Assamese literature
+91|POL-I|United Nations
+92|GK-M|Cinema
+93|POL-G|Union ministers
+94|GK-S|Cricket
+95|GK-M|Defence ranks
+96|RSN-V|Letter series
+97|RSN-L|Statement and conclusion
+98|RSN-L|Logical puzzles
+99|RSN-L|Direction sense
+100|RSN-V|Dictionary order
+101|RSN-V|Number pattern
+102|RSN-N|Cube and dice
+103|RSN-N|Number matrix
+104|RSN-L|Direction sense
+105|MAT-N|Units and powers
+106|RSN-V|Word analysis
+107|RSN-N|Counting figures
+108|RSN-V|Odd one out
+109|MAT-A|Age problems
+110|RSN-V|Word meaning
+111|RSN-V|Number series
+112|RSN-L|Syllogism and statements
+113|RSN-V|Letter series
+114|MAT-N|Roman numerals
+115|RSN-L|Blood relations
+116|RSN-N|Odd figure out
+117|RSN-V|Letter series
+118|RSN-L|Mathematical operations
+119|RSN-V|Odd pair
+120|RSN-L|Mathematical operations
+121|RSN-N|Number pattern in figure
+122|ENG-V|Spelling
+123|MAT-N|Roman numerals
+124|RSN-V|Coding-decoding
+125|RSN-L|Number puzzles
+126|RSN-L|Time sequence
+127|MAT-L|Inequalities
+128|RSN-L|Number arrangement
+129|RSN-L|Direction sense
+130|RSN-V|Word analysis
+131|RSN-V|Coding-decoding
+132|RSN-V|Odd one out
+133|RSN-V|Word formation
+134|RSN-V|Logical order of words
+135|RSN-V|Coding-decoding

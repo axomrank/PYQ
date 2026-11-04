@@ -33,7 +33,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 2,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Books & Authors",
+  "subtopic": "Books and authors",
+  "topic_path": "General Awareness > Books & Authors > Books and authors",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q002",
@@ -72,7 +78,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ahom monuments",
+  "topic_path": "History > Assam History > Ahom monuments",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q003",
@@ -104,7 +116,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 2,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Archaeological Survey of India",
+  "topic_path": "Polity > Governance & Institutions > Archaeological Survey of India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q004",
@@ -140,7 +158,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 2,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Wetlands of Assam",
+  "topic_path": "Geography > Assam Geography > Wetlands of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q005",
@@ -176,7 +200,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 3,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Institutions of Assam",
+  "topic_path": "History > Assam History > Institutions of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q006",
@@ -208,7 +238,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 3,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Modern education in India",
+  "topic_path": "History > Modern India & Freedom Struggle > Modern education in India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q007",
@@ -240,7 +276,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 3,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Monuments of India",
+  "topic_path": "Art & Culture > Indian Culture > Monuments of India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q008",
@@ -272,7 +314,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 3,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Freedom movement chronology",
+  "topic_path": "History > Modern India & Freedom Struggle > Freedom movement chronology",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q009",
@@ -304,7 +352,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 4,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "NITI Forum for North-East",
+  "topic_path": "Polity > Governance & Institutions > NITI Forum for North-East",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q010",
@@ -336,7 +390,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 4,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "State symbols",
+  "topic_path": "General Awareness > Miscellaneous > State symbols",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q011",
@@ -368,7 +428,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 4,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Life of Buddha",
+  "topic_path": "History > Ancient India > Life of Buddha",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q012",
@@ -404,7 +470,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 4,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Delimitation Commission",
+  "topic_path": "Polity > Governance & Institutions > Delimitation Commission",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q013",
@@ -436,7 +508,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 5,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Election Commission",
+  "topic_path": "Polity > Governance & Institutions > Election Commission",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q014",
@@ -468,7 +546,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 5,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Indian Economy",
+  "subtopic": "GST",
+  "topic_path": "Economy > Indian Economy > GST",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q015",
@@ -506,7 +590,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 5,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "High Courts",
+  "topic_path": "Polity > Indian Constitution > High Courts",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q016",
@@ -538,7 +628,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "Autonomous Councils of Assam",
+  "topic_path": "Polity > Assam Administration > Autonomous Councils of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q017",
@@ -570,7 +666,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Special provisions for states",
+  "topic_path": "Polity > Indian Constitution > Special provisions for states",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q018",
@@ -602,7 +704,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Official languages",
+  "topic_path": "Polity > Indian Constitution > Official languages",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q019",
@@ -638,7 +746,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Schedules of the Constitution",
+  "topic_path": "Polity > Indian Constitution > Schedules of the Constitution",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q020",
@@ -670,7 +784,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Political parties",
+  "topic_path": "Polity > Governance & Institutions > Political parties",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q021",
@@ -702,7 +822,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Parliamentary motions",
+  "topic_path": "Polity > Indian Constitution > Parliamentary motions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q022",
@@ -734,7 +860,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "Assam Legislative Assembly",
+  "topic_path": "Polity > Assam Administration > Assam Legislative Assembly",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q023",
@@ -766,7 +898,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Friction",
+  "topic_path": "Science > Physics > Friction",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q024",
@@ -798,7 +936,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Mass and weight",
+  "topic_path": "Science > Physics > Mass and weight",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q025",
@@ -830,7 +974,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Greenhouse gases",
+  "topic_path": "Environment > Ecology & Environment > Greenhouse gases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q026",
@@ -862,7 +1012,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Waste materials",
+  "topic_path": "Environment > Ecology & Environment > Waste materials",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q027",
@@ -894,7 +1050,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Evaporation",
+  "topic_path": "Science > Physics > Evaporation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q028",
@@ -926,7 +1088,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "topic_path": "Science > Physics > Electricity",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q029",
@@ -962,7 +1130,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "Scientists",
+  "topic_path": "General Awareness > Important Persons > Scientists",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q030",
@@ -1002,7 +1176,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Motion graphs",
+  "topic_path": "Science > Physics > Motion graphs",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q031",
@@ -1034,7 +1214,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Chemistry",
+  "subtopic": "Solutions",
+  "topic_path": "Science > Chemistry > Solutions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q032",
@@ -1066,7 +1252,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Chemistry",
+  "subtopic": "Carbohydrates",
+  "topic_path": "Science > Chemistry > Carbohydrates",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q033",
@@ -1098,7 +1290,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "British rule in Assam",
+  "topic_path": "History > Assam History > British rule in Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q034",
@@ -1130,7 +1328,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Indian Economy",
+  "subtopic": "Railway corridors",
+  "topic_path": "Economy > Indian Economy > Railway corridors",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q035",
@@ -1162,7 +1366,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Green India Mission",
+  "topic_path": "Environment > Ecology & Environment > Green India Mission",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q036",
@@ -1194,7 +1404,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Greenhouse gases",
+  "topic_path": "Environment > Ecology & Environment > Greenhouse gases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q037",
@@ -1226,7 +1442,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Wildlife of North-East",
+  "topic_path": "Environment > Ecology & Environment > Wildlife of North-East",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q038",
@@ -1258,7 +1480,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "National parks and heritage",
+  "topic_path": "Environment > Ecology & Environment > National parks and heritage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q039",
@@ -1290,7 +1518,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Directive Principles and duties",
+  "topic_path": "Polity > Indian Constitution > Directive Principles and duties",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q040",
@@ -1322,7 +1556,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Biology",
+  "subtopic": "Adaptation",
+  "topic_path": "Science > Biology > Adaptation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q041",
@@ -1354,7 +1594,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Current Affairs",
+  "subtopic": "ASER report",
+  "topic_path": "General Awareness > Current Affairs > ASER report",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q042",
@@ -1390,7 +1636,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Tribal League",
+  "topic_path": "History > Assam History > Tribal League",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q043",
@@ -1426,7 +1678,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Folk dances of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Folk dances of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q044",
@@ -1462,7 +1720,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Constitutional and statutory bodies",
+  "topic_path": "Polity > Governance & Institutions > Constitutional and statutory bodies",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q045",
@@ -1494,7 +1758,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Brahmaputra valley",
+  "topic_path": "Geography > Assam Geography > Brahmaputra valley",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q046",
@@ -1530,7 +1800,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "Sobriquets of personalities",
+  "topic_path": "General Awareness > Important Persons > Sobriquets of personalities",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q047",
@@ -1562,7 +1838,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Digital rupee",
+  "topic_path": "Economy > Banking & Finance > Digital rupee",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q048",
@@ -1594,7 +1876,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "International Relations",
+  "subtopic": "IMEC corridor",
+  "topic_path": "Polity > International Relations > IMEC corridor",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q049",
@@ -1630,7 +1918,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Places of Assam",
+  "topic_path": "Geography > Assam Geography > Places of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q050",
@@ -1662,7 +1956,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "State schemes of Assam",
+  "topic_path": "Polity > Assam Administration > State schemes of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q051",
@@ -1694,7 +1994,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Bad banks",
+  "topic_path": "Economy > Banking & Finance > Bad banks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q052",
@@ -1726,7 +2032,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Indian Economy",
+  "subtopic": "Interim Budget",
+  "topic_path": "Economy > Indian Economy > Interim Budget",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q053",
@@ -1758,7 +2070,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Current Affairs",
+  "subtopic": "Indian Navy",
+  "topic_path": "General Awareness > Current Affairs > Indian Navy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q054",
@@ -1790,7 +2108,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Current Affairs",
+  "subtopic": "Museums",
+  "topic_path": "General Awareness > Current Affairs > Museums",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q055",
@@ -1822,7 +2146,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Supreme Court",
+  "topic_path": "Polity > Governance & Institutions > Supreme Court",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q056",
@@ -1858,7 +2188,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Wildlife sanctuaries of Assam",
+  "topic_path": "Geography > Assam Geography > Wildlife sanctuaries of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q057",
@@ -1897,7 +2233,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "General Awareness",
+  "topic": "Awards & Honours",
+  "subtopic": "Grammy Awards",
+  "topic_path": "General Awareness > Awards & Honours > Grammy Awards",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q058",
@@ -1933,7 +2275,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Religious places of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Religious places of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q059",
@@ -1969,7 +2317,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Awards & Honours",
+  "subtopic": "Awards to personalities",
+  "topic_path": "General Awareness > Awards & Honours > Awards to personalities",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q060",
@@ -2001,7 +2355,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Asian Games",
+  "topic_path": "General Awareness > Sports > Asian Games",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q061",
@@ -2033,7 +2393,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Current Affairs",
+  "subtopic": "Indian evacuation operations",
+  "topic_path": "General Awareness > Current Affairs > Indian evacuation operations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q062",
@@ -2069,7 +2435,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Places of Assam",
+  "topic_path": "Geography > Assam Geography > Places of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q063",
@@ -2101,7 +2473,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Computer",
+  "topic": "Computer & IT",
+  "subtopic": "Blockchain",
+  "topic_path": "Computer > Computer & IT > Blockchain",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q064",
@@ -2133,7 +2511,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Awards & Honours",
+  "subtopic": "Assam state awards",
+  "topic_path": "General Awareness > Awards & Honours > Assam state awards",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q065",
@@ -2165,7 +2549,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Awards & Honours",
+  "subtopic": "Sports awards",
+  "topic_path": "General Awareness > Awards & Honours > Sports awards",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q066",
@@ -2197,7 +2587,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "State schemes of Assam",
+  "topic_path": "Polity > Assam Administration > State schemes of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q067",
@@ -2236,7 +2632,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "General Awareness",
+  "topic": "Awards & Honours",
+  "subtopic": "Military awards",
+  "topic_path": "General Awareness > Awards & Honours > Military awards",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q068",
@@ -2268,7 +2670,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "Assam Legislative Assembly",
+  "topic_path": "Polity > Assam Administration > Assam Legislative Assembly",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q069",
@@ -2300,7 +2708,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Demography of Assam",
+  "topic_path": "Geography > Assam Geography > Demography of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q070",
@@ -2332,7 +2746,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Assamese literature",
+  "topic_path": "Art & Culture > Literature > Assamese literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q071",
@@ -2368,7 +2788,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Places of Assam",
+  "topic_path": "Geography > Assam Geography > Places of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q072",
@@ -2400,7 +2826,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Agro-climatic zones",
+  "topic_path": "Geography > Assam Geography > Agro-climatic zones",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q073",
@@ -2432,7 +2864,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Women's reservation",
+  "topic_path": "Polity > Indian Constitution > Women's reservation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q074",
@@ -2468,7 +2906,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Government schemes",
+  "topic_path": "Polity > Governance & Institutions > Government schemes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q075",
@@ -2504,7 +2948,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Tribal groups",
+  "topic_path": "Geography > Indian Geography > Tribal groups",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q076",
@@ -2536,7 +2986,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Demography of Assam",
+  "topic_path": "Geography > Assam Geography > Demography of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q077",
@@ -2572,7 +3028,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Physical Geography",
+  "subtopic": "Demographic terms",
+  "topic_path": "Geography > Physical Geography > Demographic terms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q078",
@@ -2608,7 +3070,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Awards & Honours",
+  "subtopic": "Awards to personalities",
+  "topic_path": "General Awareness > Awards & Honours > Awards to personalities",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q079",
@@ -2640,7 +3108,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Religious places of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Religious places of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q080",
@@ -2672,7 +3146,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Sardar Patel",
+  "topic_path": "History > Modern India & Freedom Struggle > Sardar Patel",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q081",
@@ -2708,7 +3188,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ahom kingdom",
+  "topic_path": "History > Assam History > Ahom kingdom",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q082",
@@ -2744,7 +3230,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Moamoria rebellion period",
+  "topic_path": "History > Assam History > Moamoria rebellion period",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q083",
@@ -2781,7 +3273,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Books & Authors",
+  "subtopic": "Books and authors",
+  "topic_path": "General Awareness > Books & Authors > Books and authors",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q084",
@@ -2817,7 +3315,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Associations of Assam",
+  "topic_path": "History > Assam History > Associations of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q085",
@@ -2849,7 +3353,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Droughts and climate",
+  "topic_path": "Environment > Ecology & Environment > Droughts and climate",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q086",
@@ -2881,7 +3391,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Asom Sahitya Sabha",
+  "topic_path": "Art & Culture > Literature > Asom Sahitya Sabha",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q087",
@@ -2913,7 +3429,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Government schemes",
+  "topic_path": "Polity > Governance & Institutions > Government schemes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q088",
@@ -2945,7 +3467,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Government schemes",
+  "topic_path": "Polity > Governance & Institutions > Government schemes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q089",
@@ -2983,7 +3511,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Current Affairs",
+  "subtopic": "Inland waterways",
+  "topic_path": "General Awareness > Current Affairs > Inland waterways",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q090",
@@ -3015,7 +3549,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Neo-Vaishnavism",
+  "topic_path": "Art & Culture > Assam Culture > Neo-Vaishnavism",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q091",
@@ -3047,7 +3587,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Current Affairs",
+  "subtopic": "Republic Day",
+  "topic_path": "General Awareness > Current Affairs > Republic Day",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q092",
@@ -3080,7 +3626,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Awards & Honours",
+  "subtopic": "Assam state awards",
+  "topic_path": "General Awareness > Awards & Honours > Assam state awards",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q093",
@@ -3117,7 +3669,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Science & Technology",
+  "subtopic": "Space missions",
+  "topic_path": "Science > Science & Technology > Space missions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q094",
@@ -3149,7 +3707,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Science & Technology",
+  "subtopic": "Space missions",
+  "topic_path": "Science > Science & Technology > Space missions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q095",
@@ -3182,7 +3746,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Indian Economy",
+  "subtopic": "Union Budget",
+  "topic_path": "Economy > Indian Economy > Union Budget",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q096",
@@ -3214,7 +3784,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Computer",
+  "topic": "Computer & IT",
+  "subtopic": "Cyber terms",
+  "topic_path": "Computer > Computer & IT > Cyber terms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q097",
@@ -3246,7 +3822,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Economy of colonial Assam",
+  "topic_path": "History > Assam History > Economy of colonial Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q098",
@@ -3278,7 +3860,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Physical Geography",
+  "subtopic": "River landforms",
+  "topic_path": "Geography > Physical Geography > River landforms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q099",
@@ -3310,7 +3898,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Satras",
+  "topic_path": "Art & Culture > Assam Culture > Satras",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-I-Q100",
@@ -3342,6 +3936,12 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "Assam Accord and settlements",
+  "topic_path": "Polity > Assam Administration > Assam Accord and settlements",
+  "classification_needs_review": false,
+  "classification_note": ""
  }
 ]

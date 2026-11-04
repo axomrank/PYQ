@@ -27,7 +27,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Assamese literature",
+  "topic_path": "Art & Culture > Assam Culture > Assamese literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q002",
@@ -57,7 +63,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Science & Technology",
+  "subtopic": "Remote sensing",
+  "topic_path": "Science > Science & Technology > Remote sensing",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q003",
@@ -87,7 +99,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Assamese cinema",
+  "topic_path": "Art & Culture > Assam Culture > Assamese cinema",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q004",
@@ -117,7 +135,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Chemistry",
+  "subtopic": "Noble gases",
+  "topic_path": "Science > Chemistry > Noble gases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q005",
@@ -147,7 +171,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Election Commission",
+  "topic_path": "Polity > Governance & Institutions > Election Commission",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q006",
@@ -177,7 +207,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Indian Olympic Association",
+  "topic_path": "General Awareness > Sports > Indian Olympic Association",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q007",
@@ -207,7 +243,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Chemistry",
+  "subtopic": "Uses of graphite",
+  "topic_path": "Science > Chemistry > Uses of graphite",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q008",
@@ -237,7 +279,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Digital payments",
+  "topic_path": "Economy > Banking & Finance > Digital payments",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q009",
@@ -267,7 +315,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ahom rulers",
+  "topic_path": "History > Assam History > Ahom rulers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q010",
@@ -297,7 +351,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Olympics",
+  "topic_path": "General Awareness > Sports > Olympics",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q011",
@@ -327,7 +387,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Units of measurement",
+  "topic_path": "Science > Physics > Units of measurement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q012",
@@ -357,7 +423,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Rivers of Assam",
+  "topic_path": "Geography > Assam Geography > Rivers of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q013",
@@ -393,7 +465,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Assamese literary honours",
+  "topic_path": "Art & Culture > Assam Culture > Assamese literary honours",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q014",
@@ -423,7 +501,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Environmental movements",
+  "topic_path": "Environment > Ecology & Environment > Environmental movements",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q015",
@@ -453,7 +537,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Mobile theatre",
+  "topic_path": "Art & Culture > Assam Culture > Mobile theatre",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q016",
@@ -483,7 +573,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Science & Technology",
+  "subtopic": "Solar system",
+  "topic_path": "Science > Science & Technology > Solar system",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q017",
@@ -513,7 +609,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "National Games",
+  "topic_path": "General Awareness > Sports > National Games",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q018",
@@ -543,7 +645,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Biology",
+  "subtopic": "Sericulture",
+  "topic_path": "Science > Biology > Sericulture",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q019",
@@ -573,7 +681,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Lachit Borphukan",
+  "topic_path": "History > Assam History > Lachit Borphukan",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q020",
@@ -603,7 +717,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "President and Parliament",
+  "topic_path": "Polity > Indian Constitution > President and Parliament",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q021",
@@ -633,7 +753,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Awards & Honours",
+  "subtopic": "Military training awards",
+  "topic_path": "General Awareness > Awards & Honours > Military training awards",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q022",
@@ -663,7 +789,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Borders of Assam",
+  "topic_path": "Geography > Assam Geography > Borders of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q023",
@@ -693,7 +825,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "Personalities of Assam",
+  "topic_path": "General Awareness > Important Persons > Personalities of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q024",
@@ -731,7 +869,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 15,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Computer",
+  "topic": "Computer & IT",
+  "subtopic": "Digital images",
+  "topic_path": "Computer > Computer & IT > Digital images",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q025",
@@ -761,7 +905,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Chemistry",
+  "subtopic": "Chemical names",
+  "topic_path": "Science > Chemistry > Chemical names",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q026",
@@ -791,7 +941,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Coding-decoding",
+  "topic_path": "Reasoning > Verbal Reasoning > Coding-decoding",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q027",
@@ -821,7 +977,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Set relationships",
+  "topic_path": "Reasoning > Logical & Analytical > Set relationships",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q028",
@@ -851,7 +1013,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Natural numbers",
+  "topic_path": "Mathematics > Number System > Natural numbers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q029",
@@ -881,7 +1049,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Circles and triangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Circles and triangles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q030",
@@ -911,7 +1085,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Statistics & Probability",
+  "subtopic": "Combinations",
+  "topic_path": "Mathematics > Statistics & Probability > Combinations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q031",
@@ -941,7 +1121,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Calendar",
+  "topic_path": "Reasoning > Logical & Analytical > Calendar",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q032",
@@ -971,7 +1157,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Perfect squares",
+  "topic_path": "Mathematics > Number System > Perfect squares",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q033",
@@ -1001,7 +1193,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q034",
@@ -1031,7 +1229,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Direct proportion",
+  "topic_path": "Mathematics > Arithmetic > Direct proportion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q035",
@@ -1061,7 +1265,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Blood relations",
+  "topic_path": "Reasoning > Logical & Analytical > Blood relations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q036",
@@ -1091,7 +1301,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Coding-decoding",
+  "topic_path": "Reasoning > Verbal Reasoning > Coding-decoding",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q037",
@@ -1121,7 +1337,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Digit puzzles",
+  "topic_path": "Reasoning > Logical & Analytical > Digit puzzles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q038",
@@ -1151,7 +1373,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Circular arrangement",
+  "topic_path": "Reasoning > Logical & Analytical > Circular arrangement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q039",
@@ -1181,7 +1409,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Direction sense",
+  "topic_path": "Reasoning > Logical & Analytical > Direction sense",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q040",
@@ -1211,7 +1445,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Age problems",
+  "topic_path": "Mathematics > Arithmetic > Age problems",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q041",
@@ -1241,7 +1481,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Clocks",
+  "topic_path": "Reasoning > Logical & Analytical > Clocks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q042",
@@ -1277,7 +1523,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 23,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Simplification",
+  "topic_path": "Mathematics > Number System > Simplification",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q043",
@@ -1307,7 +1559,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Ratio and proportion",
+  "topic_path": "Mathematics > Arithmetic > Ratio and proportion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q044",
@@ -1337,7 +1595,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Percentage change in volume",
+  "topic_path": "Mathematics > Geometry & Mensuration > Percentage change in volume",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q045",
@@ -1373,7 +1637,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 24,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Coded blood relations",
+  "topic_path": "Reasoning > Logical & Analytical > Coded blood relations",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q046",
@@ -1403,7 +1673,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Perimeter and fencing",
+  "topic_path": "Mathematics > Geometry & Mensuration > Perimeter and fencing",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q047",
@@ -1433,7 +1709,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Ranking",
+  "topic_path": "Reasoning > Logical & Analytical > Ranking",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q048",
@@ -1463,7 +1745,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Statistics & Probability",
+  "subtopic": "Mean",
+  "topic_path": "Mathematics > Statistics & Probability > Mean",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q049",
@@ -1504,7 +1792,13 @@
    "unusual number of language versions (3: beng,beng,deva)",
    "English version found but its options were not recognised",
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Direction sense",
+  "topic_path": "Reasoning > Logical & Analytical > Direction sense",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q050",
@@ -1534,7 +1828,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Ratio and proportion",
+  "topic_path": "Mathematics > Arithmetic > Ratio and proportion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q051",
@@ -1564,7 +1864,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Time and work",
+  "topic_path": "Mathematics > Arithmetic > Time and work",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q052",
@@ -1600,7 +1906,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 27,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Algebraic identities",
+  "topic_path": "Mathematics > Algebra > Algebraic identities",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q053",
@@ -1630,7 +1942,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Alphanumeric analogy",
+  "topic_path": "Reasoning > Verbal Reasoning > Alphanumeric analogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q054",
@@ -1660,7 +1978,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Number series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q055",
@@ -1690,7 +2014,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Blood relations",
+  "topic_path": "Reasoning > Logical & Analytical > Blood relations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q056",
@@ -1726,7 +2056,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 28,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Areas and perimeters",
+  "topic_path": "Mathematics > Geometry & Mensuration > Areas and perimeters",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q057",
@@ -1756,7 +2092,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 29,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Letter series",
+  "topic_path": "Reasoning > Verbal Reasoning > Letter series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q058",
@@ -1793,7 +2135,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 29,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Fractions of a quantity",
+  "topic_path": "Mathematics > Arithmetic > Fractions of a quantity",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q059",
@@ -1823,7 +2171,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Average speed",
+  "topic_path": "Mathematics > Arithmetic > Average speed",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q060",
@@ -1860,7 +2214,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage error",
+  "topic_path": "Mathematics > Arithmetic > Percentage error",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q061",
@@ -1890,7 +2250,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Calendar",
+  "topic_path": "Reasoning > Logical & Analytical > Calendar",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q062",
@@ -1926,7 +2292,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Divisibility and LCM",
+  "topic_path": "Mathematics > Number System > Divisibility and LCM",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q063",
@@ -1963,7 +2335,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 31,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Surds and roots",
+  "topic_path": "Mathematics > Number System > Surds and roots",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q064",
@@ -1993,7 +2371,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Statistics & Probability",
+  "subtopic": "Mean",
+  "topic_path": "Mathematics > Statistics & Probability > Mean",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q065",
@@ -2023,7 +2407,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage interpretation",
+  "topic_path": "English > Reading Comprehension > Passage interpretation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q066",
@@ -2053,7 +2443,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage details",
+  "topic_path": "English > Reading Comprehension > Passage details",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q067",
@@ -2083,7 +2479,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Author tone",
+  "topic_path": "English > Reading Comprehension > Author tone",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q068",
@@ -2113,7 +2515,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage inference",
+  "topic_path": "English > Reading Comprehension > Passage inference",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q069",
@@ -2143,7 +2551,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage inference",
+  "topic_path": "English > Reading Comprehension > Passage inference",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q070",
@@ -2173,7 +2587,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage details",
+  "topic_path": "English > Reading Comprehension > Passage details",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q071",
@@ -2203,7 +2623,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Koch dynasty",
+  "topic_path": "History > Assam History > Koch dynasty",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q072",
@@ -2233,7 +2659,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Buddhism",
+  "topic_path": "History > Ancient India > Buddhism",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q073",
@@ -2263,7 +2695,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Gupta dynasty",
+  "topic_path": "History > Ancient India > Gupta dynasty",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q074",
@@ -2293,7 +2731,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Assamese cinema",
+  "topic_path": "Art & Culture > Assam Culture > Assamese cinema",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q075",
@@ -2323,7 +2767,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Swaraj Party",
+  "topic_path": "History > Modern India & Freedom Struggle > Swaraj Party",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q076",
@@ -2353,7 +2803,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 36,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ahom administration",
+  "topic_path": "History > Assam History > Ahom administration",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q077",
@@ -2383,7 +2839,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 36,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Jallianwala Bagh Massacre",
+  "topic_path": "History > Modern India & Freedom Struggle > Jallianwala Bagh Massacre",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q078",
@@ -2413,7 +2875,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 36,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ahom-Mughal relations",
+  "topic_path": "History > Assam History > Ahom-Mughal relations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q079",
@@ -2443,7 +2911,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Labour Swaraj Party",
+  "topic_path": "History > Modern India & Freedom Struggle > Labour Swaraj Party",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q080",
@@ -2473,7 +2947,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Traditional dress",
+  "topic_path": "Art & Culture > Assam Culture > Traditional dress",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q081",
@@ -2503,7 +2983,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Reorganisation of Northeast India",
+  "topic_path": "History > Assam History > Reorganisation of Northeast India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q082",
@@ -2533,7 +3019,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Varman dynasty",
+  "topic_path": "History > Assam History > Varman dynasty",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q083",
@@ -2563,7 +3055,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Governors-General",
+  "topic_path": "History > Modern India & Freedom Struggle > Governors-General",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q084",
@@ -2593,7 +3091,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 39,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Invasions of Kamarupa",
+  "topic_path": "History > Assam History > Invasions of Kamarupa",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q085",
@@ -2623,7 +3127,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 39,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Indian National Congress",
+  "topic_path": "History > Modern India & Freedom Struggle > Indian National Congress",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q086",
@@ -2653,7 +3163,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 39,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Harshavardhana",
+  "topic_path": "History > Ancient India > Harshavardhana",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q087",
@@ -2683,7 +3199,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Political organisations",
+  "topic_path": "History > Modern India & Freedom Struggle > Political organisations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q088",
@@ -2713,7 +3235,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Koch dynasty",
+  "topic_path": "History > Assam History > Koch dynasty",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q089",
@@ -2743,7 +3271,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Srimanta Sankardev",
+  "topic_path": "Art & Culture > Assam Culture > Srimanta Sankardev",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q090",
@@ -2773,7 +3307,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Medieval India",
+  "subtopic": "Mughal foreign relations",
+  "topic_path": "History > Medieval India > Mughal foreign relations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q091",
@@ -2803,7 +3343,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Assam Association",
+  "topic_path": "History > Assam History > Assam Association",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q092",
@@ -2833,7 +3379,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "Governors of Assam",
+  "topic_path": "Polity > Assam Administration > Governors of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q093",
@@ -2863,7 +3415,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Resistance to British rule",
+  "topic_path": "History > Assam History > Resistance to British rule",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q094",
@@ -2893,7 +3451,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Alexander invasion",
+  "topic_path": "History > Ancient India > Alexander invasion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q095",
@@ -2923,7 +3487,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Rock-cut sculpture",
+  "topic_path": "Art & Culture > Indian Culture > Rock-cut sculpture",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q096",
@@ -2953,7 +3523,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Assamese journalism",
+  "topic_path": "Art & Culture > Assam Culture > Assamese journalism",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q097",
@@ -2983,7 +3559,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Civil Disobedience Movement",
+  "topic_path": "History > Modern India & Freedom Struggle > Civil Disobedience Movement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q098",
@@ -3013,7 +3595,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Vedic civilisation",
+  "topic_path": "History > Ancient India > Vedic civilisation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q099",
@@ -3043,7 +3631,13 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Sports commemorations in Assam",
+  "topic_path": "General Awareness > Sports > Sports commemorations in Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "Assam-Police-SI-2025-CWT-P1-SetA-Q100",
@@ -3073,6 +3667,12 @@
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Forward Bloc",
+  "topic_path": "History > Modern India & Freedom Struggle > Forward Bloc",
+  "classification_needs_review": false,
+  "classification_note": ""
  }
 ]

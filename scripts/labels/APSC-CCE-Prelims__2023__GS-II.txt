@@ -1,0 +1,55 @@
+1-2|ENG-C|Passage on Make in India
+3-4|ENG-C|Passage on horror films
+5-6|ENG-C|Passage on parenting
+7-8|ENG-C|Passage on Ombudsman
+9-10|ENG-C|Passage on Morris and the thief
+11-12|ENG-C|Passage on Bhutan
+13-14|ENG-C|Passage on nationalism
+15-28|APT-C|Interpersonal communication
+29-30|RSN-V|Letter and number series
+31|RSN-L|Number puzzles
+32-33|RSN-L|Blood relations
+34|RSN-V|Number analogy
+35|RSN-L|Clock problems
+36|RSN-L|Statement and conclusion
+37|RSN-L|Direction sense
+38|RSN-N|Venn diagrams
+39|APT-D|Situational judgement
+40|APT-I|Data tables
+41-43|APT-D|Situational judgement
+44|RSN-L|Clock problems
+45|RSN-L|Mathematical operations
+46|RSN-V|Odd one out
+47|RSN-V|Coding-decoding
+48|RSN-L|Time sequence
+49|RSN-L|Direction sense
+50|RSN-N|Venn diagrams
+51|RSN-L|Direction sense
+52|MAT-L|Linear equations
+53|MAT-A|Percentage
+54|RSN-V|Coding-decoding
+55|RSN-N|Missing number in figure
+56|RSN-L|Number puzzles
+57|RSN-V|Number series
+58|RSN-L|Seating arrangement
+60|RSN-L|Assertion and reason
+61|APT-I|Data tables
+62|MAT-A|Trains
+63|APT-I|Line graphs
+64|APT-I|Bar charts
+65|APT-I|Pie charts
+66|APT-I|Data tables
+67|MAT-G|Rectangles
+68|MAT-A|Age problems
+69|MAT-G|Cylinders and spheres
+70|MAT-G|Circles
+71|MAT-A|Simple interest
+72|MAT-L|Algebraic identities
+73|MAT-G|Similar triangles
+74|MAT-N|LCM and HCF
+75|MAT-G|Circles
+76|MAT-N|Surds and roots
+77|MAT-S|Mean
+78|MAT-L|Linear equations
+79|MAT-G|Coordinate geometry
+80|RSN-L|Statement and conclusion

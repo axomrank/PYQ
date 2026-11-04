@@ -1,0 +1,100 @@
+1|COM-F|Debentures
+2|COM-M|Sales promotion
+3|COM-F|Buyback of shares
+4|COM-M|Sales organisation
+5|COM-F|Principles of insurance
+6|COM-A|Partnership admission
+7|COM-A|Interest on drawings
+8|COM-F|Capital structure
+9|COM-M|Delegation of authority
+10|COM-M|Scientific management
+11|COM-A|Non-profit accounts
+12|COM-M|Sales incentives
+13|ECO-B|Banking history
+14|MAT-A|Partnership
+15|COM-M|Functional foremanship
+16|COM-M|Departmentation
+17|ECO-B|Banking history
+18|COM-A|Balance sheet
+19|COM-F|Dividends
+20|COM-B|Consumer protection
+21|COM-A|Revaluation of partnership assets
+22|ECO-B|Asian Development Bank
+23|COM-M|Sales and promotion
+24|COM-M|Marketing associations
+25|COM-M|Marketing research bodies
+26|COM-F|Insurance history
+27|COM-F|Capitalisation
+28|COM-A|Receipts and payments account
+29|ECO-B|RTGS
+30|COM-F|Equity shareholders
+31|COM-F|Life Insurance Corporation
+32|COM-M|Sales incentives
+33|COM-F|Insurance contracts
+34|COM-M|Publicity
+35|COM-A|Interest on partner loans
+36|COM-A|Financial statement analysis
+37|COM-M|Promotion mix
+38|COM-F|Principles of insurance
+39|COM-B|Warehousing
+40|COM-M|History of professional selling
+41|COM-F|Tax compliance
+42|COM-B|Private limited companies
+43|COM-A|Non-profit accounts
+44|COM-M|Sales force
+45|ECO-B|Wholesale banking
+46|COM-M|Advertising pioneers
+47|COM-A|Cash flow classification
+48|COM-M|Scalar chain
+49|COM-M|Nature of management
+50|COM-B|Business environment
+51|COM-F|Insurance legislation
+52|COM-B|Consumer protection
+53|COM-F|Insurance regulation
+54|ECO-I|Economic reforms
+55|ECO-B|Banking risk regulation
+56|COM-A|Share capital
+57|COM-F|Insurance history
+58|COM-M|Sales force training
+59|COM-M|Directing
+60|ECO-B|Asset reconstruction companies
+61|COM-F|Marine insurance
+62|COM-M|Marketing associations
+63|COM-M|Advertising regulation
+64|COM-F|Insurance investment
+65|COM-A|Capital and revenue receipts
+66|COM-A|Cash flow classification
+67|ECO-B|Financial regulation
+68|ECO-B|Reserve Bank of India
+69|COM-F|Motor insurance
+70|COM-F|Life Insurance Corporation
+71|COM-B|Partnership law
+72|COM-F|Dividends
+73|COM-M|Test marketing
+74|COM-A|Calls in arrears
+75|COM-M|Sales organisation
+76|COM-A|Capital and revenue receipts
+77|COM-F|Insurance policies
+78|COM-M|Marketing software
+79|ECO-B|Bank liabilities
+80|COM-B|Non-profit organisations
+81|COM-A|Current ratio
+82|COM-B|Business environment
+83|COM-M|Retail companies
+84|COM-A|Subscriptions in advance
+85|COM-A|Forfeiture of shares
+86|COM-M|Advertising agencies
+87|ECO-B|Banking history
+88|COM-F|Life insurance and savings
+89|COM-M|History of advertising
+90|ECO-B|Bank payment instruments
+91|COM-F|Preference shares
+92|COM-A|Goodwill
+93|COM-F|Insurance terminology
+94|COM-A|Partnership admission
+95|COM-M|Gang plank
+96|COM-F|Personal accident insurance
+97|ECO-B|Internet banking
+98|COM-M|Planning
+99|COM-A|Specific-purpose donations
+100|COM-A|Financial statements

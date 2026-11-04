@@ -13,7 +13,7 @@
   "with_visual": 17,
   "needs_review": 6,
   "json": "exams/ADRE/2022/data/G3-P3-HSSLC.json",
-  "csv": "exams/ADRE/2022/data/G3-P3-HSSLC.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf"
  },
  {
@@ -30,7 +30,7 @@
   "with_visual": 14,
   "needs_review": 9,
   "json": "exams/ADRE/2022/data/G3-P4-Degree.json",
-  "csv": "exams/ADRE/2022/data/G3-P4-Degree.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf"
  },
  {
@@ -47,7 +47,7 @@
   "with_visual": 11,
   "needs_review": 5,
   "json": "exams/ADRE/2022/data/G3-P5-Driver.json",
-  "csv": "exams/ADRE/2022/data/G3-P5-Driver.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf"
  },
  {
@@ -64,7 +64,7 @@
   "with_visual": 24,
   "needs_review": 9,
   "json": "exams/ADRE/2022/data/G4-P1-HSLC.json",
-  "csv": "exams/ADRE/2022/data/G4-P1-HSLC.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/ADRE/2022/source/G4-P1-HSLC.pdf"
  },
  {
@@ -81,7 +81,7 @@
   "with_visual": 17,
   "needs_review": 15,
   "json": "exams/ADRE/2022/data/G4-P2-ClassVIII.json",
-  "csv": "exams/ADRE/2022/data/G4-P2-ClassVIII.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/ADRE/2022/source/G4-P2-ClassVIII.pdf"
  },
  {
@@ -98,7 +98,7 @@
   "with_visual": 17,
   "needs_review": 9,
   "json": "exams/ADRE/2024/data/G3-P3-HSSLC.json",
-  "csv": "exams/ADRE/2024/data/G3-P3-HSSLC.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/ADRE/2024/source/G3-P3-HSSLC.pdf"
  },
  {
@@ -115,7 +115,7 @@
   "with_visual": 22,
   "needs_review": 21,
   "json": "exams/ADRE/2024/data/G3-P4-Degree.json",
-  "csv": "exams/ADRE/2024/data/G3-P4-Degree.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf"
  },
  {
@@ -132,7 +132,7 @@
   "with_visual": 9,
   "needs_review": 6,
   "json": "exams/ADRE/2024/data/G3-P5-Driver.json",
-  "csv": "exams/ADRE/2024/data/G3-P5-Driver.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf"
  },
  {
@@ -149,7 +149,7 @@
   "with_visual": 11,
   "needs_review": 10,
   "json": "exams/ADRE/2024/data/G4-P1-HSLC.json",
-  "csv": "exams/ADRE/2024/data/G4-P1-HSLC.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf"
  },
  {
@@ -166,7 +166,7 @@
   "with_visual": 11,
   "needs_review": 8,
   "json": "exams/ADRE/2024/data/G4-P2-ClassVIII.json",
-  "csv": "exams/ADRE/2024/data/G4-P2-ClassVIII.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf"
  },
  {
@@ -183,7 +183,7 @@
   "with_visual": 30,
   "needs_review": 6,
   "json": "exams/APSC-CCE-Prelims/2023/data/GS-I.json",
-  "csv": "exams/APSC-CCE-Prelims/2023/data/GS-I.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-I.pdf"
  },
  {
@@ -202,7 +202,7 @@
   "with_visual": 19,
   "needs_review": 19,
   "json": "exams/APSC-CCE-Prelims/2023/data/GS-II.json",
-  "csv": "exams/APSC-CCE-Prelims/2023/data/GS-II.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf"
  },
  {
@@ -221,7 +221,7 @@
   "with_visual": 20,
   "needs_review": 8,
   "json": "exams/APSC-CCE-Prelims/2024/data/GS-I.json",
-  "csv": "exams/APSC-CCE-Prelims/2024/data/GS-I.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/APSC-CCE-Prelims/2024/source/GS-I.pdf"
  },
  {
@@ -240,7 +240,7 @@
   "with_visual": 26,
   "needs_review": 26,
   "json": "exams/APSC-CCE-Prelims/2024/data/GS-II.json",
-  "csv": "exams/APSC-CCE-Prelims/2024/data/GS-II.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/APSC-CCE-Prelims/2024/source/GS-II.pdf"
  },
  {
@@ -262,7 +262,7 @@
   "with_visual": 59,
   "needs_review": 50,
   "json": "exams/APSC-CCE-Prelims/2025/data/GS-I.json",
-  "csv": "exams/APSC-CCE-Prelims/2025/data/GS-I.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf"
  },
  {
@@ -284,7 +284,7 @@
   "with_visual": 50,
   "needs_review": 49,
   "json": "exams/APSC-CCE-Prelims/2025/data/GS-II.json",
-  "csv": "exams/APSC-CCE-Prelims/2025/data/GS-II.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf"
  },
  {
@@ -301,7 +301,7 @@
   "with_visual": 22,
   "needs_review": 14,
   "json": "exams/Assam-Police-Constable/2025/data/CWT-P2-SetA.json",
-  "csv": "exams/Assam-Police-Constable/2025/data/CWT-P2-SetA.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/Assam-Police-Constable/2025/source/CWT-P2-SetA.pdf"
  },
  {
@@ -318,7 +318,7 @@
   "with_visual": 11,
   "needs_review": 7,
   "json": "exams/Assam-Police-SI/2025/data/CWT-P1-SetA.json",
-  "csv": "exams/Assam-Police-SI/2025/data/CWT-P1-SetA.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/Assam-Police-SI/2025/source/CWT-P1-SetA.pdf"
  },
  {
@@ -341,7 +341,7 @@
   "with_visual": 19,
   "needs_review": 17,
   "json": "exams/DME/2025/data/G3-NonTechnical.json",
-  "csv": "exams/DME/2025/data/G3-NonTechnical.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/DME/2025/source/G3-NonTechnical.pdf"
  },
  {
@@ -395,7 +395,7 @@
   "with_visual": 5,
   "needs_review": 4,
   "json": "exams/DME/2025/data/G3-Technical.json",
-  "csv": "exams/DME/2025/data/G3-Technical.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/DME/2025/source/G3-Technical.pdf"
  },
  {
@@ -412,7 +412,7 @@
   "with_visual": 19,
   "needs_review": 4,
   "json": "exams/TET/2021/data/Paper-I.json",
-  "csv": "exams/TET/2021/data/Paper-I.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf"
  },
  {
@@ -429,7 +429,7 @@
   "with_visual": 4,
   "needs_review": 2,
   "json": "exams/TET/2021/data/Paper-II.json",
-  "csv": "exams/TET/2021/data/Paper-II.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf"
  },
  {
@@ -446,7 +446,7 @@
   "with_visual": 16,
   "needs_review": 12,
   "json": "exams/TET/2021/data/Special-Paper-I.json",
-  "csv": "exams/TET/2021/data/Special-Paper-I.csv",
+  "csv": "questions.csv",
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf"
  }
 ]

@@ -22,6 +22,7 @@ from pathlib import Path
 import pymupdf
 
 import ocr
+import taxonomy
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -842,42 +843,25 @@ def extract(pdf_path):
     return questions, missing
 
 
-CSV_COLS = [
-    "id", "exam", "year", "paper_code", "paper_title", "booklet_set", "q_no",
-    "context", "question", "option_a", "option_b", "option_c", "option_d",
-    "answer", "answer_note", "answer_source", "has_visual", "visual_types", "images", "text_source",
-    "page", "needs_review", "review_notes",
-]
-
-
 def write_outputs(questions, pdf_path):
     pdf_path = Path(pdf_path).resolve()
     out_dir = pdf_path.parent.parent / "data"
     out_dir.mkdir(exist_ok=True)
     stem = pdf_path.stem
+    for q in questions:
+        q.update(taxonomy.classify(q))
     (out_dir / f"{stem}.json").write_text(json.dumps(questions, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-    with open(out_dir / f"{stem}.csv", "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
-        w.writerow(CSV_COLS)
-        for q in questions:
-            o = q["options"]
-            w.writerow([
-                q["id"], q["exam"], q["year"], q["paper_code"], q["paper_title"], q["booklet_set"], q["q_no"],
-                q["context"] or "", q["question"], o["A"], o["B"], o["C"], o["D"],
-                q["answer"] or "", q["answer_note"] or "", q["answer_source"] or "", int(q["has_visual"]), "|".join(q["visual_types"]),
-                "|".join(q["images"]), q["text_source"], q["page"], int(q["needs_review"]), " ; ".join(q["review_notes"]),
-            ])
 
 
 def build_index():
-    """Write catalog.json and exams/<EXAM>/<EXAM>_all.{csv,json} from every per-paper JSON."""
+    """Write catalog.json and questions.csv from every per-paper JSON."""
     catalog = []
+    all_questions = []
     booklets = json.loads((ROOT / "scripts" / "booklets.json").read_text())
     for exam_dir in sorted(p for p in (ROOT / "exams").iterdir() if p.is_dir()):
-        all_q = []
         for f in sorted(exam_dir.glob("*/data/*.json")):
             qs = json.loads(f.read_text(encoding="utf-8"))
-            all_q += qs
+            all_questions.extend(qs)
             meta = booklets.get(f"{exam_dir.name}/{f.parent.parent.name}/{f.stem}", {})
             lo, hi = meta.get("question_range", [1, meta.get("total_questions", 0)])
             catalog.append({
@@ -891,18 +875,10 @@ def build_index():
                 "with_answer": sum(q["answer"] is not None for q in qs),
                 "with_visual": sum(q["has_visual"] for q in qs),
                 "needs_review": sum(q["needs_review"] for q in qs),
-                "json": str(f.relative_to(ROOT)), "csv": str(f.with_suffix(".csv").relative_to(ROOT)),
+                "json": str(f.relative_to(ROOT)), "csv": "questions.csv",
                 "source_pdf": qs[0]["source_pdf"] if qs else None,
             })
-        if all_q:
-            slim = [{k: v for k, v in q.items() if not k.startswith("_")} for q in all_q]
-            (exam_dir / f"{exam_dir.name}_all.json").write_text(json.dumps(slim, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-            with open(exam_dir / f"{exam_dir.name}_all.csv", "w", newline="", encoding="utf-8") as out:
-                w = csv.writer(out)
-                w.writerow(CSV_COLS)
-                for f in sorted(exam_dir.glob("*/data/*.csv")):
-                    with open(f, encoding="utf-8") as inp:
-                        w.writerows(list(csv.reader(inp))[1:])
+    (ROOT / "questions.csv").write_text(taxonomy.export_csv(all_questions), encoding="utf-8", newline="")
     (ROOT / "catalog.json").write_text(json.dumps(catalog, indent=1) + "\n", encoding="utf-8")
 
 

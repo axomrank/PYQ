@@ -27,7 +27,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Debentures",
+  "topic_path": "Commerce > Finance & Insurance > Debentures",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q002",
@@ -57,7 +63,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Sales promotion",
+  "topic_path": "Commerce > Marketing & Management > Sales promotion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q003",
@@ -87,7 +99,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Buyback of shares",
+  "topic_path": "Commerce > Finance & Insurance > Buyback of shares",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q004",
@@ -119,7 +137,13 @@
   "needs_review": true,
   "review_notes": [
    "unusual number of language versions (3: beng,deva,en)"
-  ]
+  ],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Sales organisation",
+  "topic_path": "Commerce > Marketing & Management > Sales organisation",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "TET-2021-Paper-II-Q005",
@@ -151,7 +175,13 @@
   "needs_review": true,
   "review_notes": [
    "unusual number of language versions (3: beng,deva,en)"
-  ]
+  ],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Principles of insurance",
+  "topic_path": "Commerce > Finance & Insurance > Principles of insurance",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "TET-2021-Paper-II-Q006",
@@ -181,7 +211,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Partnership admission",
+  "topic_path": "Commerce > Accounting > Partnership admission",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q007",
@@ -211,7 +247,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Interest on drawings",
+  "topic_path": "Commerce > Accounting > Interest on drawings",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q008",
@@ -241,7 +283,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Capital structure",
+  "topic_path": "Commerce > Finance & Insurance > Capital structure",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q009",
@@ -271,7 +319,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Delegation of authority",
+  "topic_path": "Commerce > Marketing & Management > Delegation of authority",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q010",
@@ -301,7 +355,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Scientific management",
+  "topic_path": "Commerce > Marketing & Management > Scientific management",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q011",
@@ -331,7 +391,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Non-profit accounts",
+  "topic_path": "Commerce > Accounting > Non-profit accounts",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q012",
@@ -361,7 +427,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Sales incentives",
+  "topic_path": "Commerce > Marketing & Management > Sales incentives",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q013",
@@ -391,7 +463,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Banking history",
+  "topic_path": "Economy > Banking & Finance > Banking history",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q014",
@@ -421,7 +499,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Partnership",
+  "topic_path": "Mathematics > Arithmetic > Partnership",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q015",
@@ -451,7 +535,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Functional foremanship",
+  "topic_path": "Commerce > Marketing & Management > Functional foremanship",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q016",
@@ -481,7 +571,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Departmentation",
+  "topic_path": "Commerce > Marketing & Management > Departmentation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q017",
@@ -511,7 +607,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Banking history",
+  "topic_path": "Economy > Banking & Finance > Banking history",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q018",
@@ -541,7 +643,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Balance sheet",
+  "topic_path": "Commerce > Accounting > Balance sheet",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q019",
@@ -571,7 +679,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Dividends",
+  "topic_path": "Commerce > Finance & Insurance > Dividends",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q020",
@@ -601,7 +715,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Business Studies",
+  "subtopic": "Consumer protection",
+  "topic_path": "Commerce > Business Studies > Consumer protection",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q021",
@@ -631,7 +751,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Revaluation of partnership assets",
+  "topic_path": "Commerce > Accounting > Revaluation of partnership assets",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q022",
@@ -661,7 +787,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Asian Development Bank",
+  "topic_path": "Economy > Banking & Finance > Asian Development Bank",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q023",
@@ -697,7 +829,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Sales and promotion",
+  "topic_path": "Commerce > Marketing & Management > Sales and promotion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q024",
@@ -727,7 +865,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Marketing associations",
+  "topic_path": "Commerce > Marketing & Management > Marketing associations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q025",
@@ -757,7 +901,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Marketing research bodies",
+  "topic_path": "Commerce > Marketing & Management > Marketing research bodies",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q026",
@@ -787,7 +937,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Insurance history",
+  "topic_path": "Commerce > Finance & Insurance > Insurance history",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q027",
@@ -817,7 +973,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Capitalisation",
+  "topic_path": "Commerce > Finance & Insurance > Capitalisation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q028",
@@ -847,7 +1009,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Receipts and payments account",
+  "topic_path": "Commerce > Accounting > Receipts and payments account",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q029",
@@ -877,7 +1045,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "RTGS",
+  "topic_path": "Economy > Banking & Finance > RTGS",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q030",
@@ -907,7 +1081,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Equity shareholders",
+  "topic_path": "Commerce > Finance & Insurance > Equity shareholders",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q031",
@@ -937,7 +1117,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Life Insurance Corporation",
+  "topic_path": "Commerce > Finance & Insurance > Life Insurance Corporation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q032",
@@ -967,7 +1153,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Sales incentives",
+  "topic_path": "Commerce > Marketing & Management > Sales incentives",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q033",
@@ -997,7 +1189,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Insurance contracts",
+  "topic_path": "Commerce > Finance & Insurance > Insurance contracts",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q034",
@@ -1027,7 +1225,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Publicity",
+  "topic_path": "Commerce > Marketing & Management > Publicity",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q035",
@@ -1057,7 +1261,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Interest on partner loans",
+  "topic_path": "Commerce > Accounting > Interest on partner loans",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q036",
@@ -1087,7 +1297,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Financial statement analysis",
+  "topic_path": "Commerce > Accounting > Financial statement analysis",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q037",
@@ -1123,7 +1339,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Promotion mix",
+  "topic_path": "Commerce > Marketing & Management > Promotion mix",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q038",
@@ -1153,7 +1375,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Principles of insurance",
+  "topic_path": "Commerce > Finance & Insurance > Principles of insurance",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q039",
@@ -1183,7 +1411,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Business Studies",
+  "subtopic": "Warehousing",
+  "topic_path": "Commerce > Business Studies > Warehousing",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q040",
@@ -1213,7 +1447,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "History of professional selling",
+  "topic_path": "Commerce > Marketing & Management > History of professional selling",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q041",
@@ -1250,7 +1490,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 29,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Tax compliance",
+  "topic_path": "Commerce > Finance & Insurance > Tax compliance",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q042",
@@ -1280,7 +1526,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Business Studies",
+  "subtopic": "Private limited companies",
+  "topic_path": "Commerce > Business Studies > Private limited companies",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q043",
@@ -1310,7 +1562,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Non-profit accounts",
+  "topic_path": "Commerce > Accounting > Non-profit accounts",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q044",
@@ -1340,7 +1598,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Sales force",
+  "topic_path": "Commerce > Marketing & Management > Sales force",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q045",
@@ -1370,7 +1634,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Wholesale banking",
+  "topic_path": "Economy > Banking & Finance > Wholesale banking",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q046",
@@ -1400,7 +1670,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Advertising pioneers",
+  "topic_path": "Commerce > Marketing & Management > Advertising pioneers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q047",
@@ -1430,7 +1706,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Cash flow classification",
+  "topic_path": "Commerce > Accounting > Cash flow classification",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q048",
@@ -1460,7 +1742,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Scalar chain",
+  "topic_path": "Commerce > Marketing & Management > Scalar chain",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q049",
@@ -1490,7 +1778,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Nature of management",
+  "topic_path": "Commerce > Marketing & Management > Nature of management",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q050",
@@ -1520,7 +1814,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Business Studies",
+  "subtopic": "Business environment",
+  "topic_path": "Commerce > Business Studies > Business environment",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q051",
@@ -1550,7 +1850,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Insurance legislation",
+  "topic_path": "Commerce > Finance & Insurance > Insurance legislation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q052",
@@ -1580,7 +1886,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Business Studies",
+  "subtopic": "Consumer protection",
+  "topic_path": "Commerce > Business Studies > Consumer protection",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q053",
@@ -1610,7 +1922,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 36,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Insurance regulation",
+  "topic_path": "Commerce > Finance & Insurance > Insurance regulation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q054",
@@ -1640,7 +1958,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 36,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Indian Economy",
+  "subtopic": "Economic reforms",
+  "topic_path": "Economy > Indian Economy > Economic reforms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q055",
@@ -1670,7 +1994,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Banking risk regulation",
+  "topic_path": "Economy > Banking & Finance > Banking risk regulation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q056",
@@ -1700,7 +2030,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Share capital",
+  "topic_path": "Commerce > Accounting > Share capital",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q057",
@@ -1730,7 +2066,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Insurance history",
+  "topic_path": "Commerce > Finance & Insurance > Insurance history",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q058",
@@ -1760,7 +2102,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Sales force training",
+  "topic_path": "Commerce > Marketing & Management > Sales force training",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q059",
@@ -1790,7 +2138,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 39,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Directing",
+  "topic_path": "Commerce > Marketing & Management > Directing",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q060",
@@ -1820,7 +2174,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Asset reconstruction companies",
+  "topic_path": "Economy > Banking & Finance > Asset reconstruction companies",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q061",
@@ -1850,7 +2210,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Marine insurance",
+  "topic_path": "Commerce > Finance & Insurance > Marine insurance",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q062",
@@ -1880,7 +2246,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Marketing associations",
+  "topic_path": "Commerce > Marketing & Management > Marketing associations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q063",
@@ -1910,7 +2282,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Advertising regulation",
+  "topic_path": "Commerce > Marketing & Management > Advertising regulation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q064",
@@ -1940,7 +2318,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Insurance investment",
+  "topic_path": "Commerce > Finance & Insurance > Insurance investment",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q065",
@@ -1970,7 +2354,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Capital and revenue receipts",
+  "topic_path": "Commerce > Accounting > Capital and revenue receipts",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q066",
@@ -2000,7 +2390,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Cash flow classification",
+  "topic_path": "Commerce > Accounting > Cash flow classification",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q067",
@@ -2030,7 +2426,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Financial regulation",
+  "topic_path": "Economy > Banking & Finance > Financial regulation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q068",
@@ -2060,7 +2462,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Reserve Bank of India",
+  "topic_path": "Economy > Banking & Finance > Reserve Bank of India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q069",
@@ -2090,7 +2498,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Motor insurance",
+  "topic_path": "Commerce > Finance & Insurance > Motor insurance",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q070",
@@ -2120,7 +2534,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Life Insurance Corporation",
+  "topic_path": "Commerce > Finance & Insurance > Life Insurance Corporation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q071",
@@ -2150,7 +2570,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Business Studies",
+  "subtopic": "Partnership law",
+  "topic_path": "Commerce > Business Studies > Partnership law",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q072",
@@ -2180,7 +2606,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Dividends",
+  "topic_path": "Commerce > Finance & Insurance > Dividends",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q073",
@@ -2210,7 +2642,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Test marketing",
+  "topic_path": "Commerce > Marketing & Management > Test marketing",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q074",
@@ -2240,7 +2678,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 48,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Calls in arrears",
+  "topic_path": "Commerce > Accounting > Calls in arrears",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q075",
@@ -2270,7 +2714,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 48,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Sales organisation",
+  "topic_path": "Commerce > Marketing & Management > Sales organisation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q076",
@@ -2300,7 +2750,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 49,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Capital and revenue receipts",
+  "topic_path": "Commerce > Accounting > Capital and revenue receipts",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q077",
@@ -2330,7 +2786,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 49,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Insurance policies",
+  "topic_path": "Commerce > Finance & Insurance > Insurance policies",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q078",
@@ -2360,7 +2822,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 50,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Marketing software",
+  "topic_path": "Commerce > Marketing & Management > Marketing software",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q079",
@@ -2390,7 +2858,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 50,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Bank liabilities",
+  "topic_path": "Economy > Banking & Finance > Bank liabilities",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q080",
@@ -2420,7 +2894,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Business Studies",
+  "subtopic": "Non-profit organisations",
+  "topic_path": "Commerce > Business Studies > Non-profit organisations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q081",
@@ -2450,7 +2930,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Current ratio",
+  "topic_path": "Commerce > Accounting > Current ratio",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q082",
@@ -2480,7 +2966,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 52,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Business Studies",
+  "subtopic": "Business environment",
+  "topic_path": "Commerce > Business Studies > Business environment",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q083",
@@ -2516,7 +3008,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 53,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Retail companies",
+  "topic_path": "Commerce > Marketing & Management > Retail companies",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q084",
@@ -2546,7 +3044,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 53,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Subscriptions in advance",
+  "topic_path": "Commerce > Accounting > Subscriptions in advance",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q085",
@@ -2576,7 +3080,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 54,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Forfeiture of shares",
+  "topic_path": "Commerce > Accounting > Forfeiture of shares",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q086",
@@ -2606,7 +3116,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 55,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Advertising agencies",
+  "topic_path": "Commerce > Marketing & Management > Advertising agencies",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q087",
@@ -2636,7 +3152,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 55,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Banking history",
+  "topic_path": "Economy > Banking & Finance > Banking history",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q088",
@@ -2666,7 +3188,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 56,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Life insurance and savings",
+  "topic_path": "Commerce > Finance & Insurance > Life insurance and savings",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q089",
@@ -2696,7 +3224,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 56,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "History of advertising",
+  "topic_path": "Commerce > Marketing & Management > History of advertising",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q090",
@@ -2726,7 +3260,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 57,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Bank payment instruments",
+  "topic_path": "Economy > Banking & Finance > Bank payment instruments",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q091",
@@ -2756,7 +3296,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 57,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Preference shares",
+  "topic_path": "Commerce > Finance & Insurance > Preference shares",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q092",
@@ -2786,7 +3332,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Goodwill",
+  "topic_path": "Commerce > Accounting > Goodwill",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q093",
@@ -2816,7 +3368,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Insurance terminology",
+  "topic_path": "Commerce > Finance & Insurance > Insurance terminology",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q094",
@@ -2846,7 +3404,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 59,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Partnership admission",
+  "topic_path": "Commerce > Accounting > Partnership admission",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q095",
@@ -2876,7 +3440,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 59,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Gang plank",
+  "topic_path": "Commerce > Marketing & Management > Gang plank",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q096",
@@ -2906,7 +3476,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 60,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Finance & Insurance",
+  "subtopic": "Personal accident insurance",
+  "topic_path": "Commerce > Finance & Insurance > Personal accident insurance",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q097",
@@ -2936,7 +3512,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 60,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Internet banking",
+  "topic_path": "Economy > Banking & Finance > Internet banking",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q098",
@@ -2966,7 +3548,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 61,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Marketing & Management",
+  "subtopic": "Planning",
+  "topic_path": "Commerce > Marketing & Management > Planning",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q099",
@@ -2996,7 +3584,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 61,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Specific-purpose donations",
+  "topic_path": "Commerce > Accounting > Specific-purpose donations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-II-Q100",
@@ -3026,6 +3620,12 @@
   "source_pdf": "exams/TET/2021/source/Paper-II.pdf",
   "page": 62,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Commerce",
+  "topic": "Accounting",
+  "subtopic": "Financial statements",
+  "topic_path": "Commerce > Accounting > Financial statements",
+  "classification_needs_review": false,
+  "classification_note": ""
  }
 ]

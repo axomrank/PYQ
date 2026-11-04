@@ -1,0 +1,99 @@
+1|POL-S|Districts of Assam
+2|CUL-S|Traditional faiths of Assam
+3|CUL-S|Tea tribes and Jhumur
+4|GEO-S|National parks of Assam
+5|ENV|Conservation in Assam
+6|ENV|Wildlife of Assam
+7|ECO-S|Agriculture of Assam
+8|ENV|Tribes and tiger reserves
+9|ECO-B|Green bonds
+10|POL-G|Government schemes
+11|POL-G|Government schemes
+12|POL-G|Government schemes
+13|ECO-T|International trade
+14|ECO-B|RBI monetary policy
+15|CUL-I|Religious gatherings
+16|GEO-P|Ocean currents
+17|GEO-I|Irrigation
+18|GEO-S|Rivers of Assam
+19|GEO-S|Districts of Assam
+20|GEO-S|Floods in Assam
+21|GEO-P|Natural disasters
+22|GK-B|Books and authors
+23|GEO-I|Urbanisation
+24|GEO-S|Demography of Assam
+25|ECO-S|Petroleum in Assam
+26|GEO-S|Demography of Assam
+27|GEO-W|Deserts
+28|GEO-W|Grasslands
+29|GK-S|Paralympic Games
+30|POL-I|India-US relations
+31|GK-A|Bharat Ratna
+32|ECO-S|Agriculture of Assam
+33|GK-B|Biographies of Prime Ministers
+34|POL-G|New criminal laws
+35|ECO-I|Defence corridors
+36|POL-C|Constitutional amendments
+37|POL-C|Fundamental Rights
+38|POL-S|Assam Legislative Assembly
+39|POL-C|Constitutional bodies
+40|POL-C|Federalism
+41|POL-C|Directive Principles and duties
+42|POL-C|Special provisions for states
+43|POL-C|Formation of states
+44|POL-C|Special provisions for states
+45|POL-C|Supreme Court jurisdiction
+46|POL-S|Chief Ministers of Assam
+47|POL-G|Judicial process
+48|POL-C|Rule of Law
+49|ECO-T|Economic development theories
+50|ENV|Biofuels
+51|SCI-T|ISRO satellites
+52|SCI-T|Nanotechnology
+53|SCI-T|Nuclear fusion
+54|SCI-B|Molecular biology
+55|SCI-P|Modern physics
+56|SCI-T|Recent discoveries
+57|SCI-P|Motion
+58|SCI-P|Surface tension
+59|GK-B|Books and authors
+60|ENV|Sustainable Development Goals
+61|GK-B|Books and authors
+62|ECO-T|Global indices
+63|POL-S|State schemes of Assam
+64|ECO-T|Development theories
+65|POL-G|Tribal groups
+67|ECO-T|Inequality measures
+68|ECO-I|Fiscal policy
+69|ECO-I|Economic surveys
+70|ECO-I|Taxation
+71|ENV|Environmental disasters
+72|GEO-S|National parks of Assam
+73|ENV|Ecology terms
+74|ENV|Climate change in Assam
+75|ENV|Bioremediation
+76|ENV|Global warming
+77|GEO-P|Soils
+78|ENV|Environmental committees
+79|ECO-B|Foreign exchange reserves
+80|ECO-I|Poverty measurement
+81|POL-S|State schemes of Assam
+82|ECO-T|Global indices
+83|ECO-S|Tea plantations
+84|POL-G|Government schemes
+85|GK-A|Nobel Prize
+86|GK-S|Cricket
+87|POL-G|Finance Commission
+88|SCI-T|Antarctic research stations
+89|HIS-S|Freedom movement in Assam
+90|HIS-S|Political organisations in Assam
+91|HIS-S|Political organisations in Assam
+92|HIS-S|Social reform in Assam
+93|HIS-S|Quit India Movement in Assam
+94|HIS-S|Ahom administration
+95|HIS-S|Ahom-Mughal relations
+96|CUL-S|Assamese cinema
+97|HIS-S|Buranjis
+98|HIS-S|Political organisations in Assam
+99|HIS-S|Buddhism in Assam
+100|CUL-S|History of Assamese language studies

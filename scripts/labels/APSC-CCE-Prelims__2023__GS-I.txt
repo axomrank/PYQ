@@ -1,0 +1,99 @@
+1|GK-B|Books and authors
+2|HIS-S|Ahom monuments
+3|POL-G|Archaeological Survey of India
+4|GEO-S|Wetlands of Assam
+5|HIS-S|Institutions of Assam
+6|HIS-O|Modern education in India
+7|CUL-I|Monuments of India
+8|HIS-O|Freedom movement chronology
+9|POL-G|NITI Forum for North-East
+10|GK-M|State symbols
+11|HIS-A|Life of Buddha
+12|POL-G|Delimitation Commission
+13|POL-G|Election Commission
+14|ECO-I|GST
+15|POL-C|High Courts
+16|POL-S|Autonomous Councils of Assam
+17|POL-C|Special provisions for states
+18|POL-C|Official languages
+19|POL-C|Schedules of the Constitution
+20|POL-G|Political parties
+21|POL-C|Parliamentary motions
+22|POL-S|Assam Legislative Assembly
+23|SCI-P|Friction
+24|SCI-P|Mass and weight
+25|ENV|Greenhouse gases
+26|ENV|Waste materials
+27|SCI-P|Evaporation
+28|SCI-P|Electricity
+29|GK-P|Scientists
+30|SCI-P|Motion graphs
+31|SCI-C|Solutions
+32|SCI-C|Carbohydrates
+33|HIS-S|British rule in Assam
+34|ECO-I|Railway corridors
+35|ENV|Green India Mission
+36|ENV|Greenhouse gases
+37|ENV|Wildlife of North-East
+38|ENV|National parks and heritage
+39|POL-C|Directive Principles and duties
+40|SCI-B|Adaptation
+41|GK-C|ASER report
+42|HIS-S|Tribal League
+43|CUL-S|Folk dances of Assam
+44|POL-G|Constitutional and statutory bodies
+45|GEO-S|Brahmaputra valley
+46|GK-P|Sobriquets of personalities
+47|ECO-B|Digital rupee
+48|POL-I|IMEC corridor
+49|GEO-S|Places of Assam
+50|POL-S|State schemes of Assam
+51|ECO-B|Bad banks
+52|ECO-I|Interim Budget
+53|GK-C|Indian Navy
+54|GK-C|Museums
+55|POL-G|Supreme Court
+56|GEO-S|Wildlife sanctuaries of Assam
+57|GK-A|Grammy Awards
+58|CUL-S|Religious places of Assam
+59|GK-A|Awards to personalities
+60|GK-S|Asian Games
+61|GK-C|Indian evacuation operations
+62|GEO-S|Places of Assam
+63|CMP|Blockchain
+64|GK-A|Assam state awards
+65|GK-A|Sports awards
+66|POL-S|State schemes of Assam
+67|GK-A|Military awards
+68|POL-S|Assam Legislative Assembly
+69|GEO-S|Demography of Assam
+70|CUL-L|Assamese literature
+71|GEO-S|Places of Assam
+72|GEO-S|Agro-climatic zones
+73|POL-C|Women's reservation
+74|POL-G|Government schemes
+75|GEO-I|Tribal groups
+76|GEO-S|Demography of Assam
+77|GEO-P|Demographic terms
+78|GK-A|Awards to personalities
+79|CUL-S|Religious places of Assam
+80|HIS-O|Sardar Patel
+81|HIS-S|Ahom kingdom
+82|HIS-S|Moamoria rebellion period
+83|GK-B|Books and authors
+84|HIS-S|Associations of Assam
+85|ENV|Droughts and climate
+86|CUL-L|Asom Sahitya Sabha
+87|POL-G|Government schemes
+88|POL-G|Government schemes
+89|GK-C|Inland waterways
+90|CUL-S|Neo-Vaishnavism
+91|GK-C|Republic Day
+92|GK-A|Assam state awards
+93-94|SCI-T|Space missions
+95|ECO-I|Union Budget
+96|CMP|Cyber terms
+97|HIS-S|Economy of colonial Assam
+98|GEO-P|River landforms
+99|CUL-S|Satras
+100|POL-S|Assam Accord and settlements

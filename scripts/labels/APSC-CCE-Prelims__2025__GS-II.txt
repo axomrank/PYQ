@@ -1,0 +1,76 @@
+1|ENG-C|Passage inference
+2|ENG-C|Passage details
+3|ENG-C|Central idea
+4|ENG-C|Passage inference
+5|ENG-C|Character interpretation
+6|ENG-C|Metaphor interpretation
+7|ENG-C|Author argument
+8|ENG-C|Passage inference
+9|ENG-C|Author intention
+10|ENG-C|Word meaning in context
+11|ENG-C|Passage details
+12|ENG-C|Word meaning in context
+13|ENG-G|Punctuation
+14|ENG-U|Word usage
+15|APT-C|Active listening
+16|APT-C|Empathy in communication
+17|ENG-U|Word usage
+18|APT-C|Communication process
+19|APT-C|Communication channels
+20|ENG-C|Passage details
+21|ENG-C|Word meaning in context
+22|ENG-C|Passage inference
+23|APT-C|Non-verbal communication
+24|APT-C|Decoding messages
+25|ENG-V|Word meaning
+26|ENG-C|Central idea
+27|ENG-C|Passage inference
+28|ENG-C|Word meaning in context
+29|RSN-L|Direction sense
+30|RSN-L|Blood relations
+31|RSN-L|Family relationship puzzles
+32|MAT-L|Linear equations
+33|MAT-A|Mixtures and alligation
+34|APT-D|Civic responsibility
+35|RSN-L|Number grid puzzles
+36|RSN-V|Odd one out
+37|RSN-V|Number series
+38|RSN-V|Number series
+40|RSN-L|Assertion and reason
+41|RSN-L|Eligibility criteria
+42|RSN-L|Cause and effect
+43|RSN-L|Truth and lies
+44|RSN-V|Coding-decoding
+45|MAT-A|Time and rates
+46|RSN-V|Number series
+47|RSN-L|Digit puzzles
+48|MAT-N|Simplification
+49|RSN-L|Syllogisms
+50|RSN-L|Statement and conclusion
+51|MAT-L|Polynomial equations
+52|MAT-N|Prime factors
+53|MAT-N|Indices
+55|MAT-N|Surds and roots
+56|MAT-N|Summation of fractions
+57|MAT-N|LCM and HCF
+58|MAT-A|Ratio and proportion
+59|MAT-G|Percentage change in area
+60|MAT-S|Mean
+61|MAT-G|Circles and cylinders
+62|RSN-L|Data sufficiency
+63|MAT-G|Polygons
+64|MAT-N|Integers
+65|MAT-N|Surds and roots
+66|MAT-N|Remainders
+67|APT-D|Team management
+68|RSN-L|Assignment puzzles
+69|RSN-L|Time sequence
+70|APT-D|Presentation skills
+71|APT-D|Integrity and accountability
+72|APT-D|Inclusive team leadership
+73|RSN-L|Selection puzzles
+74|APT-I|Tables
+75|APT-I|Tables
+76|MAT-A|Profit, loss and discount
+77|APT-I|Tables
+80|RSN-L|Syllogisms

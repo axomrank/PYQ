@@ -1,0 +1,130 @@
+1|GEO-W|International boundaries
+2|HIS-A|Ancient Indian scholars
+3|GEO-W|Straits and canals
+4|CUL-S|Religious places of Assam
+5|GK-P|Scientists
+6|GK-P|Business leaders
+7|GK-S|Olympics
+8|CUL-S|Festivals of Assam
+9|GK-A|Sports awards
+10|GK-P|Painters
+11|GEO-S|Districts of Assam
+12|GK-P|Famous titles of persons
+13|GK-M|National flag
+14|POL-C|President and Vice President
+15|POL-I|International conflicts
+16|GEO-W|World currencies
+17|GK-S|Olympics
+18|CUL-L|Assamese literature
+19|GK-S|Sports terms
+20|CUL-S|Assamese cinema
+21|ECO-B|Currency notes
+22|CUL-S|Traditional dress of Assam
+23|HIS-O|Assam in freedom struggle
+24|GEO-I|Deserts
+25|GEO-I|Directions and locations
+26|ENG-V|One word substitution
+27|GEO-S|Rivers of Assam
+28|CUL-S|Food of Assam
+29|CUL-S|Fairs of Assam
+30|CUL-I|Food of India
+31|POL-C|Parliament
+32|GEO-I|Mineral resources
+33|HIS-S|Dimasa kingdom
+34|HIS-O|Civil Disobedience Movement
+35|GEO-S|Districts of Assam
+36|GEO-S|Borders of Assam
+37|POL-C|Fundamental Rights
+38|GEO-W|World capitals
+39|CUL-S|Neo-Vaishnavism
+40|CUL-S|Festivals of Assam
+41|HIS-O|Mahatma Gandhi
+42|HIS-A|Maurya Empire
+43|HIS-M|Mughal rulers
+44|HIS-W|Formation of Bangladesh
+45|GEO-I|State capitals
+46|POL-C|President and Vice President
+47|GEO-I|General geography facts
+48|CUL-S|Musical instruments of Assam
+49|GK-P|World leaders
+50|GEO-W|Deserts
+51|GEO-W|Countries
+52|SCI-H|Vitamins
+53|SCI-H|Human body
+54|GK-S|Cricket
+55|POL-S|State ministers
+56|GK-B|Sports books
+57|CUL-L|Hindi literature
+58|GEO-P|Natural disasters
+59-60|CUL-L|Assamese literature
+61|SCI-B|Animals
+62|CUL-I|Monuments of India
+63|GK-S|Cricket
+64|GEO-I|Tunnels and passes
+65|SCI-C|Petroleum products
+66|MAT-A|Discount
+67|MAT-N|Fractions
+68|MAT-A|Simple interest
+69|MAT-G|Clock angles
+70|MAT-G|Triangles
+71|MAT-G|Triangles
+72|MAT-N|Roman numerals
+73|MAT-A|Distribution problems
+74|MAT-N|Prime numbers
+75|MAT-N|Number operations
+76|MAT-N|Number operations
+77|MAT-A|Profit and loss
+78|MAT-N|Fractions
+79|MAT-N|Decimals
+80|MAT-L|Algebraic identities
+81|MAT-N|Fractions
+82|MAT-G|Rectangles
+83|MAT-G|Cylinders
+84|MAT-G|Triangles
+85|MAT-G|Clock angles
+86|RSN-L|Logical puzzles
+87|RSN-L|Mathematical operations
+88|RSN-V|Word analogy
+89|RSN-N|Cube and dice
+90|RSN-V|Letter analogy
+91|RSN-L|Time sequence
+92|MAT-N|Roman numerals
+93|RSN-L|Time sequence
+94|RSN-V|Odd one out
+95|RSN-V|Word analogy
+96|RSN-V|Word formation
+97|RSN-V|Coding-decoding
+98|RSN-L|Syllogism and statements
+99|RSN-L|Blood relations
+100|RSN-L|Number arrangement
+101|MAT-N|Fractions
+102|RSN-V|Coding-decoding
+103|ENG-V|Spelling
+104|RSN-V|Essential element
+105|RSN-V|Letter analogy
+106|MAT-G|Rectangles
+107|RSN-L|Blood relations
+108|RSN-L|Number arrangement
+109-110|RSN-V|Odd one out
+111|RSN-N|Figure tracing
+112-115|RSN-V|Letter and number series
+116|MAT-N|Roman numerals
+117|RSN-V|Logical order of words
+118|RSN-L|Direction sense
+119|RSN-L|Statement and conclusion
+120|RSN-V|Coding-decoding
+121|RSN-V|Word analysis
+122|RSN-V|Word analogy
+123|RSN-L|Mathematical operations
+124|RSN-L|Syllogism and statements
+125|RSN-N|Number matrix
+126|ENG-V|Synonyms
+127|ENG-V|One word substitution
+128|ENG-G|Fill in the blanks
+129|ENG-V|Idioms and phrases
+130|ENG-U|Active and passive voice
+131|ENG-V|Antonyms
+132|ENG-G|Prepositions
+133|ENG-V|Spelling
+134|ENG-G|Pronouns
+135|ENG-G|Subject and predicate

@@ -1,0 +1,146 @@
+1|HIS-S|Ahom kingdom
+2|CUL-S|Neo-Vaishnavism
+3|HIS-M|Mysore rulers
+4|HIS-O|Jallianwala Bagh
+5|HIS-W|World War II
+6|GEO-W|World heritage sites
+7|GEO-S|Borders of Assam
+8|GEO-I|Directions and locations
+9|GEO-I|States of India
+10|GEO-I|Mountain peaks
+11|GEO-W|Coral reefs
+12|GEO-W|Mountain ranges
+13|GEO-P|Natural disasters
+14-15|POL-C|President and Vice President
+16|CUL-S|Musical instruments of Assam
+17|ECO-S|Tea research
+18|GK-O|Publishers
+19|POL-C|Parliament
+20|POL-G|NITI Aayog
+21|ECO-S|Oil refineries
+22|CUL-I|Festivals of India
+23|GEO-W|Straits and canals
+24|CUL-S|Music of Assam
+25-26|CUL-L|Assamese literature
+27|CUL-I|Textiles of India
+28|GK-P|Painters
+29|GK-S|Sportspersons of Assam
+30|GK-S|Badminton
+31|GK-S|Olympics
+32|GK-S|Athletics
+33|GK-S|Sportspersons
+34|GK-M|National monuments
+35|POL-S|State schemes of Assam
+36|GK-O|Companies
+37|SCI-C|Acids and bases
+38|POL-C|President and Vice President
+39|SCI-P|Levers
+40|GK-M|National flags
+41|HIS-A|Vedic literature
+42|HIS-A|Indus Valley Civilisation
+43|HIS-W|Napoleon
+44|GEO-S|Borders of Assam
+45|GEO-P|Oceans
+46|GEO-I|Mountain ranges
+47|GEO-I|Islands
+48|GEO-P|Latitudes
+49|GEO-W|Islands
+50|GEO-P|Geysers
+51|POL-C|Constitution basics
+52|ECO-T|Inflation
+53|POL-G|Government schemes
+54|CUL-L|Assamese literature
+55|POL-G|Armed forces
+56|SCI-C|Chemical symbols
+57|GK-P|World leaders
+58|SCI-B|Cell biology
+59|GEO-W|Countries and coasts
+60|GEO-W|Islands
+61|RSN-L|Number arrangement
+62|RSN-V|Odd one out
+63|RSN-L|Blood relations
+64|RSN-V|Coding-decoding
+65|RSN-L|Direction sense
+66|MAT-A|Time, speed and distance
+67|RSN-V|Dictionary order
+68|ENG-V|Spelling
+69|RSN-V|Word formation
+70|RSN-L|Seating arrangement
+71|RSN-V|Word analogy
+72|RSN-V|Coding-decoding
+73-74|RSN-V|Word analogy
+75|RSN-V|Word usage logic
+76|RSN-V|Dictionary order
+77|RSN-V|Number series
+78|RSN-L|Ranking and order
+79|RSN-L|Blood relations
+80|RSN-V|Word analogy
+81|MAT-A|Successive percentage
+82|MAT-A|Averages
+83|MAT-N|Fractions
+84|MAT-L|Ratio of variables
+85|MAT-N|LCM and HCF
+86|MAT-N|Powers and exponents
+87|MAT-A|Investment problems
+88|MAT-N|Prime numbers
+89|MAT-N|Powers and exponents
+90|MAT-A|Ratio and proportion
+91|MAT-N|Recurring decimals
+92|MAT-N|Powers and exponents
+93|MAT-G|Circles
+94|MAT-G|Triangles
+95|MAT-N|Number series
+96|MAT-L|Algebraic identities
+97|MAT-N|Perfect squares
+98|MAT-N|Fractions
+99|MAT-A|Simple interest
+100|MAT-G|Circles
+101|MAT-A|Percentage
+102|MAT-L|Linear equations
+103|MAT-L|Exponential equations
+104|MAT-N|Consecutive numbers
+105|MAT-N|Divisibility
+106|MAT-G|Circles
+107|RSN-L|Calendar
+108|MAT-L|Quadratic equations
+109|MAT-N|Roman numerals
+110|MAT-G|Pythagoras theorem
+111|MAT-S|Median
+112|MAT-G|Circles
+113|MAT-G|Cubes
+114|MAT-N|LCM and HCF
+115|MAT-N|Number operations
+116|ENG-G|Adverbs
+117|ENG-V|Antonyms
+118|ENG-V|Synonyms
+119|ENG-V|Spelling
+120|ENG-V|One word substitution
+121|ENG-V|Idioms and phrases
+122|ENG-G|Adverbs
+123|ENG-V|Collective nouns
+124|ENG-G|Conjunctions
+125|ENG-G|Punctuation
+126|ENG-V|Synonyms
+127|ENG-V|Idioms and phrases
+128|ENG-U|Sentence correction
+129|ENG-G|Tenses
+130|ENG-G|Pronouns
+131-132|ENG-V|Spelling
+133|ENG-G|Prepositions
+134|ENG-G|Degrees of comparison
+135|ENG-G|Verbs
+136|ENG-G|Pronouns
+137|ENG-V|Antonyms
+138|ENG-V|Synonyms
+139|ENG-V|Spelling
+140|ENG-V|One word substitution
+141|ENG-V|Idioms and phrases
+142|ENG-G|Degrees of comparison
+143|ENG-V|Collective nouns
+144|ENG-G|Punctuation
+145|ENG-V|Antonyms
+146|ENG-V|Idioms and phrases
+147|ENG-U|Sentence correction
+148|ENG-G|Tenses
+149|ENG-G|Pronouns
+150|ENG-V|Spelling

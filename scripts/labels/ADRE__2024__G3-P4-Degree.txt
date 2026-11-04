@@ -1,0 +1,137 @@
+1|GEO-W|Countries
+2|GK-S|Hockey
+3-4|RSN-L|Number puzzles
+5|POL-C|Sources of the Constitution
+6|GK-S|Sportspersons
+7|HIS-S|Ancient Assam
+8|RSN-N|Water images
+9|MAT-N|Remainders
+10|MAT-S|Mean and median
+11|MAT-A|Percentage
+12|HIS-S|Ahom-Mughal wars
+13|CUL-L|Assamese literature
+14|MAT-N|LCM and HCF
+15|GK-A|Jnanpith Award
+16|RSN-L|Direction sense
+17|CUL-L|Hindi literature
+18|MAT-N|Binary numbers
+19|CUL-I|Folk dances of India
+20|MAT-A|Averages
+21|GK-S|Olympics
+22|MAT-G|Spheres and solids
+23|CUL-L|Assamese literature
+24|ENG-U|Sentence arrangement
+25|GK-M|National dress
+26|GEO-P|Minerals
+27|GEO-P|Earth facts
+28|HIS-A|Kashmir rulers
+29|RSN-V|Pattern matching
+30|GK-A|Jnanpith Award
+31|MAT-N|Surds and roots
+32|CUL-S|Assamese cinema
+33|MAT-A|Percentage
+34|GEO-P|River landforms
+35|MAT-G|Cones
+36|ECO-B|Stock exchanges
+37|MAT-N|Surds and roots
+38|MAT-L|Algebraic ratios
+39|MAT-T|Trigonometric ratios
+40|RSN-N|Venn diagrams
+41|MAT-N|Square roots
+42|GK-S|Hockey
+43|RSN-V|Number series
+44|MAT-G|Circles
+45|GEO-I|Andaman and Nicobar
+46|CUL-I|Folk dances of India
+47|MAT-G|Circles
+48|CUL-L|Assamese literature
+49|MAT-G|Cubes
+50|RSN-V|Odd one out
+51|MAT-N|LCM and HCF
+52|RSN-L|Direction sense
+53|CUL-S|Assamese cinema
+54|ENG-V|One word substitution
+55|GEO-W|Countries and states
+56|ENG-G|Degrees of comparison
+57|GEO-W|Deserts
+58|MAT-A|Compound growth
+59|GK-S|Athletics
+60|ENG-V|Antonyms
+61|MAT-N|Binary numbers
+62|RSN-N|Venn diagrams
+63|CUL-S|Religious places of Assam
+64|ENG-G|Nouns
+65|CUL-L|Sanskrit epics
+66|ECO-S|Bio-refinery
+67|MAT-N|Remainders
+68|CUL-S|Assamese jewellery
+69|POL-C|Impeachment
+70|MAT-G|Triangles
+71|GK-O|Companies
+72|MAT-N|Factorials
+73|GEO-W|Straits and canals
+74|SCI-B|Digestive system
+75|GEO-W|Seas
+76|RSN-V|Coding-decoding
+77|ENG-V|Collective nouns
+78|MAT-A|Pipes and cisterns
+79|RSN-L|Blood relations
+80|ENG-V|Idioms and phrases
+81|GK-S|Sportspersons
+82|MAT-A|Distribution problems
+83|ENG-V|Spelling
+84|HIS-W|Wars of the Roses
+85|GEO-I|States and borders
+86|GK-S|Martial arts
+87|SCI-P|Levers
+88|GK-P|World leaders
+89|CUL-I|Temples of India
+90|GK-S|Olympics
+91|HIS-A|Maurya Empire
+92|GEO-W|Seas
+93|RSN-L|Number arrangement
+94|HIS-S|Assam folk heroes
+95|GK-S|Tennis
+96|CUL-S|Musical instruments of Assam
+97|RSN-N|Cube and dice
+98|ENG-G|Verbs
+99|ECO-I|Taxation
+100|ENG-V|Synonyms
+101|GK-B|English novels
+102|MAT-T|Trigonometric ratios
+103|MAT-L|Quadratic equations
+104|RSN-V|Odd one out
+105|MAT-A|Averages
+106|GEO-I|Glaciers
+107|GEO-I|Mountain ranges
+108|MAT-L|Quadratic equations
+109|GK-M|Popular culture
+110|GK-S|Sportspersons of Assam
+111|MAT-A|Simple interest
+112|RSN-N|Mirror images
+113|GK-A|Music awards
+114|MAT-A|Profit and loss
+115|POL-C|Form of government
+116|MAT-N|Square roots
+117|GK-S|Cricket
+118|GK-P|Explorers
+119|GK-S|Football
+120|RSN-N|Venn diagrams
+121|GK-A|Assam state awards
+122|MAT-G|Quadrilaterals
+123|GK-S|Cricket
+124|CUL-S|Assamese cinema
+125|GK-S|Cricket
+126-127|ENG-U|Active and passive voice
+128-130|ENG-V|Synonyms
+131|ENG-U|Sentence meaning
+132|ENG-G|Tenses
+133-136|ENG-C|Passage on Okapi
+137-138|ENG-V|Context-based word meaning
+139-142|ENG-C|Passage on bicycles
+143|ENG-V|Analogy
+144|ENG-G|Prepositions
+145|ENG-G|Fill in the blanks
+146|ENG-C|Passage on light pollution
+147|ENG-G|Prepositions
+148-150|ENG-C|Passage on reality and meaning

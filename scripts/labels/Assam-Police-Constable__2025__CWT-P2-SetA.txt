@@ -1,0 +1,100 @@
+1|GK-A|Whitley Awards
+2|GK-O|UNICEF reports
+3|GK-C|World Press Freedom Index
+4|GK-M|Important days
+5|CUL-S|Jonbeel Mela
+6|CUL-S|Silpi Divas
+7|CUL-S|Museums of Assam
+8|POL-S|State transport corporation
+9|SCI-C|Inert gases
+10|HIS-S|Patharughat uprising
+11|GK-S|Cricket
+12|GK-S|Football
+13|SCI-T|Missile technology
+14|POL-G|Government schemes
+15|GK-S|Cricket
+16|ECO-I|Union Budget
+17|POL-G|Union ministers
+18|GEO-I|Transport infrastructure
+19|SCI-T|Artificial intelligence initiatives
+20|CMP|Artificial intelligence applications
+21|MAT-N|Perfect squares
+22|MAT-G|Parallelograms
+23|MAT-A|Simple interest
+24|MAT-A|Partnership
+25|MAT-N|Fractions
+26|MAT-S|Median
+27|MAT-A|Compound interest
+28|MAT-N|LCM and HCF
+29|MAT-L|Algebraic identities
+30|MAT-N|Consecutive numbers
+31|MAT-N|Natural and whole numbers
+32|MAT-A|Discount
+33|MAT-A|Equal distribution
+34|MAT-L|Exponential equations
+35|MAT-N|Comparison of fractions
+36|MAT-N|Equivalent fractions
+37|MAT-G|Triangles
+38|MAT-G|Triangle inequality
+39|MAT-L|Forming equations
+40|MAT-G|Coordinate geometry
+41|ENG-G|Indirect questions
+42|ENG-G|Tenses
+43|ENG-G|Articles
+44|ENG-G|Question tags
+45|ENG-V|Spelling
+46|ENG-G|Tenses
+47|ENG-G|Prepositions
+48|ENG-G|Active and passive voice
+49|ENG-G|Degrees of comparison
+50|ENG-G|Direct and indirect speech
+51|ENG-G|Indirect questions
+52|ENG-G|Prepositions
+53|ENG-V|Collective nouns
+54|ENG-V|Synonyms
+55|ENG-V|Idioms and phrases
+56|ENG-V|Antonyms
+57|ENG-V|Word groups
+58|ENG-U|Figures of speech
+59|ENG-V|Idioms and phrases
+60|ENG-G|Adverbs
+61|RSN-N|Missing number diagrams
+62|RSN-V|Number coding
+63|RSN-V|Alphanumeric series
+64|RSN-V|Letter series
+65|RSN-V|Word analogy
+66|RSN-V|Coding-decoding
+67|RSN-V|Mathematical operators
+68|RSN-N|Missing number diagrams
+69|RSN-V|Coding-decoding
+70|RSN-N|Paper folding
+71|RSN-L|Clocks
+72|RSN-N|Cubes and dice
+73|RSN-V|Letter analogy
+74|RSN-N|Missing number diagrams
+75|RSN-V|Number series
+76|RSN-N|Counting cubes
+77|RSN-V|Number series
+78|RSN-N|Odd figure out
+79|RSN-N|Missing number diagrams
+80|RSN-N|Odd figure out
+81|ECO-S|Agriculture of Assam
+82|CUL-S|Religious places of Assam
+83|HIS-S|Ahom rulers
+84|CUL-S|Ahom monuments
+85|GEO-S|Districts of Assam
+86|HIS-S|Ahom territorial expansion
+87|POL-S|Chief Ministers of Assam
+88|CUL-S|Ahom monuments
+89|GK-S|Sports facilities in Assam
+90|POL-S|Police institutions
+91|ENV|Wildlife sanctuaries of Assam
+92|HIS-S|Ancient Kamarupa
+93|ECO-S|Energy finance in Assam
+94|HIS-S|Quit India Movement in Assam
+95|GEO-S|Borders of Assam
+96|GEO-I|River islands
+97|GEO-S|Plateaus of Assam
+98|HIS-S|Ahom-Mughal relations
+99|ECO-S|Agriculture of Assam
+100|ECO-S|Petroleum in Assam

@@ -29,7 +29,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 2,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on Make in India",
+  "topic_path": "English > Reading Comprehension > Passage on Make in India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q002",
@@ -61,7 +67,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 2,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on Make in India",
+  "topic_path": "English > Reading Comprehension > Passage on Make in India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q003",
@@ -93,7 +105,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 3,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on horror films",
+  "topic_path": "English > Reading Comprehension > Passage on horror films",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q004",
@@ -125,7 +143,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 3,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on horror films",
+  "topic_path": "English > Reading Comprehension > Passage on horror films",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q005",
@@ -164,7 +188,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on parenting",
+  "topic_path": "English > Reading Comprehension > Passage on parenting",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q006",
@@ -196,7 +226,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 4,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on parenting",
+  "topic_path": "English > Reading Comprehension > Passage on parenting",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q007",
@@ -228,7 +264,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 5,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on Ombudsman",
+  "topic_path": "English > Reading Comprehension > Passage on Ombudsman",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q008",
@@ -260,7 +302,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 5,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on Ombudsman",
+  "topic_path": "English > Reading Comprehension > Passage on Ombudsman",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q009",
@@ -292,7 +340,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on Morris and the thief",
+  "topic_path": "English > Reading Comprehension > Passage on Morris and the thief",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q010",
@@ -331,7 +385,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on Morris and the thief",
+  "topic_path": "English > Reading Comprehension > Passage on Morris and the thief",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q011",
@@ -363,7 +423,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on Bhutan",
+  "topic_path": "English > Reading Comprehension > Passage on Bhutan",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q012",
@@ -395,7 +461,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on Bhutan",
+  "topic_path": "English > Reading Comprehension > Passage on Bhutan",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q013",
@@ -427,7 +499,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on nationalism",
+  "topic_path": "English > Reading Comprehension > Passage on nationalism",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q014",
@@ -459,7 +537,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on nationalism",
+  "topic_path": "English > Reading Comprehension > Passage on nationalism",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q015",
@@ -491,7 +575,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Interpersonal communication",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Interpersonal communication",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q016",
@@ -523,7 +613,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Interpersonal communication",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Interpersonal communication",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q017",
@@ -562,7 +658,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Interpersonal communication",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Interpersonal communication",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q018",
@@ -594,7 +696,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Interpersonal communication",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Interpersonal communication",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q019",
@@ -626,7 +734,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Interpersonal communication",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Interpersonal communication",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q020",
@@ -658,7 +772,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Interpersonal communication",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Interpersonal communication",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q021",
@@ -690,7 +810,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Interpersonal communication",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Interpersonal communication",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q022",
@@ -722,7 +848,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Interpersonal communication",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Interpersonal communication",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q023",
@@ -754,7 +886,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Interpersonal communication",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Interpersonal communication",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q024",
@@ -786,7 +924,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Interpersonal communication",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Interpersonal communication",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q025",
@@ -825,7 +969,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Interpersonal communication",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Interpersonal communication",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q026",
@@ -857,7 +1007,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Interpersonal communication",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Interpersonal communication",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q027",
@@ -889,7 +1045,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Interpersonal communication",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Interpersonal communication",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q028",
@@ -921,7 +1083,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Interpersonal communication",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Interpersonal communication",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q029",
@@ -953,7 +1121,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Letter and number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Letter and number series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q030",
@@ -985,7 +1159,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Letter and number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Letter and number series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q031",
@@ -1025,7 +1205,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Number puzzles",
+  "topic_path": "Reasoning > Logical & Analytical > Number puzzles",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q032",
@@ -1057,7 +1243,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Blood relations",
+  "topic_path": "Reasoning > Logical & Analytical > Blood relations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q033",
@@ -1089,7 +1281,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Blood relations",
+  "topic_path": "Reasoning > Logical & Analytical > Blood relations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q034",
@@ -1121,7 +1319,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Number analogy",
+  "topic_path": "Reasoning > Verbal Reasoning > Number analogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q035",
@@ -1153,7 +1357,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Clock problems",
+  "topic_path": "Reasoning > Logical & Analytical > Clock problems",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q036",
@@ -1185,7 +1395,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Statement and conclusion",
+  "topic_path": "Reasoning > Logical & Analytical > Statement and conclusion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q037",
@@ -1217,7 +1433,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Direction sense",
+  "topic_path": "Reasoning > Logical & Analytical > Direction sense",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q038",
@@ -1255,7 +1477,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 15,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Venn diagrams",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Venn diagrams",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q039",
@@ -1287,7 +1515,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Decision Making",
+  "subtopic": "Situational judgement",
+  "topic_path": "Aptitude > Decision Making > Situational judgement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q040",
@@ -1324,7 +1558,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 16,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Data Interpretation",
+  "subtopic": "Data tables",
+  "topic_path": "Aptitude > Data Interpretation > Data tables",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q041",
@@ -1356,7 +1596,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Decision Making",
+  "subtopic": "Situational judgement",
+  "topic_path": "Aptitude > Decision Making > Situational judgement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q042",
@@ -1395,7 +1641,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Aptitude",
+  "topic": "Decision Making",
+  "subtopic": "Situational judgement",
+  "topic_path": "Aptitude > Decision Making > Situational judgement",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q043",
@@ -1427,7 +1679,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Decision Making",
+  "subtopic": "Situational judgement",
+  "topic_path": "Aptitude > Decision Making > Situational judgement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q044",
@@ -1459,7 +1717,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Clock problems",
+  "topic_path": "Reasoning > Logical & Analytical > Clock problems",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q045",
@@ -1498,7 +1762,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Mathematical operations",
+  "topic_path": "Reasoning > Logical & Analytical > Mathematical operations",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q046",
@@ -1530,7 +1800,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q047",
@@ -1562,7 +1838,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Coding-decoding",
+  "topic_path": "Reasoning > Verbal Reasoning > Coding-decoding",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q048",
@@ -1594,7 +1876,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Time sequence",
+  "topic_path": "Reasoning > Logical & Analytical > Time sequence",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q049",
@@ -1626,7 +1914,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Direction sense",
+  "topic_path": "Reasoning > Logical & Analytical > Direction sense",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q050",
@@ -1664,7 +1958,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 19,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Venn diagrams",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Venn diagrams",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q051",
@@ -1696,7 +1996,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Direction sense",
+  "topic_path": "Reasoning > Logical & Analytical > Direction sense",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q052",
@@ -1728,7 +2034,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Linear equations",
+  "topic_path": "Mathematics > Algebra > Linear equations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q053",
@@ -1760,7 +2072,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q054",
@@ -1792,7 +2110,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Coding-decoding",
+  "topic_path": "Reasoning > Verbal Reasoning > Coding-decoding",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q055",
@@ -1833,7 +2157,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Missing number in figure",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Missing number in figure",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q056",
@@ -1865,7 +2195,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Number puzzles",
+  "topic_path": "Reasoning > Logical & Analytical > Number puzzles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q057",
@@ -1897,7 +2233,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Number series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q058",
@@ -1930,7 +2272,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Seating arrangement",
+  "topic_path": "Reasoning > Logical & Analytical > Seating arrangement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q060",
@@ -1962,7 +2310,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Assertion and reason",
+  "topic_path": "Reasoning > Logical & Analytical > Assertion and reason",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q061",
@@ -2002,7 +2356,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Aptitude",
+  "topic": "Data Interpretation",
+  "subtopic": "Data tables",
+  "topic_path": "Aptitude > Data Interpretation > Data tables",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q062",
@@ -2034,7 +2394,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Trains",
+  "topic_path": "Mathematics > Arithmetic > Trains",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q063",
@@ -2072,7 +2438,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 23,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Data Interpretation",
+  "subtopic": "Line graphs",
+  "topic_path": "Aptitude > Data Interpretation > Line graphs",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q064",
@@ -2113,7 +2485,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Aptitude",
+  "topic": "Data Interpretation",
+  "subtopic": "Bar charts",
+  "topic_path": "Aptitude > Data Interpretation > Bar charts",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q065",
@@ -2155,7 +2533,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Aptitude",
+  "topic": "Data Interpretation",
+  "subtopic": "Pie charts",
+  "topic_path": "Aptitude > Data Interpretation > Pie charts",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q066",
@@ -2192,7 +2576,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 25,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Data Interpretation",
+  "subtopic": "Data tables",
+  "topic_path": "Aptitude > Data Interpretation > Data tables",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q067",
@@ -2224,7 +2614,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Rectangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Rectangles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q068",
@@ -2256,7 +2652,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Age problems",
+  "topic_path": "Mathematics > Arithmetic > Age problems",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q069",
@@ -2288,7 +2690,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Cylinders and spheres",
+  "topic_path": "Mathematics > Geometry & Mensuration > Cylinders and spheres",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q070",
@@ -2320,7 +2728,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Circles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Circles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q071",
@@ -2352,7 +2766,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Simple interest",
+  "topic_path": "Mathematics > Arithmetic > Simple interest",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q072",
@@ -2384,7 +2804,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Algebraic identities",
+  "topic_path": "Mathematics > Algebra > Algebraic identities",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q073",
@@ -2416,7 +2842,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Similar triangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Similar triangles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q074",
@@ -2448,7 +2880,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "LCM and HCF",
+  "topic_path": "Mathematics > Number System > LCM and HCF",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q075",
@@ -2487,7 +2925,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Circles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Circles",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q076",
@@ -2519,7 +2963,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Surds and roots",
+  "topic_path": "Mathematics > Number System > Surds and roots",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q077",
@@ -2551,7 +3001,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Statistics & Probability",
+  "subtopic": "Mean",
+  "topic_path": "Mathematics > Statistics & Probability > Mean",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q078",
@@ -2583,7 +3039,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Linear equations",
+  "topic_path": "Mathematics > Algebra > Linear equations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q079",
@@ -2623,7 +3085,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Coordinate geometry",
+  "topic_path": "Mathematics > Geometry & Mensuration > Coordinate geometry",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2023-GS-II-Q080",
@@ -2659,6 +3127,12 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2023/source/GS-II.pdf",
   "page": 28,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Statement and conclusion",
+  "topic_path": "Reasoning > Logical & Analytical > Statement and conclusion",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  }
 ]

@@ -1,0 +1,100 @@
+1|CUL-S|Assamese literature
+2|SCI-T|Remote sensing
+3|CUL-S|Assamese cinema
+4|SCI-C|Noble gases
+5|POL-G|Election Commission
+6|GK-S|Indian Olympic Association
+7|SCI-C|Uses of graphite
+8|ECO-B|Digital payments
+9|HIS-S|Ahom rulers
+10|GK-S|Olympics
+11|SCI-P|Units of measurement
+12|GEO-S|Rivers of Assam
+13|CUL-S|Assamese literary honours
+14|ENV|Environmental movements
+15|CUL-S|Mobile theatre
+16|SCI-T|Solar system
+17|GK-S|National Games
+18|SCI-B|Sericulture
+19|HIS-S|Lachit Borphukan
+20|POL-C|President and Parliament
+21|GK-A|Military training awards
+22|GEO-S|Borders of Assam
+23|GK-P|Personalities of Assam
+24|CMP|Digital images
+25|SCI-C|Chemical names
+26|RSN-V|Coding-decoding
+27|RSN-L|Set relationships
+28|MAT-N|Natural numbers
+29|MAT-G|Circles and triangles
+30|MAT-S|Combinations
+31|RSN-L|Calendar
+32|MAT-N|Perfect squares
+33|MAT-A|Percentage
+34|MAT-A|Direct proportion
+35|RSN-L|Blood relations
+36|RSN-V|Coding-decoding
+37|RSN-L|Digit puzzles
+38|RSN-L|Circular arrangement
+39|RSN-L|Direction sense
+40|MAT-A|Age problems
+41|RSN-L|Clocks
+42|MAT-N|Simplification
+43|MAT-A|Ratio and proportion
+44|MAT-G|Percentage change in volume
+45|RSN-L|Coded blood relations
+46|MAT-G|Perimeter and fencing
+47|RSN-L|Ranking
+48|MAT-S|Mean
+49|RSN-L|Direction sense
+50|MAT-A|Ratio and proportion
+51|MAT-A|Time and work
+52|MAT-L|Algebraic identities
+53|RSN-V|Alphanumeric analogy
+54|RSN-V|Number series
+55|RSN-L|Blood relations
+56|MAT-G|Areas and perimeters
+57|RSN-V|Letter series
+58|MAT-A|Fractions of a quantity
+59|MAT-A|Average speed
+60|MAT-A|Percentage error
+61|RSN-L|Calendar
+62|MAT-N|Divisibility and LCM
+63|MAT-N|Surds and roots
+64|MAT-S|Mean
+65|ENG-C|Passage interpretation
+66|ENG-C|Passage details
+67|ENG-C|Author tone
+68|ENG-C|Passage inference
+69|ENG-C|Passage inference
+70|ENG-C|Passage details
+71|HIS-S|Koch dynasty
+72|HIS-A|Buddhism
+73|HIS-A|Gupta dynasty
+74|CUL-S|Assamese cinema
+75|HIS-O|Swaraj Party
+76|HIS-S|Ahom administration
+77|HIS-O|Jallianwala Bagh Massacre
+78|HIS-S|Ahom-Mughal relations
+79|HIS-O|Labour Swaraj Party
+80|CUL-S|Traditional dress
+81|HIS-S|Reorganisation of Northeast India
+82|HIS-S|Varman dynasty
+83|HIS-O|Governors-General
+84|HIS-S|Invasions of Kamarupa
+85|HIS-O|Indian National Congress
+86|HIS-A|Harshavardhana
+87|HIS-O|Political organisations
+88|HIS-S|Koch dynasty
+89|CUL-S|Srimanta Sankardev
+90|HIS-M|Mughal foreign relations
+91|HIS-S|Assam Association
+92|POL-S|Governors of Assam
+93|HIS-S|Resistance to British rule
+94|HIS-A|Alexander invasion
+95|CUL-I|Rock-cut sculpture
+96|CUL-S|Assamese journalism
+97|HIS-O|Civil Disobedience Movement
+98|HIS-A|Vedic civilisation
+99|GK-S|Sports commemorations in Assam
+100|HIS-O|Forward Bloc

@@ -1,0 +1,86 @@
+1|GK-S|Olympics
+2|GEO-W|World capitals
+3|CUL-I|Monuments of India
+4|CMP|Hardware
+5|GEO-I|Mountain ranges
+6|GEO-I|Rivers
+7|SCI-B|Photosynthesis
+8|SCI-H|Human body
+9|MAT-G|Polygons
+10|GK-S|Swimming
+11|SCI-B|Birds
+12|GK-M|National symbols
+13-14|GK-P|Famous titles of persons
+15|CMP|Memory and storage
+16|GK-M|National events
+17|CUL-S|Music of Assam
+18|CUL-L|Ancient Indian literature
+19|SCI-T|Space telescopes
+20|HIS-S|Ahom-Mughal wars
+21|HIS-M|Mughal rulers
+22|POL-C|Union Territories
+23|HIS-S|Treaty of Yandabo
+24|CUL-L|Sanskrit literature
+25|CUL-S|Fairs of Assam
+26|GK-M|State symbols of Assam
+27|CUL-S|Religious places of Assam
+28|HIS-A|Ancient Indian scholars
+29|POL-C|Schedules of the Constitution
+30|GK-M|State symbols
+31|HIS-W|World War II
+32|ECO-S|Oil fields of Assam
+33|HIS-S|Koch kingdom
+34|CUL-S|Festivals of Assam
+35|CUL-S|Crafts of Assam
+36|CUL-S|Assamese personalities
+37|HIS-S|Ahom monuments
+38|GEO-I|Rivers
+39|CUL-S|Folk songs of Assam
+40|CUL-S|Crafts of Assam
+41|MAT-A|Ratio and proportion
+42|MAT-A|Successive percentage
+43|MAT-L|Algebraic identities
+44|MAT-G|Cubes
+45|MAT-G|Pythagoras theorem
+46|MAT-A|Averages
+47|MAT-A|Profit and loss
+48|MAT-A|Ratio and proportion
+49|MAT-A|Compound growth
+50|MAT-A|Ratio and proportion
+51|MAT-G|Squares
+52|MAT-A|Work and time
+53|MAT-A|Percentage
+54|MAT-N|Recurring decimals
+55|MAT-G|Triangles
+56|MAT-T|Radian measure
+57|MAT-N|Square roots
+58|MAT-A|Ratio and proportion
+59|MAT-L|Algebraic identities
+60|MAT-A|Pipes and cisterns
+61-64|ENG-V|Antonyms
+65-67|ENG-V|Synonyms
+68|ENG-V|One word substitution
+69-70|ENG-V|One word substitution
+71-74|ENG-G|Prepositions
+75-77|ENG-U|Sentence correction
+78-80|ENG-G|Fill in the blanks
+81|RSN-V|Letter series
+82|RSN-L|Number puzzles
+83|RSN-N|Figure cutting
+84|RSN-V|Number relationship
+85|RSN-V|Number series
+86|RSN-V|Coding-decoding
+87|RSN-L|Mathematical logic
+88|RSN-V|Word analogy
+89|RSN-V|Matching pairs
+90|RSN-V|Classification
+91|RSN-V|Time analogy
+92|RSN-V|Odd one out
+93|RSN-L|Blood relations
+94|RSN-V|Odd one out
+95|RSN-L|Number arrangement
+96|RSN-V|Alphabet position
+97|RSN-L|Ranking and order
+98|RSN-N|Paper cutting
+99|RSN-N|Venn diagrams
+100|RSN-N|Cube and dice

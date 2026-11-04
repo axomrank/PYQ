@@ -1,0 +1,124 @@
+1|CUL-I|Monuments of India
+2|GK-S|Athletics
+3|GK-A|Assam state awards
+4|GK-S|Stadiums
+5|POL-G|Government schemes
+6|GK-S|Sportspersons of Assam
+7|GEO-S|Inter-state connections
+8|GK-P|Personalities of Assam
+9|SCI-P|Newton's laws
+10|GEO-W|World capitals
+11|GEO-W|World currencies
+12|GEO-S|Bridges on Brahmaputra
+13|HIS-S|Ahom kingdom
+14|CUL-L|Assamese literature
+15|GEO-W|World capitals
+16|POL-S|Chief Ministers of Assam
+17|GEO-S|Institutions of Assam
+18|GEO-I|Cities of India
+19|GK-P|World leaders
+20|GEO-W|Straits and canals
+21|GEO-I|Cities of India
+22|POL-G|Road transport rules
+23|CUL-S|Theatre of Assam
+24|GEO-W|Countries and continents
+25|HIS-O|Assam in freedom struggle
+26|GK-P|Space travellers
+27|GEO-S|Institutions of Assam
+28|POL-S|State ministers
+29|GK-M|Media in India
+30|GK-O|Companies
+31|SCI-C|Elements and compounds
+32|GK-S|Ball games
+33|GK-M|Important days
+34|GK-A|Ramon Magsaysay Award
+35|SCI-T|Indian satellites
+36|GEO-W|World currencies
+37|GK-M|Trade facts
+38|GK-M|State tourism
+39|GK-O|Police academies
+40|GK-O|Defence institutions
+41|ENV|Wildlife of North-East
+42|GK-A|Whitley Award
+43|POL-C|Fundamental Rights
+44|HIS-A|Maurya Empire
+45|HIS-M|Foreign travellers
+46|HIS-O|Post-independence India
+47|GEO-W|International boundaries
+48|GK-S|Sports tournaments
+49|ECO-S|Banking in Assam
+50|POL-G|NITI Aayog
+51|POL-C|Form of government
+52|GEO-I|Rivers
+53|GEO-P|Latitude and longitude
+54|GEO-P|Earth's spheres
+55|GEO-P|Natural disasters
+56|POL-C|Preamble
+57|ECO-T|Barter system
+58|CUL-I|Food of India
+59|SCI-B|Animal nutrition
+60|POL-C|Schedules of the Constitution
+61|MAT-N|Fractions
+62|MAT-G|Circles and squares
+63|MAT-N|LCM and HCF
+64|MAT-N|Square roots
+65|MAT-A|Profit and loss
+66|MAT-N|Powers and exponents
+67|MAT-G|Rectangles
+68|MAT-L|Polynomials
+69|MAT-S|Mean
+70|MAT-N|Decimals
+71|MAT-N|Fractions
+72|MAT-A|Percentage
+73|MAT-L|Algebraic ratios
+74|MAT-A|Time, speed and distance
+75|MAT-G|Cubes
+76|MAT-G|Circles
+77|MAT-L|Algebraic identities
+78|MAT-G|Triangles
+79|MAT-G|Area of floors and tiles
+80|MAT-A|Discount
+81|MAT-N|BODMAS
+82|MAT-S|Probability
+83|MAT-N|Powers and exponents
+84|MAT-A|Simple interest
+85|MAT-L|Inequalities
+86-88|ENG-V|Synonyms
+89-91|ENG-V|Antonyms
+92-94|ENG-G|Prepositions
+95-96|ENG-V|One word substitution
+97-98|ENG-G|Fill in the blanks
+99|ENG-U|Sentence arrangement
+100|ENG-V|Collective nouns
+101|RSN-V|Letter series
+102-103|RSN-V|Number series
+104|RSN-L|Step-based logic
+105|RSN-V|Word analogy
+106|RSN-V|Matching pairs
+107|RSN-V|Word association
+108|RSN-V|Word analogy
+109-110|RSN-V|Odd one out
+111|RSN-L|Blood relations
+112|RSN-L|Number arrangement
+113|RSN-V|Alphabet position
+114|RSN-L|Direction sense
+115|RSN-V|Letter series
+116|RSN-L|Blood relations
+117|RSN-L|Ranking and order
+118|RSN-L|Number puzzles
+119|RSN-V|Number series
+120|RSN-V|Odd one out
+121|RSN-V|Number series
+122|RSN-V|Word analogy
+123|RSN-V|Coding-decoding
+124-125|RSN-V|Odd one out
+126|RSN-N|Number pattern in figure
+127|RSN-N|Venn diagrams
+128|RSN-N|Odd figure out
+129|RSN-N|Cube and dice
+130|RSN-N|Figure analysis
+131|RSN-N|Figure series
+132|RSN-N|Odd figure out
+133|RSN-N|Mirror images
+134|RSN-N|Paper folding
+135|RSN-N|Pattern completion

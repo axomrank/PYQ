@@ -27,7 +27,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Olympics",
+  "topic_path": "General Awareness > Sports > Olympics",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q002",
@@ -57,7 +63,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "World capitals",
+  "topic_path": "Geography > World Geography > World capitals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q003",
@@ -87,7 +99,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Stock exchanges",
+  "topic_path": "Economy > Banking & Finance > Stock exchanges",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q004",
@@ -117,7 +135,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Computer",
+  "topic": "Computer & IT",
+  "subtopic": "Hardware",
+  "topic_path": "Computer > Computer & IT > Hardware",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q005",
@@ -147,7 +171,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Mountain ranges",
+  "topic_path": "Geography > Indian Geography > Mountain ranges",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q006",
@@ -177,7 +207,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Rivers",
+  "topic_path": "Geography > Indian Geography > Rivers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q007",
@@ -207,7 +243,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Properties of water",
+  "topic_path": "Science > Physics > Properties of water",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q008",
@@ -237,7 +279,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Economic Concepts",
+  "subtopic": "Definition of economics",
+  "topic_path": "Economy > Economic Concepts > Definition of economics",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q009",
@@ -267,7 +315,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Chemistry",
+  "subtopic": "Radioactive elements",
+  "topic_path": "Science > Chemistry > Radioactive elements",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q010",
@@ -297,7 +351,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Volleyball",
+  "topic_path": "General Awareness > Sports > Volleyball",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q011",
@@ -327,7 +387,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Borders of Assam",
+  "topic_path": "Geography > Assam Geography > Borders of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q012",
@@ -357,7 +423,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "State ministers",
+  "topic_path": "Polity > Assam Administration > State ministers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q013",
@@ -387,7 +459,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "Districts of Assam",
+  "topic_path": "Polity > Assam Administration > Districts of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q014",
@@ -417,7 +495,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Borders of Assam",
+  "topic_path": "Geography > Assam Geography > Borders of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q015",
@@ -447,7 +531,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Bridges on Brahmaputra",
+  "topic_path": "Geography > Assam Geography > Bridges on Brahmaputra",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q016",
@@ -477,7 +567,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Rivers of Assam",
+  "topic_path": "Geography > Assam Geography > Rivers of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q017",
@@ -507,7 +603,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "State symbols of Assam",
+  "topic_path": "General Awareness > Miscellaneous > State symbols of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q018",
@@ -537,7 +639,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Religious places of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Religious places of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q019",
@@ -567,7 +675,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Assam Economy",
+  "subtopic": "Tea research",
+  "topic_path": "Economy > Assam Economy > Tea research",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q020",
@@ -597,7 +711,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Assamese cinema",
+  "topic_path": "Art & Culture > Assam Culture > Assamese cinema",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q021",
@@ -627,7 +747,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Political parties",
+  "topic_path": "History > Modern India & Freedom Struggle > Political parties",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q022",
@@ -657,7 +783,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Fundamental Rights",
+  "topic_path": "Polity > Indian Constitution > Fundamental Rights",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q023",
@@ -687,7 +819,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Medieval India",
+  "subtopic": "Medieval monuments",
+  "topic_path": "History > Medieval India > Medieval monuments",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q024",
@@ -717,7 +855,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Government schemes",
+  "topic_path": "Polity > Governance & Institutions > Government schemes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q025",
@@ -747,7 +891,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Indian Economy",
+  "subtopic": "Indian companies",
+  "topic_path": "Economy > Indian Economy > Indian companies",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q026",
@@ -777,7 +927,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Classical and folk dances",
+  "topic_path": "Art & Culture > Indian Culture > Classical and folk dances",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q027",
@@ -807,7 +963,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Ramsar sites",
+  "topic_path": "Environment > Ecology & Environment > Ramsar sites",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q028",
@@ -837,7 +999,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Government schemes",
+  "topic_path": "Polity > Governance & Institutions > Government schemes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q029",
@@ -867,7 +1035,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Institutions of Assam",
+  "topic_path": "Geography > Assam Geography > Institutions of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q030",
@@ -897,7 +1071,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Government schemes",
+  "topic_path": "Polity > Governance & Institutions > Government schemes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q031",
@@ -927,7 +1107,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Fundamental Rights",
+  "topic_path": "Polity > Indian Constitution > Fundamental Rights",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q032",
@@ -957,7 +1143,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Events of 1919",
+  "topic_path": "History > Modern India & Freedom Struggle > Events of 1919",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q033",
@@ -987,7 +1179,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Government schemes",
+  "topic_path": "Polity > Governance & Institutions > Government schemes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q034",
@@ -1017,7 +1215,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Assam Economy",
+  "subtopic": "Petroleum in Assam",
+  "topic_path": "Economy > Assam Economy > Petroleum in Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q035",
@@ -1047,7 +1251,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Indian Economy",
+  "subtopic": "GST",
+  "topic_path": "Economy > Indian Economy > GST",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q036",
@@ -1077,7 +1287,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Parliament",
+  "topic_path": "Polity > Indian Constitution > Parliament",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q037",
@@ -1107,7 +1323,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Harshavardhana",
+  "topic_path": "History > Ancient India > Harshavardhana",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q038",
@@ -1137,7 +1359,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Indian Economy",
+  "subtopic": "Economic Survey",
+  "topic_path": "Economy > Indian Economy > Economic Survey",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q039",
@@ -1167,7 +1395,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Economic Concepts",
+  "subtopic": "Economic systems",
+  "topic_path": "Economy > Economic Concepts > Economic systems",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q040",
@@ -1197,7 +1431,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Quit India Movement",
+  "topic_path": "History > Modern India & Freedom Struggle > Quit India Movement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q041",
@@ -1233,7 +1473,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "LCM and HCF",
+  "topic_path": "Mathematics > Number System > LCM and HCF",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q042",
@@ -1270,7 +1516,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 29,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Surds and roots",
+  "topic_path": "Mathematics > Number System > Surds and roots",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q043",
@@ -1300,7 +1552,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Remainders",
+  "topic_path": "Mathematics > Number System > Remainders",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q044",
@@ -1330,7 +1588,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Fractions",
+  "topic_path": "Mathematics > Number System > Fractions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q045",
@@ -1367,7 +1631,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Fractions",
+  "topic_path": "Mathematics > Number System > Fractions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q046",
@@ -1404,7 +1674,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Algebraic identities",
+  "topic_path": "Mathematics > Algebra > Algebraic identities",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q047",
@@ -1442,7 +1718,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 34,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Ratio of variables",
+  "topic_path": "Mathematics > Algebra > Ratio of variables",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q048",
@@ -1472,7 +1754,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Consecutive numbers",
+  "topic_path": "Mathematics > Number System > Consecutive numbers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q049",
@@ -1502,7 +1790,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "LCM and HCF",
+  "topic_path": "Mathematics > Number System > LCM and HCF",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q050",
@@ -1538,7 +1832,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 36,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q051",
@@ -1568,7 +1868,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Distribution problems",
+  "topic_path": "Mathematics > Arithmetic > Distribution problems",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q052",
@@ -1606,7 +1912,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 38,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "subtopic": "Trigonometric ratios",
+  "topic_path": "Mathematics > Trigonometry > Trigonometric ratios",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q053",
@@ -1642,7 +1954,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 39,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Triangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Triangles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q054",
@@ -1679,7 +1997,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 40,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Square roots",
+  "topic_path": "Mathematics > Number System > Square roots",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q055",
@@ -1709,7 +2033,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q056",
@@ -1739,7 +2069,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Arithmetic progression",
+  "topic_path": "Mathematics > Arithmetic > Arithmetic progression",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q057",
@@ -1769,7 +2105,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Statistics & Probability",
+  "subtopic": "Median",
+  "topic_path": "Mathematics > Statistics & Probability > Median",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q058",
@@ -1806,7 +2148,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Square roots",
+  "topic_path": "Mathematics > Number System > Square roots",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q059",
@@ -1836,7 +2184,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Time, speed and distance",
+  "topic_path": "Mathematics > Arithmetic > Time, speed and distance",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q060",
@@ -1866,7 +2220,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Successive percentage",
+  "topic_path": "Mathematics > Arithmetic > Successive percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q061",
@@ -1896,7 +2256,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Fill in the blanks",
+  "topic_path": "English > Grammar > Fill in the blanks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q062",
@@ -1926,7 +2292,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Fill in the blanks",
+  "topic_path": "English > Grammar > Fill in the blanks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q063",
@@ -1956,7 +2328,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Fill in the blanks",
+  "topic_path": "English > Grammar > Fill in the blanks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q064",
@@ -1986,7 +2364,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q065",
@@ -2016,7 +2400,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q066",
@@ -2046,7 +2436,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q067",
@@ -2076,7 +2472,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q068",
@@ -2106,7 +2508,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Antonyms",
+  "topic_path": "English > Vocabulary > Antonyms",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q069",
@@ -2136,7 +2544,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Antonyms",
+  "topic_path": "English > Vocabulary > Antonyms",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q070",
@@ -2166,7 +2580,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Antonyms",
+  "topic_path": "English > Vocabulary > Antonyms",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q071",
@@ -2196,7 +2616,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Idioms and phrases",
+  "topic_path": "English > Vocabulary > Idioms and phrases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q072",
@@ -2226,7 +2652,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Idioms and phrases",
+  "topic_path": "English > Vocabulary > Idioms and phrases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q073",
@@ -2256,7 +2688,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Idioms and phrases",
+  "topic_path": "English > Vocabulary > Idioms and phrases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q074",
@@ -2286,7 +2724,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Idioms and phrases",
+  "topic_path": "English > Vocabulary > Idioms and phrases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q075",
@@ -2316,7 +2760,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Idioms and phrases",
+  "topic_path": "English > Vocabulary > Idioms and phrases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q076",
@@ -2346,7 +2796,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Idioms and phrases",
+  "topic_path": "English > Vocabulary > Idioms and phrases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q077",
@@ -2376,7 +2832,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 48,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence arrangement",
+  "topic_path": "English > Usage & Sentence Structure > Sentence arrangement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q078",
@@ -2412,7 +2874,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 48,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Error spotting",
+  "topic_path": "English > Usage & Sentence Structure > Error spotting",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q079",
@@ -2448,7 +2916,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 48,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Word meaning",
+  "topic_path": "English > Vocabulary > Word meaning",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q080",
@@ -2478,7 +2952,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 48,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence correction",
+  "topic_path": "English > Usage & Sentence Structure > Sentence correction",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q081",
@@ -2508,7 +2988,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 49,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Alphabet position",
+  "topic_path": "Reasoning > Verbal Reasoning > Alphabet position",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q082",
@@ -2538,7 +3024,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 50,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Seating arrangement",
+  "topic_path": "Reasoning > Logical & Analytical > Seating arrangement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q083",
@@ -2568,7 +3060,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 50,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Age problems",
+  "topic_path": "Mathematics > Arithmetic > Age problems",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q084",
@@ -2598,7 +3096,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Direction sense",
+  "topic_path": "Reasoning > Logical & Analytical > Direction sense",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q085",
@@ -2628,7 +3132,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 52,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q086",
@@ -2658,7 +3168,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 53,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Direction sense",
+  "topic_path": "Reasoning > Logical & Analytical > Direction sense",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q087",
@@ -2688,7 +3204,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 53,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Number analogy",
+  "topic_path": "Reasoning > Verbal Reasoning > Number analogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q088",
@@ -2724,7 +3246,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 54,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Logical order of words",
+  "topic_path": "Reasoning > Verbal Reasoning > Logical order of words",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q089",
@@ -2754,7 +3282,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 55,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Coding-decoding",
+  "topic_path": "Reasoning > Verbal Reasoning > Coding-decoding",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q090",
@@ -2784,7 +3318,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 56,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Trains",
+  "topic_path": "Mathematics > Arithmetic > Trains",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q091",
@@ -2820,7 +3360,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 56,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Triangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Triangles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q092",
@@ -2850,7 +3396,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Calendar",
+  "topic_path": "Reasoning > Logical & Analytical > Calendar",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q093",
@@ -2880,7 +3432,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Number analogy",
+  "topic_path": "Reasoning > Verbal Reasoning > Number analogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q094",
@@ -2910,7 +3468,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Letter analogy",
+  "topic_path": "Reasoning > Verbal Reasoning > Letter analogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q095",
@@ -2940,7 +3504,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Word analogy",
+  "topic_path": "Reasoning > Verbal Reasoning > Word analogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q096",
@@ -2970,7 +3540,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 59,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q097",
@@ -3006,7 +3582,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 59,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q098",
@@ -3036,7 +3618,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 60,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q099",
@@ -3073,7 +3661,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 61,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Counting figures",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Counting figures",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P3-HSSLC-Q100",
@@ -3112,6 +3706,12 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P3-HSSLC.pdf",
   "page": 62,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Venn diagrams",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Venn diagrams",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  }
 ]

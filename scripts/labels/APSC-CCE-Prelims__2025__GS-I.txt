@@ -1,0 +1,96 @@
+1|CUL-S|Assamese language
+2|CUL-S|Monuments of Assam
+3|GK-S|Chess
+4|CUL-I|Languages of India
+5|POL-S|Assam Legislative Assembly
+6|GK-A|Civilian honours
+7|GK-B|Books on Assam history
+8|GEO-W|Straits
+10|CUL-S|Neo-Vaishnavism and Sattras
+11|ENV|Environmental movements
+12|GK-B|Books and authors
+13|GEO-S|Rivers of Assam
+14|POL-I|International organisations
+15|POL-I|BRICS
+16|ECO-I|Energy security
+17|ENV|Carbon capture
+18|ENV|Climate finance
+19|CMP|Quantum computing
+20|GK-S|Football
+21|HIS-A|Ancient art and archaeology
+23|HIS-A|Harshavardhana
+24|HIS-A|Vedic civilisation
+25|HIS-S|Ancient inscriptions of Assam
+26|HIS-A|Indus Valley Civilisation
+27|HIS-S|Karbi political history
+28|HIS-S|Ahom rulers
+30|HIS-S|Ahom rulers
+31|HIS-O|Indigo Revolt and Nil Darpan
+32|HIS-O|Nationalist ideologies
+33|HIS-A|Jainism
+34|CUL-S|Assamese literature
+35|HIS-S|Ahom foreign relations
+36|GEO-I|Rock systems
+37|GEO-S|Soils of Assam
+38|CUL-I|Festivals of Northeast India
+39|CUL-I|Languages of India
+40|GEO-S|Demography of Assam
+41|GEO-W|Equatorial countries
+42|GEO-S|Rivers of Assam
+43|GEO-S|National parks of Assam
+44|CUL-S|Traditional dress
+45|ENV|Wildlife sanctuaries of Assam
+46|GEO-W|Volcanoes and islands
+47|GEO-W|Straits and canals
+48|GEO-I|Monsoon
+49|ENV|Forest cover
+50|GEO-P|Ocean currents
+51|POL-S|State schemes of Assam
+52|POL-G|Transgender rights legislation
+53|POL-G|Civil services recruitment
+54|POL-G|NITI Aayog
+55|POL-S|State schemes of Assam
+56|ENV|National Action Plan on Climate Change
+57|POL-I|Act East Policy
+58|HIS-O|Military operations after independence
+59|POL-S|Panchayati Raj in Assam
+60|POL-S|Commissions and committees of Assam
+61|ECO-I|Creative economy
+62|POL-C|Parliamentary proceedings
+63|POL-C|Anti-defection law
+64|POL-C|Supreme Court
+65|POL-G|Digital privacy and consent
+66|POL-G|Criminal courts
+67|ECO-I|Border trade
+68|POL-G|Particularly Vulnerable Tribal Groups
+69|POL-C|Special provisions for states
+70|POL-S|State schemes of Assam
+71|POL-C|GST Council
+72|ENV|Ramsar sites
+73|ENV|Sustainable development
+74|ECO-T|Institutions and development
+75|ECO-T|Development theories
+76|POL-G|Urban employment schemes
+77|ECO-I|Poverty measurement
+78|POL-S|Rural livelihood programmes
+79|POL-G|Education schemes
+80|POL-G|Entrepreneurship schemes
+81|POL-G|Welfare delivery and inclusion
+82|SCI-T|Scientists and discoveries
+83|ENV|Industrial pollution
+84|GEO-I|Tropical rainforests
+85|ENV|Biodiversity patterns
+86|ENV|IUCN conservation status
+87|GEO-I|National waterways
+88|ENV|Biogeographic classification
+89|ECO-I|Geographical indications
+90|CUL-I|Indian Knowledge Systems
+91|ENV|Forest cover
+92|SCI-C|LPG composition and properties
+93|SCI-P|Ultrasonic waves
+94|SCI-P|Thermometers
+95|SCI-P|Semiconductors
+96|SCI-P|Refraction of light
+97|SCI-C|Mole concept
+98|SCI-P|Gravitation
+99|SCI-B|Guttation

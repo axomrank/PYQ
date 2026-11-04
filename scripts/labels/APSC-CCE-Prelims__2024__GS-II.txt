@@ -1,0 +1,79 @@
+1|ENG-C|Passage interpretation
+2|ENG-C|Passage inference
+3|ENG-C|Passage details
+4|ENG-C|Author intention
+5|ENG-C|Passage details
+6|ENG-C|Passage details
+7|ENG-C|Passage details
+8|ENG-C|Word meaning in context
+9|ENG-C|Passage comparison
+10|ENG-C|Passage details
+11|ENG-C|Passage inference
+12|ENG-C|Word meaning in context
+13|APT-C|Personal presentation
+14|APT-C|Sociolinguistic context
+15|APT-C|Courtesy in communication
+16|APT-C|Rapport building
+17|APT-C|Active listening
+18|APT-C|Bullying and empathy
+19|APT-C|Accountability in communication
+20|APT-C|Cross-cultural communication
+21|APT-C|Non-verbal communication
+22|APT-C|Personal space
+23|APT-C|Emotional intelligence
+24|ENG-V|Idioms and phrases
+25|APT-C|Interpersonal skills
+26|APT-C|Self-awareness
+27|APT-C|Self-esteem
+28|MAT-N|Remainders
+29|MAT-A|Successive percentage
+30|MAT-N|Surds and roots
+31|MAT-G|Percentage change in area
+32|MAT-G|Squares and rectangles
+33|MAT-T|Heights and distances
+34|APT-I|Tables
+36|MAT-A|Ratio and proportion
+37|MAT-N|LCM and HCF
+38|MAT-L|Linear equations
+39|MAT-G|Coordinate geometry
+40|MAT-L|Algebraic identities
+41|APT-I|Pie charts
+42|RSN-L|Statement and conclusion
+43|RSN-L|Arrangement puzzles
+44|RSN-L|Statement and assumption
+45|RSN-L|Ordering puzzles
+46|RSN-L|Statement and argument
+47|RSN-V|Coding-decoding
+48|RSN-V|Essential attributes
+49|RSN-L|Matching puzzles
+50|RSN-L|Syllogisms
+51|RSN-L|Truth and lies
+52|RSN-L|Set relationships
+53|RSN-L|Set relationships
+54|RSN-N|Figure completion
+55|APT-D|Public safety
+56|APT-D|Team management
+57|APT-D|Environmental policy decisions
+58|APT-D|Emergency response
+59|APT-D|Professional responsibility
+60|APT-D|Cybersecurity decisions
+61|APT-D|Integrity and accountability
+62|APT-D|Disability inclusion
+63|APT-D|Team management
+64|APT-D|Crisis communication
+65|APT-D|Conflict resolution
+66|APT-D|Public health outreach
+67|APT-D|Consumer rights
+68|RSN-L|Syllogisms
+69|RSN-N|Venn diagrams
+70|RSN-L|Blood relations
+71|RSN-N|Cubes and dice
+72|MAT-A|Percentage
+73|RSN-V|Alphanumeric series
+74|RSN-V|Letter series
+75|RSN-V|Number series
+76|RSN-V|Odd one out
+77|RSN-L|Statement and conclusion
+78|SCI-P|Motion graphs
+79|APT-I|Population diagrams
+80|RSN-L|Statement and conclusion

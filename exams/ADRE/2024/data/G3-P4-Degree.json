@@ -27,7 +27,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Countries",
+  "topic_path": "Geography > World Geography > Countries",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q002",
@@ -57,7 +63,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Hockey",
+  "topic_path": "General Awareness > Sports > Hockey",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q003",
@@ -87,7 +99,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Number puzzles",
+  "topic_path": "Reasoning > Logical & Analytical > Number puzzles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q004",
@@ -124,7 +142,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 7,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Number puzzles",
+  "topic_path": "Reasoning > Logical & Analytical > Number puzzles",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q005",
@@ -154,7 +178,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Sources of the Constitution",
+  "topic_path": "Polity > Indian Constitution > Sources of the Constitution",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q006",
@@ -184,7 +214,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Sportspersons",
+  "topic_path": "General Awareness > Sports > Sportspersons",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q007",
@@ -214,7 +250,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ancient Assam",
+  "topic_path": "History > Assam History > Ancient Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q008",
@@ -253,7 +295,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 9,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Water images",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Water images",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q009",
@@ -283,7 +331,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Remainders",
+  "topic_path": "Mathematics > Number System > Remainders",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q010",
@@ -321,7 +375,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 11,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Statistics & Probability",
+  "subtopic": "Mean and median",
+  "topic_path": "Mathematics > Statistics & Probability > Mean and median",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q011",
@@ -359,7 +419,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 11,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q012",
@@ -389,7 +455,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ahom-Mughal wars",
+  "topic_path": "History > Assam History > Ahom-Mughal wars",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q013",
@@ -419,7 +491,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Assamese literature",
+  "topic_path": "Art & Culture > Literature > Assamese literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q014",
@@ -449,7 +527,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "LCM and HCF",
+  "topic_path": "Mathematics > Number System > LCM and HCF",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q015",
@@ -479,7 +563,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Awards & Honours",
+  "subtopic": "Jnanpith Award",
+  "topic_path": "General Awareness > Awards & Honours > Jnanpith Award",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q016",
@@ -509,7 +599,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Direction sense",
+  "topic_path": "Reasoning > Logical & Analytical > Direction sense",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q017",
@@ -539,7 +635,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Hindi literature",
+  "topic_path": "Art & Culture > Literature > Hindi literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q018",
@@ -569,7 +671,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Binary numbers",
+  "topic_path": "Mathematics > Number System > Binary numbers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q019",
@@ -599,7 +707,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Folk dances of India",
+  "topic_path": "Art & Culture > Indian Culture > Folk dances of India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q020",
@@ -629,7 +743,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Averages",
+  "topic_path": "Mathematics > Arithmetic > Averages",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q021",
@@ -659,7 +779,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Olympics",
+  "topic_path": "General Awareness > Sports > Olympics",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q022",
@@ -689,7 +815,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Spheres and solids",
+  "topic_path": "Mathematics > Geometry & Mensuration > Spheres and solids",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q023",
@@ -719,7 +851,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Assamese literature",
+  "topic_path": "Art & Culture > Literature > Assamese literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q024",
@@ -749,7 +887,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence arrangement",
+  "topic_path": "English > Usage & Sentence Structure > Sentence arrangement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q025",
@@ -779,7 +923,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "National dress",
+  "topic_path": "General Awareness > Miscellaneous > National dress",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q026",
@@ -809,7 +959,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Physical Geography",
+  "subtopic": "Minerals",
+  "topic_path": "Geography > Physical Geography > Minerals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q027",
@@ -839,7 +995,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Physical Geography",
+  "subtopic": "Earth facts",
+  "topic_path": "Geography > Physical Geography > Earth facts",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q028",
@@ -869,7 +1031,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Kashmir rulers",
+  "topic_path": "History > Ancient India > Kashmir rulers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q029",
@@ -899,7 +1067,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Pattern matching",
+  "topic_path": "Reasoning > Verbal Reasoning > Pattern matching",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q030",
@@ -929,7 +1103,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Awards & Honours",
+  "subtopic": "Jnanpith Award",
+  "topic_path": "General Awareness > Awards & Honours > Jnanpith Award",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q031",
@@ -969,7 +1149,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 20,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Surds and roots",
+  "topic_path": "Mathematics > Number System > Surds and roots",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q032",
@@ -999,7 +1185,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Assamese cinema",
+  "topic_path": "Art & Culture > Assam Culture > Assamese cinema",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q033",
@@ -1029,7 +1221,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q034",
@@ -1059,7 +1257,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Physical Geography",
+  "subtopic": "River landforms",
+  "topic_path": "Geography > Physical Geography > River landforms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q035",
@@ -1089,7 +1293,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Cones",
+  "topic_path": "Mathematics > Geometry & Mensuration > Cones",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q036",
@@ -1119,7 +1329,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Stock exchanges",
+  "topic_path": "Economy > Banking & Finance > Stock exchanges",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q037",
@@ -1156,7 +1372,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 23,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Surds and roots",
+  "topic_path": "Mathematics > Number System > Surds and roots",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q038",
@@ -1194,7 +1416,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 23,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Algebraic ratios",
+  "topic_path": "Mathematics > Algebra > Algebraic ratios",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q039",
@@ -1232,7 +1460,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 24,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "subtopic": "Trigonometric ratios",
+  "topic_path": "Mathematics > Trigonometry > Trigonometric ratios",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q040",
@@ -1269,7 +1503,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 25,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Venn diagrams",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Venn diagrams",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q041",
@@ -1306,7 +1546,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 26,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Square roots",
+  "topic_path": "Mathematics > Number System > Square roots",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q042",
@@ -1336,7 +1582,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Hockey",
+  "topic_path": "General Awareness > Sports > Hockey",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q043",
@@ -1366,7 +1618,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Number series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q044",
@@ -1396,7 +1654,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Circles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Circles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q045",
@@ -1426,7 +1690,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Andaman and Nicobar",
+  "topic_path": "Geography > Indian Geography > Andaman and Nicobar",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q046",
@@ -1456,7 +1726,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 29,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Folk dances of India",
+  "topic_path": "Art & Culture > Indian Culture > Folk dances of India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q047",
@@ -1486,7 +1762,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 29,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Circles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Circles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q048",
@@ -1516,7 +1798,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Assamese literature",
+  "topic_path": "Art & Culture > Literature > Assamese literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q049",
@@ -1553,7 +1841,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 30,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Cubes",
+  "topic_path": "Mathematics > Geometry & Mensuration > Cubes",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q050",
@@ -1583,7 +1877,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q051",
@@ -1613,7 +1913,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "LCM and HCF",
+  "topic_path": "Mathematics > Number System > LCM and HCF",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q052",
@@ -1643,7 +1949,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Direction sense",
+  "topic_path": "Reasoning > Logical & Analytical > Direction sense",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q053",
@@ -1673,7 +1985,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Assamese cinema",
+  "topic_path": "Art & Culture > Assam Culture > Assamese cinema",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q054",
@@ -1710,7 +2028,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 33,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "One word substitution",
+  "topic_path": "English > Vocabulary > One word substitution",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q055",
@@ -1740,7 +2064,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Countries and states",
+  "topic_path": "Geography > World Geography > Countries and states",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q056",
@@ -1770,7 +2100,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Degrees of comparison",
+  "topic_path": "English > Grammar > Degrees of comparison",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q057",
@@ -1800,7 +2136,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Deserts",
+  "topic_path": "Geography > World Geography > Deserts",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q058",
@@ -1830,7 +2172,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Compound growth",
+  "topic_path": "Mathematics > Arithmetic > Compound growth",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q059",
@@ -1860,7 +2208,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Athletics",
+  "topic_path": "General Awareness > Sports > Athletics",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q060",
@@ -1897,7 +2251,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 35,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Antonyms",
+  "topic_path": "English > Vocabulary > Antonyms",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q061",
@@ -1927,7 +2287,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Binary numbers",
+  "topic_path": "Mathematics > Number System > Binary numbers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q062",
@@ -1964,7 +2330,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 36,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Venn diagrams",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Venn diagrams",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q063",
@@ -1994,7 +2366,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Religious places of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Religious places of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q064",
@@ -2024,7 +2402,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Nouns",
+  "topic_path": "English > Grammar > Nouns",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q065",
@@ -2054,7 +2438,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Sanskrit epics",
+  "topic_path": "Art & Culture > Literature > Sanskrit epics",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q066",
@@ -2084,7 +2474,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Assam Economy",
+  "subtopic": "Bio-refinery",
+  "topic_path": "Economy > Assam Economy > Bio-refinery",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q067",
@@ -2114,7 +2510,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Remainders",
+  "topic_path": "Mathematics > Number System > Remainders",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q068",
@@ -2144,7 +2546,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Assamese jewellery",
+  "topic_path": "Art & Culture > Assam Culture > Assamese jewellery",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q069",
@@ -2174,7 +2582,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 39,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Impeachment",
+  "topic_path": "Polity > Indian Constitution > Impeachment",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q070",
@@ -2204,7 +2618,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Triangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Triangles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q071",
@@ -2234,7 +2654,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Organisations",
+  "subtopic": "Companies",
+  "topic_path": "General Awareness > Organisations > Companies",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q072",
@@ -2264,7 +2690,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Factorials",
+  "topic_path": "Mathematics > Number System > Factorials",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q073",
@@ -2294,7 +2726,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Straits and canals",
+  "topic_path": "Geography > World Geography > Straits and canals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q074",
@@ -2324,7 +2762,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Biology",
+  "subtopic": "Digestive system",
+  "topic_path": "Science > Biology > Digestive system",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q075",
@@ -2354,7 +2798,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Seas",
+  "topic_path": "Geography > World Geography > Seas",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q076",
@@ -2384,7 +2834,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Coding-decoding",
+  "topic_path": "Reasoning > Verbal Reasoning > Coding-decoding",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q077",
@@ -2414,7 +2870,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Collective nouns",
+  "topic_path": "English > Vocabulary > Collective nouns",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q078",
@@ -2444,7 +2906,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Pipes and cisterns",
+  "topic_path": "Mathematics > Arithmetic > Pipes and cisterns",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q079",
@@ -2474,7 +2942,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Blood relations",
+  "topic_path": "Reasoning > Logical & Analytical > Blood relations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q080",
@@ -2511,7 +2985,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 43,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Idioms and phrases",
+  "topic_path": "English > Vocabulary > Idioms and phrases",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q081",
@@ -2541,7 +3021,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Sportspersons",
+  "topic_path": "General Awareness > Sports > Sportspersons",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q082",
@@ -2571,7 +3057,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Distribution problems",
+  "topic_path": "Mathematics > Arithmetic > Distribution problems",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q083",
@@ -2601,7 +3093,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Spelling",
+  "topic_path": "English > Vocabulary > Spelling",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q084",
@@ -2631,7 +3129,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "World History",
+  "subtopic": "Wars of the Roses",
+  "topic_path": "History > World History > Wars of the Roses",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q085",
@@ -2661,7 +3165,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "States and borders",
+  "topic_path": "Geography > Indian Geography > States and borders",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q086",
@@ -2691,7 +3201,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Martial arts",
+  "topic_path": "General Awareness > Sports > Martial arts",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q087",
@@ -2721,7 +3237,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Levers",
+  "topic_path": "Science > Physics > Levers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q088",
@@ -2751,7 +3273,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "World leaders",
+  "topic_path": "General Awareness > Important Persons > World leaders",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q089",
@@ -2781,7 +3309,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Temples of India",
+  "topic_path": "Art & Culture > Indian Culture > Temples of India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q090",
@@ -2811,7 +3345,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 48,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Olympics",
+  "topic_path": "General Awareness > Sports > Olympics",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q091",
@@ -2841,7 +3381,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 48,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Maurya Empire",
+  "topic_path": "History > Ancient India > Maurya Empire",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q092",
@@ -2871,7 +3417,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 49,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Seas",
+  "topic_path": "Geography > World Geography > Seas",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q093",
@@ -2907,7 +3459,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 49,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Number arrangement",
+  "topic_path": "Reasoning > Logical & Analytical > Number arrangement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q094",
@@ -2937,7 +3495,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 50,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Assam folk heroes",
+  "topic_path": "History > Assam History > Assam folk heroes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q095",
@@ -2967,7 +3531,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Tennis",
+  "topic_path": "General Awareness > Sports > Tennis",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q096",
@@ -2997,7 +3567,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Musical instruments of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Musical instruments of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q097",
@@ -3027,7 +3603,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 52,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Cube and dice",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Cube and dice",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q098",
@@ -3057,7 +3639,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 52,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Verbs",
+  "topic_path": "English > Grammar > Verbs",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q099",
@@ -3087,7 +3675,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 52,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Indian Economy",
+  "subtopic": "Taxation",
+  "topic_path": "Economy > Indian Economy > Taxation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q100",
@@ -3117,7 +3711,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 53,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q101",
@@ -3147,7 +3747,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 53,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Books & Authors",
+  "subtopic": "English novels",
+  "topic_path": "General Awareness > Books & Authors > English novels",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q102",
@@ -3184,7 +3790,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 53,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "subtopic": "Trigonometric ratios",
+  "topic_path": "Mathematics > Trigonometry > Trigonometric ratios",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q103",
@@ -3214,7 +3826,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 54,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Quadratic equations",
+  "topic_path": "Mathematics > Algebra > Quadratic equations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q104",
@@ -3244,7 +3862,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 54,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q105",
@@ -3274,7 +3898,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 55,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Averages",
+  "topic_path": "Mathematics > Arithmetic > Averages",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q106",
@@ -3304,7 +3934,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 56,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Glaciers",
+  "topic_path": "Geography > Indian Geography > Glaciers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q107",
@@ -3334,7 +3970,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 56,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Mountain ranges",
+  "topic_path": "Geography > Indian Geography > Mountain ranges",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q108",
@@ -3372,7 +4014,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 57,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Quadratic equations",
+  "topic_path": "Mathematics > Algebra > Quadratic equations",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q109",
@@ -3402,7 +4050,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 57,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "Popular culture",
+  "topic_path": "General Awareness > Miscellaneous > Popular culture",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q110",
@@ -3432,7 +4086,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Sportspersons of Assam",
+  "topic_path": "General Awareness > Sports > Sportspersons of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q111",
@@ -3462,7 +4122,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Simple interest",
+  "topic_path": "Mathematics > Arithmetic > Simple interest",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q112",
@@ -3501,7 +4167,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 59,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Mirror images",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Mirror images",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q113",
@@ -3531,7 +4203,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 61,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Awards & Honours",
+  "subtopic": "Music awards",
+  "topic_path": "General Awareness > Awards & Honours > Music awards",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q114",
@@ -3561,7 +4239,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 61,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Profit and loss",
+  "topic_path": "Mathematics > Arithmetic > Profit and loss",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q115",
@@ -3591,7 +4275,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 62,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Form of government",
+  "topic_path": "Polity > Indian Constitution > Form of government",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q116",
@@ -3629,7 +4319,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 62,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Square roots",
+  "topic_path": "Mathematics > Number System > Square roots",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q117",
@@ -3659,7 +4355,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 63,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Cricket",
+  "topic_path": "General Awareness > Sports > Cricket",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q118",
@@ -3689,7 +4391,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 64,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "Explorers",
+  "topic_path": "General Awareness > Important Persons > Explorers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q119",
@@ -3719,7 +4427,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 65,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Football",
+  "topic_path": "General Awareness > Sports > Football",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q120",
@@ -3757,7 +4471,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 65,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Venn diagrams",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Venn diagrams",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q121",
@@ -3787,7 +4507,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 67,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Awards & Honours",
+  "subtopic": "Assam state awards",
+  "topic_path": "General Awareness > Awards & Honours > Assam state awards",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q122",
@@ -3823,7 +4549,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 67,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Quadrilaterals",
+  "topic_path": "Mathematics > Geometry & Mensuration > Quadrilaterals",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q123",
@@ -3853,7 +4585,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 68,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Cricket",
+  "topic_path": "General Awareness > Sports > Cricket",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q124",
@@ -3883,7 +4621,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 69,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Assamese cinema",
+  "topic_path": "Art & Culture > Assam Culture > Assamese cinema",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q125",
@@ -3913,7 +4657,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 69,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Cricket",
+  "topic_path": "General Awareness > Sports > Cricket",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q126",
@@ -3943,7 +4693,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 70,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Active and passive voice",
+  "topic_path": "English > Usage & Sentence Structure > Active and passive voice",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q127",
@@ -3973,7 +4729,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 70,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Active and passive voice",
+  "topic_path": "English > Usage & Sentence Structure > Active and passive voice",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q128",
@@ -4003,7 +4765,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 70,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q129",
@@ -4033,7 +4801,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 70,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q130",
@@ -4063,7 +4837,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 70,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q131",
@@ -4093,7 +4873,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 70,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence meaning",
+  "topic_path": "English > Usage & Sentence Structure > Sentence meaning",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q132",
@@ -4123,7 +4909,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 70,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Tenses",
+  "topic_path": "English > Grammar > Tenses",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q133",
@@ -4153,7 +4945,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 72,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on Okapi",
+  "topic_path": "English > Reading Comprehension > Passage on Okapi",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q134",
@@ -4183,7 +4981,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 72,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on Okapi",
+  "topic_path": "English > Reading Comprehension > Passage on Okapi",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q135",
@@ -4213,7 +5017,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 72,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on Okapi",
+  "topic_path": "English > Reading Comprehension > Passage on Okapi",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q136",
@@ -4243,7 +5053,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 72,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on Okapi",
+  "topic_path": "English > Reading Comprehension > Passage on Okapi",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q137",
@@ -4273,7 +5089,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 72,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Context-based word meaning",
+  "topic_path": "English > Vocabulary > Context-based word meaning",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q138",
@@ -4303,7 +5125,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 72,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Context-based word meaning",
+  "topic_path": "English > Vocabulary > Context-based word meaning",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q139",
@@ -4333,7 +5161,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 73,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on bicycles",
+  "topic_path": "English > Reading Comprehension > Passage on bicycles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q140",
@@ -4363,7 +5197,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 74,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on bicycles",
+  "topic_path": "English > Reading Comprehension > Passage on bicycles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q141",
@@ -4400,7 +5240,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 74,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on bicycles",
+  "topic_path": "English > Reading Comprehension > Passage on bicycles",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q142",
@@ -4430,7 +5276,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 74,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on bicycles",
+  "topic_path": "English > Reading Comprehension > Passage on bicycles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q143",
@@ -4460,7 +5312,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 74,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Analogy",
+  "topic_path": "English > Vocabulary > Analogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q144",
@@ -4490,7 +5348,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 75,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Prepositions",
+  "topic_path": "English > Grammar > Prepositions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q145",
@@ -4520,7 +5384,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 75,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Fill in the blanks",
+  "topic_path": "English > Grammar > Fill in the blanks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q146",
@@ -4550,7 +5420,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 75,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on light pollution",
+  "topic_path": "English > Reading Comprehension > Passage on light pollution",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q147",
@@ -4580,7 +5456,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 75,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Prepositions",
+  "topic_path": "English > Grammar > Prepositions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q148",
@@ -4610,7 +5492,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 76,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on reality and meaning",
+  "topic_path": "English > Reading Comprehension > Passage on reality and meaning",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q149",
@@ -4640,7 +5528,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 76,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on reality and meaning",
+  "topic_path": "English > Reading Comprehension > Passage on reality and meaning",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P4-Degree-Q150",
@@ -4670,6 +5564,12 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P4-Degree.pdf",
   "page": 76,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on reality and meaning",
+  "topic_path": "English > Reading Comprehension > Passage on reality and meaning",
+  "classification_needs_review": false,
+  "classification_note": ""
  }
 ]

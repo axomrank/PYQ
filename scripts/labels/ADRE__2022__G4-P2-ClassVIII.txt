@@ -1,0 +1,120 @@
+1|GK-S|Sportspersons of Assam
+2|HIS-S|Ahom monuments
+3|GEO-S|Institutions of Assam
+4|GEO-S|Inter-state connections
+5|GEO-I|Ports
+6|GEO-W|World currencies
+7|GEO-S|National parks of Assam
+8|GEO-S|Bridges on Brahmaputra
+9|CUL-S|Theatre of Assam
+10|CUL-S|Music of Assam
+11|CUL-L|Assamese literature
+12|GK-A|Jnanpith Award
+13|HIS-O|Assam in freedom struggle
+14|CUL-L|Assamese literature
+15|CUL-L|Assamese literature
+16|GEO-S|Institutions of Assam
+17|SCI-B|Life cycles
+18|CUL-S|Assamese cinema
+19|ECO-S|Tea research
+20|GEO-S|Institutions of Assam
+21|ECO-S|Oil refineries
+22|GEO-P|Solar system
+23|GK-P|National flag
+24|SCI-H|Vitamins
+25|GK-P|Space travellers
+26|GK-S|Tennis
+27|GEO-I|State capitals
+28|GEO-I|Mineral resources
+29|SCI-T|Nuclear tests
+30|GK-S|Cricket
+31|GK-P|World leaders
+32|MAT-G|Pythagoras theorem
+33|GK-M|World festivals
+34|SCI-H|Deficiency diseases
+35|GK-P|Musicians
+36|CUL-L|Assamese literature
+37|ENV|Environmental movements
+38|POL-C|Parliament
+39|HIS-M|Sur Empire
+40|POL-C|Schedules of the Constitution
+41|POL-G|Security laws
+42|POL-C|Special provisions for states
+43|GK-B|Books and authors
+44|ECO-S|GI tags of Assam
+45|HIS-O|British administration
+46|CUL-L|Assamese literature
+47|POL-S|State schemes of Assam
+48|CUL-S|Sattriya culture
+49|CUL-S|Satras
+50|GEO-S|Rivers of Assam
+51|HIS-M|Mughal rulers
+52|ECO-I|Nuclear power
+53|HIS-S|Ahom kingdom
+54|HIS-S|Koch kingdom
+55|GEO-I|Natural vegetation
+56|GEO-I|Agriculture
+57|HIS-O|Rowlatt Act
+58|CUL-S|Religious places of Assam
+59|POL-G|Lokpal
+60|POL-C|Schedules of the Constitution
+61|MAT-A|Percentage
+62|MAT-G|Rectangles
+63|MAT-N|Fractions
+64|MAT-A|Averages
+65|MAT-N|Fractions
+66|MAT-N|LCM and HCF
+67|MAT-A|Geometric progression
+68|MAT-A|Map scale
+69|MAT-L|Algebraic identities
+70|MAT-A|Percentage
+71|MAT-N|Number operations
+72|MAT-N|BODMAS
+73|MAT-A|Unitary method
+74|MAT-N|Fractions
+75|MAT-N|Natural numbers
+76|MAT-N|Powers and exponents
+77|MAT-L|Algebraic expressions
+78|MAT-N|Integers
+79|MAT-G|Triangles
+80|MAT-G|Quadrilaterals
+81|MAT-L|Polynomials
+82|MAT-N|Sum of natural numbers
+83|MAT-L|HCF of expressions
+84|MAT-L|Algebraic expressions
+85|MAT-N|Fractions
+86-87|ENG-G|Articles
+88-90|ENG-G|Prepositions
+91-93|ENG-V|Spelling
+94-95|ENG-G|Degrees of comparison
+96-97|ENG-V|Antonyms
+98|ENG-V|Synonyms
+99-100|ENG-V|Collective nouns
+101|RSN-V|Letter series
+102-103|RSN-V|Number series
+104|RSN-V|Coding-decoding
+105|RSN-V|Matching pairs
+106|RSN-L|Mathematical operations
+107|RSN-V|Word association
+108|RSN-V|Word association
+109|RSN-V|Word analogy
+110-113|RSN-V|Odd one out
+114|RSN-L|Number arrangement
+115|RSN-V|Alphabet position
+116|RSN-N|Paper folding
+117|RSN-L|Syllogism and statements
+118|RSN-V|Coding-decoding
+119|RSN-V|Letter series
+120|RSN-L|Direction sense
+121|RSN-L|Number puzzles
+122|RSN-V|Number series
+123-126|RSN-V|Word analogy
+127|RSN-N|Missing number in figure
+128|RSN-N|Venn diagrams
+129|RSN-N|Odd figure out
+130|RSN-N|Figure rule
+131|RSN-N|Figure analysis
+132|RSN-N|Paper folding
+133|RSN-N|Mirror images
+134|RSN-N|Counting figures
+135|RSN-N|Cube and dice

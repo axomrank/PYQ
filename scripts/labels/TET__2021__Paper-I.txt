@@ -1,0 +1,100 @@
+1|PED-D|Adolescence
+2|PED-T|Heuristic method
+3|PED-I|Children with special needs
+4|PED-T|Educational objectives
+5|PED-T|National Education Policy
+6|PED-T|Maxims of teaching
+7|PED-T|Guidance and counselling
+8|PED-T|Teaching skills
+9|PED-D|Juvenile delinquency
+10|PED-D|Intelligence
+11|PED-D|Educational psychology
+12|PED-T|Lesson planning
+13|PED-T|Questioning skills
+14|PED-T|Homework and self-study
+15|PED-T|Instructional objectives
+16|PED-D|Thorndike laws of learning
+17|PED-T|Principles of teaching
+18|PED-D|Motivation
+19|PED-D|Creativity and intelligence
+20|PED-T|Guidance and counselling
+21|ENG-G|Infinitive constructions
+22|ENG-G|Modals
+23|ENG-U|Word usage
+24|ENG-G|Comparison structures
+25|ENG-V|Phrasal verbs
+26|ENG-G|Modals
+27|ENG-G|Prepositions
+28|ENG-G|Tenses and voice
+29|ENG-G|Prepositions
+30|ENG-U|Sentence structure
+31|ENG-G|Direct and indirect speech
+32|ENG-G|Indirect questions
+33|ENG-G|Adjective and adverb order
+34|ENG-G|Degrees of comparison
+35|ENG-G|Indirect questions
+36|ENG-G|Gerunds
+37|ENG-G|Prepositions
+38|ENG-G|Prepositions
+39|ENG-G|Subject-verb agreement
+40|ENG-G|Parallelism
+41|ENG-G|Tenses
+42|ENG-G|Prepositions
+43|ENG-G|Conditional sentences
+44|ENG-G|Infinitives
+45|ENG-U|Word usage
+46|ENG-G|Tenses
+47|ENG-G|Infinitives
+48|ENG-G|Active and passive voice
+49|ENG-G|Inversion
+50|ENG-G|Subject-verb agreement
+51|ENG-U|Sentence arrangement
+52|ENG-U|Sentence arrangement
+53|ENG-V|Synonyms
+54|ENG-V|Synonyms
+55|ENG-V|Antonyms
+56|ENG-V|Antonyms
+57|ENG-V|Antonyms
+58|ENG-V|Confusable words
+59|ENG-V|Confusable words
+60|ENG-V|Confusable words
+61|GEO-S|Rivers of Assam
+62|HIS-S|Patharughat uprising
+63|MAT-G|Coordinate geometry
+64|HIS-S|Ancient inscriptions of Assam
+65|ENV|Wildlife sanctuaries of Assam
+66|HIS-S|Ancient inscriptions of Assam
+67|GEO-S|National parks of Assam
+68|GEO-S|Literacy in Assam
+69|MAT-T|Trigonometric identities
+70|HIS-S|Varman dynasty
+71|MAT-G|Circles
+72|MAT-G|Cuboids
+73|MAT-L|Ratio of variables
+74|HIS-S|Congress sessions in Assam
+75|MAT-L|Sets
+76|MAT-G|Similar triangles
+77|HIS-S|Quit India Movement in Assam
+78|MAT-G|Parallelograms
+79|HIS-S|Kachari kingdom
+80|ENV|Rhino conservation
+81|MAT-T|Trigonometric equations
+82|HIS-S|Assam Association
+83|MAT-L|Quadratic equations
+84|MAT-G|Construction of quadrilaterals
+85|GEO-S|Literacy in Assam
+86|MAT-A|Bank interest calculations
+87|MAT-G|Squares
+88|MAT-S|Probability
+89|ENV|Elephant population
+90|ECO-S|Petroleum in Assam
+91|HIS-S|Ahom rulers
+92|MAT-T|Trigonometric identities
+93|ECO-S|Tea trade
+94|MAT-L|Sets
+95|MAT-G|Circles
+96|HIS-S|Ancient inscriptions of Assam
+97|GEO-S|Rivers of Assam
+98|MAT-S|Probability
+99|MAT-A|Direct proportion
+100|MAT-S|Combined mean

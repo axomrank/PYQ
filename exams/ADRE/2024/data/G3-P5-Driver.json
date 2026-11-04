@@ -27,7 +27,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "Assam Legislative Assembly",
+  "topic_path": "Polity > Assam Administration > Assam Legislative Assembly",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q002",
@@ -64,7 +70,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Banking services",
+  "topic_path": "Economy > Banking & Finance > Banking services",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q003",
@@ -94,7 +106,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Direction sense",
+  "topic_path": "Reasoning > Logical & Analytical > Direction sense",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q004",
@@ -124,7 +142,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Blood relations",
+  "topic_path": "Reasoning > Logical & Analytical > Blood relations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q005",
@@ -154,7 +178,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Punctuation",
+  "topic_path": "English > Grammar > Punctuation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q006",
@@ -184,7 +214,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Antonyms",
+  "topic_path": "English > Vocabulary > Antonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q007",
@@ -221,7 +257,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Antonyms",
+  "topic_path": "English > Vocabulary > Antonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q008",
@@ -251,7 +293,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Spelling",
+  "topic_path": "English > Vocabulary > Spelling",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q009",
@@ -281,7 +329,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Prime numbers",
+  "topic_path": "Mathematics > Number System > Prime numbers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q010",
@@ -311,7 +365,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Spelling",
+  "topic_path": "English > Vocabulary > Spelling",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q011",
@@ -341,7 +401,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q012",
@@ -371,7 +437,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Border points",
+  "topic_path": "Geography > Indian Geography > Border points",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q013",
@@ -401,7 +473,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Pronouns",
+  "topic_path": "English > Grammar > Pronouns",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q014",
@@ -431,7 +509,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Algebraic identities",
+  "topic_path": "Mathematics > Algebra > Algebraic identities",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q015",
@@ -461,7 +545,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Spelling",
+  "topic_path": "English > Vocabulary > Spelling",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q016",
@@ -491,7 +581,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ahom kingdom",
+  "topic_path": "History > Assam History > Ahom kingdom",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q017",
@@ -521,7 +617,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ancient Assam",
+  "topic_path": "History > Assam History > Ancient Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q018",
@@ -551,7 +653,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Word meaning",
+  "topic_path": "English > Vocabulary > Word meaning",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q019",
@@ -581,7 +689,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Number puzzles",
+  "topic_path": "Reasoning > Logical & Analytical > Number puzzles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q020",
@@ -611,7 +725,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Motor Vehicle Law",
+  "subtopic": "Licensing and vehicle rules",
+  "topic_path": "Driving > Motor Vehicle Law > Licensing and vehicle rules",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q021",
@@ -641,7 +761,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Motor Vehicle Law",
+  "subtopic": "Licensing and vehicle rules",
+  "topic_path": "Driving > Motor Vehicle Law > Licensing and vehicle rules",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q022",
@@ -671,7 +797,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Computer",
+  "topic": "Computer & IT",
+  "subtopic": "Hardware",
+  "topic_path": "Computer > Computer & IT > Hardware",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q023",
@@ -701,7 +833,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "One word substitution",
+  "topic_path": "English > Vocabulary > One word substitution",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q024",
@@ -731,7 +869,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "National flags",
+  "topic_path": "General Awareness > Miscellaneous > National flags",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q025",
@@ -761,7 +905,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Books & Authors",
+  "subtopic": "Ancient authors",
+  "topic_path": "General Awareness > Books & Authors > Ancient authors",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q026",
@@ -791,7 +941,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Irrational numbers",
+  "topic_path": "Mathematics > Number System > Irrational numbers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q027",
@@ -821,7 +977,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Unitary method",
+  "topic_path": "Mathematics > Arithmetic > Unitary method",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q028",
@@ -851,7 +1013,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Number operations",
+  "topic_path": "Mathematics > Number System > Number operations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q029",
@@ -881,7 +1049,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Koch kingdom",
+  "topic_path": "History > Assam History > Koch kingdom",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q030",
@@ -911,7 +1085,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Folk performing arts",
+  "topic_path": "Art & Culture > Assam Culture > Folk performing arts",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q031",
@@ -941,7 +1121,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q032",
@@ -971,7 +1157,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "BODMAS",
+  "topic_path": "Mathematics > Number System > BODMAS",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q033",
@@ -1001,7 +1193,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Collective nouns",
+  "topic_path": "English > Vocabulary > Collective nouns",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q034",
@@ -1031,7 +1229,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q035",
@@ -1061,7 +1265,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Traffic Rules & Signs",
+  "subtopic": "Road rules",
+  "topic_path": "Driving > Traffic Rules & Signs > Road rules",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q036",
@@ -1091,7 +1301,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Coding-decoding",
+  "topic_path": "Reasoning > Verbal Reasoning > Coding-decoding",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q037",
@@ -1121,7 +1337,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Olympics",
+  "topic_path": "General Awareness > Sports > Olympics",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q038",
@@ -1151,7 +1373,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Assamese literature",
+  "topic_path": "Art & Culture > Literature > Assamese literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q039",
@@ -1181,7 +1409,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Idioms and phrases",
+  "topic_path": "English > Vocabulary > Idioms and phrases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q040",
@@ -1211,7 +1445,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Place value",
+  "topic_path": "Mathematics > Number System > Place value",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q041",
@@ -1241,7 +1481,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q042",
@@ -1271,7 +1517,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "Scientists",
+  "topic_path": "General Awareness > Important Persons > Scientists",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q043",
@@ -1301,7 +1553,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Alphabet position",
+  "topic_path": "Reasoning > Verbal Reasoning > Alphabet position",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q044",
@@ -1331,7 +1589,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Himalayan peaks",
+  "topic_path": "Geography > Indian Geography > Himalayan peaks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q045",
@@ -1361,7 +1625,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Averages",
+  "topic_path": "Mathematics > Arithmetic > Averages",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q046",
@@ -1391,7 +1661,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Motor Vehicle Law",
+  "subtopic": "Offences and penalties",
+  "topic_path": "Driving > Motor Vehicle Law > Offences and penalties",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q047",
@@ -1427,7 +1703,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Number arrangement",
+  "topic_path": "Reasoning > Logical & Analytical > Number arrangement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q048",
@@ -1457,7 +1739,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Traffic Rules & Signs",
+  "subtopic": "Number plates",
+  "topic_path": "Driving > Traffic Rules & Signs > Number plates",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q049",
@@ -1487,7 +1775,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Word analogy",
+  "topic_path": "Reasoning > Verbal Reasoning > Word analogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q050",
@@ -1517,7 +1811,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Motor Vehicle Law",
+  "subtopic": "Licensing and vehicle rules",
+  "topic_path": "Driving > Motor Vehicle Law > Licensing and vehicle rules",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q051",
@@ -1547,7 +1847,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Countries",
+  "topic_path": "Geography > World Geography > Countries",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q052",
@@ -1577,7 +1883,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Regions of Assam",
+  "topic_path": "Geography > Assam Geography > Regions of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q053",
@@ -1607,7 +1919,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Motor Vehicle Law",
+  "subtopic": "Licensing and vehicle rules",
+  "topic_path": "Driving > Motor Vehicle Law > Licensing and vehicle rules",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q054",
@@ -1637,7 +1955,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Motor Vehicle Law",
+  "subtopic": "Licensing and vehicle rules",
+  "topic_path": "Driving > Motor Vehicle Law > Licensing and vehicle rules",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q055",
@@ -1667,7 +1991,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Elections",
+  "topic_path": "Polity > Governance & Institutions > Elections",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q056",
@@ -1697,7 +2027,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Fill in the blanks",
+  "topic_path": "English > Grammar > Fill in the blanks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q057",
@@ -1727,7 +2063,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Number series",
+  "topic_path": "Mathematics > Number System > Number series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q058",
@@ -1757,7 +2099,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ahom kingdom",
+  "topic_path": "History > Assam History > Ahom kingdom",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q059",
@@ -1787,7 +2135,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Word analogy",
+  "topic_path": "Reasoning > Verbal Reasoning > Word analogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q060",
@@ -1817,7 +2171,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Traffic Rules & Signs",
+  "subtopic": "Road markings",
+  "topic_path": "Driving > Traffic Rules & Signs > Road markings",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q061",
@@ -1847,7 +2207,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 29,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Dictionary order",
+  "topic_path": "Reasoning > Verbal Reasoning > Dictionary order",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q062",
@@ -1877,7 +2243,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Motor Vehicle Law",
+  "subtopic": "Licensing and vehicle rules",
+  "topic_path": "Driving > Motor Vehicle Law > Licensing and vehicle rules",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q063",
@@ -1907,7 +2279,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Punctuation",
+  "topic_path": "English > Grammar > Punctuation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q064",
@@ -1937,7 +2315,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Word formation",
+  "topic_path": "Reasoning > Verbal Reasoning > Word formation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q065",
@@ -1975,7 +2359,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 31,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Fractions",
+  "topic_path": "Mathematics > Number System > Fractions",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q066",
@@ -2005,7 +2395,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Motor Vehicle Law",
+  "subtopic": "Offences and penalties",
+  "topic_path": "Driving > Motor Vehicle Law > Offences and penalties",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q067",
@@ -2035,7 +2431,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Borders of Assam",
+  "topic_path": "Geography > Assam Geography > Borders of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q068",
@@ -2065,7 +2467,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Traffic Rules & Signs",
+  "subtopic": "Number plates",
+  "topic_path": "Driving > Traffic Rules & Signs > Number plates",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q069",
@@ -2095,7 +2503,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Unitary method",
+  "topic_path": "Mathematics > Arithmetic > Unitary method",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q070",
@@ -2125,7 +2539,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Profit and loss",
+  "topic_path": "Mathematics > Arithmetic > Profit and loss",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q071",
@@ -2155,7 +2575,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Letter series",
+  "topic_path": "Reasoning > Verbal Reasoning > Letter series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q072",
@@ -2185,7 +2611,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ancient Assam",
+  "topic_path": "History > Assam History > Ancient Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q073",
@@ -2215,7 +2647,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Festivals of India",
+  "topic_path": "Art & Culture > Indian Culture > Festivals of India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q074",
@@ -2245,7 +2683,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 36,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Motor Vehicle Law",
+  "subtopic": "Licensing and vehicle rules",
+  "topic_path": "Driving > Motor Vehicle Law > Licensing and vehicle rules",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q075",
@@ -2275,7 +2719,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Elections",
+  "topic_path": "Polity > Governance & Institutions > Elections",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q076",
@@ -2305,7 +2755,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Ranking and order",
+  "topic_path": "Reasoning > Logical & Analytical > Ranking and order",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q077",
@@ -2335,7 +2791,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Spelling",
+  "topic_path": "English > Vocabulary > Spelling",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q078",
@@ -2365,7 +2827,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Music of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Music of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q079",
@@ -2395,7 +2863,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Adverbs",
+  "topic_path": "English > Grammar > Adverbs",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q080",
@@ -2425,7 +2899,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 39,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Festivals of India",
+  "topic_path": "Art & Culture > Indian Culture > Festivals of India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q081",
@@ -2455,7 +2935,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 39,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Assamese literature",
+  "topic_path": "Art & Culture > Literature > Assamese literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q082",
@@ -2485,7 +2971,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Traffic Rules & Signs",
+  "subtopic": "Number plates",
+  "topic_path": "Driving > Traffic Rules & Signs > Number plates",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q083",
@@ -2523,7 +3015,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 40,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Fractions",
+  "topic_path": "Mathematics > Number System > Fractions",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q084",
@@ -2561,7 +3059,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 41,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Recurring decimals",
+  "topic_path": "Mathematics > Number System > Recurring decimals",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q085",
@@ -2591,7 +3095,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Elections",
+  "topic_path": "Polity > Governance & Institutions > Elections",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q086",
@@ -2621,7 +3131,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Physical Geography",
+  "subtopic": "Earthquakes",
+  "topic_path": "Geography > Physical Geography > Earthquakes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q087",
@@ -2651,7 +3167,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Age problems",
+  "topic_path": "Reasoning > Logical & Analytical > Age problems",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q088",
@@ -2681,7 +3203,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Motor Vehicle Law",
+  "subtopic": "Offences and penalties",
+  "topic_path": "Driving > Motor Vehicle Law > Offences and penalties",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q089",
@@ -2711,7 +3239,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q090",
@@ -2741,7 +3275,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Neo-Vaishnavism",
+  "topic_path": "Art & Culture > Assam Culture > Neo-Vaishnavism",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q091",
@@ -2778,7 +3318,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 45,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Square roots",
+  "topic_path": "Mathematics > Number System > Square roots",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q092",
@@ -2808,7 +3354,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Dictionary order",
+  "topic_path": "Reasoning > Verbal Reasoning > Dictionary order",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q093",
@@ -2838,7 +3390,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q094",
@@ -2868,7 +3426,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Physical Geography",
+  "subtopic": "Landforms",
+  "topic_path": "Geography > Physical Geography > Landforms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q095",
@@ -2898,7 +3462,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Triangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Triangles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q096",
@@ -2928,7 +3498,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Articles",
+  "topic_path": "English > Grammar > Articles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q097",
@@ -2958,7 +3534,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Motor Vehicle Law",
+  "subtopic": "Offences and penalties",
+  "topic_path": "Driving > Motor Vehicle Law > Offences and penalties",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q098",
@@ -2988,7 +3570,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 48,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence correction",
+  "topic_path": "English > Usage & Sentence Structure > Sentence correction",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q099",
@@ -3018,7 +3606,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 48,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Rectangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Rectangles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q100",
@@ -3048,7 +3642,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 48,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Making of the Constitution",
+  "topic_path": "Polity > Indian Constitution > Making of the Constitution",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q101",
@@ -3078,7 +3678,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 49,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "World capitals",
+  "topic_path": "Geography > World Geography > World capitals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q102",
@@ -3108,7 +3714,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 49,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ahom-Mughal wars",
+  "topic_path": "History > Assam History > Ahom-Mughal wars",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q103",
@@ -3138,7 +3750,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 50,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Number series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q104",
@@ -3168,7 +3786,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 50,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Number operations",
+  "topic_path": "Mathematics > Number System > Number operations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q105",
@@ -3198,7 +3822,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Motor Vehicle Law",
+  "subtopic": "Licensing and vehicle rules",
+  "topic_path": "Driving > Motor Vehicle Law > Licensing and vehicle rules",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q106",
@@ -3228,7 +3858,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Motor Vehicle Law",
+  "subtopic": "Licensing and vehicle rules",
+  "topic_path": "Driving > Motor Vehicle Law > Licensing and vehicle rules",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q107",
@@ -3258,7 +3894,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 52,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Stadiums",
+  "topic_path": "General Awareness > Sports > Stadiums",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q108",
@@ -3288,7 +3930,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 52,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "Explorers",
+  "topic_path": "General Awareness > Important Persons > Explorers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q109",
@@ -3318,7 +3966,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 53,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Union Territories",
+  "topic_path": "Polity > Indian Constitution > Union Territories",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q110",
@@ -3348,7 +4002,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 53,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Continents",
+  "topic_path": "Geography > World Geography > Continents",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q111",
@@ -3378,7 +4038,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 53,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Vehicle Technology",
+  "subtopic": "Vehicle equipment",
+  "topic_path": "Driving > Vehicle Technology > Vehicle equipment",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q112",
@@ -3408,7 +4074,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 54,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Decimals",
+  "topic_path": "Mathematics > Number System > Decimals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q113",
@@ -3438,7 +4110,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 55,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Sportspersons of Assam",
+  "topic_path": "General Awareness > Sports > Sportspersons of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q114",
@@ -3468,7 +4146,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 55,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Continents",
+  "topic_path": "Geography > World Geography > Continents",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q115",
@@ -3498,7 +4182,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 56,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Decimals",
+  "topic_path": "Mathematics > Number System > Decimals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q116",
@@ -3536,7 +4226,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 56,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Fractions",
+  "topic_path": "Mathematics > Number System > Fractions",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q117",
@@ -3566,7 +4262,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 57,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Profit and loss",
+  "topic_path": "Mathematics > Arithmetic > Profit and loss",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q118",
@@ -3596,7 +4298,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 57,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "World leaders",
+  "topic_path": "General Awareness > Important Persons > World leaders",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q119",
@@ -3626,7 +4334,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Nouns",
+  "topic_path": "English > Grammar > Nouns",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q120",
@@ -3663,7 +4377,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 58,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "One word substitution",
+  "topic_path": "English > Vocabulary > One word substitution",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q121",
@@ -3693,7 +4413,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Squares",
+  "topic_path": "Mathematics > Geometry & Mensuration > Squares",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q122",
@@ -3723,7 +4449,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Collective nouns",
+  "topic_path": "English > Vocabulary > Collective nouns",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q123",
@@ -3753,7 +4485,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Conjunctions",
+  "topic_path": "English > Grammar > Conjunctions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q124",
@@ -3783,7 +4521,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Olympics",
+  "topic_path": "General Awareness > Sports > Olympics",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q125",
@@ -3813,7 +4557,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 59,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Place value",
+  "topic_path": "Mathematics > Number System > Place value",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q126",
@@ -3843,7 +4593,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 59,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Revolt of 1857",
+  "topic_path": "History > Modern India & Freedom Struggle > Revolt of 1857",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q127",
@@ -3873,7 +4629,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 60,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Spelling",
+  "topic_path": "English > Vocabulary > Spelling",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q128",
@@ -3903,7 +4665,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 60,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Motor Vehicle Law",
+  "subtopic": "Licensing and vehicle rules",
+  "topic_path": "Driving > Motor Vehicle Law > Licensing and vehicle rules",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q129",
@@ -3933,7 +4701,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 61,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Vehicle Technology",
+  "subtopic": "Vehicle equipment",
+  "topic_path": "Driving > Vehicle Technology > Vehicle equipment",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q130",
@@ -3963,7 +4737,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 62,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Idioms and phrases",
+  "topic_path": "English > Vocabulary > Idioms and phrases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q131",
@@ -3993,7 +4773,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 62,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Fill in the blanks",
+  "topic_path": "English > Grammar > Fill in the blanks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q132",
@@ -4023,7 +4809,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 62,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "LCM and HCF",
+  "topic_path": "Mathematics > Number System > LCM and HCF",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q133",
@@ -4053,7 +4845,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 62,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Indian Economy",
+  "subtopic": "Union Budget",
+  "topic_path": "Economy > Indian Economy > Union Budget",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q134",
@@ -4083,7 +4881,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 63,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "Technology companies",
+  "topic_path": "General Awareness > Miscellaneous > Technology companies",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q135",
@@ -4113,7 +4917,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 63,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Mahatma Gandhi",
+  "topic_path": "History > Modern India & Freedom Struggle > Mahatma Gandhi",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q136",
@@ -4143,7 +4953,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 64,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Number series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q137",
@@ -4173,7 +4989,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 64,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q138",
@@ -4203,7 +5025,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 65,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Antonyms",
+  "topic_path": "English > Vocabulary > Antonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q139",
@@ -4233,7 +5061,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 65,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Tenses",
+  "topic_path": "English > Grammar > Tenses",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q140",
@@ -4263,7 +5097,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 65,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Battle of Plassey",
+  "topic_path": "History > Modern India & Freedom Struggle > Battle of Plassey",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q141",
@@ -4293,7 +5133,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 65,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Pronouns",
+  "topic_path": "English > Grammar > Pronouns",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q142",
@@ -4323,7 +5169,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 65,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Motor Vehicle Law",
+  "subtopic": "Speed limits",
+  "topic_path": "Driving > Motor Vehicle Law > Speed limits",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q143",
@@ -4353,7 +5205,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 66,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Gymnastics",
+  "topic_path": "General Awareness > Sports > Gymnastics",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q144",
@@ -4383,7 +5241,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 66,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Articles",
+  "topic_path": "English > Grammar > Articles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q145",
@@ -4413,7 +5277,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 66,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Religious places of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Religious places of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q146",
@@ -4443,7 +5313,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 67,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Quadrilaterals",
+  "topic_path": "Mathematics > Geometry & Mensuration > Quadrilaterals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q147",
@@ -4473,7 +5349,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 67,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Degrees of comparison",
+  "topic_path": "English > Grammar > Degrees of comparison",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q148",
@@ -4503,7 +5385,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 67,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Folk tales of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Folk tales of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q149",
@@ -4533,7 +5421,13 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 68,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Traffic Rules & Signs",
+  "subtopic": "Traffic signs",
+  "topic_path": "Driving > Traffic Rules & Signs > Traffic signs",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G3-P5-Driver-Q150",
@@ -4563,6 +5457,12 @@
   "source_pdf": "exams/ADRE/2024/source/G3-P5-Driver.pdf",
   "page": 68,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Unitary method",
+  "topic_path": "Mathematics > Arithmetic > Unitary method",
+  "classification_needs_review": false,
+  "classification_note": ""
  }
 ]

@@ -27,7 +27,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Adolescence",
+  "topic_path": "Pedagogy > Child Development > Adolescence",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q002",
@@ -57,7 +63,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Heuristic method",
+  "topic_path": "Pedagogy > Teaching Methods > Heuristic method",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q003",
@@ -87,7 +99,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Inclusive Education",
+  "subtopic": "Children with special needs",
+  "topic_path": "Pedagogy > Inclusive Education > Children with special needs",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q004",
@@ -117,7 +135,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Educational objectives",
+  "topic_path": "Pedagogy > Teaching Methods > Educational objectives",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q005",
@@ -147,7 +171,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "National Education Policy",
+  "topic_path": "Pedagogy > Teaching Methods > National Education Policy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q006",
@@ -177,7 +207,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Maxims of teaching",
+  "topic_path": "Pedagogy > Teaching Methods > Maxims of teaching",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q007",
@@ -207,7 +243,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Guidance and counselling",
+  "topic_path": "Pedagogy > Teaching Methods > Guidance and counselling",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q008",
@@ -243,7 +285,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Teaching skills",
+  "topic_path": "Pedagogy > Teaching Methods > Teaching skills",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q009",
@@ -273,7 +321,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Juvenile delinquency",
+  "topic_path": "Pedagogy > Child Development > Juvenile delinquency",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q010",
@@ -303,7 +357,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Intelligence",
+  "topic_path": "Pedagogy > Child Development > Intelligence",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q011",
@@ -333,7 +393,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Educational psychology",
+  "topic_path": "Pedagogy > Child Development > Educational psychology",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q012",
@@ -363,7 +429,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Lesson planning",
+  "topic_path": "Pedagogy > Teaching Methods > Lesson planning",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q013",
@@ -393,7 +465,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Questioning skills",
+  "topic_path": "Pedagogy > Teaching Methods > Questioning skills",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q014",
@@ -423,7 +501,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Homework and self-study",
+  "topic_path": "Pedagogy > Teaching Methods > Homework and self-study",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q015",
@@ -453,7 +537,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Instructional objectives",
+  "topic_path": "Pedagogy > Teaching Methods > Instructional objectives",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q016",
@@ -483,7 +573,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Thorndike laws of learning",
+  "topic_path": "Pedagogy > Child Development > Thorndike laws of learning",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q017",
@@ -513,7 +609,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Principles of teaching",
+  "topic_path": "Pedagogy > Teaching Methods > Principles of teaching",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q018",
@@ -543,7 +645,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Motivation",
+  "topic_path": "Pedagogy > Child Development > Motivation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q019",
@@ -573,7 +681,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Creativity and intelligence",
+  "topic_path": "Pedagogy > Child Development > Creativity and intelligence",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q020",
@@ -603,7 +717,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Guidance and counselling",
+  "topic_path": "Pedagogy > Teaching Methods > Guidance and counselling",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q021",
@@ -633,7 +753,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Infinitive constructions",
+  "topic_path": "English > Grammar > Infinitive constructions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q022",
@@ -663,7 +789,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Modals",
+  "topic_path": "English > Grammar > Modals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q023",
@@ -693,7 +825,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Word usage",
+  "topic_path": "English > Usage & Sentence Structure > Word usage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q024",
@@ -723,7 +861,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Comparison structures",
+  "topic_path": "English > Grammar > Comparison structures",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q025",
@@ -753,7 +897,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Phrasal verbs",
+  "topic_path": "English > Vocabulary > Phrasal verbs",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q026",
@@ -783,7 +933,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Modals",
+  "topic_path": "English > Grammar > Modals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q027",
@@ -813,7 +969,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Prepositions",
+  "topic_path": "English > Grammar > Prepositions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q028",
@@ -843,7 +1005,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Tenses and voice",
+  "topic_path": "English > Grammar > Tenses and voice",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q029",
@@ -873,7 +1041,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Prepositions",
+  "topic_path": "English > Grammar > Prepositions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q030",
@@ -903,7 +1077,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence structure",
+  "topic_path": "English > Usage & Sentence Structure > Sentence structure",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q031",
@@ -933,7 +1113,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Direct and indirect speech",
+  "topic_path": "English > Grammar > Direct and indirect speech",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q032",
@@ -963,7 +1149,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Indirect questions",
+  "topic_path": "English > Grammar > Indirect questions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q033",
@@ -993,7 +1185,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Adjective and adverb order",
+  "topic_path": "English > Grammar > Adjective and adverb order",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q034",
@@ -1023,7 +1221,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Degrees of comparison",
+  "topic_path": "English > Grammar > Degrees of comparison",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q035",
@@ -1053,7 +1257,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Indirect questions",
+  "topic_path": "English > Grammar > Indirect questions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q036",
@@ -1083,7 +1293,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Gerunds",
+  "topic_path": "English > Grammar > Gerunds",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q037",
@@ -1113,7 +1329,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Prepositions",
+  "topic_path": "English > Grammar > Prepositions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q038",
@@ -1143,7 +1365,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Prepositions",
+  "topic_path": "English > Grammar > Prepositions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q039",
@@ -1173,7 +1401,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Subject-verb agreement",
+  "topic_path": "English > Grammar > Subject-verb agreement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q040",
@@ -1203,7 +1437,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Parallelism",
+  "topic_path": "English > Grammar > Parallelism",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q041",
@@ -1233,7 +1473,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Tenses",
+  "topic_path": "English > Grammar > Tenses",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q042",
@@ -1263,7 +1509,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Prepositions",
+  "topic_path": "English > Grammar > Prepositions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q043",
@@ -1293,7 +1545,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Conditional sentences",
+  "topic_path": "English > Grammar > Conditional sentences",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q044",
@@ -1323,7 +1581,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Infinitives",
+  "topic_path": "English > Grammar > Infinitives",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q045",
@@ -1353,7 +1617,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Word usage",
+  "topic_path": "English > Usage & Sentence Structure > Word usage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q046",
@@ -1383,7 +1653,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Tenses",
+  "topic_path": "English > Grammar > Tenses",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q047",
@@ -1413,7 +1689,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Infinitives",
+  "topic_path": "English > Grammar > Infinitives",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q048",
@@ -1443,7 +1725,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Active and passive voice",
+  "topic_path": "English > Grammar > Active and passive voice",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q049",
@@ -1473,7 +1761,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Inversion",
+  "topic_path": "English > Grammar > Inversion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q050",
@@ -1503,7 +1797,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Subject-verb agreement",
+  "topic_path": "English > Grammar > Subject-verb agreement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q051",
@@ -1533,7 +1833,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence arrangement",
+  "topic_path": "English > Usage & Sentence Structure > Sentence arrangement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q052",
@@ -1563,7 +1869,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence arrangement",
+  "topic_path": "English > Usage & Sentence Structure > Sentence arrangement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q053",
@@ -1599,7 +1911,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q054",
@@ -1635,7 +1953,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q055",
@@ -1671,7 +1995,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Antonyms",
+  "topic_path": "English > Vocabulary > Antonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q056",
@@ -1707,7 +2037,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Antonyms",
+  "topic_path": "English > Vocabulary > Antonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q057",
@@ -1743,7 +2079,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Antonyms",
+  "topic_path": "English > Vocabulary > Antonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q058",
@@ -1783,7 +2125,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Confusable words",
+  "topic_path": "English > Vocabulary > Confusable words",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "TET-2021-Paper-I-Q059",
@@ -1820,7 +2168,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Confusable words",
+  "topic_path": "English > Vocabulary > Confusable words",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q060",
@@ -1850,7 +2204,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Confusable words",
+  "topic_path": "English > Vocabulary > Confusable words",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q061",
@@ -1880,7 +2240,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Rivers of Assam",
+  "topic_path": "Geography > Assam Geography > Rivers of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q062",
@@ -1910,7 +2276,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Patharughat uprising",
+  "topic_path": "History > Assam History > Patharughat uprising",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q063",
@@ -1940,7 +2312,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Coordinate geometry",
+  "topic_path": "Mathematics > Geometry & Mensuration > Coordinate geometry",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q064",
@@ -1970,7 +2348,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ancient inscriptions of Assam",
+  "topic_path": "History > Assam History > Ancient inscriptions of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q065",
@@ -2000,7 +2384,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Wildlife sanctuaries of Assam",
+  "topic_path": "Environment > Ecology & Environment > Wildlife sanctuaries of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q066",
@@ -2030,7 +2420,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ancient inscriptions of Assam",
+  "topic_path": "History > Assam History > Ancient inscriptions of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q067",
@@ -2060,7 +2456,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "National parks of Assam",
+  "topic_path": "Geography > Assam Geography > National parks of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q068",
@@ -2090,7 +2492,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 29,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Literacy in Assam",
+  "topic_path": "Geography > Assam Geography > Literacy in Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q069",
@@ -2128,7 +2536,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 30,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "subtopic": "Trigonometric identities",
+  "topic_path": "Mathematics > Trigonometry > Trigonometric identities",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "TET-2021-Paper-I-Q070",
@@ -2158,7 +2572,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Varman dynasty",
+  "topic_path": "History > Assam History > Varman dynasty",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q071",
@@ -2188,7 +2608,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Circles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Circles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q072",
@@ -2218,7 +2644,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Cuboids",
+  "topic_path": "Mathematics > Geometry & Mensuration > Cuboids",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q073",
@@ -2255,7 +2687,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Ratio of variables",
+  "topic_path": "Mathematics > Algebra > Ratio of variables",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q074",
@@ -2285,7 +2723,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Congress sessions in Assam",
+  "topic_path": "History > Assam History > Congress sessions in Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q075",
@@ -2321,7 +2765,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 32,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Sets",
+  "topic_path": "Mathematics > Algebra > Sets",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "TET-2021-Paper-I-Q076",
@@ -2357,7 +2807,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 33,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Similar triangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Similar triangles",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "TET-2021-Paper-I-Q077",
@@ -2387,7 +2843,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Quit India Movement in Assam",
+  "topic_path": "History > Assam History > Quit India Movement in Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q078",
@@ -2417,7 +2879,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Parallelograms",
+  "topic_path": "Mathematics > Geometry & Mensuration > Parallelograms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q079",
@@ -2447,7 +2915,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Kachari kingdom",
+  "topic_path": "History > Assam History > Kachari kingdom",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q080",
@@ -2477,7 +2951,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Rhino conservation",
+  "topic_path": "Environment > Ecology & Environment > Rhino conservation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q081",
@@ -2513,7 +2993,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 36,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "subtopic": "Trigonometric equations",
+  "topic_path": "Mathematics > Trigonometry > Trigonometric equations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q082",
@@ -2543,7 +3029,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 36,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Assam Association",
+  "topic_path": "History > Assam History > Assam Association",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q083",
@@ -2580,7 +3072,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Quadratic equations",
+  "topic_path": "Mathematics > Algebra > Quadratic equations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q084",
@@ -2610,7 +3108,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Construction of quadrilaterals",
+  "topic_path": "Mathematics > Geometry & Mensuration > Construction of quadrilaterals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q085",
@@ -2640,7 +3144,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Literacy in Assam",
+  "topic_path": "Geography > Assam Geography > Literacy in Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q086",
@@ -2677,7 +3187,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 39,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Bank interest calculations",
+  "topic_path": "Mathematics > Arithmetic > Bank interest calculations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q087",
@@ -2713,7 +3229,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 39,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Squares",
+  "topic_path": "Mathematics > Geometry & Mensuration > Squares",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q088",
@@ -2750,7 +3272,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Statistics & Probability",
+  "subtopic": "Probability",
+  "topic_path": "Mathematics > Statistics & Probability > Probability",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q089",
@@ -2780,7 +3308,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Elephant population",
+  "topic_path": "Environment > Ecology & Environment > Elephant population",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q090",
@@ -2810,7 +3344,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Assam Economy",
+  "subtopic": "Petroleum in Assam",
+  "topic_path": "Economy > Assam Economy > Petroleum in Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q091",
@@ -2840,7 +3380,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ahom rulers",
+  "topic_path": "History > Assam History > Ahom rulers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q092",
@@ -2876,7 +3422,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "subtopic": "Trigonometric identities",
+  "topic_path": "Mathematics > Trigonometry > Trigonometric identities",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q093",
@@ -2906,7 +3458,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Assam Economy",
+  "subtopic": "Tea trade",
+  "topic_path": "Economy > Assam Economy > Tea trade",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q094",
@@ -2936,7 +3494,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Sets",
+  "topic_path": "Mathematics > Algebra > Sets",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q095",
@@ -2966,7 +3530,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Circles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Circles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q096",
@@ -2996,7 +3566,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ancient inscriptions of Assam",
+  "topic_path": "History > Assam History > Ancient inscriptions of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q097",
@@ -3026,7 +3602,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Rivers of Assam",
+  "topic_path": "Geography > Assam Geography > Rivers of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q098",
@@ -3063,7 +3645,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Statistics & Probability",
+  "subtopic": "Probability",
+  "topic_path": "Mathematics > Statistics & Probability > Probability",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q099",
@@ -3093,7 +3681,13 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Direct proportion",
+  "topic_path": "Mathematics > Arithmetic > Direct proportion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Paper-I-Q100",
@@ -3123,6 +3717,12 @@
   "source_pdf": "exams/TET/2021/source/Paper-I.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Statistics & Probability",
+  "subtopic": "Combined mean",
+  "topic_path": "Mathematics > Statistics & Probability > Combined mean",
+  "classification_needs_review": false,
+  "classification_note": ""
  }
 ]

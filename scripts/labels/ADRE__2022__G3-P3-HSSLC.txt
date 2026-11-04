@@ -1,0 +1,100 @@
+1|GK-S|Olympics
+2|GEO-W|World capitals
+3|ECO-B|Stock exchanges
+4|CMP|Hardware
+5|GEO-I|Mountain ranges
+6|GEO-I|Rivers
+7|SCI-P|Properties of water
+8|ECO-T|Definition of economics
+9|SCI-C|Radioactive elements
+10|GK-S|Volleyball
+11|GEO-S|Borders of Assam
+12|POL-S|State ministers
+13|POL-S|Districts of Assam
+14|GEO-S|Borders of Assam
+15|GEO-S|Bridges on Brahmaputra
+16|GEO-S|Rivers of Assam
+17|GK-M|State symbols of Assam
+18|CUL-S|Religious places of Assam
+19|ECO-S|Tea research
+20|CUL-S|Assamese cinema
+21|HIS-O|Political parties
+22|POL-C|Fundamental Rights
+23|HIS-M|Medieval monuments
+24|POL-G|Government schemes
+25|ECO-I|Indian companies
+26|CUL-I|Classical and folk dances
+27|ENV|Ramsar sites
+28|POL-G|Government schemes
+29|GEO-S|Institutions of Assam
+30|POL-G|Government schemes
+31|POL-C|Fundamental Rights
+32|HIS-O|Events of 1919
+33|POL-G|Government schemes
+34|ECO-S|Petroleum in Assam
+35|ECO-I|GST
+36|POL-C|Parliament
+37|HIS-A|Harshavardhana
+38|ECO-I|Economic Survey
+39|ECO-T|Economic systems
+40|HIS-O|Quit India Movement
+41|MAT-N|LCM and HCF
+42|MAT-N|Surds and roots
+43|MAT-N|Remainders
+44|MAT-N|Fractions
+45|MAT-N|Fractions
+46|MAT-L|Algebraic identities
+47|MAT-L|Ratio of variables
+48|MAT-N|Consecutive numbers
+49|MAT-N|LCM and HCF
+50|MAT-A|Percentage
+51|MAT-A|Distribution problems
+52|MAT-T|Trigonometric ratios
+53|MAT-G|Triangles
+54|MAT-N|Square roots
+55|MAT-A|Percentage
+56|MAT-A|Arithmetic progression
+57|MAT-S|Median
+58|MAT-N|Square roots
+59|MAT-A|Time, speed and distance
+60|MAT-A|Successive percentage
+61|ENG-G|Fill in the blanks
+62|ENG-G|Fill in the blanks
+63|ENG-G|Fill in the blanks
+64|ENG-V|Synonyms
+65|ENG-V|Synonyms
+66|ENG-V|Synonyms
+67|ENG-V|Synonyms
+68|ENG-V|Antonyms
+69|ENG-V|Antonyms
+70|ENG-V|Antonyms
+71|ENG-V|Idioms and phrases
+72|ENG-V|Idioms and phrases
+73|ENG-V|Idioms and phrases
+74|ENG-V|Idioms and phrases
+75|ENG-V|Idioms and phrases
+76|ENG-V|Idioms and phrases
+77|ENG-U|Sentence arrangement
+78|ENG-U|Error spotting
+79|ENG-V|Word meaning
+80|ENG-U|Sentence correction
+81|RSN-V|Alphabet position
+82|RSN-L|Seating arrangement
+83|MAT-A|Age problems
+84|RSN-L|Direction sense
+85|MAT-A|Percentage
+86|RSN-L|Direction sense
+87|RSN-V|Number analogy
+88|RSN-V|Logical order of words
+89|RSN-V|Coding-decoding
+90|MAT-A|Trains
+91|MAT-G|Triangles
+92|RSN-L|Calendar
+93|RSN-V|Number analogy
+94|RSN-V|Letter analogy
+95|RSN-V|Word analogy
+96|RSN-V|Odd one out
+97|RSN-V|Odd one out
+98|RSN-V|Odd one out
+99|RSN-N|Counting figures
+100|RSN-N|Venn diagrams

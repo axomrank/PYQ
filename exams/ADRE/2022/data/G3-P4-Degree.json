@@ -27,7 +27,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Jainism",
+  "topic_path": "History > Ancient India > Jainism",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q002",
@@ -57,7 +63,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "North-East India",
+  "topic_path": "Geography > Indian Geography > North-East India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q003",
@@ -87,7 +99,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "State capitals",
+  "topic_path": "Geography > Indian Geography > State capitals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q004",
@@ -117,7 +135,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Festivals of North-East",
+  "topic_path": "Art & Culture > Indian Culture > Festivals of North-East",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q005",
@@ -147,7 +171,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Medieval India",
+  "subtopic": "Forts of North-East",
+  "topic_path": "History > Medieval India > Forts of North-East",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q006",
@@ -177,7 +207,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "General geography facts",
+  "topic_path": "Geography > World Geography > General geography facts",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q007",
@@ -207,7 +243,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Election Commission",
+  "topic_path": "Polity > Governance & Institutions > Election Commission",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q008",
@@ -237,7 +279,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Freedom fighters",
+  "topic_path": "History > Modern India & Freedom Struggle > Freedom fighters",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q009",
@@ -267,7 +315,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Medieval India",
+  "subtopic": "Battles of Panipat",
+  "topic_path": "History > Medieval India > Battles of Panipat",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q010",
@@ -297,7 +351,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Election Commission",
+  "topic_path": "Polity > Governance & Institutions > Election Commission",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q011",
@@ -327,7 +387,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "International Relations",
+  "subtopic": "International Court of Justice",
+  "topic_path": "Polity > International Relations > International Court of Justice",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q012",
@@ -357,7 +423,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Rowlatt Act",
+  "topic_path": "History > Modern India & Freedom Struggle > Rowlatt Act",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q013",
@@ -387,7 +459,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Supreme Court",
+  "topic_path": "Polity > Governance & Institutions > Supreme Court",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q014",
@@ -417,7 +495,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Constitutional amendments",
+  "topic_path": "Polity > Indian Constitution > Constitutional amendments",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q015",
@@ -447,7 +531,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "British administration",
+  "topic_path": "History > Modern India & Freedom Struggle > British administration",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q016",
@@ -477,7 +567,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ahom kingdom",
+  "topic_path": "History > Assam History > Ahom kingdom",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q017",
@@ -507,7 +603,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "British administration",
+  "topic_path": "History > Modern India & Freedom Struggle > British administration",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q018",
@@ -537,7 +639,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Schedules of the Constitution",
+  "topic_path": "Polity > Indian Constitution > Schedules of the Constitution",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q019",
@@ -567,7 +675,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Airports",
+  "topic_path": "Geography > Indian Geography > Airports",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q020",
@@ -603,7 +717,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 15,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Indus Valley Civilisation",
+  "topic_path": "History > Ancient India > Indus Valley Civilisation",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q021",
@@ -633,7 +753,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Olympics",
+  "topic_path": "General Awareness > Sports > Olympics",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q022",
@@ -663,7 +789,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "World capitals",
+  "topic_path": "Geography > World Geography > World capitals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q023",
@@ -693,7 +825,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Organisations",
+  "subtopic": "Airlines",
+  "topic_path": "General Awareness > Organisations > Airlines",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q024",
@@ -729,7 +867,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Computer",
+  "topic": "Computer & IT",
+  "subtopic": "Software",
+  "topic_path": "Computer > Computer & IT > Software",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q025",
@@ -759,7 +903,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Himalayan peaks",
+  "topic_path": "Geography > Indian Geography > Himalayan peaks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q026",
@@ -789,7 +939,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Rivers",
+  "topic_path": "Geography > Indian Geography > Rivers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q027",
@@ -819,7 +975,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Chemistry",
+  "subtopic": "Units and measures",
+  "topic_path": "Science > Chemistry > Units and measures",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q028",
@@ -849,7 +1011,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Biology",
+  "subtopic": "Branches of science",
+  "topic_path": "Science > Biology > Branches of science",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q029",
@@ -879,7 +1047,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Scientific instruments",
+  "topic_path": "Science > Physics > Scientific instruments",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q030",
@@ -909,7 +1083,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Kho Kho",
+  "topic_path": "General Awareness > Sports > Kho Kho",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q031",
@@ -939,7 +1119,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Wildlife of India",
+  "topic_path": "Environment > Ecology & Environment > Wildlife of India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q032",
@@ -969,7 +1155,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "National symbols",
+  "topic_path": "General Awareness > Miscellaneous > National symbols",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q033",
@@ -999,7 +1191,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "Social workers",
+  "topic_path": "General Awareness > Important Persons > Social workers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q034",
@@ -1029,7 +1227,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "Inventors",
+  "topic_path": "General Awareness > Important Persons > Inventors",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q035",
@@ -1059,7 +1263,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "Full forms",
+  "topic_path": "General Awareness > Miscellaneous > Full forms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q036",
@@ -1089,7 +1299,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Festivals of India",
+  "topic_path": "Art & Culture > Indian Culture > Festivals of India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q037",
@@ -1119,7 +1335,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Assamese personalities",
+  "topic_path": "Art & Culture > Assam Culture > Assamese personalities",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q038",
@@ -1149,7 +1371,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Books & Authors",
+  "subtopic": "Authors",
+  "topic_path": "General Awareness > Books & Authors > Authors",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q039",
@@ -1179,7 +1407,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Science & Technology",
+  "subtopic": "Drones",
+  "topic_path": "Science > Science & Technology > Drones",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q040",
@@ -1209,7 +1443,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Sportspersons of Assam",
+  "topic_path": "General Awareness > Sports > Sportspersons of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q041",
@@ -1239,7 +1479,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Borders of Assam",
+  "topic_path": "Geography > Assam Geography > Borders of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q042",
@@ -1269,7 +1515,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "Districts of Assam",
+  "topic_path": "Polity > Assam Administration > Districts of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q043",
@@ -1299,7 +1551,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "State budget",
+  "topic_path": "Polity > Assam Administration > State budget",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q044",
@@ -1329,7 +1587,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Rivers of Assam",
+  "topic_path": "Geography > Assam Geography > Rivers of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q045",
@@ -1359,7 +1623,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Assam Economy",
+  "subtopic": "Oil refineries",
+  "topic_path": "Economy > Assam Economy > Oil refineries",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q046",
@@ -1389,7 +1659,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 29,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "UNESCO sites in Assam",
+  "topic_path": "Geography > Assam Geography > UNESCO sites in Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q047",
@@ -1419,7 +1695,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 29,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "National parks of Assam",
+  "topic_path": "Geography > Assam Geography > National parks of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q048",
@@ -1449,7 +1731,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Religious places of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Religious places of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q049",
@@ -1479,7 +1767,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Religious places of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Religious places of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q050",
@@ -1509,7 +1803,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Assamese cinema",
+  "topic_path": "Art & Culture > Assam Culture > Assamese cinema",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q051",
@@ -1539,7 +1839,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Blood relations",
+  "topic_path": "Reasoning > Logical & Analytical > Blood relations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q052",
@@ -1569,7 +1875,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Ranking and order",
+  "topic_path": "Reasoning > Logical & Analytical > Ranking and order",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q053",
@@ -1605,7 +1917,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Number puzzles",
+  "topic_path": "Reasoning > Logical & Analytical > Number puzzles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q054",
@@ -1641,7 +1959,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 33,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Mathematical operations",
+  "topic_path": "Reasoning > Logical & Analytical > Mathematical operations",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q055",
@@ -1671,7 +1995,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Number series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q056",
@@ -1701,7 +2031,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Time sequence",
+  "topic_path": "Reasoning > Logical & Analytical > Time sequence",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q057",
@@ -1731,7 +2067,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 36,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Geometric progression",
+  "topic_path": "Mathematics > Arithmetic > Geometric progression",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q058",
@@ -1761,7 +2103,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 36,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q059",
@@ -1791,7 +2139,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Simple interest",
+  "topic_path": "Mathematics > Arithmetic > Simple interest",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q060",
@@ -1821,7 +2175,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Remainders",
+  "topic_path": "Mathematics > Number System > Remainders",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q061",
@@ -1851,7 +2211,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Work and time",
+  "topic_path": "Mathematics > Arithmetic > Work and time",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q062",
@@ -1887,7 +2253,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 39,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "subtopic": "Heights and distances",
+  "topic_path": "Mathematics > Trigonometry > Heights and distances",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q063",
@@ -1917,7 +2289,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Circles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Circles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q064",
@@ -1947,7 +2325,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Averages",
+  "topic_path": "Mathematics > Arithmetic > Averages",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q065",
@@ -1977,7 +2361,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Ratio and proportion",
+  "topic_path": "Mathematics > Arithmetic > Ratio and proportion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q066",
@@ -2007,7 +2397,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Ratio and proportion",
+  "topic_path": "Mathematics > Arithmetic > Ratio and proportion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q067",
@@ -2045,7 +2441,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 44,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Statistics & Probability",
+  "subtopic": "Pie chart",
+  "topic_path": "Mathematics > Statistics & Probability > Pie chart",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q068",
@@ -2084,7 +2486,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 46,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Figure series",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Figure series",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q069",
@@ -2121,7 +2529,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 48,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Missing number in figure",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Missing number in figure",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q070",
@@ -2160,7 +2574,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 49,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Venn diagrams",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Venn diagrams",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q071",
@@ -2190,7 +2610,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on atomic bomb test",
+  "topic_path": "English > Reading Comprehension > Passage on atomic bomb test",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q072",
@@ -2220,7 +2646,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on atomic bomb test",
+  "topic_path": "English > Reading Comprehension > Passage on atomic bomb test",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q073",
@@ -2250,7 +2682,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on atomic bomb test",
+  "topic_path": "English > Reading Comprehension > Passage on atomic bomb test",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q074",
@@ -2280,7 +2718,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on atomic bomb test",
+  "topic_path": "English > Reading Comprehension > Passage on atomic bomb test",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q075",
@@ -2310,7 +2754,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on atomic bomb test",
+  "topic_path": "English > Reading Comprehension > Passage on atomic bomb test",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q076",
@@ -2340,7 +2790,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 52,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on atomic bomb test",
+  "topic_path": "English > Reading Comprehension > Passage on atomic bomb test",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q077",
@@ -2370,7 +2826,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 52,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on atomic bomb test",
+  "topic_path": "English > Reading Comprehension > Passage on atomic bomb test",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q078",
@@ -2400,7 +2862,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 52,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on atomic bomb test",
+  "topic_path": "English > Reading Comprehension > Passage on atomic bomb test",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q079",
@@ -2430,7 +2898,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 52,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on atomic bomb test",
+  "topic_path": "English > Reading Comprehension > Passage on atomic bomb test",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q080",
@@ -2460,7 +2934,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 52,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage on atomic bomb test",
+  "topic_path": "English > Reading Comprehension > Passage on atomic bomb test",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q081",
@@ -2497,7 +2977,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 53,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Square roots",
+  "topic_path": "Mathematics > Number System > Square roots",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q082",
@@ -2534,7 +3020,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 54,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Algebraic ratios",
+  "topic_path": "Mathematics > Algebra > Algebraic ratios",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q083",
@@ -2564,7 +3056,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 55,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Consecutive numbers",
+  "topic_path": "Mathematics > Number System > Consecutive numbers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q084",
@@ -2594,7 +3092,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 55,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Perfect squares",
+  "topic_path": "Mathematics > Number System > Perfect squares",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q085",
@@ -2630,7 +3134,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 56,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q086",
@@ -2660,7 +3170,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 57,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "LCM and HCF",
+  "topic_path": "Mathematics > Number System > LCM and HCF",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q087",
@@ -2690,7 +3206,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Trains",
+  "topic_path": "Mathematics > Arithmetic > Trains",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q088",
@@ -2727,7 +3249,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 59,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Recurring decimals",
+  "topic_path": "Mathematics > Number System > Recurring decimals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q089",
@@ -2757,7 +3285,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 60,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Remainders",
+  "topic_path": "Mathematics > Number System > Remainders",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q090",
@@ -2793,7 +3327,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 60,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Quadrilaterals",
+  "topic_path": "Mathematics > Geometry & Mensuration > Quadrilaterals",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q091",
@@ -2823,7 +3363,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 61,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Fill in the blanks",
+  "topic_path": "English > Grammar > Fill in the blanks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q092",
@@ -2859,7 +3405,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 61,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Fill in the blanks",
+  "topic_path": "English > Grammar > Fill in the blanks",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q093",
@@ -2889,7 +3441,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 61,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Fill in the blanks",
+  "topic_path": "English > Vocabulary > Fill in the blanks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q094",
@@ -2919,7 +3477,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 61,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Idioms and phrases",
+  "topic_path": "English > Vocabulary > Idioms and phrases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q095",
@@ -2949,7 +3513,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 61,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q096",
@@ -2979,7 +3549,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 62,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q097",
@@ -3009,7 +3585,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 62,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Antonyms",
+  "topic_path": "English > Vocabulary > Antonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q098",
@@ -3045,7 +3627,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 62,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence correction",
+  "topic_path": "English > Usage & Sentence Structure > Sentence correction",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q099",
@@ -3075,7 +3663,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 62,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Idioms and phrases",
+  "topic_path": "English > Vocabulary > Idioms and phrases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P4-Degree-Q100",
@@ -3105,6 +3699,12 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P4-Degree.pdf",
   "page": 62,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence completion",
+  "topic_path": "English > Usage & Sentence Structure > Sentence completion",
+  "classification_needs_review": false,
+  "classification_note": ""
  }
 ]

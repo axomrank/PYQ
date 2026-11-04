@@ -1,0 +1,14 @@
+1|ENG-G|Nouns
+2|ENG-V|Gender words
+3|ENG-V|One-word substitution
+4|ENG-V|Spelling
+5|ENG-V|Phrasal verbs
+6|ENG-V|Proverbs
+7|ENG-V|Antonyms
+8|ENG-V|Collective nouns
+9|ENG-V|Word meaning
+10|ENG-V|Diminutives
+11|MAT-N|Fractions|OCR merges multiple questions and columns; verify the primary question in the image.
+12|MAT-L|Linear equations|OCR merges multiple questions and columns; verify the primary question in the image.
+13|MAT-G|Rectangles|OCR merges multiple questions and columns; verify the primary question in the image.
+14|MAT-L|Simultaneous linear equations|OCR merges multiple questions and columns; verify the primary question in the image.

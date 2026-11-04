@@ -1,0 +1,45 @@
+1|MAT-N|Fractions|OCR merges adjacent questions; verify the primary question in the image.
+3|RSN-L|Digit puzzles|OCR merges adjacent questions; verify the primary question in the image.
+5|MAT-A|Direct proportion
+6|MAT-L|Quadratic equations
+7|MAT-A|Arithmetic progression
+8|MAT-G|Similar triangles
+9|MAT-N|Indices|Mathematical notation is incomplete in OCR; verify the image.
+10|MAT-G|Cuboids
+11|SCI-T|Black holes
+12|GEO-P|Rotation of the Earth
+13|CUL-I|Tribes of Northeast India
+14|HIS-A|Alexander invasion
+15|CUL-L|Sanskrit literature
+16|HIS-M|Sher Shah Suri
+17|HIS-O|Indian National Army
+18|GK-P|Swami Vivekananda
+19|HIS-O|Dandi March
+20|CUL-I|Classical and folk dances
+21|POL-C|Constitution makers
+22|POL-C|High Courts
+23|SCI-T|Defence aircraft
+24|SCI-T|Defence research organisations
+25|SCI-T|Artificial satellites
+26|GK-S|Mountaineering
+27|GK-M|Important days
+28|GK-S|Tennis|OCR merges adjacent questions; verify the primary question in the image.
+31|SCI-B|Fermentation
+32|SCI-H|Immunity
+33|SCI-H|Communicable diseases
+34|ENV|Biodegradable and non-biodegradable waste
+35|SCI-C|Properties of metals
+36|SCI-B|Cell organelles
+37|SCI-B|Human reproduction
+38|SCI-C|Chemical reactions
+39|SCI-C|Unsaturated carbon compounds
+40|SCI-B|Excretory system
+41|ENG-G|Tenses
+42|ENG-G|Pronouns
+43|ENG-G|Prepositions
+44|ENG-V|One-word substitution|OCR merges adjacent questions; verify the primary question in the image.
+46|ENG-V|Collective nouns
+47|ENG-V|Synonyms
+48|ENG-V|Gender words
+49|ENG-G|Degrees of comparison
+50|ENG-V|Antonyms

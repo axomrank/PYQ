@@ -1,0 +1,120 @@
+1|PED-T|Child-centred pedagogy
+2|PED-T|Tagore educational philosophy
+3|PED-D|Cognitive development
+4|PED-T|John Dewey educational philosophy
+5|PED-D|Developmental tasks
+6|PED-T|Meaning of pedagogy
+7|PED-I|Exceptional children
+8|PED-T|Learning environment
+9|PED-D|Insight learning
+10|PED-T|Classroom interaction
+11|PED-D|History of psychology
+12|PED-D|Classical conditioning
+13|PED-T|Prior knowledge
+14|PED-T|Deductive method
+15|PED-T|Lecture method
+16|PED-I|Gifted children
+17|PED-T|Meaning of pedagogy
+18|PED-D|Freud theory
+19|PED-D|Individual differences
+20|PED-T|Questioning skills
+21|PED-D|Motivation
+22|PED-D|Developmental research methods
+23|PED-T|Teacher as facilitator
+24|PED-T|Differentiated instruction
+25|PED-T|Rousseau educational philosophy
+26|PED-T|Micro-teaching
+27|POL-C|Early Childhood Care and Education
+28|PED-I|Hearing impairment
+29|PED-D|Stages of development
+30|PED-T|Early Childhood Care and Education
+31|MAT-N|Prime numbers
+32|MAT-G|Cylinders
+33|MAT-A|Percentage
+34|MAT-N|Perfect numbers
+35|CMP|History of computers
+36|RSN-V|Mathematical operators
+37|MAT-A|Percentage
+38|MAT-N|Twin primes
+39|MAT-A|Percentage
+40|MAT-G|Rhombus and rectangle areas
+41|MAT-G|Cuboids and cubes
+42|MAT-N|LCM and HCF
+43|RSN-L|Clocks
+44|MAT-N|Numeration systems
+45|MAT-G|Squares and rectangles
+46|APT-I|Bar charts
+47|MAT-S|Mean
+48|MAT-G|Quadrilaterals
+49|MAT-A|Percentage
+50|MAT-N|Prime numbers
+51|RSN-V|Odd one out
+52|MAT-G|Triangles
+53|MAT-A|Percentage
+54|MAT-N|Coprime numbers
+55|MAT-G|Squares and rectangles
+56|RSN-L|Magic squares
+57|RSN-N|Venn diagrams
+58|MAT-N|Natural and whole numbers
+59|RSN-V|Number series
+60|RSN-N|Odd figure out
+61|HIS-S|Assam Association
+62|GEO-I|Literacy in India
+63|POL-C|Parliament
+64|ENV|Soil conservation
+65|SCI-H|Vitamin deficiency diseases
+66|GEO-S|Borders of Assam
+67|CMP|Cybercrime
+68|ENV|Wildlife of Assam
+69|PED-I|Special education
+70|PED-T|Environmental Studies pedagogy
+71|PED-D|Creativity and intelligence
+72|ENV|Greenhouse gases
+73|GEO-S|Rivers of Assam
+74|SCI-B|Fertilisers
+75|PED-D|Thorndike laws of learning
+76|GK-M|Important days
+77|ENV|Environmental legislation
+78|DRV-R|Traffic signs
+79|PED-T|Project method
+80|ENV|Greenhouse gases
+81|GK-M|Family and society
+82|GK-M|Important days
+83|SCI-H|Air pollution and health
+84|GEO-P|Earthquakes
+85|ENV|Environmental institutions
+86|PED-D|Attention
+87|CUL-I|Festivals of Northeast India
+88|GEO-P|Atmospheric layers
+89|ENV|Ozone measurement
+90|ENV|Non-renewable resources
+91|ENG-G|Question tags
+92|ENG-G|Question tags
+93|ENG-G|Question tags
+94|ENG-G|Comparatives
+95|ENG-G|Determiners
+96|ENG-G|Degrees of comparison
+97|ENG-G|Interrogative determiners
+98|ENG-G|Articles
+99|ENG-G|Articles
+100|ENG-V|Cloze vocabulary
+101|ENG-V|Cloze vocabulary
+102|ENG-V|Cloze vocabulary
+103|ENG-V|Cloze vocabulary
+104|ENG-G|Subject-verb agreement
+105|ENG-G|Prepositions
+106|ENG-V|Phrasal verbs
+107|ENG-G|Correlative comparatives
+108|ENG-G|Conjunctions
+109|ENG-V|Idioms and phrases
+110|ENG-V|Idioms and phrases
+111|ENG-V|Idioms and phrases
+112|ENG-U|Sentence correction
+113|ENG-U|Sentence correction
+114|ENG-G|Subject-verb agreement
+115|ENG-U|Sentence correction
+116|ENG-U|Sentence correction
+117|ENG-U|Sentence arrangement
+118|ENG-U|Sentence arrangement
+119|ENG-U|Sentence arrangement
+120|ENG-U|Sentence arrangement

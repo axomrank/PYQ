@@ -27,7 +27,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Child-centred pedagogy",
+  "topic_path": "Pedagogy > Teaching Methods > Child-centred pedagogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q002",
@@ -57,7 +63,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Tagore educational philosophy",
+  "topic_path": "Pedagogy > Teaching Methods > Tagore educational philosophy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q003",
@@ -87,7 +99,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Cognitive development",
+  "topic_path": "Pedagogy > Child Development > Cognitive development",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q004",
@@ -117,7 +135,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "John Dewey educational philosophy",
+  "topic_path": "Pedagogy > Teaching Methods > John Dewey educational philosophy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q005",
@@ -147,7 +171,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Developmental tasks",
+  "topic_path": "Pedagogy > Child Development > Developmental tasks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q006",
@@ -177,7 +207,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Meaning of pedagogy",
+  "topic_path": "Pedagogy > Teaching Methods > Meaning of pedagogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q007",
@@ -207,7 +243,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Inclusive Education",
+  "subtopic": "Exceptional children",
+  "topic_path": "Pedagogy > Inclusive Education > Exceptional children",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q008",
@@ -245,7 +287,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Learning environment",
+  "topic_path": "Pedagogy > Teaching Methods > Learning environment",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q009",
@@ -277,7 +325,13 @@
   "needs_review": true,
   "review_notes": [
    "unusual number of language versions (4: beng,deva,deva,en)"
-  ]
+  ],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Insight learning",
+  "topic_path": "Pedagogy > Child Development > Insight learning",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q010",
@@ -307,7 +361,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Classroom interaction",
+  "topic_path": "Pedagogy > Teaching Methods > Classroom interaction",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q011",
@@ -337,7 +397,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "History of psychology",
+  "topic_path": "Pedagogy > Child Development > History of psychology",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q012",
@@ -367,7 +433,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Classical conditioning",
+  "topic_path": "Pedagogy > Child Development > Classical conditioning",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q013",
@@ -397,7 +469,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Prior knowledge",
+  "topic_path": "Pedagogy > Teaching Methods > Prior knowledge",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q014",
@@ -427,7 +505,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Deductive method",
+  "topic_path": "Pedagogy > Teaching Methods > Deductive method",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q015",
@@ -457,7 +541,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Lecture method",
+  "topic_path": "Pedagogy > Teaching Methods > Lecture method",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q016",
@@ -487,7 +577,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Inclusive Education",
+  "subtopic": "Gifted children",
+  "topic_path": "Pedagogy > Inclusive Education > Gifted children",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q017",
@@ -517,7 +613,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Meaning of pedagogy",
+  "topic_path": "Pedagogy > Teaching Methods > Meaning of pedagogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q018",
@@ -547,7 +649,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Freud theory",
+  "topic_path": "Pedagogy > Child Development > Freud theory",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q019",
@@ -577,7 +685,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Individual differences",
+  "topic_path": "Pedagogy > Child Development > Individual differences",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q020",
@@ -607,7 +721,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Questioning skills",
+  "topic_path": "Pedagogy > Teaching Methods > Questioning skills",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q021",
@@ -637,7 +757,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Motivation",
+  "topic_path": "Pedagogy > Child Development > Motivation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q022",
@@ -667,7 +793,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Developmental research methods",
+  "topic_path": "Pedagogy > Child Development > Developmental research methods",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q023",
@@ -697,7 +829,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Teacher as facilitator",
+  "topic_path": "Pedagogy > Teaching Methods > Teacher as facilitator",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q024",
@@ -727,7 +865,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Differentiated instruction",
+  "topic_path": "Pedagogy > Teaching Methods > Differentiated instruction",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q025",
@@ -757,7 +901,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Rousseau educational philosophy",
+  "topic_path": "Pedagogy > Teaching Methods > Rousseau educational philosophy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q026",
@@ -787,7 +937,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Micro-teaching",
+  "topic_path": "Pedagogy > Teaching Methods > Micro-teaching",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q027",
@@ -817,7 +973,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Early Childhood Care and Education",
+  "topic_path": "Polity > Indian Constitution > Early Childhood Care and Education",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q028",
@@ -847,7 +1009,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 29,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Inclusive Education",
+  "subtopic": "Hearing impairment",
+  "topic_path": "Pedagogy > Inclusive Education > Hearing impairment",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q029",
@@ -877,7 +1045,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 29,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Stages of development",
+  "topic_path": "Pedagogy > Child Development > Stages of development",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q030",
@@ -907,7 +1081,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Early Childhood Care and Education",
+  "topic_path": "Pedagogy > Teaching Methods > Early Childhood Care and Education",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q031",
@@ -937,7 +1117,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Prime numbers",
+  "topic_path": "Mathematics > Number System > Prime numbers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q032",
@@ -967,7 +1153,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Cylinders",
+  "topic_path": "Mathematics > Geometry & Mensuration > Cylinders",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q033",
@@ -997,7 +1189,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q034",
@@ -1027,7 +1225,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Perfect numbers",
+  "topic_path": "Mathematics > Number System > Perfect numbers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q035",
@@ -1057,7 +1261,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Computer",
+  "topic": "Computer & IT",
+  "subtopic": "History of computers",
+  "topic_path": "Computer > Computer & IT > History of computers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q036",
@@ -1087,7 +1297,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Mathematical operators",
+  "topic_path": "Reasoning > Verbal Reasoning > Mathematical operators",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q037",
@@ -1117,7 +1333,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q038",
@@ -1147,7 +1369,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Twin primes",
+  "topic_path": "Mathematics > Number System > Twin primes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q039",
@@ -1177,7 +1405,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q040",
@@ -1207,7 +1441,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Rhombus and rectangle areas",
+  "topic_path": "Mathematics > Geometry & Mensuration > Rhombus and rectangle areas",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q041",
@@ -1237,7 +1477,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 36,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Cuboids and cubes",
+  "topic_path": "Mathematics > Geometry & Mensuration > Cuboids and cubes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q042",
@@ -1267,7 +1513,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 36,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "LCM and HCF",
+  "topic_path": "Mathematics > Number System > LCM and HCF",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q043",
@@ -1297,7 +1549,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Clocks",
+  "topic_path": "Reasoning > Logical & Analytical > Clocks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q044",
@@ -1327,7 +1585,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Numeration systems",
+  "topic_path": "Mathematics > Number System > Numeration systems",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q045",
@@ -1363,7 +1627,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Squares and rectangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Squares and rectangles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q046",
@@ -1399,7 +1669,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 39,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Data Interpretation",
+  "subtopic": "Bar charts",
+  "topic_path": "Aptitude > Data Interpretation > Bar charts",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q047",
@@ -1429,7 +1705,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 39,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Statistics & Probability",
+  "subtopic": "Mean",
+  "topic_path": "Mathematics > Statistics & Probability > Mean",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q048",
@@ -1459,7 +1741,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 39,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Quadrilaterals",
+  "topic_path": "Mathematics > Geometry & Mensuration > Quadrilaterals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q049",
@@ -1489,7 +1777,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q050",
@@ -1519,7 +1813,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Prime numbers",
+  "topic_path": "Mathematics > Number System > Prime numbers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q051",
@@ -1549,7 +1849,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q052",
@@ -1579,7 +1885,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Triangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Triangles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q053",
@@ -1609,7 +1921,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q054",
@@ -1639,7 +1957,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Coprime numbers",
+  "topic_path": "Mathematics > Number System > Coprime numbers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q055",
@@ -1677,7 +2001,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 42,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Squares and rectangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Squares and rectangles",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q056",
@@ -1713,7 +2043,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Magic squares",
+  "topic_path": "Reasoning > Logical & Analytical > Magic squares",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q057",
@@ -1743,7 +2079,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Venn diagrams",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Venn diagrams",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q058",
@@ -1773,7 +2115,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Natural and whole numbers",
+  "topic_path": "Mathematics > Number System > Natural and whole numbers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q059",
@@ -1810,7 +2158,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 45,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Number series",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q060",
@@ -1849,7 +2203,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 45,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Odd figure out",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Odd figure out",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q061",
@@ -1879,7 +2239,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Assam Association",
+  "topic_path": "History > Assam History > Assam Association",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q062",
@@ -1909,7 +2275,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Literacy in India",
+  "topic_path": "Geography > Indian Geography > Literacy in India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q063",
@@ -1939,7 +2311,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Parliament",
+  "topic_path": "Polity > Indian Constitution > Parliament",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q064",
@@ -1969,7 +2347,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 48,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Soil conservation",
+  "topic_path": "Environment > Ecology & Environment > Soil conservation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q065",
@@ -1999,7 +2383,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 48,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Health & Medicine",
+  "subtopic": "Vitamin deficiency diseases",
+  "topic_path": "Science > Health & Medicine > Vitamin deficiency diseases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q066",
@@ -2029,7 +2419,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 49,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Borders of Assam",
+  "topic_path": "Geography > Assam Geography > Borders of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q067",
@@ -2059,7 +2455,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 49,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Computer",
+  "topic": "Computer & IT",
+  "subtopic": "Cybercrime",
+  "topic_path": "Computer > Computer & IT > Cybercrime",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q068",
@@ -2089,7 +2491,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 50,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Wildlife of Assam",
+  "topic_path": "Environment > Ecology & Environment > Wildlife of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q069",
@@ -2119,7 +2527,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 50,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Inclusive Education",
+  "subtopic": "Special education",
+  "topic_path": "Pedagogy > Inclusive Education > Special education",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q070",
@@ -2149,7 +2563,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Environmental Studies pedagogy",
+  "topic_path": "Pedagogy > Teaching Methods > Environmental Studies pedagogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q071",
@@ -2179,7 +2599,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Creativity and intelligence",
+  "topic_path": "Pedagogy > Child Development > Creativity and intelligence",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q072",
@@ -2209,7 +2635,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 52,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Greenhouse gases",
+  "topic_path": "Environment > Ecology & Environment > Greenhouse gases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q073",
@@ -2239,7 +2671,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 53,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Rivers of Assam",
+  "topic_path": "Geography > Assam Geography > Rivers of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q074",
@@ -2276,7 +2714,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 53,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Biology",
+  "subtopic": "Fertilisers",
+  "topic_path": "Science > Biology > Fertilisers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q075",
@@ -2306,7 +2750,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 54,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Thorndike laws of learning",
+  "topic_path": "Pedagogy > Child Development > Thorndike laws of learning",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q076",
@@ -2336,7 +2786,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 55,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "Important days",
+  "topic_path": "General Awareness > Miscellaneous > Important days",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q077",
@@ -2366,7 +2822,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 55,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Environmental legislation",
+  "topic_path": "Environment > Ecology & Environment > Environmental legislation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q078",
@@ -2402,7 +2864,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 56,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Driving",
+  "topic": "Traffic Rules & Signs",
+  "subtopic": "Traffic signs",
+  "topic_path": "Driving > Traffic Rules & Signs > Traffic signs",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q079",
@@ -2432,7 +2900,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 57,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Teaching Methods",
+  "subtopic": "Project method",
+  "topic_path": "Pedagogy > Teaching Methods > Project method",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q080",
@@ -2462,7 +2936,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 57,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Greenhouse gases",
+  "topic_path": "Environment > Ecology & Environment > Greenhouse gases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q081",
@@ -2492,7 +2972,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "Family and society",
+  "topic_path": "General Awareness > Miscellaneous > Family and society",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q082",
@@ -2522,7 +3008,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "Important days",
+  "topic_path": "General Awareness > Miscellaneous > Important days",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q083",
@@ -2552,7 +3044,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 59,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Health & Medicine",
+  "subtopic": "Air pollution and health",
+  "topic_path": "Science > Health & Medicine > Air pollution and health",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q084",
@@ -2582,7 +3080,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 59,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Physical Geography",
+  "subtopic": "Earthquakes",
+  "topic_path": "Geography > Physical Geography > Earthquakes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q085",
@@ -2612,7 +3116,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 60,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Environmental institutions",
+  "topic_path": "Environment > Ecology & Environment > Environmental institutions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q086",
@@ -2642,7 +3152,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 60,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Pedagogy",
+  "topic": "Child Development",
+  "subtopic": "Attention",
+  "topic_path": "Pedagogy > Child Development > Attention",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q087",
@@ -2672,7 +3188,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 61,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Festivals of Northeast India",
+  "topic_path": "Art & Culture > Indian Culture > Festivals of Northeast India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q088",
@@ -2702,7 +3224,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 61,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Physical Geography",
+  "subtopic": "Atmospheric layers",
+  "topic_path": "Geography > Physical Geography > Atmospheric layers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q089",
@@ -2732,7 +3260,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 62,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Ozone measurement",
+  "topic_path": "Environment > Ecology & Environment > Ozone measurement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q090",
@@ -2762,7 +3296,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 62,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Non-renewable resources",
+  "topic_path": "Environment > Ecology & Environment > Non-renewable resources",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q091",
@@ -2792,7 +3332,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 63,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Question tags",
+  "topic_path": "English > Grammar > Question tags",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q092",
@@ -2822,7 +3368,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 63,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Question tags",
+  "topic_path": "English > Grammar > Question tags",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q093",
@@ -2852,7 +3404,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 63,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Question tags",
+  "topic_path": "English > Grammar > Question tags",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q094",
@@ -2882,7 +3440,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 63,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Comparatives",
+  "topic_path": "English > Grammar > Comparatives",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q095",
@@ -2912,7 +3476,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 63,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Determiners",
+  "topic_path": "English > Grammar > Determiners",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q096",
@@ -2942,7 +3512,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 63,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Degrees of comparison",
+  "topic_path": "English > Grammar > Degrees of comparison",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q097",
@@ -2972,7 +3548,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 64,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Interrogative determiners",
+  "topic_path": "English > Grammar > Interrogative determiners",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q098",
@@ -3002,7 +3584,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 64,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Articles",
+  "topic_path": "English > Grammar > Articles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q099",
@@ -3037,7 +3625,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 64,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Articles",
+  "topic_path": "English > Grammar > Articles",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q100",
@@ -3067,7 +3661,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 64,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Cloze vocabulary",
+  "topic_path": "English > Vocabulary > Cloze vocabulary",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q101",
@@ -3097,7 +3697,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 64,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Cloze vocabulary",
+  "topic_path": "English > Vocabulary > Cloze vocabulary",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q102",
@@ -3127,7 +3733,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 64,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Cloze vocabulary",
+  "topic_path": "English > Vocabulary > Cloze vocabulary",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q103",
@@ -3157,7 +3769,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 64,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Cloze vocabulary",
+  "topic_path": "English > Vocabulary > Cloze vocabulary",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q104",
@@ -3187,7 +3805,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 64,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Subject-verb agreement",
+  "topic_path": "English > Grammar > Subject-verb agreement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q105",
@@ -3217,7 +3841,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 64,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Prepositions",
+  "topic_path": "English > Grammar > Prepositions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q106",
@@ -3247,7 +3877,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 65,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Phrasal verbs",
+  "topic_path": "English > Vocabulary > Phrasal verbs",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q107",
@@ -3277,7 +3913,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 65,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Correlative comparatives",
+  "topic_path": "English > Grammar > Correlative comparatives",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q108",
@@ -3307,7 +3949,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 65,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Conjunctions",
+  "topic_path": "English > Grammar > Conjunctions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q109",
@@ -3344,7 +3992,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 65,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Idioms and phrases",
+  "topic_path": "English > Vocabulary > Idioms and phrases",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q110",
@@ -3381,7 +4035,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 65,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Idioms and phrases",
+  "topic_path": "English > Vocabulary > Idioms and phrases",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q111",
@@ -3418,7 +4078,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 65,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Idioms and phrases",
+  "topic_path": "English > Vocabulary > Idioms and phrases",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q112",
@@ -3448,7 +4114,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 65,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence correction",
+  "topic_path": "English > Usage & Sentence Structure > Sentence correction",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q113",
@@ -3478,7 +4150,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 65,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence correction",
+  "topic_path": "English > Usage & Sentence Structure > Sentence correction",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "TET-2021-Special-Paper-I-Q114",
@@ -3508,7 +4186,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 66,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Subject-verb agreement",
+  "topic_path": "English > Grammar > Subject-verb agreement",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q115",
@@ -3538,7 +4222,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 66,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence correction",
+  "topic_path": "English > Usage & Sentence Structure > Sentence correction",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q116",
@@ -3568,7 +4258,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 66,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence correction",
+  "topic_path": "English > Usage & Sentence Structure > Sentence correction",
+  "classification_needs_review": true,
+  "classification_note": "Question text is absent; verify the label against the image and context."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q117",
@@ -3606,7 +4302,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 66,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence arrangement",
+  "topic_path": "English > Usage & Sentence Structure > Sentence arrangement",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q118",
@@ -3644,7 +4346,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 66,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence arrangement",
+  "topic_path": "English > Usage & Sentence Structure > Sentence arrangement",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q119",
@@ -3682,7 +4390,13 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 66,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence arrangement",
+  "topic_path": "English > Usage & Sentence Structure > Sentence arrangement",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "TET-2021-Special-Paper-I-Q120",
@@ -3717,6 +4431,12 @@
   "source_pdf": "exams/TET/2021/source/Special-Paper-I.pdf",
   "page": 66,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence arrangement",
+  "topic_path": "English > Usage & Sentence Structure > Sentence arrangement",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  }
 ]

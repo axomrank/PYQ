@@ -27,7 +27,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Olympics",
+  "topic_path": "General Awareness > Sports > Olympics",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q002",
@@ -57,7 +63,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "World capitals",
+  "topic_path": "Geography > World Geography > World capitals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q003",
@@ -87,7 +99,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Monuments of India",
+  "topic_path": "Art & Culture > Indian Culture > Monuments of India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q004",
@@ -117,7 +135,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Computer",
+  "topic": "Computer & IT",
+  "subtopic": "Hardware",
+  "topic_path": "Computer > Computer & IT > Hardware",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q005",
@@ -147,7 +171,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Mountain ranges",
+  "topic_path": "Geography > Indian Geography > Mountain ranges",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q006",
@@ -177,7 +207,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Rivers",
+  "topic_path": "Geography > Indian Geography > Rivers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q007",
@@ -207,7 +243,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Biology",
+  "subtopic": "Photosynthesis",
+  "topic_path": "Science > Biology > Photosynthesis",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q008",
@@ -243,7 +285,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 9,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Health & Medicine",
+  "subtopic": "Human body",
+  "topic_path": "Science > Health & Medicine > Human body",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q009",
@@ -273,7 +321,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Polygons",
+  "topic_path": "Mathematics > Geometry & Mensuration > Polygons",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q010",
@@ -303,7 +357,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Swimming",
+  "topic_path": "General Awareness > Sports > Swimming",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q011",
@@ -333,7 +393,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Biology",
+  "subtopic": "Birds",
+  "topic_path": "Science > Biology > Birds",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q012",
@@ -363,7 +429,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "National symbols",
+  "topic_path": "General Awareness > Miscellaneous > National symbols",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q013",
@@ -393,7 +465,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "Famous titles of persons",
+  "topic_path": "General Awareness > Important Persons > Famous titles of persons",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q014",
@@ -423,7 +501,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "Famous titles of persons",
+  "topic_path": "General Awareness > Important Persons > Famous titles of persons",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q015",
@@ -453,7 +537,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Computer",
+  "topic": "Computer & IT",
+  "subtopic": "Memory and storage",
+  "topic_path": "Computer > Computer & IT > Memory and storage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q016",
@@ -483,7 +573,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "National events",
+  "topic_path": "General Awareness > Miscellaneous > National events",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q017",
@@ -513,7 +609,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Music of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Music of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q018",
@@ -543,7 +645,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Ancient Indian literature",
+  "topic_path": "Art & Culture > Literature > Ancient Indian literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q019",
@@ -573,7 +681,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Science & Technology",
+  "subtopic": "Space telescopes",
+  "topic_path": "Science > Science & Technology > Space telescopes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q020",
@@ -603,7 +717,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ahom-Mughal wars",
+  "topic_path": "History > Assam History > Ahom-Mughal wars",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q021",
@@ -633,7 +753,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Medieval India",
+  "subtopic": "Mughal rulers",
+  "topic_path": "History > Medieval India > Mughal rulers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q022",
@@ -663,7 +789,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Union Territories",
+  "topic_path": "Polity > Indian Constitution > Union Territories",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q023",
@@ -693,7 +825,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Treaty of Yandabo",
+  "topic_path": "History > Assam History > Treaty of Yandabo",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q024",
@@ -723,7 +861,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Sanskrit literature",
+  "topic_path": "Art & Culture > Literature > Sanskrit literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q025",
@@ -753,7 +897,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Fairs of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Fairs of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q026",
@@ -783,7 +933,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "State symbols of Assam",
+  "topic_path": "General Awareness > Miscellaneous > State symbols of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q027",
@@ -813,7 +969,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Religious places of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Religious places of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q028",
@@ -843,7 +1005,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Ancient Indian scholars",
+  "topic_path": "History > Ancient India > Ancient Indian scholars",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q029",
@@ -873,7 +1041,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Schedules of the Constitution",
+  "topic_path": "Polity > Indian Constitution > Schedules of the Constitution",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q030",
@@ -903,7 +1077,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "State symbols",
+  "topic_path": "General Awareness > Miscellaneous > State symbols",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q031",
@@ -933,7 +1113,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "World History",
+  "subtopic": "World War II",
+  "topic_path": "History > World History > World War II",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q032",
@@ -963,7 +1149,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Assam Economy",
+  "subtopic": "Oil fields of Assam",
+  "topic_path": "Economy > Assam Economy > Oil fields of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q033",
@@ -993,7 +1185,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Koch kingdom",
+  "topic_path": "History > Assam History > Koch kingdom",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q034",
@@ -1023,7 +1221,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Festivals of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Festivals of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q035",
@@ -1053,7 +1257,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Crafts of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Crafts of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q036",
@@ -1083,7 +1293,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Assamese personalities",
+  "topic_path": "Art & Culture > Assam Culture > Assamese personalities",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q037",
@@ -1113,7 +1329,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ahom monuments",
+  "topic_path": "History > Assam History > Ahom monuments",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q038",
@@ -1143,7 +1365,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Rivers",
+  "topic_path": "Geography > Indian Geography > Rivers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q039",
@@ -1173,7 +1401,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Folk songs of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Folk songs of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q040",
@@ -1203,7 +1437,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Crafts of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Crafts of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q041",
@@ -1233,7 +1473,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Ratio and proportion",
+  "topic_path": "Mathematics > Arithmetic > Ratio and proportion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q042",
@@ -1263,7 +1509,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 29,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Successive percentage",
+  "topic_path": "Mathematics > Arithmetic > Successive percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q043",
@@ -1299,7 +1551,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Algebraic identities",
+  "topic_path": "Mathematics > Algebra > Algebraic identities",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q044",
@@ -1329,7 +1587,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Cubes",
+  "topic_path": "Mathematics > Geometry & Mensuration > Cubes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q045",
@@ -1359,7 +1623,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Pythagoras theorem",
+  "topic_path": "Mathematics > Geometry & Mensuration > Pythagoras theorem",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q046",
@@ -1389,7 +1659,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Averages",
+  "topic_path": "Mathematics > Arithmetic > Averages",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q047",
@@ -1419,7 +1695,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Profit and loss",
+  "topic_path": "Mathematics > Arithmetic > Profit and loss",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q048",
@@ -1449,7 +1731,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Ratio and proportion",
+  "topic_path": "Mathematics > Arithmetic > Ratio and proportion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q049",
@@ -1479,7 +1767,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Compound growth",
+  "topic_path": "Mathematics > Arithmetic > Compound growth",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q050",
@@ -1509,7 +1803,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Ratio and proportion",
+  "topic_path": "Mathematics > Arithmetic > Ratio and proportion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q051",
@@ -1539,7 +1839,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 36,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Squares",
+  "topic_path": "Mathematics > Geometry & Mensuration > Squares",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q052",
@@ -1569,7 +1875,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 36,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Work and time",
+  "topic_path": "Mathematics > Arithmetic > Work and time",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q053",
@@ -1599,7 +1911,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q054",
@@ -1636,7 +1954,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Recurring decimals",
+  "topic_path": "Mathematics > Number System > Recurring decimals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q055",
@@ -1666,7 +1990,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 39,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Triangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Triangles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q056",
@@ -1704,7 +2034,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 40,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "subtopic": "Radian measure",
+  "topic_path": "Mathematics > Trigonometry > Radian measure",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q057",
@@ -1741,7 +2077,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Square roots",
+  "topic_path": "Mathematics > Number System > Square roots",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q058",
@@ -1778,7 +2120,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Ratio and proportion",
+  "topic_path": "Mathematics > Arithmetic > Ratio and proportion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q059",
@@ -1808,7 +2156,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Algebraic identities",
+  "topic_path": "Mathematics > Algebra > Algebraic identities",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q060",
@@ -1838,7 +2192,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Pipes and cisterns",
+  "topic_path": "Mathematics > Arithmetic > Pipes and cisterns",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q061",
@@ -1868,7 +2228,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Antonyms",
+  "topic_path": "English > Vocabulary > Antonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q062",
@@ -1898,7 +2264,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Antonyms",
+  "topic_path": "English > Vocabulary > Antonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q063",
@@ -1928,7 +2300,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Antonyms",
+  "topic_path": "English > Vocabulary > Antonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q064",
@@ -1958,7 +2336,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Antonyms",
+  "topic_path": "English > Vocabulary > Antonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q065",
@@ -1988,7 +2372,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q066",
@@ -2018,7 +2408,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q067",
@@ -2048,7 +2444,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q068",
@@ -2078,7 +2480,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "One word substitution",
+  "topic_path": "English > Vocabulary > One word substitution",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q069",
@@ -2108,7 +2516,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "One word substitution",
+  "topic_path": "English > Vocabulary > One word substitution",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q070",
@@ -2138,7 +2552,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "One word substitution",
+  "topic_path": "English > Vocabulary > One word substitution",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q071",
@@ -2168,7 +2588,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Prepositions",
+  "topic_path": "English > Grammar > Prepositions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q072",
@@ -2198,7 +2624,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Prepositions",
+  "topic_path": "English > Grammar > Prepositions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q073",
@@ -2228,7 +2660,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Prepositions",
+  "topic_path": "English > Grammar > Prepositions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q074",
@@ -2258,7 +2696,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Prepositions",
+  "topic_path": "English > Grammar > Prepositions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q075",
@@ -2288,7 +2732,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence correction",
+  "topic_path": "English > Usage & Sentence Structure > Sentence correction",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q076",
@@ -2318,7 +2768,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence correction",
+  "topic_path": "English > Usage & Sentence Structure > Sentence correction",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q077",
@@ -2348,7 +2804,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Sentence correction",
+  "topic_path": "English > Usage & Sentence Structure > Sentence correction",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q078",
@@ -2378,7 +2840,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Fill in the blanks",
+  "topic_path": "English > Grammar > Fill in the blanks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q079",
@@ -2408,7 +2876,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Fill in the blanks",
+  "topic_path": "English > Grammar > Fill in the blanks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q080",
@@ -2438,7 +2912,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Fill in the blanks",
+  "topic_path": "English > Grammar > Fill in the blanks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q081",
@@ -2478,7 +2958,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Letter series",
+  "topic_path": "Reasoning > Verbal Reasoning > Letter series",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q082",
@@ -2508,7 +2994,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Number puzzles",
+  "topic_path": "Reasoning > Logical & Analytical > Number puzzles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q083",
@@ -2538,7 +3030,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Figure cutting",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Figure cutting",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q084",
@@ -2568,7 +3066,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 48,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Number relationship",
+  "topic_path": "Reasoning > Verbal Reasoning > Number relationship",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q085",
@@ -2598,7 +3102,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 49,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Number series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q086",
@@ -2628,7 +3138,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 49,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Coding-decoding",
+  "topic_path": "Reasoning > Verbal Reasoning > Coding-decoding",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q087",
@@ -2658,7 +3174,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Mathematical logic",
+  "topic_path": "Reasoning > Logical & Analytical > Mathematical logic",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q088",
@@ -2688,7 +3210,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Word analogy",
+  "topic_path": "Reasoning > Verbal Reasoning > Word analogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q089",
@@ -2718,7 +3246,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 52,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Matching pairs",
+  "topic_path": "Reasoning > Verbal Reasoning > Matching pairs",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q090",
@@ -2748,7 +3282,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 53,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Classification",
+  "topic_path": "Reasoning > Verbal Reasoning > Classification",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q091",
@@ -2778,7 +3318,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 53,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Time analogy",
+  "topic_path": "Reasoning > Verbal Reasoning > Time analogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q092",
@@ -2808,7 +3354,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 54,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q093",
@@ -2838,7 +3390,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 55,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Blood relations",
+  "topic_path": "Reasoning > Logical & Analytical > Blood relations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q094",
@@ -2868,7 +3426,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 55,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q095",
@@ -2898,7 +3462,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 56,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Number arrangement",
+  "topic_path": "Reasoning > Logical & Analytical > Number arrangement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q096",
@@ -2938,7 +3508,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Alphabet position",
+  "topic_path": "Reasoning > Verbal Reasoning > Alphabet position",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q097",
@@ -2968,7 +3544,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Ranking and order",
+  "topic_path": "Reasoning > Logical & Analytical > Ranking and order",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q098",
@@ -3004,7 +3586,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 60,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Paper cutting",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Paper cutting",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q099",
@@ -3042,7 +3630,13 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 61,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Venn diagrams",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Venn diagrams",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2022-G3-P5-Driver-Q100",
@@ -3079,6 +3673,12 @@
   "source_pdf": "exams/ADRE/2022/source/G3-P5-Driver.pdf",
   "page": 62,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Cube and dice",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Cube and dice",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  }
 ]

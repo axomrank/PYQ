@@ -27,7 +27,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Antonyms",
+  "topic_path": "English > Vocabulary > Antonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q002",
@@ -57,7 +63,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Punctuation",
+  "topic_path": "English > Grammar > Punctuation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q003",
@@ -87,7 +99,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Collective nouns",
+  "topic_path": "English > Vocabulary > Collective nouns",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q004",
@@ -117,7 +135,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Idioms and phrases",
+  "topic_path": "English > Vocabulary > Idioms and phrases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q005",
@@ -147,7 +171,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q006",
@@ -177,7 +207,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Spelling",
+  "topic_path": "English > Vocabulary > Spelling",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q007",
@@ -207,7 +243,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Fill in the blanks",
+  "topic_path": "English > Grammar > Fill in the blanks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q008",
@@ -237,7 +279,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Verbs",
+  "topic_path": "English > Grammar > Verbs",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q009",
@@ -274,7 +322,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 6,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "One word substitution",
+  "topic_path": "English > Vocabulary > One word substitution",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q010",
@@ -304,7 +358,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Prepositions",
+  "topic_path": "English > Grammar > Prepositions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q011",
@@ -334,7 +394,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Chola Empire",
+  "topic_path": "History > Ancient India > Chola Empire",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q012",
@@ -364,7 +430,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ahom kingdom",
+  "topic_path": "History > Assam History > Ahom kingdom",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q013",
@@ -394,7 +466,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "NITI Aayog",
+  "topic_path": "Polity > Governance & Institutions > NITI Aayog",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q014",
@@ -424,7 +502,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "State capitals",
+  "topic_path": "Geography > Indian Geography > State capitals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q015",
@@ -454,7 +538,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "World History",
+  "subtopic": "Ancient world",
+  "topic_path": "History > World History > Ancient world",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q016",
@@ -484,7 +574,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Borders of Assam",
+  "topic_path": "Geography > Assam Geography > Borders of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q017",
@@ -514,7 +610,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Parliament",
+  "topic_path": "Polity > Indian Constitution > Parliament",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q018",
@@ -544,7 +646,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Preamble",
+  "topic_path": "Polity > Indian Constitution > Preamble",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q019",
@@ -574,7 +682,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Mountain ranges",
+  "topic_path": "Geography > Indian Geography > Mountain ranges",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q020",
@@ -604,7 +718,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Districts of Assam",
+  "topic_path": "Geography > Assam Geography > Districts of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q021",
@@ -634,7 +754,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "Personalities of Assam",
+  "topic_path": "General Awareness > Important Persons > Personalities of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q022",
@@ -664,7 +790,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Scientific instruments",
+  "topic_path": "Science > Physics > Scientific instruments",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q023",
@@ -694,7 +826,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Festivals of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Festivals of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q024",
@@ -724,7 +862,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Physical Geography",
+  "subtopic": "Glaciers",
+  "topic_path": "Geography > Physical Geography > Glaciers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q025",
@@ -754,7 +898,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Borders of India",
+  "topic_path": "Geography > Indian Geography > Borders of India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q026",
@@ -784,7 +934,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Districts of Assam",
+  "topic_path": "Geography > Assam Geography > Districts of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q027",
@@ -814,7 +970,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "International boundaries",
+  "topic_path": "Geography > World Geography > International boundaries",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q028",
@@ -844,7 +1006,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Classical dances",
+  "topic_path": "Art & Culture > Indian Culture > Classical dances",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q029",
@@ -874,7 +1042,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Communities of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Communities of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q030",
@@ -904,7 +1078,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Countries",
+  "topic_path": "Geography > World Geography > Countries",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q031",
@@ -934,7 +1114,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Straits and canals",
+  "topic_path": "Geography > World Geography > Straits and canals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q032",
@@ -964,7 +1150,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Communities of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Communities of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q033",
@@ -994,7 +1186,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Hill stations",
+  "topic_path": "Geography > Indian Geography > Hill stations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q034",
@@ -1024,7 +1222,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Medieval India",
+  "subtopic": "Delhi Sultanate",
+  "topic_path": "History > Medieval India > Delhi Sultanate",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q035",
@@ -1054,7 +1258,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ancient Assam",
+  "topic_path": "History > Assam History > Ancient Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q036",
@@ -1084,7 +1294,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Preamble",
+  "topic_path": "Polity > Indian Constitution > Preamble",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q037",
@@ -1114,7 +1330,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Citizenship",
+  "topic_path": "Polity > Indian Constitution > Citizenship",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q038",
@@ -1144,7 +1366,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Chutiya kingdom",
+  "topic_path": "History > Assam History > Chutiya kingdom",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q039",
@@ -1174,7 +1402,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "World leaders",
+  "topic_path": "General Awareness > Important Persons > World leaders",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q040",
@@ -1204,7 +1438,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Rivers",
+  "topic_path": "Geography > Indian Geography > Rivers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q041",
@@ -1234,7 +1474,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Age problems",
+  "topic_path": "Mathematics > Arithmetic > Age problems",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q042",
@@ -1272,7 +1518,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 19,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Powers and exponents",
+  "topic_path": "Mathematics > Number System > Powers and exponents",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q043",
@@ -1302,7 +1554,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Ratio and proportion",
+  "topic_path": "Mathematics > Arithmetic > Ratio and proportion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q044",
@@ -1332,7 +1590,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Powers and exponents",
+  "topic_path": "Mathematics > Number System > Powers and exponents",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q045",
@@ -1369,7 +1633,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 21,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Square roots",
+  "topic_path": "Mathematics > Number System > Square roots",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q046",
@@ -1399,7 +1669,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Percentage",
+  "topic_path": "Mathematics > Arithmetic > Percentage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q047",
@@ -1429,7 +1705,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Roman numerals",
+  "topic_path": "Mathematics > Number System > Roman numerals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q048",
@@ -1465,7 +1747,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 22,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Polynomials",
+  "topic_path": "Mathematics > Algebra > Polynomials",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q049",
@@ -1503,7 +1791,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 22,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Recurring decimals",
+  "topic_path": "Mathematics > Number System > Recurring decimals",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q050",
@@ -1533,7 +1827,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Compound interest",
+  "topic_path": "Mathematics > Arithmetic > Compound interest",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q051",
@@ -1563,7 +1863,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Clock angles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Clock angles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q052",
@@ -1593,7 +1899,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Squares",
+  "topic_path": "Mathematics > Geometry & Mensuration > Squares",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q053",
@@ -1623,7 +1935,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Integers",
+  "topic_path": "Mathematics > Number System > Integers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q054",
@@ -1653,7 +1971,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Remainders",
+  "topic_path": "Mathematics > Number System > Remainders",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q055",
@@ -1690,7 +2014,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 25,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Algebraic identities",
+  "topic_path": "Mathematics > Algebra > Algebraic identities",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q056",
@@ -1720,7 +2050,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Sum of odd numbers",
+  "topic_path": "Mathematics > Number System > Sum of odd numbers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q057",
@@ -1750,7 +2086,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "LCM and HCF",
+  "topic_path": "Mathematics > Number System > LCM and HCF",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q058",
@@ -1780,7 +2122,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Calendar",
+  "topic_path": "Reasoning > Logical & Analytical > Calendar",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q059",
@@ -1810,7 +2158,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Divisibility",
+  "topic_path": "Mathematics > Number System > Divisibility",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q060",
@@ -1840,7 +2194,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Algebraic expressions",
+  "topic_path": "Mathematics > Algebra > Algebraic expressions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q061",
@@ -1870,7 +2230,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Olympics",
+  "topic_path": "General Awareness > Sports > Olympics",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q062",
@@ -1900,7 +2266,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "Inventors",
+  "topic_path": "General Awareness > Important Persons > Inventors",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q063",
@@ -1930,7 +2302,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 29,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Age problems",
+  "topic_path": "Mathematics > Arithmetic > Age problems",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q064",
@@ -1960,7 +2338,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 29,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Sportspersons of Assam",
+  "topic_path": "General Awareness > Sports > Sportspersons of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q065",
@@ -1990,7 +2374,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Hindi literature",
+  "topic_path": "Art & Culture > Literature > Hindi literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q066",
@@ -2020,7 +2410,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Rainforests",
+  "topic_path": "Geography > World Geography > Rainforests",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q067",
@@ -2050,7 +2446,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Biology",
+  "subtopic": "Micro-organisms",
+  "topic_path": "Science > Biology > Micro-organisms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q068",
@@ -2080,7 +2482,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "World arts",
+  "topic_path": "Art & Culture > Indian Culture > World arts",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q069",
@@ -2110,7 +2518,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Archaeological sites of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Archaeological sites of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q070",
@@ -2140,7 +2554,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "World currencies",
+  "topic_path": "Geography > World Geography > World currencies",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q071",
@@ -2170,7 +2590,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Countries",
+  "topic_path": "Geography > World Geography > Countries",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q072",
@@ -2200,7 +2626,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Awards & Honours",
+  "subtopic": "Nobel Prize",
+  "topic_path": "General Awareness > Awards & Honours > Nobel Prize",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q073",
@@ -2230,7 +2662,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Awards & Honours",
+  "subtopic": "Gallantry awards",
+  "topic_path": "General Awareness > Awards & Honours > Gallantry awards",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q074",
@@ -2260,7 +2698,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Quit India Movement",
+  "topic_path": "History > Modern India & Freedom Struggle > Quit India Movement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q075",
@@ -2290,7 +2734,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "National flags",
+  "topic_path": "General Awareness > Miscellaneous > National flags",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q076",
@@ -2320,7 +2770,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Health & Medicine",
+  "subtopic": "Human body",
+  "topic_path": "Science > Health & Medicine > Human body",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q077",
@@ -2350,7 +2806,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Assamese personalities",
+  "topic_path": "Art & Culture > Assam Culture > Assamese personalities",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q078",
@@ -2380,7 +2842,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 36,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Religious places of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Religious places of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q079",
@@ -2410,7 +2878,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "Administrative divisions",
+  "topic_path": "Polity > Assam Administration > Administrative divisions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q080",
@@ -2440,7 +2914,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Monuments of India",
+  "topic_path": "Art & Culture > Indian Culture > Monuments of India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q081",
@@ -2470,7 +2950,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "International Relations",
+  "subtopic": "India-China relations",
+  "topic_path": "Polity > International Relations > India-China relations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q082",
@@ -2500,7 +2986,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Assamese literature",
+  "topic_path": "Art & Culture > Literature > Assamese literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q083",
@@ -2530,7 +3022,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 39,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "UNESCO sites in Assam",
+  "topic_path": "Geography > Assam Geography > UNESCO sites in Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q084",
@@ -2560,7 +3058,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 39,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Assamese literature",
+  "topic_path": "Art & Culture > Literature > Assamese literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q085",
@@ -2590,7 +3094,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Organisations",
+  "subtopic": "Airlines",
+  "topic_path": "General Awareness > Organisations > Airlines",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q086",
@@ -2620,7 +3130,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Tennis",
+  "topic_path": "General Awareness > Sports > Tennis",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q087",
@@ -2650,7 +3166,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Health & Medicine",
+  "subtopic": "Vitamins",
+  "topic_path": "Science > Health & Medicine > Vitamins",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q088",
@@ -2680,7 +3202,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Medieval India",
+  "subtopic": "Vijayanagara Empire",
+  "topic_path": "History > Medieval India > Vijayanagara Empire",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q089",
@@ -2710,7 +3238,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Energy sources",
+  "topic_path": "Environment > Ecology & Environment > Energy sources",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q090",
@@ -2740,7 +3274,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Assamese literature",
+  "topic_path": "Art & Culture > Literature > Assamese literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q091",
@@ -2770,7 +3310,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "International Relations",
+  "subtopic": "United Nations",
+  "topic_path": "Polity > International Relations > United Nations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q092",
@@ -2800,7 +3346,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "Cinema",
+  "topic_path": "General Awareness > Miscellaneous > Cinema",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q093",
@@ -2830,7 +3382,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Union ministers",
+  "topic_path": "Polity > Governance & Institutions > Union ministers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q094",
@@ -2860,7 +3418,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Cricket",
+  "topic_path": "General Awareness > Sports > Cricket",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q095",
@@ -2890,7 +3454,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "Defence ranks",
+  "topic_path": "General Awareness > Miscellaneous > Defence ranks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q096",
@@ -2920,7 +3490,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Letter series",
+  "topic_path": "Reasoning > Verbal Reasoning > Letter series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q097",
@@ -2950,7 +3526,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Statement and conclusion",
+  "topic_path": "Reasoning > Logical & Analytical > Statement and conclusion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q098",
@@ -2984,7 +3566,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 47,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Logical puzzles",
+  "topic_path": "Reasoning > Logical & Analytical > Logical puzzles",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q099",
@@ -3014,7 +3602,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 48,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Direction sense",
+  "topic_path": "Reasoning > Logical & Analytical > Direction sense",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q100",
@@ -3044,7 +3638,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 49,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Dictionary order",
+  "topic_path": "Reasoning > Verbal Reasoning > Dictionary order",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q101",
@@ -3074,7 +3674,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 49,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Number pattern",
+  "topic_path": "Reasoning > Verbal Reasoning > Number pattern",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q102",
@@ -3104,7 +3710,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 50,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Cube and dice",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Cube and dice",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q103",
@@ -3141,7 +3753,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 50,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Number matrix",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Number matrix",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q104",
@@ -3171,7 +3789,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Direction sense",
+  "topic_path": "Reasoning > Logical & Analytical > Direction sense",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q105",
@@ -3201,7 +3825,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 51,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Units and powers",
+  "topic_path": "Mathematics > Number System > Units and powers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q106",
@@ -3231,7 +3861,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 52,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Word analysis",
+  "topic_path": "Reasoning > Verbal Reasoning > Word analysis",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q107",
@@ -3268,7 +3904,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 52,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Counting figures",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Counting figures",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q108",
@@ -3298,7 +3940,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 53,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q109",
@@ -3328,7 +3976,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 53,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Age problems",
+  "topic_path": "Mathematics > Arithmetic > Age problems",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q110",
@@ -3358,7 +4012,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 54,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Word meaning",
+  "topic_path": "Reasoning > Verbal Reasoning > Word meaning",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q111",
@@ -3388,7 +4048,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 54,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Number series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q112",
@@ -3418,7 +4084,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 55,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Syllogism and statements",
+  "topic_path": "Reasoning > Logical & Analytical > Syllogism and statements",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q113",
@@ -3448,7 +4120,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 56,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Letter series",
+  "topic_path": "Reasoning > Verbal Reasoning > Letter series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q114",
@@ -3478,7 +4156,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 56,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Roman numerals",
+  "topic_path": "Mathematics > Number System > Roman numerals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q115",
@@ -3508,7 +4192,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 57,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Blood relations",
+  "topic_path": "Reasoning > Logical & Analytical > Blood relations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q116",
@@ -3545,7 +4235,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 57,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Odd figure out",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Odd figure out",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q117",
@@ -3582,7 +4278,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Letter series",
+  "topic_path": "Reasoning > Verbal Reasoning > Letter series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q118",
@@ -3612,7 +4314,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Mathematical operations",
+  "topic_path": "Reasoning > Logical & Analytical > Mathematical operations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q119",
@@ -3642,7 +4350,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 59,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd pair",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd pair",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q120",
@@ -3672,7 +4386,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 60,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Mathematical operations",
+  "topic_path": "Reasoning > Logical & Analytical > Mathematical operations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q121",
@@ -3708,7 +4428,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 60,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Number pattern in figure",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Number pattern in figure",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q122",
@@ -3738,7 +4464,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 62,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Spelling",
+  "topic_path": "English > Vocabulary > Spelling",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q123",
@@ -3768,7 +4500,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 62,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Roman numerals",
+  "topic_path": "Mathematics > Number System > Roman numerals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q124",
@@ -3798,7 +4536,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 62,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Coding-decoding",
+  "topic_path": "Reasoning > Verbal Reasoning > Coding-decoding",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q125",
@@ -3828,7 +4572,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 63,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Number puzzles",
+  "topic_path": "Reasoning > Logical & Analytical > Number puzzles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q126",
@@ -3858,7 +4608,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 63,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Time sequence",
+  "topic_path": "Reasoning > Logical & Analytical > Time sequence",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q127",
@@ -3888,7 +4644,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 64,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Inequalities",
+  "topic_path": "Mathematics > Algebra > Inequalities",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q128",
@@ -3918,7 +4680,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 64,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Number arrangement",
+  "topic_path": "Reasoning > Logical & Analytical > Number arrangement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q129",
@@ -3948,7 +4716,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 65,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Direction sense",
+  "topic_path": "Reasoning > Logical & Analytical > Direction sense",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q130",
@@ -3978,7 +4752,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 65,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Word analysis",
+  "topic_path": "Reasoning > Verbal Reasoning > Word analysis",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q131",
@@ -4008,7 +4788,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 66,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Coding-decoding",
+  "topic_path": "Reasoning > Verbal Reasoning > Coding-decoding",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q132",
@@ -4038,7 +4824,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 66,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q133",
@@ -4068,7 +4860,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 67,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Word formation",
+  "topic_path": "Reasoning > Verbal Reasoning > Word formation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q134",
@@ -4098,7 +4896,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 67,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Logical order of words",
+  "topic_path": "Reasoning > Verbal Reasoning > Logical order of words",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P1-HSLC-Q135",
@@ -4128,6 +4932,12 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P1-HSLC.pdf",
   "page": 68,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Coding-decoding",
+  "topic_path": "Reasoning > Verbal Reasoning > Coding-decoding",
+  "classification_needs_review": false,
+  "classification_note": ""
  }
 ]

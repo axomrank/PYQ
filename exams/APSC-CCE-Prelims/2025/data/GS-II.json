@@ -36,7 +36,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage inference",
+  "topic_path": "English > Reading Comprehension > Passage inference",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q002",
@@ -68,7 +74,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 2,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage details",
+  "topic_path": "English > Reading Comprehension > Passage details",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q003",
@@ -107,7 +119,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Central idea",
+  "topic_path": "English > Reading Comprehension > Central idea",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q004",
@@ -146,7 +164,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage inference",
+  "topic_path": "English > Reading Comprehension > Passage inference",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q005",
@@ -178,7 +202,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 3,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Character interpretation",
+  "topic_path": "English > Reading Comprehension > Character interpretation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q006",
@@ -210,7 +240,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 3,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Metaphor interpretation",
+  "topic_path": "English > Reading Comprehension > Metaphor interpretation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q007",
@@ -249,7 +285,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Author argument",
+  "topic_path": "English > Reading Comprehension > Author argument",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q008",
@@ -281,7 +323,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 4,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage inference",
+  "topic_path": "English > Reading Comprehension > Passage inference",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q009",
@@ -313,7 +361,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 5,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Author intention",
+  "topic_path": "English > Reading Comprehension > Author intention",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q010",
@@ -345,7 +399,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 5,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Word meaning in context",
+  "topic_path": "English > Reading Comprehension > Word meaning in context",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q011",
@@ -385,7 +445,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage details",
+  "topic_path": "English > Reading Comprehension > Passage details",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q012",
@@ -417,7 +483,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 5,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Word meaning in context",
+  "topic_path": "English > Reading Comprehension > Word meaning in context",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q013",
@@ -456,7 +528,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Punctuation",
+  "topic_path": "English > Grammar > Punctuation",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q014",
@@ -488,7 +566,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Word usage",
+  "topic_path": "English > Usage & Sentence Structure > Word usage",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q015",
@@ -528,7 +612,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Active listening",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Active listening",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q016",
@@ -560,7 +650,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Empathy in communication",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Empathy in communication",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q017",
@@ -600,7 +696,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Word usage",
+  "topic_path": "English > Usage & Sentence Structure > Word usage",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q018",
@@ -640,7 +742,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Communication process",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Communication process",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q019",
@@ -680,7 +788,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Communication channels",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Communication channels",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q020",
@@ -712,7 +826,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage details",
+  "topic_path": "English > Reading Comprehension > Passage details",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q021",
@@ -744,7 +864,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Word meaning in context",
+  "topic_path": "English > Reading Comprehension > Word meaning in context",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q022",
@@ -776,7 +902,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage inference",
+  "topic_path": "English > Reading Comprehension > Passage inference",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q023",
@@ -815,7 +947,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Non-verbal communication",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Non-verbal communication",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q024",
@@ -847,7 +985,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Communication & Interpersonal Skills",
+  "subtopic": "Decoding messages",
+  "topic_path": "Aptitude > Communication & Interpersonal Skills > Decoding messages",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q025",
@@ -879,7 +1023,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Word meaning",
+  "topic_path": "English > Vocabulary > Word meaning",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q026",
@@ -911,7 +1061,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Central idea",
+  "topic_path": "English > Reading Comprehension > Central idea",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q027",
@@ -943,7 +1099,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Passage inference",
+  "topic_path": "English > Reading Comprehension > Passage inference",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q028",
@@ -975,7 +1137,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "subtopic": "Word meaning in context",
+  "topic_path": "English > Reading Comprehension > Word meaning in context",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q029",
@@ -1007,7 +1175,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Direction sense",
+  "topic_path": "Reasoning > Logical & Analytical > Direction sense",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q030",
@@ -1047,7 +1221,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Blood relations",
+  "topic_path": "Reasoning > Logical & Analytical > Blood relations",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q031",
@@ -1084,7 +1264,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 11,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Family relationship puzzles",
+  "topic_path": "Reasoning > Logical & Analytical > Family relationship puzzles",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q032",
@@ -1123,7 +1309,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Linear equations",
+  "topic_path": "Mathematics > Algebra > Linear equations",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q033",
@@ -1162,7 +1354,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Mixtures and alligation",
+  "topic_path": "Mathematics > Arithmetic > Mixtures and alligation",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q034",
@@ -1194,7 +1392,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Decision Making",
+  "subtopic": "Civic responsibility",
+  "topic_path": "Aptitude > Decision Making > Civic responsibility",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q035",
@@ -1235,7 +1439,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Number grid puzzles",
+  "topic_path": "Reasoning > Logical & Analytical > Number grid puzzles",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q036",
@@ -1275,7 +1485,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q037",
@@ -1315,7 +1531,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Number series",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q038",
@@ -1356,7 +1578,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Number series",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q040",
@@ -1393,7 +1621,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Assertion and reason",
+  "topic_path": "Reasoning > Logical & Analytical > Assertion and reason",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q041",
@@ -1433,7 +1667,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Eligibility criteria",
+  "topic_path": "Reasoning > Logical & Analytical > Eligibility criteria",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q042",
@@ -1465,7 +1705,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Cause and effect",
+  "topic_path": "Reasoning > Logical & Analytical > Cause and effect",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q043",
@@ -1505,7 +1751,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Truth and lies",
+  "topic_path": "Reasoning > Logical & Analytical > Truth and lies",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q044",
@@ -1545,7 +1797,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Coding-decoding",
+  "topic_path": "Reasoning > Verbal Reasoning > Coding-decoding",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q045",
@@ -1577,7 +1835,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Time and rates",
+  "topic_path": "Mathematics > Arithmetic > Time and rates",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q046",
@@ -1617,7 +1881,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Number series",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q047",
@@ -1657,7 +1927,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Digit puzzles",
+  "topic_path": "Reasoning > Logical & Analytical > Digit puzzles",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q048",
@@ -1697,7 +1973,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Simplification",
+  "topic_path": "Mathematics > Number System > Simplification",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q049",
@@ -1737,7 +2019,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Syllogisms",
+  "topic_path": "Reasoning > Logical & Analytical > Syllogisms",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q050",
@@ -1769,7 +2057,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Statement and conclusion",
+  "topic_path": "Reasoning > Logical & Analytical > Statement and conclusion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q051",
@@ -1809,7 +2103,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Polynomial equations",
+  "topic_path": "Mathematics > Algebra > Polynomial equations",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q052",
@@ -1849,7 +2149,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Prime factors",
+  "topic_path": "Mathematics > Number System > Prime factors",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q053",
@@ -1890,7 +2196,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Indices",
+  "topic_path": "Mathematics > Number System > Indices",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q055",
@@ -1929,7 +2241,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Surds and roots",
+  "topic_path": "Mathematics > Number System > Surds and roots",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q056",
@@ -1970,7 +2288,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Summation of fractions",
+  "topic_path": "Mathematics > Number System > Summation of fractions",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q057",
@@ -2002,7 +2326,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "LCM and HCF",
+  "topic_path": "Mathematics > Number System > LCM and HCF",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q058",
@@ -2042,7 +2372,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Ratio and proportion",
+  "topic_path": "Mathematics > Arithmetic > Ratio and proportion",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q059",
@@ -2082,7 +2418,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Percentage change in area",
+  "topic_path": "Mathematics > Geometry & Mensuration > Percentage change in area",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q060",
@@ -2123,7 +2465,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Statistics & Probability",
+  "subtopic": "Mean",
+  "topic_path": "Mathematics > Statistics & Probability > Mean",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q061",
@@ -2163,7 +2511,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Circles and cylinders",
+  "topic_path": "Mathematics > Geometry & Mensuration > Circles and cylinders",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q062",
@@ -2202,7 +2556,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Data sufficiency",
+  "topic_path": "Reasoning > Logical & Analytical > Data sufficiency",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q063",
@@ -2242,7 +2602,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Polygons",
+  "topic_path": "Mathematics > Geometry & Mensuration > Polygons",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q064",
@@ -2274,7 +2640,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Integers",
+  "topic_path": "Mathematics > Number System > Integers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q065",
@@ -2314,7 +2686,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Surds and roots",
+  "topic_path": "Mathematics > Number System > Surds and roots",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q066",
@@ -2354,7 +2732,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Remainders",
+  "topic_path": "Mathematics > Number System > Remainders",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q067",
@@ -2394,7 +2778,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Aptitude",
+  "topic": "Decision Making",
+  "subtopic": "Team management",
+  "topic_path": "Aptitude > Decision Making > Team management",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q068",
@@ -2434,7 +2824,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Assignment puzzles",
+  "topic_path": "Reasoning > Logical & Analytical > Assignment puzzles",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q069",
@@ -2474,7 +2870,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Time sequence",
+  "topic_path": "Reasoning > Logical & Analytical > Time sequence",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q070",
@@ -2507,7 +2909,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Decision Making",
+  "subtopic": "Presentation skills",
+  "topic_path": "Aptitude > Decision Making > Presentation skills",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q071",
@@ -2539,7 +2947,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Decision Making",
+  "subtopic": "Integrity and accountability",
+  "topic_path": "Aptitude > Decision Making > Integrity and accountability",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q072",
@@ -2575,7 +2989,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-II.pdf",
   "page": 28,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Aptitude",
+  "topic": "Decision Making",
+  "subtopic": "Inclusive team leadership",
+  "topic_path": "Aptitude > Decision Making > Inclusive team leadership",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q073",
@@ -2615,7 +3035,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Selection puzzles",
+  "topic_path": "Reasoning > Logical & Analytical > Selection puzzles",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q074",
@@ -2655,7 +3081,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Aptitude",
+  "topic": "Data Interpretation",
+  "subtopic": "Tables",
+  "topic_path": "Aptitude > Data Interpretation > Tables",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q075",
@@ -2695,7 +3127,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Aptitude",
+  "topic": "Data Interpretation",
+  "subtopic": "Tables",
+  "topic_path": "Aptitude > Data Interpretation > Tables",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q076",
@@ -2735,7 +3173,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Profit, loss and discount",
+  "topic_path": "Mathematics > Arithmetic > Profit, loss and discount",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q077",
@@ -2775,7 +3219,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Aptitude",
+  "topic": "Data Interpretation",
+  "subtopic": "Tables",
+  "topic_path": "Aptitude > Data Interpretation > Tables",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-II-Q080",
@@ -2814,6 +3264,12 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Syllogisms",
+  "topic_path": "Reasoning > Logical & Analytical > Syllogisms",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  }
 ]

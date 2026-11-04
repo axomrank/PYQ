@@ -29,7 +29,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 2,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Assamese language",
+  "topic_path": "Art & Culture > Assam Culture > Assamese language",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q002",
@@ -69,7 +75,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Monuments of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Monuments of Assam",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q003",
@@ -101,7 +113,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 3,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Chess",
+  "topic_path": "General Awareness > Sports > Chess",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q004",
@@ -138,7 +156,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 3,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Languages of India",
+  "topic_path": "Art & Culture > Indian Culture > Languages of India",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q005",
@@ -174,7 +198,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 3,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "Assam Legislative Assembly",
+  "topic_path": "Polity > Assam Administration > Assam Legislative Assembly",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q006",
@@ -210,7 +240,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 4,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Awards & Honours",
+  "subtopic": "Civilian honours",
+  "topic_path": "General Awareness > Awards & Honours > Civilian honours",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q007",
@@ -250,7 +286,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "General Awareness",
+  "topic": "Books & Authors",
+  "subtopic": "Books on Assam history",
+  "topic_path": "General Awareness > Books & Authors > Books on Assam history",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q008",
@@ -282,7 +324,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 5,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Straits",
+  "topic_path": "Geography > World Geography > Straits",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q010",
@@ -322,7 +370,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Neo-Vaishnavism and Sattras",
+  "topic_path": "Art & Culture > Assam Culture > Neo-Vaishnavism and Sattras",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q011",
@@ -362,7 +416,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Environmental movements",
+  "topic_path": "Environment > Ecology & Environment > Environmental movements",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q012",
@@ -402,7 +462,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "General Awareness",
+  "topic": "Books & Authors",
+  "subtopic": "Books and authors",
+  "topic_path": "General Awareness > Books & Authors > Books and authors",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q013",
@@ -438,7 +504,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Rivers of Assam",
+  "topic_path": "Geography > Assam Geography > Rivers of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q014",
@@ -470,7 +542,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "International Relations",
+  "subtopic": "International organisations",
+  "topic_path": "Polity > International Relations > International organisations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q015",
@@ -510,7 +588,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Polity",
+  "topic": "International Relations",
+  "subtopic": "BRICS",
+  "topic_path": "Polity > International Relations > BRICS",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q016",
@@ -550,7 +634,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Economy",
+  "topic": "Indian Economy",
+  "subtopic": "Energy security",
+  "topic_path": "Economy > Indian Economy > Energy security",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q017",
@@ -582,7 +672,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Carbon capture",
+  "topic_path": "Environment > Ecology & Environment > Carbon capture",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q018",
@@ -614,7 +710,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Climate finance",
+  "topic_path": "Environment > Ecology & Environment > Climate finance",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q019",
@@ -654,7 +756,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Computer",
+  "topic": "Computer & IT",
+  "subtopic": "Quantum computing",
+  "topic_path": "Computer > Computer & IT > Quantum computing",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q020",
@@ -686,7 +794,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Football",
+  "topic_path": "General Awareness > Sports > Football",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q021",
@@ -718,7 +832,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Ancient art and archaeology",
+  "topic_path": "History > Ancient India > Ancient art and archaeology",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q023",
@@ -759,7 +879,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Harshavardhana",
+  "topic_path": "History > Ancient India > Harshavardhana",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q024",
@@ -799,7 +925,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Vedic civilisation",
+  "topic_path": "History > Ancient India > Vedic civilisation",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q025",
@@ -838,7 +970,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ancient inscriptions of Assam",
+  "topic_path": "History > Assam History > Ancient inscriptions of Assam",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q026",
@@ -878,7 +1016,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Indus Valley Civilisation",
+  "topic_path": "History > Ancient India > Indus Valley Civilisation",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q027",
@@ -910,7 +1054,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Karbi political history",
+  "topic_path": "History > Assam History > Karbi political history",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q028",
@@ -942,7 +1092,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ahom rulers",
+  "topic_path": "History > Assam History > Ahom rulers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q030",
@@ -982,7 +1138,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ahom rulers",
+  "topic_path": "History > Assam History > Ahom rulers",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q031",
@@ -1021,7 +1183,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Indigo Revolt and Nil Darpan",
+  "topic_path": "History > Modern India & Freedom Struggle > Indigo Revolt and Nil Darpan",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q032",
@@ -1060,7 +1228,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Nationalist ideologies",
+  "topic_path": "History > Modern India & Freedom Struggle > Nationalist ideologies",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q033",
@@ -1101,7 +1275,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Jainism",
+  "topic_path": "History > Ancient India > Jainism",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q034",
@@ -1141,7 +1321,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Assamese literature",
+  "topic_path": "Art & Culture > Assam Culture > Assamese literature",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q035",
@@ -1181,7 +1367,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Ahom foreign relations",
+  "topic_path": "History > Assam History > Ahom foreign relations",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q036",
@@ -1221,7 +1413,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Rock systems",
+  "topic_path": "Geography > Indian Geography > Rock systems",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q037",
@@ -1261,7 +1459,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Soils of Assam",
+  "topic_path": "Geography > Assam Geography > Soils of Assam",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q038",
@@ -1302,7 +1506,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Festivals of Northeast India",
+  "topic_path": "Art & Culture > Indian Culture > Festivals of Northeast India",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q039",
@@ -1342,7 +1552,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Languages of India",
+  "topic_path": "Art & Culture > Indian Culture > Languages of India",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q040",
@@ -1374,7 +1590,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Demography of Assam",
+  "topic_path": "Geography > Assam Geography > Demography of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q041",
@@ -1414,7 +1636,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Equatorial countries",
+  "topic_path": "Geography > World Geography > Equatorial countries",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q042",
@@ -1450,7 +1678,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Rivers of Assam",
+  "topic_path": "Geography > Assam Geography > Rivers of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q043",
@@ -1490,7 +1724,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "National parks of Assam",
+  "topic_path": "Geography > Assam Geography > National parks of Assam",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q044",
@@ -1526,7 +1766,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Traditional dress",
+  "topic_path": "Art & Culture > Assam Culture > Traditional dress",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q045",
@@ -1567,7 +1813,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Wildlife sanctuaries of Assam",
+  "topic_path": "Environment > Ecology & Environment > Wildlife sanctuaries of Assam",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q046",
@@ -1607,7 +1859,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Volcanoes and islands",
+  "topic_path": "Geography > World Geography > Volcanoes and islands",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q047",
@@ -1647,7 +1905,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Straits and canals",
+  "topic_path": "Geography > World Geography > Straits and canals",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q048",
@@ -1687,7 +1951,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Monsoon",
+  "topic_path": "Geography > Indian Geography > Monsoon",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q049",
@@ -1719,7 +1989,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Forest cover",
+  "topic_path": "Environment > Ecology & Environment > Forest cover",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q050",
@@ -1759,7 +2035,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Geography",
+  "topic": "Physical Geography",
+  "subtopic": "Ocean currents",
+  "topic_path": "Geography > Physical Geography > Ocean currents",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q051",
@@ -1791,7 +2073,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "State schemes of Assam",
+  "topic_path": "Polity > Assam Administration > State schemes of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q052",
@@ -1823,7 +2111,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Transgender rights legislation",
+  "topic_path": "Polity > Governance & Institutions > Transgender rights legislation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q053",
@@ -1855,7 +2149,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Civil services recruitment",
+  "topic_path": "Polity > Governance & Institutions > Civil services recruitment",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q054",
@@ -1887,7 +2187,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "NITI Aayog",
+  "topic_path": "Polity > Governance & Institutions > NITI Aayog",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q055",
@@ -1927,7 +2233,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "State schemes of Assam",
+  "topic_path": "Polity > Assam Administration > State schemes of Assam",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q056",
@@ -1959,7 +2271,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "National Action Plan on Climate Change",
+  "topic_path": "Environment > Ecology & Environment > National Action Plan on Climate Change",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q057",
@@ -1991,7 +2309,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 29,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "International Relations",
+  "subtopic": "Act East Policy",
+  "topic_path": "Polity > International Relations > Act East Policy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q058",
@@ -2023,7 +2347,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Military operations after independence",
+  "topic_path": "History > Modern India & Freedom Struggle > Military operations after independence",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q059",
@@ -2063,7 +2393,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "Panchayati Raj in Assam",
+  "topic_path": "Polity > Assam Administration > Panchayati Raj in Assam",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q060",
@@ -2095,7 +2431,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "Commissions and committees of Assam",
+  "topic_path": "Polity > Assam Administration > Commissions and committees of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q061",
@@ -2134,7 +2476,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Economy",
+  "topic": "Indian Economy",
+  "subtopic": "Creative economy",
+  "topic_path": "Economy > Indian Economy > Creative economy",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q062",
@@ -2166,7 +2514,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Parliamentary proceedings",
+  "topic_path": "Polity > Indian Constitution > Parliamentary proceedings",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q063",
@@ -2205,7 +2559,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Anti-defection law",
+  "topic_path": "Polity > Indian Constitution > Anti-defection law",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q064",
@@ -2237,7 +2597,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Supreme Court",
+  "topic_path": "Polity > Indian Constitution > Supreme Court",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q065",
@@ -2276,7 +2642,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Digital privacy and consent",
+  "topic_path": "Polity > Governance & Institutions > Digital privacy and consent",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q066",
@@ -2308,7 +2680,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Criminal courts",
+  "topic_path": "Polity > Governance & Institutions > Criminal courts",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q067",
@@ -2348,7 +2726,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Economy",
+  "topic": "Indian Economy",
+  "subtopic": "Border trade",
+  "topic_path": "Economy > Indian Economy > Border trade",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q068",
@@ -2388,7 +2772,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Particularly Vulnerable Tribal Groups",
+  "topic_path": "Polity > Governance & Institutions > Particularly Vulnerable Tribal Groups",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q069",
@@ -2428,7 +2818,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Special provisions for states",
+  "topic_path": "Polity > Indian Constitution > Special provisions for states",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q070",
@@ -2468,7 +2864,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "State schemes of Assam",
+  "topic_path": "Polity > Assam Administration > State schemes of Assam",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q071",
@@ -2500,7 +2902,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "GST Council",
+  "topic_path": "Polity > Indian Constitution > GST Council",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q072",
@@ -2536,7 +2944,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Ramsar sites",
+  "topic_path": "Environment > Ecology & Environment > Ramsar sites",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q073",
@@ -2568,7 +2982,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Sustainable development",
+  "topic_path": "Environment > Ecology & Environment > Sustainable development",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q074",
@@ -2608,7 +3028,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Economy",
+  "topic": "Economic Concepts",
+  "subtopic": "Institutions and development",
+  "topic_path": "Economy > Economic Concepts > Institutions and development",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q075",
@@ -2648,7 +3074,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Economy",
+  "topic": "Economic Concepts",
+  "subtopic": "Development theories",
+  "topic_path": "Economy > Economic Concepts > Development theories",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q076",
@@ -2688,7 +3120,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Urban employment schemes",
+  "topic_path": "Polity > Governance & Institutions > Urban employment schemes",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q077",
@@ -2724,7 +3162,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Indian Economy",
+  "subtopic": "Poverty measurement",
+  "topic_path": "Economy > Indian Economy > Poverty measurement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q078",
@@ -2756,7 +3200,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "Rural livelihood programmes",
+  "topic_path": "Polity > Assam Administration > Rural livelihood programmes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q079",
@@ -2788,7 +3238,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Education schemes",
+  "topic_path": "Polity > Governance & Institutions > Education schemes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q080",
@@ -2820,7 +3276,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Entrepreneurship schemes",
+  "topic_path": "Polity > Governance & Institutions > Entrepreneurship schemes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q081",
@@ -2859,7 +3321,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Polity",
+  "topic": "Governance & Institutions",
+  "subtopic": "Welfare delivery and inclusion",
+  "topic_path": "Polity > Governance & Institutions > Welfare delivery and inclusion",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q082",
@@ -2891,7 +3359,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Science & Technology",
+  "subtopic": "Scientists and discoveries",
+  "topic_path": "Science > Science & Technology > Scientists and discoveries",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q083",
@@ -2923,7 +3397,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Industrial pollution",
+  "topic_path": "Environment > Ecology & Environment > Industrial pollution",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q084",
@@ -2955,7 +3435,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Tropical rainforests",
+  "topic_path": "Geography > Indian Geography > Tropical rainforests",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q085",
@@ -2987,7 +3473,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Biodiversity patterns",
+  "topic_path": "Environment > Ecology & Environment > Biodiversity patterns",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q086",
@@ -3023,7 +3515,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "IUCN conservation status",
+  "topic_path": "Environment > Ecology & Environment > IUCN conservation status",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q087",
@@ -3055,7 +3553,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "National waterways",
+  "topic_path": "Geography > Indian Geography > National waterways",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q088",
@@ -3088,7 +3592,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Biogeographic classification",
+  "topic_path": "Environment > Ecology & Environment > Biogeographic classification",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q089",
@@ -3120,7 +3630,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Indian Economy",
+  "subtopic": "Geographical indications",
+  "topic_path": "Economy > Indian Economy > Geographical indications",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q090",
@@ -3160,7 +3676,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Indian Knowledge Systems",
+  "topic_path": "Art & Culture > Indian Culture > Indian Knowledge Systems",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q091",
@@ -3200,7 +3722,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Environment",
+  "topic": "Ecology & Environment",
+  "subtopic": "Forest cover",
+  "topic_path": "Environment > Ecology & Environment > Forest cover",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q092",
@@ -3240,7 +3768,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Science",
+  "topic": "Chemistry",
+  "subtopic": "LPG composition and properties",
+  "topic_path": "Science > Chemistry > LPG composition and properties",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q093",
@@ -3272,7 +3806,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Ultrasonic waves",
+  "topic_path": "Science > Physics > Ultrasonic waves",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q094",
@@ -3312,7 +3852,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Thermometers",
+  "topic_path": "Science > Physics > Thermometers",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q095",
@@ -3344,7 +3890,13 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Semiconductors",
+  "topic_path": "Science > Physics > Semiconductors",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q096",
@@ -3384,7 +3936,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Refraction of light",
+  "topic_path": "Science > Physics > Refraction of light",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q097",
@@ -3424,7 +3982,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Science",
+  "topic": "Chemistry",
+  "subtopic": "Mole concept",
+  "topic_path": "Science > Chemistry > Mole concept",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q098",
@@ -3464,7 +4028,13 @@
   "needs_review": true,
   "review_notes": [
    "could not locate options (A)-(D)"
-  ]
+  ],
+  "subject": "Science",
+  "topic": "Physics",
+  "subtopic": "Gravitation",
+  "topic_path": "Science > Physics > Gravitation",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "APSC-CCE-Prelims-2025-GS-I-Q099",
@@ -3500,6 +4070,12 @@
   "source_pdf": "exams/APSC-CCE-Prelims/2025/source/GS-I.pdf",
   "page": 47,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Biology",
+  "subtopic": "Guttation",
+  "topic_path": "Science > Biology > Guttation",
+  "classification_needs_review": false,
+  "classification_note": ""
  }
 ]

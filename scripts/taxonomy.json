@@ -1,0 +1,246 @@
+{
+ "ENG-G": [
+  "English",
+  "Grammar"
+ ],
+ "ENG-V": [
+  "English",
+  "Vocabulary"
+ ],
+ "ENG-U": [
+  "English",
+  "Usage & Sentence Structure"
+ ],
+ "ENG-C": [
+  "English",
+  "Reading Comprehension"
+ ],
+ "MAT-N": [
+  "Mathematics",
+  "Number System"
+ ],
+ "MAT-A": [
+  "Mathematics",
+  "Arithmetic"
+ ],
+ "MAT-L": [
+  "Mathematics",
+  "Algebra"
+ ],
+ "MAT-G": [
+  "Mathematics",
+  "Geometry & Mensuration"
+ ],
+ "MAT-T": [
+  "Mathematics",
+  "Trigonometry"
+ ],
+ "MAT-S": [
+  "Mathematics",
+  "Statistics & Probability"
+ ],
+ "RSN-V": [
+  "Reasoning",
+  "Verbal Reasoning"
+ ],
+ "RSN-N": [
+  "Reasoning",
+  "Non-Verbal Reasoning"
+ ],
+ "RSN-L": [
+  "Reasoning",
+  "Logical & Analytical"
+ ],
+ "HIS-A": [
+  "History",
+  "Ancient India"
+ ],
+ "HIS-M": [
+  "History",
+  "Medieval India"
+ ],
+ "HIS-O": [
+  "History",
+  "Modern India & Freedom Struggle"
+ ],
+ "HIS-S": [
+  "History",
+  "Assam History"
+ ],
+ "HIS-W": [
+  "History",
+  "World History"
+ ],
+ "GEO-I": [
+  "Geography",
+  "Indian Geography"
+ ],
+ "GEO-S": [
+  "Geography",
+  "Assam Geography"
+ ],
+ "GEO-W": [
+  "Geography",
+  "World Geography"
+ ],
+ "GEO-P": [
+  "Geography",
+  "Physical Geography"
+ ],
+ "POL-C": [
+  "Polity",
+  "Indian Constitution"
+ ],
+ "POL-G": [
+  "Polity",
+  "Governance & Institutions"
+ ],
+ "POL-S": [
+  "Polity",
+  "Assam Administration"
+ ],
+ "POL-I": [
+  "Polity",
+  "International Relations"
+ ],
+ "ECO-I": [
+  "Economy",
+  "Indian Economy"
+ ],
+ "ECO-B": [
+  "Economy",
+  "Banking & Finance"
+ ],
+ "ECO-S": [
+  "Economy",
+  "Assam Economy"
+ ],
+ "ECO-T": [
+  "Economy",
+  "Economic Concepts"
+ ],
+ "SCI-P": [
+  "Science",
+  "Physics"
+ ],
+ "SCI-C": [
+  "Science",
+  "Chemistry"
+ ],
+ "SCI-B": [
+  "Science",
+  "Biology"
+ ],
+ "SCI-H": [
+  "Science",
+  "Health & Medicine"
+ ],
+ "SCI-T": [
+  "Science",
+  "Science & Technology"
+ ],
+ "ENV": [
+  "Environment",
+  "Ecology & Environment"
+ ],
+ "CMP": [
+  "Computer",
+  "Computer & IT"
+ ],
+ "CUL-S": [
+  "Art & Culture",
+  "Assam Culture"
+ ],
+ "CUL-I": [
+  "Art & Culture",
+  "Indian Culture"
+ ],
+ "CUL-L": [
+  "Art & Culture",
+  "Literature"
+ ],
+ "GK-A": [
+  "General Awareness",
+  "Awards & Honours"
+ ],
+ "GK-S": [
+  "General Awareness",
+  "Sports"
+ ],
+ "GK-B": [
+  "General Awareness",
+  "Books & Authors"
+ ],
+ "GK-P": [
+  "General Awareness",
+  "Important Persons"
+ ],
+ "GK-O": [
+  "General Awareness",
+  "Organisations"
+ ],
+ "GK-C": [
+  "General Awareness",
+  "Current Affairs"
+ ],
+ "GK-M": [
+  "General Awareness",
+  "Miscellaneous"
+ ],
+ "PED-D": [
+  "Pedagogy",
+  "Child Development"
+ ],
+ "PED-T": [
+  "Pedagogy",
+  "Teaching Methods"
+ ],
+ "PED-I": [
+  "Pedagogy",
+  "Inclusive Education"
+ ],
+ "PED-A": [
+  "Pedagogy",
+  "Assessment"
+ ],
+ "COM-A": [
+  "Commerce",
+  "Accounting"
+ ],
+ "COM-B": [
+  "Commerce",
+  "Business Studies"
+ ],
+ "COM-F": [
+  "Commerce",
+  "Finance & Insurance"
+ ],
+ "COM-M": [
+  "Commerce",
+  "Marketing & Management"
+ ],
+ "DRV-R": [
+  "Driving",
+  "Traffic Rules & Signs"
+ ],
+ "DRV-V": [
+  "Driving",
+  "Vehicle Technology"
+ ],
+ "DRV-L": [
+  "Driving",
+  "Motor Vehicle Law"
+ ],
+ "APT-C": [
+  "Aptitude",
+  "Communication & Interpersonal Skills"
+ ],
+ "APT-D": [
+  "Aptitude",
+  "Decision Making"
+ ],
+ "APT-I": [
+  "Aptitude",
+  "Data Interpretation"
+ ]
+}

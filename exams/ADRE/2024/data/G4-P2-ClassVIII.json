@@ -27,7 +27,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "International boundaries",
+  "topic_path": "Geography > World Geography > International boundaries",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q002",
@@ -57,7 +63,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 6,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Ancient Indian scholars",
+  "topic_path": "History > Ancient India > Ancient Indian scholars",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q003",
@@ -87,7 +99,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Straits and canals",
+  "topic_path": "Geography > World Geography > Straits and canals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q004",
@@ -117,7 +135,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 7,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Religious places of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Religious places of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q005",
@@ -147,7 +171,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "Scientists",
+  "topic_path": "General Awareness > Important Persons > Scientists",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q006",
@@ -177,7 +207,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 8,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "Business leaders",
+  "topic_path": "General Awareness > Important Persons > Business leaders",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q007",
@@ -207,7 +243,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Olympics",
+  "topic_path": "General Awareness > Sports > Olympics",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q008",
@@ -237,7 +279,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 9,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Festivals of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Festivals of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q009",
@@ -267,7 +315,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Awards & Honours",
+  "subtopic": "Sports awards",
+  "topic_path": "General Awareness > Awards & Honours > Sports awards",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q010",
@@ -297,7 +351,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 10,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "Painters",
+  "topic_path": "General Awareness > Important Persons > Painters",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q011",
@@ -327,7 +387,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Districts of Assam",
+  "topic_path": "Geography > Assam Geography > Districts of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q012",
@@ -357,7 +423,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 11,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "Famous titles of persons",
+  "topic_path": "General Awareness > Important Persons > Famous titles of persons",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q013",
@@ -387,7 +459,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Miscellaneous",
+  "subtopic": "National flag",
+  "topic_path": "General Awareness > Miscellaneous > National flag",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q014",
@@ -417,7 +495,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 12,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "President and Vice President",
+  "topic_path": "Polity > Indian Constitution > President and Vice President",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q015",
@@ -447,7 +531,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "International Relations",
+  "subtopic": "International conflicts",
+  "topic_path": "Polity > International Relations > International conflicts",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q016",
@@ -477,7 +567,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 13,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "World currencies",
+  "topic_path": "Geography > World Geography > World currencies",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q017",
@@ -507,7 +603,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Olympics",
+  "topic_path": "General Awareness > Sports > Olympics",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q018",
@@ -537,7 +639,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 14,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Assamese literature",
+  "topic_path": "Art & Culture > Literature > Assamese literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q019",
@@ -567,7 +675,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Sports terms",
+  "topic_path": "General Awareness > Sports > Sports terms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q020",
@@ -597,7 +711,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 15,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Assamese cinema",
+  "topic_path": "Art & Culture > Assam Culture > Assamese cinema",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q021",
@@ -627,7 +747,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 16,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Economy",
+  "topic": "Banking & Finance",
+  "subtopic": "Currency notes",
+  "topic_path": "Economy > Banking & Finance > Currency notes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q022",
@@ -657,7 +783,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Traditional dress of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Traditional dress of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q023",
@@ -687,7 +819,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 17,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Assam in freedom struggle",
+  "topic_path": "History > Modern India & Freedom Struggle > Assam in freedom struggle",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q024",
@@ -717,7 +855,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Deserts",
+  "topic_path": "Geography > Indian Geography > Deserts",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q025",
@@ -747,7 +891,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 18,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Directions and locations",
+  "topic_path": "Geography > Indian Geography > Directions and locations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q026",
@@ -777,7 +927,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "One word substitution",
+  "topic_path": "English > Vocabulary > One word substitution",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q027",
@@ -807,7 +963,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 19,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Rivers of Assam",
+  "topic_path": "Geography > Assam Geography > Rivers of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q028",
@@ -837,7 +999,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Food of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Food of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q029",
@@ -867,7 +1035,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 20,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Fairs of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Fairs of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q030",
@@ -897,7 +1071,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Food of India",
+  "topic_path": "Art & Culture > Indian Culture > Food of India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q031",
@@ -927,7 +1107,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 21,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Parliament",
+  "topic_path": "Polity > Indian Constitution > Parliament",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q032",
@@ -957,7 +1143,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Mineral resources",
+  "topic_path": "Geography > Indian Geography > Mineral resources",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q033",
@@ -987,7 +1179,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 22,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Assam History",
+  "subtopic": "Dimasa kingdom",
+  "topic_path": "History > Assam History > Dimasa kingdom",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q034",
@@ -1017,7 +1215,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Civil Disobedience Movement",
+  "topic_path": "History > Modern India & Freedom Struggle > Civil Disobedience Movement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q035",
@@ -1047,7 +1251,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 23,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Districts of Assam",
+  "topic_path": "Geography > Assam Geography > Districts of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q036",
@@ -1077,7 +1287,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Assam Geography",
+  "subtopic": "Borders of Assam",
+  "topic_path": "Geography > Assam Geography > Borders of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q037",
@@ -1107,7 +1323,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 24,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "Fundamental Rights",
+  "topic_path": "Polity > Indian Constitution > Fundamental Rights",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q038",
@@ -1137,7 +1359,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "World capitals",
+  "topic_path": "Geography > World Geography > World capitals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q039",
@@ -1167,7 +1395,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 25,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Neo-Vaishnavism",
+  "topic_path": "Art & Culture > Assam Culture > Neo-Vaishnavism",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q040",
@@ -1197,7 +1431,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Festivals of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Festivals of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q041",
@@ -1227,7 +1467,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 26,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Modern India & Freedom Struggle",
+  "subtopic": "Mahatma Gandhi",
+  "topic_path": "History > Modern India & Freedom Struggle > Mahatma Gandhi",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q042",
@@ -1257,7 +1503,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 27,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Ancient India",
+  "subtopic": "Maurya Empire",
+  "topic_path": "History > Ancient India > Maurya Empire",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q043",
@@ -1287,7 +1539,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "Medieval India",
+  "subtopic": "Mughal rulers",
+  "topic_path": "History > Medieval India > Mughal rulers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q044",
@@ -1317,7 +1575,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 28,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "History",
+  "topic": "World History",
+  "subtopic": "Formation of Bangladesh",
+  "topic_path": "History > World History > Formation of Bangladesh",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q045",
@@ -1347,7 +1611,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 29,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "State capitals",
+  "topic_path": "Geography > Indian Geography > State capitals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q046",
@@ -1377,7 +1647,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 29,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Indian Constitution",
+  "subtopic": "President and Vice President",
+  "topic_path": "Polity > Indian Constitution > President and Vice President",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q047",
@@ -1407,7 +1683,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "General geography facts",
+  "topic_path": "Geography > Indian Geography > General geography facts",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q048",
@@ -1437,7 +1719,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 30,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Assam Culture",
+  "subtopic": "Musical instruments of Assam",
+  "topic_path": "Art & Culture > Assam Culture > Musical instruments of Assam",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q049",
@@ -1467,7 +1755,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Important Persons",
+  "subtopic": "World leaders",
+  "topic_path": "General Awareness > Important Persons > World leaders",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q050",
@@ -1497,7 +1791,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 31,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Deserts",
+  "topic_path": "Geography > World Geography > Deserts",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q051",
@@ -1527,7 +1827,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "World Geography",
+  "subtopic": "Countries",
+  "topic_path": "Geography > World Geography > Countries",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q052",
@@ -1557,7 +1863,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 32,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Health & Medicine",
+  "subtopic": "Vitamins",
+  "topic_path": "Science > Health & Medicine > Vitamins",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q053",
@@ -1587,7 +1899,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 33,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Health & Medicine",
+  "subtopic": "Human body",
+  "topic_path": "Science > Health & Medicine > Human body",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q054",
@@ -1617,7 +1935,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Cricket",
+  "topic_path": "General Awareness > Sports > Cricket",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q055",
@@ -1647,7 +1971,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 34,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Polity",
+  "topic": "Assam Administration",
+  "subtopic": "State ministers",
+  "topic_path": "Polity > Assam Administration > State ministers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q056",
@@ -1677,7 +2007,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Books & Authors",
+  "subtopic": "Sports books",
+  "topic_path": "General Awareness > Books & Authors > Sports books",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q057",
@@ -1714,7 +2050,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 35,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Hindi literature",
+  "topic_path": "Art & Culture > Literature > Hindi literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q058",
@@ -1744,7 +2086,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 36,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Physical Geography",
+  "subtopic": "Natural disasters",
+  "topic_path": "Geography > Physical Geography > Natural disasters",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q059",
@@ -1774,7 +2122,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Assamese literature",
+  "topic_path": "Art & Culture > Literature > Assamese literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q060",
@@ -1804,7 +2158,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 37,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Literature",
+  "subtopic": "Assamese literature",
+  "topic_path": "Art & Culture > Literature > Assamese literature",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q061",
@@ -1834,7 +2194,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Biology",
+  "subtopic": "Animals",
+  "topic_path": "Science > Biology > Animals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q062",
@@ -1864,7 +2230,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 38,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Art & Culture",
+  "topic": "Indian Culture",
+  "subtopic": "Monuments of India",
+  "topic_path": "Art & Culture > Indian Culture > Monuments of India",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q063",
@@ -1894,7 +2266,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 39,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "subtopic": "Cricket",
+  "topic_path": "General Awareness > Sports > Cricket",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q064",
@@ -1924,7 +2302,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 39,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Geography",
+  "topic": "Indian Geography",
+  "subtopic": "Tunnels and passes",
+  "topic_path": "Geography > Indian Geography > Tunnels and passes",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q065",
@@ -1954,7 +2338,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 40,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Science",
+  "topic": "Chemistry",
+  "subtopic": "Petroleum products",
+  "topic_path": "Science > Chemistry > Petroleum products",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q066",
@@ -1984,7 +2374,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Discount",
+  "topic_path": "Mathematics > Arithmetic > Discount",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q067",
@@ -2020,7 +2416,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 41,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Fractions",
+  "topic_path": "Mathematics > Number System > Fractions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q068",
@@ -2050,7 +2452,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 42,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Simple interest",
+  "topic_path": "Mathematics > Arithmetic > Simple interest",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q069",
@@ -2080,7 +2488,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Clock angles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Clock angles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q070",
@@ -2110,7 +2524,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 43,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Triangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Triangles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q071",
@@ -2140,7 +2560,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 44,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Triangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Triangles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q072",
@@ -2170,7 +2596,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Roman numerals",
+  "topic_path": "Mathematics > Number System > Roman numerals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q073",
@@ -2200,7 +2632,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 45,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Distribution problems",
+  "topic_path": "Mathematics > Arithmetic > Distribution problems",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q074",
@@ -2230,7 +2668,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Prime numbers",
+  "topic_path": "Mathematics > Number System > Prime numbers",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q075",
@@ -2260,7 +2704,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 46,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Number operations",
+  "topic_path": "Mathematics > Number System > Number operations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q076",
@@ -2298,7 +2748,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 47,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Number operations",
+  "topic_path": "Mathematics > Number System > Number operations",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q077",
@@ -2328,7 +2784,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 48,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Arithmetic",
+  "subtopic": "Profit and loss",
+  "topic_path": "Mathematics > Arithmetic > Profit and loss",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q078",
@@ -2366,7 +2828,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 48,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Fractions",
+  "topic_path": "Mathematics > Number System > Fractions",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q079",
@@ -2402,7 +2870,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 49,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Decimals",
+  "topic_path": "Mathematics > Number System > Decimals",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q080",
@@ -2438,7 +2912,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 50,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "subtopic": "Algebraic identities",
+  "topic_path": "Mathematics > Algebra > Algebraic identities",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q081",
@@ -2476,7 +2956,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 51,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Fractions",
+  "topic_path": "Mathematics > Number System > Fractions",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q082",
@@ -2506,7 +2992,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 52,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Rectangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Rectangles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q083",
@@ -2536,7 +3028,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 53,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Cylinders",
+  "topic_path": "Mathematics > Geometry & Mensuration > Cylinders",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q084",
@@ -2566,7 +3064,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 53,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Triangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Triangles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q085",
@@ -2596,7 +3100,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 54,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Clock angles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Clock angles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q086",
@@ -2626,7 +3136,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 55,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Logical puzzles",
+  "topic_path": "Reasoning > Logical & Analytical > Logical puzzles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q087",
@@ -2662,7 +3178,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 55,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Mathematical operations",
+  "topic_path": "Reasoning > Logical & Analytical > Mathematical operations",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q088",
@@ -2692,7 +3214,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 56,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Word analogy",
+  "topic_path": "Reasoning > Verbal Reasoning > Word analogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q089",
@@ -2729,7 +3257,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 57,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Cube and dice",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Cube and dice",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q090",
@@ -2759,7 +3293,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 58,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Letter analogy",
+  "topic_path": "Reasoning > Verbal Reasoning > Letter analogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q091",
@@ -2789,7 +3329,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 59,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Time sequence",
+  "topic_path": "Reasoning > Logical & Analytical > Time sequence",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q092",
@@ -2819,7 +3365,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 60,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Roman numerals",
+  "topic_path": "Mathematics > Number System > Roman numerals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q093",
@@ -2849,7 +3401,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 61,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Time sequence",
+  "topic_path": "Reasoning > Logical & Analytical > Time sequence",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q094",
@@ -2879,7 +3437,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 62,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q095",
@@ -2909,7 +3473,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 63,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Word analogy",
+  "topic_path": "Reasoning > Verbal Reasoning > Word analogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q096",
@@ -2939,7 +3509,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 64,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Word formation",
+  "topic_path": "Reasoning > Verbal Reasoning > Word formation",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q097",
@@ -2969,7 +3545,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 65,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Coding-decoding",
+  "topic_path": "Reasoning > Verbal Reasoning > Coding-decoding",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q098",
@@ -2999,7 +3581,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 66,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Syllogism and statements",
+  "topic_path": "Reasoning > Logical & Analytical > Syllogism and statements",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q099",
@@ -3029,7 +3617,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 68,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Blood relations",
+  "topic_path": "Reasoning > Logical & Analytical > Blood relations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q100",
@@ -3059,7 +3653,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 68,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Number arrangement",
+  "topic_path": "Reasoning > Logical & Analytical > Number arrangement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q101",
@@ -3089,7 +3689,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 69,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Fractions",
+  "topic_path": "Mathematics > Number System > Fractions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q102",
@@ -3119,7 +3725,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 70,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Coding-decoding",
+  "topic_path": "Reasoning > Verbal Reasoning > Coding-decoding",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q103",
@@ -3149,7 +3761,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 70,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Spelling",
+  "topic_path": "English > Vocabulary > Spelling",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q104",
@@ -3179,7 +3797,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 71,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Essential element",
+  "topic_path": "Reasoning > Verbal Reasoning > Essential element",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q105",
@@ -3209,7 +3833,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 72,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Letter analogy",
+  "topic_path": "Reasoning > Verbal Reasoning > Letter analogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q106",
@@ -3239,7 +3869,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 72,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Geometry & Mensuration",
+  "subtopic": "Rectangles",
+  "topic_path": "Mathematics > Geometry & Mensuration > Rectangles",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q107",
@@ -3269,7 +3905,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 73,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Blood relations",
+  "topic_path": "Reasoning > Logical & Analytical > Blood relations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q108",
@@ -3299,7 +3941,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 74,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Number arrangement",
+  "topic_path": "Reasoning > Logical & Analytical > Number arrangement",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q109",
@@ -3329,7 +3977,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 74,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q110",
@@ -3359,7 +4013,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 75,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Odd one out",
+  "topic_path": "Reasoning > Verbal Reasoning > Odd one out",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q111",
@@ -3396,7 +4056,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 76,
   "needs_review": true,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Figure tracing",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Figure tracing",
+  "classification_needs_review": true,
+  "classification_note": "The extracted question needs review; verify its classification against the image."
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q112",
@@ -3426,7 +4092,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 77,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Letter and number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Letter and number series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q113",
@@ -3456,7 +4128,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 78,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Letter and number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Letter and number series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q114",
@@ -3486,7 +4164,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 79,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Letter and number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Letter and number series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q115",
@@ -3516,7 +4200,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 80,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Letter and number series",
+  "topic_path": "Reasoning > Verbal Reasoning > Letter and number series",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q116",
@@ -3546,7 +4236,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 81,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Mathematics",
+  "topic": "Number System",
+  "subtopic": "Roman numerals",
+  "topic_path": "Mathematics > Number System > Roman numerals",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q117",
@@ -3576,7 +4272,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 81,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Logical order of words",
+  "topic_path": "Reasoning > Verbal Reasoning > Logical order of words",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q118",
@@ -3606,7 +4308,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 82,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Direction sense",
+  "topic_path": "Reasoning > Logical & Analytical > Direction sense",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q119",
@@ -3636,7 +4344,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 83,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Statement and conclusion",
+  "topic_path": "Reasoning > Logical & Analytical > Statement and conclusion",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q120",
@@ -3666,7 +4380,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 84,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Coding-decoding",
+  "topic_path": "Reasoning > Verbal Reasoning > Coding-decoding",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q121",
@@ -3696,7 +4416,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 85,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Word analysis",
+  "topic_path": "Reasoning > Verbal Reasoning > Word analysis",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q122",
@@ -3726,7 +4452,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 86,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Verbal Reasoning",
+  "subtopic": "Word analogy",
+  "topic_path": "Reasoning > Verbal Reasoning > Word analogy",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q123",
@@ -3756,7 +4488,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 86,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Mathematical operations",
+  "topic_path": "Reasoning > Logical & Analytical > Mathematical operations",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q124",
@@ -3786,7 +4524,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 87,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Logical & Analytical",
+  "subtopic": "Syllogism and statements",
+  "topic_path": "Reasoning > Logical & Analytical > Syllogism and statements",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q125",
@@ -3822,7 +4566,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 89,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "Reasoning",
+  "topic": "Non-Verbal Reasoning",
+  "subtopic": "Number matrix",
+  "topic_path": "Reasoning > Non-Verbal Reasoning > Number matrix",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q126",
@@ -3852,7 +4602,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 91,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Synonyms",
+  "topic_path": "English > Vocabulary > Synonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q127",
@@ -3882,7 +4638,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 91,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "One word substitution",
+  "topic_path": "English > Vocabulary > One word substitution",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q128",
@@ -3912,7 +4674,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 91,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Fill in the blanks",
+  "topic_path": "English > Grammar > Fill in the blanks",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q129",
@@ -3942,7 +4710,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 91,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Idioms and phrases",
+  "topic_path": "English > Vocabulary > Idioms and phrases",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q130",
@@ -3972,7 +4746,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 91,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Usage & Sentence Structure",
+  "subtopic": "Active and passive voice",
+  "topic_path": "English > Usage & Sentence Structure > Active and passive voice",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q131",
@@ -4002,7 +4782,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 92,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Antonyms",
+  "topic_path": "English > Vocabulary > Antonyms",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q132",
@@ -4032,7 +4818,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 92,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Prepositions",
+  "topic_path": "English > Grammar > Prepositions",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q133",
@@ -4062,7 +4854,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 92,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Vocabulary",
+  "subtopic": "Spelling",
+  "topic_path": "English > Vocabulary > Spelling",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q134",
@@ -4092,7 +4890,13 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 92,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Pronouns",
+  "topic_path": "English > Grammar > Pronouns",
+  "classification_needs_review": false,
+  "classification_note": ""
  },
  {
   "id": "ADRE-2024-G4-P2-ClassVIII-Q135",
@@ -4122,6 +4926,12 @@
   "source_pdf": "exams/ADRE/2024/source/G4-P2-ClassVIII.pdf",
   "page": 92,
   "needs_review": false,
-  "review_notes": []
+  "review_notes": [],
+  "subject": "English",
+  "topic": "Grammar",
+  "subtopic": "Subject and predicate",
+  "topic_path": "English > Grammar > Subject and predicate",
+  "classification_needs_review": false,
+  "classification_note": ""
  }
 ]

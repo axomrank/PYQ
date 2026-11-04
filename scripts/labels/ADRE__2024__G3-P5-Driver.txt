@@ -1,0 +1,146 @@
+1|POL-S|Assam Legislative Assembly
+2|ECO-B|Banking services
+3|RSN-L|Direction sense
+4|RSN-L|Blood relations
+5|ENG-G|Punctuation
+6-7|ENG-V|Antonyms
+8|ENG-V|Spelling
+9|MAT-N|Prime numbers
+10|ENG-V|Spelling
+11|MAT-A|Percentage
+12|GEO-I|Border points
+13|ENG-G|Pronouns
+14|MAT-L|Algebraic identities
+15|ENG-V|Spelling
+16|HIS-S|Ahom kingdom
+17|HIS-S|Ancient Assam
+18|ENG-V|Word meaning
+19|RSN-L|Number puzzles
+20-21|DRV-L|Licensing and vehicle rules
+22|CMP|Hardware
+23|ENG-V|One word substitution
+24|GK-M|National flags
+25|GK-B|Ancient authors
+26|MAT-N|Irrational numbers
+27|MAT-A|Unitary method
+28|MAT-N|Number operations
+29|HIS-S|Koch kingdom
+30|CUL-S|Folk performing arts
+31|ENG-V|Synonyms
+32|MAT-N|BODMAS
+33|ENG-V|Collective nouns
+34|MAT-A|Percentage
+35|DRV-R|Road rules
+36|RSN-V|Coding-decoding
+37|GK-S|Olympics
+38|CUL-L|Assamese literature
+39|ENG-V|Idioms and phrases
+40|MAT-N|Place value
+41|RSN-V|Odd one out
+42|GK-P|Scientists
+43|RSN-V|Alphabet position
+44|GEO-I|Himalayan peaks
+45|MAT-A|Averages
+46|DRV-L|Offences and penalties
+47|RSN-L|Number arrangement
+48|DRV-R|Number plates
+49|RSN-V|Word analogy
+50|DRV-L|Licensing and vehicle rules
+51|GEO-W|Countries
+52|GEO-S|Regions of Assam
+53-54|DRV-L|Licensing and vehicle rules
+55|POL-G|Elections
+56|ENG-G|Fill in the blanks
+57|MAT-N|Number series
+58|HIS-S|Ahom kingdom
+59|RSN-V|Word analogy
+60|DRV-R|Road markings
+61|RSN-V|Dictionary order
+62|DRV-L|Licensing and vehicle rules
+63|ENG-G|Punctuation
+64|RSN-V|Word formation
+65|MAT-N|Fractions
+66|DRV-L|Offences and penalties
+67|GEO-S|Borders of Assam
+68|DRV-R|Number plates
+69|MAT-A|Unitary method
+70|MAT-A|Profit and loss
+71|RSN-V|Letter series
+72|HIS-S|Ancient Assam
+73|CUL-I|Festivals of India
+74|DRV-L|Licensing and vehicle rules
+75|POL-G|Elections
+76|RSN-L|Ranking and order
+77|ENG-V|Spelling
+78|CUL-S|Music of Assam
+79|ENG-G|Adverbs
+80|CUL-I|Festivals of India
+81|CUL-L|Assamese literature
+82|DRV-R|Number plates
+83|MAT-N|Fractions
+84|MAT-N|Recurring decimals
+85|POL-G|Elections
+86|GEO-P|Earthquakes
+87|RSN-L|Age problems
+88|DRV-L|Offences and penalties
+89|RSN-V|Odd one out
+90|CUL-S|Neo-Vaishnavism
+91|MAT-N|Square roots
+92|RSN-V|Dictionary order
+93|ENG-V|Synonyms
+94|GEO-P|Landforms
+95|MAT-G|Triangles
+96|ENG-G|Articles
+97|DRV-L|Offences and penalties
+98|ENG-U|Sentence correction
+99|MAT-G|Rectangles
+100|POL-C|Making of the Constitution
+101|GEO-W|World capitals
+102|HIS-S|Ahom-Mughal wars
+103|RSN-V|Number series
+104|MAT-N|Number operations
+105-106|DRV-L|Licensing and vehicle rules
+107|GK-S|Stadiums
+108|GK-P|Explorers
+109|POL-C|Union Territories
+110|GEO-W|Continents
+111|DRV-V|Vehicle equipment
+112|MAT-N|Decimals
+113|GK-S|Sportspersons of Assam
+114|GEO-W|Continents
+115|MAT-N|Decimals
+116|MAT-N|Fractions
+117|MAT-A|Profit and loss
+118|GK-P|World leaders
+119|ENG-G|Nouns
+120|ENG-V|One word substitution
+121|MAT-G|Squares
+122|ENG-V|Collective nouns
+123|ENG-G|Conjunctions
+124|GK-S|Olympics
+125|MAT-N|Place value
+126|HIS-O|Revolt of 1857
+127|ENG-V|Spelling
+128|DRV-L|Licensing and vehicle rules
+129|DRV-V|Vehicle equipment
+130|ENG-V|Idioms and phrases
+131|ENG-G|Fill in the blanks
+132|MAT-N|LCM and HCF
+133|ECO-I|Union Budget
+134|GK-M|Technology companies
+135|HIS-O|Mahatma Gandhi
+136|RSN-V|Number series
+137|RSN-V|Odd one out
+138|ENG-V|Antonyms
+139|ENG-G|Tenses
+140|HIS-O|Battle of Plassey
+141|ENG-G|Pronouns
+142|DRV-L|Speed limits
+143|GK-S|Gymnastics
+144|ENG-G|Articles
+145|CUL-S|Religious places of Assam
+146|MAT-G|Quadrilaterals
+147|ENG-G|Degrees of comparison
+148|CUL-S|Folk tales of Assam
+149|DRV-R|Traffic signs
+150|MAT-A|Unitary method

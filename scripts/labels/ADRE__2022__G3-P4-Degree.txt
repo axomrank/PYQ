@@ -1,0 +1,100 @@
+1|HIS-A|Jainism
+2|GEO-I|North-East India
+3|GEO-I|State capitals
+4|CUL-I|Festivals of North-East
+5|HIS-M|Forts of North-East
+6|GEO-W|General geography facts
+7|POL-G|Election Commission
+8|HIS-O|Freedom fighters
+9|HIS-M|Battles of Panipat
+10|POL-G|Election Commission
+11|POL-I|International Court of Justice
+12|HIS-O|Rowlatt Act
+13|POL-G|Supreme Court
+14|POL-C|Constitutional amendments
+15|HIS-O|British administration
+16|HIS-S|Ahom kingdom
+17|HIS-O|British administration
+18|POL-C|Schedules of the Constitution
+19|GEO-I|Airports
+20|HIS-A|Indus Valley Civilisation
+21|GK-S|Olympics
+22|GEO-W|World capitals
+23|GK-O|Airlines
+24|CMP|Software
+25|GEO-I|Himalayan peaks
+26|GEO-I|Rivers
+27|SCI-C|Units and measures
+28|SCI-B|Branches of science
+29|SCI-P|Scientific instruments
+30|GK-S|Kho Kho
+31|ENV|Wildlife of India
+32|GK-M|National symbols
+33|GK-P|Social workers
+34|GK-P|Inventors
+35|GK-M|Full forms
+36|CUL-I|Festivals of India
+37|CUL-S|Assamese personalities
+38|GK-B|Authors
+39|SCI-T|Drones
+40|GK-S|Sportspersons of Assam
+41|GEO-S|Borders of Assam
+42|POL-S|Districts of Assam
+43|POL-S|State budget
+44|GEO-S|Rivers of Assam
+45|ECO-S|Oil refineries
+46|GEO-S|UNESCO sites in Assam
+47|GEO-S|National parks of Assam
+48|CUL-S|Religious places of Assam
+49|CUL-S|Religious places of Assam
+50|CUL-S|Assamese cinema
+51|RSN-L|Blood relations
+52|RSN-L|Ranking and order
+53|RSN-L|Number puzzles
+54|RSN-L|Mathematical operations
+55|RSN-V|Number series
+56|RSN-L|Time sequence
+57|MAT-A|Geometric progression
+58|MAT-A|Percentage
+59|MAT-A|Simple interest
+60|MAT-N|Remainders
+61|MAT-A|Work and time
+62|MAT-T|Heights and distances
+63|MAT-G|Circles
+64|MAT-A|Averages
+65|MAT-A|Ratio and proportion
+66|MAT-A|Ratio and proportion
+67|MAT-S|Pie chart
+68|RSN-N|Figure series
+69|RSN-N|Missing number in figure
+70|RSN-N|Venn diagrams
+71|ENG-C|Passage on atomic bomb test
+72|ENG-C|Passage on atomic bomb test
+73|ENG-C|Passage on atomic bomb test
+74|ENG-C|Passage on atomic bomb test
+75|ENG-C|Passage on atomic bomb test
+76|ENG-C|Passage on atomic bomb test
+77|ENG-C|Passage on atomic bomb test
+78|ENG-C|Passage on atomic bomb test
+79|ENG-C|Passage on atomic bomb test
+80|ENG-C|Passage on atomic bomb test
+81|MAT-N|Square roots
+82|MAT-L|Algebraic ratios
+83|MAT-N|Consecutive numbers
+84|MAT-N|Perfect squares
+85|MAT-A|Percentage
+86|MAT-N|LCM and HCF
+87|MAT-A|Trains
+88|MAT-N|Recurring decimals
+89|MAT-N|Remainders
+90|MAT-G|Quadrilaterals
+91|ENG-G|Fill in the blanks
+92|ENG-G|Fill in the blanks
+93|ENG-V|Fill in the blanks
+94|ENG-V|Idioms and phrases
+95|ENG-V|Synonyms
+96|ENG-V|Synonyms
+97|ENG-V|Antonyms
+98|ENG-U|Sentence correction
+99|ENG-V|Idioms and phrases
+100|ENG-U|Sentence completion
