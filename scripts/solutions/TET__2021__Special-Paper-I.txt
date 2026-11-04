@@ -1,0 +1,117 @@
+1|B|Child-centred pedagogy emphasises the learner's active participation.
+2|C|The statement prioritises individual development.
+3|D|The development of thinking processes is cognitive development.
+4|B|The quotation is attributed to John Dewey.
+5|C|A developmental task is an age-related expectation of the social group.
+6|C|Pedagogy concerns teaching methods.
+7|A|Exceptional performance can be significantly above or below average.
+8|A|Feeling valued and emotionally secure supports primary-school learning.
+9|A|Sudden understanding of relationships is insight learning.
+10|C|Productive classroom interaction generates ideas.
+11|D|Wilhelm Wundt established the experimental psychology laboratory at Leipzig in 1879.
+12|A|An unconditioned stimulus elicits a reflex without prior conditioning.
+13|B|Linking new knowledge to prior learning aids understanding.
+14|C|Deduction proceeds from general principles to specific cases.
+15|C|Lecturing can convey considerable information in a short time.
+16|D|Conformity is not the distinguishing trait of giftedness among these options.
+17|B|The Greek roots of pedagogy refer to leading the child.
+18|B|Freud proposed infantile psychosexual development.
+19|D|All three traits combine cognitive and non-cognitive dimensions.
+20|D|Questions draw students' attention to the lesson.
+21|D|Practice is a learning activity rather than an incentive like prize or praise.
+22|C|The developmental method directly studies growth and change.
+23|B|The teacher facilitates learning.
+24|A|Varied learning experiences accommodate individual differences.
+25|D|Rousseau's Emile concerns the development of a reasoning human being.
+26|B|Micro-teaching develops particular teaching skills.
+27|B|Article 45 addresses early childhood care and education.
+28|C|Sign language provides visual communication for deaf learners.
+29|D|Infancy lays the earliest foundations of development.
+30|D|The Ministry of Women and Child Development administers early childhood care services in the exam context.
+31|B|2 is the only even prime.
+32|D|Radius 2 cm gives height 880/(4 times 22/7)=70 cm.
+33|C|The extra 20% of 500 litres is 100 litres.
+34|B|The proper divisors 1,2,4,7,14 of 28 sum to 28.
+35|D|ENIAC calculated pi electronically in 1949.
+36|D|Substitution gives [(5 times 4)+(7-2)] times 5=125.
+37|B|174/1.45=120.
+38|C|29 and 31 are primes differing by 2.
+39|C|32% of 250 students equals 80.
+40|A|Rhombus area is 7 times 8/2=28; doubling gives 56.
+41|D|There are 10 times 9 times 6=540 cubes, holding 8640 chocolates.
+42|D|The other number is 36 times 6/12=18.
+43|C|At 5:40 the hands are at 170 and 240 degrees, differing by 70 degrees.
+44|C|The comma-grouped decimal number uses the Hindu-Arabic numeration system.
+45|C|The square's area is 32/2=16, giving side 4 cm.
+47|D|(12 times 55-3 times 25)/9=65 years.
+48|A|Diagonals bisecting each other imply a parallelogram; perpendicularity further makes it a rhombus. Square is not guaranteed.
+49|B|The number is 32, and 2% of 32 is 0.64.
+50|B|87 is divisible by 3.
+51|D|91=7 times 13 is composite; the other three are prime.
+52|B|An equiangular triangle is equilateral.
+53|B|Twice the number is 120, so half the number is 30.
+54|A|15 and 28 share no prime factor.
+55|B|The rectangle has perimeter 24 and length twice breadth, so dimensions are 8 by 4 and area 32.
+56|C|The 3-by-3 magic square uses the integers 13 through 21, whose centre is their mean 17.
+58|C|Every natural number is a whole number under the school convention used here.
+59|C|Each term is the sum of the preceding two: 18+29=47.
+61|A|Jagannath Baruah was the vice-president elected at the first session.|https://site.sebaonline.org/textbooks/class-10/SocialScience%20English%20History%20Part-I%20Class%20X.pdf
+62|D|The provisional 2011 census female-literacy figure in the options is 65.5%.
+63|C|Parliament comprises the President and both Houses.
+65|A|Pellagra results from niacin, vitamin B3, deficiency.
+66|C|Karimganj has the longest international boundary among the listed Assam districts.
+67|A|Computer-mediated criminal activity is cybercrime.
+68|B|Nameri is known for white-winged ducks.
+69|D|Special education addresses exceptional learners' needs.
+70|D|Projects, discussion and ICT can all support Environmental Studies learning.
+71|A|Above-average intelligence can suffice for creativity; very high intelligence is not necessary.
+72|C|Controlling excess greenhouse-gas emissions supports ecological balance.
+73|A|Kherkotia Luhit separates Majuli from the Lakhimpur side.
+74|B|Compost is the intended organic soil-enrichment answer; actual fertiliser choice depends on soil and crop requirements.
+75|C|Thorndike's law of effect links consequences to learning.
+76|D|World Cancer Day is 4 February.
+77|B|The US National Environmental Policy Act was signed on 1 January 1970.
+79|A|William Heard Kilpatrick developed the project method.
+80|D|Nitrogen is not a greenhouse gas.
+81|D|The family is the basic social unit.
+82|C|World Water Day is 22 March.
+83|A|Air pollution contributes to lung cancer; dysentery is not caused by air pollution.
+86|B|Young children's attention is predominantly involuntary.
+87|B|Agalmaka is a Garo ritual festival.|https://ansi.gov.in/wp-content/uploads/2025/03/Digital-Literacy-and-its-impact-on-Cultural-Heritage-Preservation-A-Study-among-the-Garo-Community-of-Meghalaya.pdf
+88|A|Temperature increases with height in the stratosphere.
+89|A|Dobson units express total-column ozone.
+90|A|Natural gas is a non-renewable fossil fuel.
+91|A|The standard matching negative tag is mustn't we.
+92|D|Ought to takes the tag oughtn't you.
+93|B|The positive future clause takes won't he.
+94|B|Even more progress is the suitable comparative phrase.
+95|A|Each agrees with singular soldier.
+96|A|A better singer than a dancer is the correct comparative structure.
+97|C|Whose asks about possession.
+98|A|All the children is the grammatical noun phrase.
+99|A|The unseen requires the definite article.
+100|A|The parallel phrase is to know the unknown.
+101|B|Travel from one place to another completes the passage.
+102|A|Travelling has educative value.
+103|C|The passage contrasts bookish knowledge with travel experience.
+104|D|Each takes singular is.
+105|A|The idiom is fortune smiled on him.
+106|B|Takes after means resembles a relative.
+107|A|The idiom is the more the merrier.
+108|C|The proverb is strike while the iron is hot.
+109|B|Over and above means in addition to.
+110|C|Off and on means at times.
+111|A|Before long means soon.
+112|A|The passive construction is the city was named Agra.
+113|A|Too clever to be taken in is the grammatical construction.
+114|A|Neither party takes singular is.
+115|A|Sorry about the tickets is the correct phrase.
+116|A|The same book that I gave you is the grammatical option.
+117|A|He was ill for a week and during that week he ate nothing: PRQS.
+118|A|The sentence is already in logical order: PQRS.
+119|C|The sentence is already in logical order: PQRS.
+120|B|It rained all Monday but stopped raining during the night: PSRQ.
+46|C|The chart on the preceding page gives (24+40)/(24+40+16)=80% below 80% marks.
+60|D|Only the triangle is divided into unequal-area regions by the illustrated vertical and horizontal lines.
+78|D|The diagram prohibits proceeding straight; none of the three named signs describes it.
+64|C|Green gram provides rapid soil cover and reduces erosion compared with widely spaced row crops.

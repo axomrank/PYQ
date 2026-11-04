@@ -1,0 +1,99 @@
+1|A|Tirthankaras are the spiritual teachers of Jainism.
+2|A|Manipur does not border Bangladesh.
+3|D|Dimapur is not a state capital; the other three are.
+4|D|Lai Haraoba is associated with the Meitei community.
+5|D|Kangla Fort is in Imphal.
+6|D|Sambhar, India's largest inland salt lake, is in Rajasthan rather than Gujarat.
+7|B|Recognition as a state party in at least four states is one route to national-party recognition.
+8|B|The slogan is associated with Bal Gangadhar Tilak.
+9|C|The Second Battle of Panipat took place in 1556.
+10|B|NOTA first appeared in the 2013 assembly elections.
+11|B|The ICJ is headquartered at The Hague.
+12|C|The Rowlatt Act permitted detention without trial.
+13|C|Justice M. Fathima Beevi joined the Supreme Court in 1989.
+14|B|The amendment reducing the voting age was the Constitution (61st Amendment) Act, 1988.
+15|A|The capital transfer was announced at the Delhi Durbar in 1911.
+16|B|Frasengmung Borgohain was Mula Gabhoru's husband and an Ahom commander.
+17|B|The Crown assumed rule in 1858 and the Governor-General also became Viceroy.
+18|C|BTC operates under the Sixth Schedule.
+19|B|Pakyong Airport is in Sikkim.
+20|A|The unicorn or unihorn bull is a characteristic common Harappan seal motif.
+21|B|The Olympic flag has five interlocking rings.
+22|A|Argentina's capital is Buenos Aires.
+23|B|AirAsia is based in the Kuala Lumpur area of Malaysia.
+24|C|Microsoft Office is an application suite, not an operating system.
+25|A|Kanchenjunga is the highest listed peak on India's internationally administered territory.
+26|C|The traditional third river of the Triveni Sangam is Saraswati.
+27|D|Gold purity is expressed in karats, often spelled carats in British usage; the question intends gold.
+28|A|Palaeontology studies ancient life through fossils.
+29|B|A barometer measures atmospheric pressure.
+30|A|Eight chasers sit on the court while the ninth actively chases.
+31|A|Chimpanzees are native to Africa.
+32|B|The banyan is India's national tree.
+33|C|Agnes Gonxha Bojaxhiu became Mother Teresa.
+34|B|Samuel Morse developed the telegraph code with collaborators.
+35|D|NEFA stood for North-East Frontier Agency.
+36|B|Onam is the Kerala festival among the listed options.
+37|A|Zubeen Garg played the lead in Mission China.
+38|C|R. K. Narayan wrote Malgudi Days.
+39|D|Drones are unmanned aerial vehicles.
+40|A|Gilbertson Sangma was a footballer.
+41|B|Sikkim does not border Assam.
+42|C|Tamulpur became a district in January 2022.
+43|B|Ajanta Neog presented Assam's 2021-22 Budget.|https://prsindia.org/budgets/states/assam-budget-analysis-2021-22
+44|C|The Dikhow joins the Brahmaputra from the south.
+45|A|Digboi refinery began operations in 1901, earlier than the other listed refineries.
+46|D|Manas National Park is a UNESCO World Heritage Site.
+47|D|Kaziranga does not extend into Morigaon district.
+48|C|Ajan Pir's resting place is at Saraguri Chapori.
+49|B|The Dhubri Sikh shrine commemorates Guru Tegh Bahadur's visit.
+50|A|Aideu Handique was the first Assamese-film actress.
+51|B|R is the brother of Q's mother, making him her maternal uncle.
+52|C|The new position has rank 22 from left and 12 from right, giving 33 boys.
+53|C|Reverse the four input digits: 7986 becomes 6897.
+54|D|Operator replacement yields 18+12/4 times 5=33.
+55|B|Differences increase by 4: 4,8,12,16,20, giving 47.
+56|D|The chairman arrives 12:20, MD 12:40, so the scheduled time is 12:10.
+57|B|The eighth geometric term is 2 times 3^7=4374.
+58|C|1.2:1.5 simplifies to 4:5.
+59|B|4000 times 0.12 times 1.5=720.
+60|C|893 is divisible by 47 and 193 leaves remainder 5 on division by 47.
+61|C|120 times 45/150=36 days.
+62|A|Height equals 20 sin(30 degrees)=10 m.
+63|D|Each revolution covers 22 m, giving radius 22/(2pi)=3.5 m.
+64|A|The replacement reduces total age by 30, so the retired teacher was 25+30=55.
+65|B|There are 420 boys and 300 girls, requiring 120 extra girls.
+66|C|Let coin counts be 2k and 3k; total value 3.5k=35 gives 30 half-rupee coins.
+67|D|Tax is 450 out of 2000, giving 450/2000 times 360=81 degrees.
+68|A|The diagram's alternating endpoint positions and cyclic row progression continue with option A.
+69|B|Each number encodes its row then column: the bottom-right cell is 55.
+70|B|Brothers and husbands overlap, and both are subsets of men.
+71|C|The passage explicitly locates the site north of Almogordo.
+72|A|Hover means remain in the air at one location.
+73|A|The passage describes heat, a tremendous roar and a pressure wave.
+74|B|Electronic impulses relayed messages according to the passage.
+75|A|The passage lists scientists, government officials and a security force.
+77|A|The instruction in the passage specifies heads away from zero.
+78|C|Aircraft tested atmospheric reactions; tanks carried scientists to examine surface radiation.
+79|B|The cloud's beauty contrasts ironically with the bomb's destructive nature.
+80|A|Searing is a synonym and soothing the contrasting antonym among the options.
+81|B|The image expression is sqrt(20 times 45)+sqrt(0.04)+sqrt(0.64)=31.
+82|A|Substitute x=2k and y=3k to obtain -7/3+8/3=1/3.
+83|D|The mean is 38, so the five consecutive numbers begin at 36.
+84|A|2450=2 times 35^2; multiplication by 2 gives a square.
+85|D|Consumption must fall by 1-1/1.2=1/6, or 16 and 2/3 percent.
+86|B|p divides q and q divides r, so r is their LCM.
+87|C|Crossing distance is 1100 m, taking 1100/20=55 seconds.
+88|A|The image shows 0.0373737..., equal to 37/990.
+89|C|Euclidean division is -76=(-26) times 3+2.
+90|C|The common angle unit is 360/15=24; largest minus smallest is 6 times 24=144 degrees.
+91|C|Adjective order is size, colour, material: big green plastic.
+92|B|That imprints supplies the relative clause with the products as its direct object.
+94|D|Going into the red means operating at a loss.
+95|A|A regent acts as a substitute for the sovereign.
+96|A|Vacillate and waver are synonyms.
+97|D|Obligatory and voluntary are antonyms.
+98|C|The correct past-tense and adverb forms are did it too quickly.
+99|B|To give up the ghost means to die or stop functioning.
+100|D|The application letter introduces suitability while the resume records qualifications and experience.
+76|A|Oppenheimer is explicitly placed at the control centre; the passage does not say Mckibban was there.

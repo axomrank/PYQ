@@ -1,0 +1,99 @@
+1|A|Paris hosted the 2024 Summer Olympics.
+2|B|Manila is the Philippine capital.
+3|B|The Lotus Temple is in New Delhi.
+4|B|A speaker outputs sound; the other devices are inputs.
+5|C|The Aravalli range is the oldest among the options.
+6|A|The Cauvery is the southernmost of the listed rivers.
+7|B|Leaves are the main photosynthetic organs.
+8|B|The Celsius interval around 37 degrees is the normal adult range among these options.
+9|C|A regular pentagon has no parallel sides.
+10|D|Breakstroke is not an Olympic swimming stroke.
+11|A|Hornbills nest in tree cavities.
+12|B|India's national animal is the tiger.
+13|D|Sardar Vallabhbhai Patel is known as the Iron Man of India.
+14|C|A. P. J. Abdul Kalam is known as the Missile Man of India.
+15|B|A terabyte is larger than the other listed units.
+16|A|The Independence Day address is delivered from the Red Fort.
+17|A|Zubeen Garg's debut album was Anamika.
+18|D|Kalhana wrote Rajatarangini.
+19|C|Hubble is the listed optical space telescope.
+20|C|Ram Singh commanded the Mughal forces at Saraighat.
+21|D|Akbar introduced Din-i Ilahi.
+22|C|Kodaikanal is a town in Tamil Nadu, not a Union Territory.
+23|A|The Treaty of Yandabo ended the First Anglo-Burmese War.
+24|D|Kalidasa wrote Abhijnanasakuntalam.
+25|C|Jonbeel Mela is known for barter trade.
+26|D|The white-winged wood duck is Assam's state bird.
+27|B|Umananda Temple is on Bhasmachal hill on Peacock Island.
+28|B|Sushruta is traditionally known as the Father of Surgery.
+29|D|The Constitution has twelve schedules.
+30|A|Fox-tail orchid is Arunachal Pradesh's state flower.|https://arunachalforests.gov.in/general-features.html
+31|A|The principal opposing blocs were the Axis and the Allies.
+32|D|The 2020 oil-well blowout and fire occurred at Baghjan.
+33|B|Chilarai's name was Sukladhwaj.
+34|B|Tusu Puja is celebrated by Assam's tea-garden communities.
+35|B|Majuli's Sattras are known for traditional mask making.
+36|A|Poki was Jyoti Prasad Agarwalla's ancestral home.|https://sonitpur.assam.gov.in/tourist-place-detail/354
+37|C|Rang Ghar is in Sivasagar.
+38|B|The Barak originates in Manipur.
+39|B|Haidang Geet belongs to the Sonowal Kachari tradition.|https://ierj.in/journal/index.php/ierj/article/view/1290
+40|B|Asharikandi is known for terracotta craft.
+41|C|60k^3=480 gives k=2, and the largest number is 10.
+42|D|1.3 times 0.7=0.91, a 9% decrease.
+43|A|The equation gives x=1, so x^3-1/x^3=0.
+44|B|One cubic metre equals one million cubic centimetres.
+45|A|The horizontal distance changes from 6 ft to 2.8 ft, a shift of 3.2 ft.
+46|C|A's age is 66-50=16, becoming 25 after nine years.
+47|B|Cost 80 and selling price 120 give profit 40/80=50%.
+48|D|A:B:C=8:12:15, giving C:A=15:8.
+49|D|1000 times 1.1 cubed=1331.
+50|B|3k times 5k=135 gives k=3 and the smaller number 9.
+51|C|Square areas are proportional to squared diagonals: 4:9.
+52|B|Thirty man-days remain; ten men finish them in three days.
+53|C|0.5 times 0.25 times 0.2 times n=21 gives n=840.
+54|A|The recurring two-digit decimal 0.232323... equals 23/99.
+55|C|For equal legs a, a^2/2=81; the hypotenuse is sqrt(2a^2)=18 cm.
+56|B|54 times pi/180=3pi/10.
+57|C|The printed fraction 2.5/50 equals 0.05.
+58|A|The radicals in the image give x^2=sqrt(128 times 162)=144; the listed positive root is 12.
+59|D|25=41-2ab, giving ab=8.
+60|D|Total work is 400 pipe-minutes; eight pipes take 50 minutes.
+61|B|Antipathy is the antonym of sympathy.
+62|C|Waste is the antonym of economise.
+63|A|Promote contrasts with hamper.
+64|C|Dexterous means skilful and contrasts with incompetent.
+65|A|Judicious means prudent.
+66|D|Monotonous means tedious.
+67|D|Outrage can mean a serious offence.
+68|A|Listeners collectively form an audience.
+69|D|Aircraft are housed in a hangar.
+70|C|A sleepwalker is a somnambulist.
+71|B|The expression is on oath.
+72|C|The position is a post under the Government of Assam.
+73|B|Use at for a clock time, in for morning, and on for weekdays.
+74|A|Underneath functions as the appropriate adverb after bricks.
+76|D|Contradict takes a direct object without a preposition.
+77|B|Plural books requires have; in ten years is the correct duration phrase here.
+78|A|Stand aside is the idiomatic direction to make room.
+79|C|There are many supplies the clause's finite verb.
+80|B|The idiom is an appointment with the doctor.
+81|A|The position pattern is n,n+4,n+3,n+1, so the missing letter is S; image confirms option A.
+82|B|There are ten units-place 2s and five tens-place 2s among the even numbers, total fifteen.
+83|D|Triangulation from one vertex of a decagon produces 10-2=8 triangles.
+84|A|Each pair sums to 93; 51+42=93.
+85|A|The increments should be 2,4,6,8,10,12; 23 should be 25.
+86|B|C is the shared code in the two phrases containing books.
+87|B|A=2C and G=3C imply 2G=3A.
+88|C|A referee officiates a football match.
+89|C|Chanakya is associated with statecraft rather than poetry.
+90|B|Mathematics is the academic discipline among the listed terms.
+91|A|Three months approximate 90 days; three non-leap years total 1095 days.
+92|C|232 is not a perfect cube, unlike 729, 512 and 125.
+93|D|The father of Uday's son's father is Uday's father; the newsreader is his father's brother.
+94|B|The alternating outer letters should be consecutive: M,N,O; MBNCP ends with P and breaks this rule.
+95|A|Sorting to 2345689 leaves the third digit 4 and sixth digit 8 fixed.
+96|B|The sixth reversed-alphabet letter is U; the image places U at option B.
+97|B|The relations place Rajput above Suresh, Hitesh, Natasha and Himashri.
+98|C|Translating the cut triangle to the opposite side makes a parallelogram.
+99|C|French and German are distinct subsets of language; printed diagram C shows this.
+100|B|A is adjacent to F, B, C and E, so D is its opposite.

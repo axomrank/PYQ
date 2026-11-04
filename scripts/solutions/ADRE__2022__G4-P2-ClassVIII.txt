@@ -1,0 +1,134 @@
+1|B|Lovlina Borgohain won an Olympic boxing bronze at Tokyo 2020.
+2|D|The surviving brick Rang Ghar was built under Pramatta Singha.
+3|C|Assam Women's University is in Jorhat.
+4|D|Srirampur connects Assam with West Bengal.
+5|A|Cochin is a coastal seaport; Kolkata is an inland river port.
+6|B|Japan uses the yen.
+7|D|Pobitora is a wildlife sanctuary in Morigaon.
+8|B|Saraighat Bridge crosses the Brahmaputra near Guwahati.
+9|C|Natraj, founded in 1963, is the oldest listed mobile-theatre group.
+10|A|Kamala Prasad Agarwalla composed the tune.
+11|B|Orunodoi was first published from Sivasagar.
+12|D|Birendra Kumar Bhattacharya was the first Assamese Jnanpith recipient.
+13|A|Kanaklata Barua and Mukunda Kakati were shot at Gohpur.
+14|A|The organisation was Asamiya Bhasha Unnati Sadhini Sabha.
+15|C|Madhav Kandali translated the Ramayana into Assamese.
+16|C|Assam State Zoo and Botanical Garden is in Guwahati.
+17|D|Tadpoles are an amphibian stage, not part of butterfly metamorphosis.
+18|C|Halodhiya Choraye Baodhan Khai won the national Best Feature Film award.
+19|B|Tocklai Tea Research Institute is in Jorhat.
+20|D|Sainik School Goalpara was Assam's Sainik School at the examination date.
+21|A|Numaligarh Refinery is in Golaghat district.
+22|A|Mars lies between Earth and Jupiter.
+23|B|Pingali Venkayya designed the precursor of the adopted national flag.
+24|A|Lemon and amla are sources of vitamin C.
+25|C|Kalpana Chawla was the first Indian-born woman in space.
+26|D|Rafael Nadal won the 2022 French Open men's singles.
+27|B|Ranchi is Jharkhand's capital.
+28|B|Kolar is associated with gold mining.
+29|D|India's first nuclear test took place at Pokhran.
+30|C|A cricket pitch is 22 yards between wickets.
+31|D|Joe Biden was US President on 1 January 2022.
+32|C|Pythagoras is associated with the relationship between right-triangle side lengths.
+33|D|Cannes hosts a major film festival.
+34|B|Iodine deficiency can cause goitre.
+35|A|Lata Mangeshkar's father was Dinanath Mangeshkar.
+36|B|Poet Nalini Bala Devi received the Padma Shri in 1957.
+37|A|The Chipko movement began in the region now called Uttarakhand.
+38|D|No Class 10 educational qualification is required for parliamentary membership.
+39|D|Sher Shah Suri rebuilt and extended the historic Grand Trunk Road.
+40|D|Karbi is not among the Eighth Schedule languages.
+41|A|The northeastern Armed Forces (Special Powers) Act dates to 1958.
+42|C|Article 371 and its related lettered provisions contain special state provisions.
+43|D|Nehru wrote The Discovery of India while imprisoned at Ahmednagar Fort.
+44|A|Tezpur litchi has geographical-indication registration.
+45|D|Macaulay is associated with the 1835 education minute.
+46|A|Nathan Brown was Orunodoi's first editor.
+47|B|Mission Basundhara concerns land-revenue services.
+48|A|Sankardev's one-act plays are Ankiya Naat.
+49|C|Madhupur Satra is in Cooch Behar, West Bengal.
+50|A|The Brahmaputra flows generally east to west through Assam.
+51|C|Babur founded the Mughal Empire in India.
+52|B|Kalpakkam, Narora and Tarapur are nuclear-power sites.
+53|A|Gaurinath Singha shifted the Ahom capital to Jorhat.
+54|D|Naranarayana's earlier name was Malladev.
+56|B|Jhum is shifting cultivation commonly practised on hillsides.
+57|B|The gathering protested the Rowlatt Act.
+58|B|Hajo is associated with Hindu, Buddhist and Islamic traditions.
+59|B|Lokpal is an anti-corruption ombudsman.
+60|D|The NCHAC is constituted under the Sixth Schedule.
+61|D|119/0.875=136.
+62|B|(l+b)^2=25^2+2 times 300=1225, giving perimeter 70 cm.
+64|C|The weighted-mean equation gives boys:girls=(18-16):(16-15)=2:1.
+66|C|LCM=84 and HCF=7.
+67|A|Powers of 2 from 2^0 through 2^9 give ten terms.
+68|A|12 times 50000 cm=600000 cm=6 km.
+69|D|The difference of squares equals sum times difference; 60/12=5.
+70|B|200% of 200 is 400.
+71|A|10000-999=9001.
+72|C|18-[6-{4-11}]=18-13=5.
+73|D|987/35=28.2 minutes=28 minutes 12 seconds.
+75|C|Under the positive-integer convention there are seven natural numbers, 1 through 7.
+76|C|149600000/10^7=14.96.
+77|D|Twice the area plus three times the perimeter equals 2x^2+12x.
+78|D|a+b=a-b implies b=0.
+79|D|The side lengths are 23,20,23 mm, making the triangle isosceles.
+80|C|A rhombus has area one-half the product of its diagonals.
+81|B|x^2-5x+6=(x-3)(x-2), giving quotient x-2.
+82|A|20 times 21/2=210.
+83|D|The shared lowest powers give HCF xy.
+84|D|The tens digit contributes 10y and the units digit x.
+86|A|The ordinal expression is the first.
+87|B|Unknown begins with a vowel sound, requiring an.
+88|D|The expression is have pity for the poor.
+89|A|Precaution against cold is the appropriate construction.
+90|A|Under the tree is the usual locative phrase; underneath and beneath can also describe this position.
+91|A|The correct spelling is veterinary.
+92|B|The correct spelling is elementary.
+93|A|The correct spelling is dissimilar.
+94|A|Good and best are the valid adjective/superlative pair.
+95|D|Calm and calmer are the valid adjective/comparative pair.
+96|D|Sad and happy are antonyms.
+97|B|Within and outside are antonyms.
+98|B|Cheat and deceive are synonyms.
+99|A|A group of dogs is a pack.
+100|A|A group of monkeys is a troop.
+101|A|Each position advances one letter: DFUD becomes EGVE.
+102|A|The first coordinates are consecutive even numbers and the second consecutive primes; the missing pair is (8,11).
+103|A|The rule is double plus 1, so 33 should be 31.
+104|C|The local word air denotes water.
+105|D|Pigs live in a sty, not a den.
+106|D|Substitution gives 9+9-9/9 times 9=9.
+107|A|Apology is not a branch of study; the similarly spelled apologetics is a different word.
+108|A|Delivery is the cricket term among the options.
+109|D|Shoes do not belong on hands; a belt similarly does not belong on the neck.
+110|B|256,128,512 are powers of 2; 884 is not.
+111|C|Lower, upper and sleeper are railway-berth terms; stopper is different.
+112|C|Australia is both a country and a continent; the others are not countries.
+113|D|The outer letters differ by 2 in A,C; X,Z; L,N, but only by 1 in S,T.
+114|A|Sorting gives 3456789, with 6 in the middle.
+115|C|BELT contains B and E.
+116|C|A square folded along a diagonal forms an isosceles right triangle.
+117|B|The first two statements imply Chetan is older than Emmanuel, contradicting the third.
+118|A|Advance each letter by one: BOMBAY becomes CPNCBZ.
+119|B|BEGIK begins with an increment of 3; the other sequences increment by 2 throughout.
+121|B|The even digits are 6,4,4,2,2,6, totalling 24.
+122|A|Alternating sequences descend 80,70,60,50 and ascend 10,15,20.
+123|A|The following letter begins a four-letter word with two vowels: F maps to GOAT as L to MOAT and R to SOAP.
+124|D|A lip meets the rim of a cup as a bird rests on a bush.
+125|D|A runway serves aircraft as a platform serves trains at a station.
+126|B|Windows and Android are operating systems for the respective devices.
+63|A|2n/(3d)=2/9 gives n/d=1/3; numerator 1 is two less than denominator 3.
+65|B|The product telescopes as (1/2)(2/3)...(9/10)=1/10.
+74|D|Both fractions in the image evaluate to 3, so their difference is zero.
+85|D|Negative-square powers give 4+9+16+25=54.
+127|B|Multiply the two upper side values and add the bottom value: 6 times 7+9=51.
+128|B|Gold and silver are disjoint subsets of metals.
+129|C|Only C attaches the arrow away from the meeting point of the two curved strokes.
+130|C|The second cell adds the lower arc to the first, so the missing part is the upward-opening arc.
+131|D|Side counts increase as diamond 4, pentagon 5, arrow 7, cross 12: 2143.
+132|D|Reflecting the right-hand zigzag onto the left creates the intersecting pattern in D.
+133|C|The flag slopes in C have the same orientation instead of opposite reflected orientations.
+134|D|The pentagram contains five tip triangles and five larger triangles, total ten.
+135|C|With 4 held on top, rotation moves 6 from front to right, placing 5 opposite the initial right face 3.
+55|B,C|Both mango and pine are evergreen rather than deciduous; both printed choices satisfy the question.

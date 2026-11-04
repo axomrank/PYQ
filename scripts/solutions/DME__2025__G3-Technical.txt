@@ -1,0 +1,14 @@
+1|D|Bravery names an abstract quality and is an abstract noun.
+2|B|Bitch is the standard term for a female dog.
+3|C|A barber cuts men's hair.
+4|D|The correct spelling is ninety rather than ninty.
+5|D|To lay down arms means to surrender or stop fighting.
+6|B|The proverb is Beauty is in the eye of the beholder.
+7|C|Sweet is the taste antonym of bitter.
+8|D|A group of sheep is a flock.
+9|D|To decipher means to decode.
+10|A|Rivulet is the diminutive of river.
+11|C|The printed expression is 3/7-6/11-8/21+5/22=-125/462; primary question verified in image.
+12|A|b+(b+14)=20 gives b=3; option labels verified in image.
+13|D|Length plus width is 36; length minus width is 4; length is 20 m, option D in the image.
+14|C|Adding 2x+y=23 and x-y=4 gives x=9 and y=5, option C in the image.

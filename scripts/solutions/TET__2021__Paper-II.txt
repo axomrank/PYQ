@@ -1,0 +1,100 @@
+1|A|A debenture represents a company's borrowing, not ownership capital.
+2|C|A dealer loader is a premium for purchasing a specified merchandise quantity.
+3|D|Borrowed funds are not an authorised source for a share buyback.
+4|C|Departmental sales organisation is not one of the standard listed line, functional and committee forms.
+5|A|Subrogation applies to indemnity contracts; life insurance is not an indemnity contract.
+6|C|Sacrifices are 2/3-3/7=5/21 and 1/3-2/7=1/21, a 5:1 ratio.
+7|C|Interest charged on partners' drawings is income to the firm.
+8|A|Capital structure is the mixture of long-term debt and equity.
+9|C|Delegation through the defined organisational structure is formal delegation.
+10|D|Scientific task setting uses time, motion and method studies.
+11|C|An income and expenditure account determines a non-profit entity's surplus or deficit.
+12|C|Push money incentivises retail-level selling.
+13|B|The Imperial Bank was nationalised and became the State Bank of India in 1955.
+14|B|Investment is proportional to profit divided by time: 5/14:7/8:8/7=20:49:64.
+15|A|Functional foremanship separates planning responsibilities from execution.
+16|B|Departmentation groups work during organising.
+17|C|Bank of Hindustan, established in 1770, predates the other listed banks.
+18|A|A balance sheet shows financial position on a particular date.
+19|D|All three listed sources of dividend payment are permitted subject to the applicable conditions.
+20|D|The right to sell is not one of the enumerated consumer rights.
+21|C|Pre-admission revaluation gains belong to the old partners in their old ratio.
+22|C|The Asian Development Bank is headquartered in Manila.
+23|B|Sales force matches motivation; post-sale action CRM; salesman salesmanship; publicity promotion.
+24|A|The American Marketing Association was established in 1937.
+25|C|Direct marketing is distinct from the professional marketing-research bodies in the other options.
+26|C|The Lloyd's association is conventionally dated to 1692 in this insurance-history question.
+27|A|Capitalisation denotes the total long-term funding composition.
+28|B|The receipts and payments account summarises the cash book.
+29|B|RTGS has a minimum transfer amount of two lakh rupees.
+30|C|Equity shareholders own the company.
+31|C|LIC's central office is in Mumbai.
+32|C|Spiffs are sales incentives associated with retail selling.
+33|A|The broad classification is life insurance and general insurance.
+34|C|Publicite is a French word.
+35|B|In the absence of a contrary agreement, partner loans earn 6% per annum.
+36|A|Analysis breaks complex financial data into simpler components.
+37|A|Selling involves approach, sales promotion coupons, advertising a message, and publicity potentially unpaid communication.
+38|C|Profit maximisation is not a principle of insurance.
+39|D|Advertising is not a warehousing function.
+40|D|John Henry Patterson is associated with modern professional selling.
+41|D|FATCA concerns United States taxpayer reporting; D is the USA option in the booklet.
+42|B|A private company's shares are not publicly traded on a stock exchange.
+43|D|Non-profits use receipts/payments, income/expenditure and balance-sheet accounts rather than a commercial income statement.
+44|B|Avon is the conventional answer for the direct-selling sales-force comparison in this paper.
+45|D|Wholesale banking serves institutional and industrial clients.
+46|C|David Ogilvy is the advertising pioneer among the options.
+47|A|Royalties from ordinary revenue activity are operating cash inflows.
+48|A|Scalar chain defines the line of authority through the hierarchy.
+49|B|Management is a continuous process.
+50|B|Employees are internal participants; uncertainty, relativity and complexity describe business environment characteristics.
+51|C|The General Insurance Business (Nationalisation) Act was enacted in 1972.
+52|D|Lok Adalats, PILs and consumer redressal organisations all support consumer protection.
+53|C|The Insurance Regulatory and Development Authority Act dates to 1999.
+54|A|The IMF introduced the second-generation reforms terminology.
+55|D|Basel III provides the contemporary capital and risk-management framework in the exam context.
+56|B|Reserve capital can be called only on winding up; it is distinct from capital reserves.
+57|D|Marine insurance is the oldest listed form of commercial insurance.
+58|D|The listed providers offer online training programmes, including sales-force training.
+59|D|Directing occurs at every management level, so no single listed level is sufficient.
+60|C|ARCIL acquires and reconstructs banks' non-performing assets.
+61|A|A time policy covers a specified period rather than a particular voyage.
+62|C|The Academy of Indian Marketing was founded in 2009.|https://www.academyofindianmarketing.org/
+63|B|The Advertising Standards Council of India was established in 1985.
+64|C|LIC cannot invest its life fund in illegal trade.
+65|B|Receipts forming an endowment fund are capital receipts.
+66|A|For financial enterprises, interest and dividend receipts and interest payments are operating cash flows.
+67|C|Foreign-exchange transactions fall under FEMA; illegal hawala arrangements violate that framework.
+68|A|C. D. Deshmukh was RBI's first Indian Governor.
+69|C|Ordinary motor insurance does not cover loss of personal luggage as a standard insured risk.
+70|A|LIC commenced on 1 September 1956.
+71|B|The general partnership limit under the Companies Act rules in the 2021 exam context is 50.
+72|D|A mandatory transfer of 10% of profits to reserves is not a general prerequisite under the Companies Act 2013.
+73|D|Introducing a product in a limited market is test marketing.
+74|B|Calls in arrears are deducted from called-up capital to determine paid-up capital.
+75|A|The line form is the basic and commonly used sales organisation structure.
+76|C|Ordinary subscriptions are revenue receipts; the other listed receipts are capital in nature.
+77|C|A floating policy is associated with general or marine insurance rather than LIC life policies.
+78|C|HubSpot is a digital marketing and CRM platform; C is the paper's closest digital commerce category.
+79|A|NDTL expands to Net Demand and Time Liabilities.
+80|A|A charitable organisation is ordinarily non-profit oriented.
+81|C|The traditional current-ratio rule of thumb is 2:1.
+82|A|Money supply is an economic-environment factor rather than a social one.
+83|C|Reliance matches AJIO; Future Group E-zone; Trent Landmark; Aditya Birla More.
+84|C|Subscriptions received in advance are a liability for services or membership still to be provided.
+85|B|Reissue of forfeited shares is not a fresh allotment requiring a return of allotment.
+86|D|Gemini Communications is the non-advertising company among the listed names.
+87|D|Lala Lajpat Rai was among the founders of Punjab National Bank.
+88|B|Life insurance encourages systematic saving.
+90|D|A banker's draft is also called a banker's cheque.
+91|A|Preference stock ordinarily has no general voting rights, subject to statutory exceptions.
+92|A|Goodwill is an intangible business asset.
+93|A|The insurer supplies the risk cover in exchange for the premium.
+94|A|Neelam retains 0.6 and Swati 0.2; Kavita receives 0.2, giving 3:1:1.
+95|C|Fayol's gang plank permits direct contact across the scalar chain with approval.
+96|A|Personal accident insurance covers accidental death rather than natural death or acquired disease.
+97|C|ICICI Bank pioneered internet banking in India among these banks.
+98|D|Planning is a top-management function as well as a function at other levels.
+99|C|A specific-purpose donation is treated as a restricted fund liability until used for that purpose.
+100|D|Financial statements include the balance sheet, profit and loss statement and cash-flow statement where applicable.
+89|D|The surviving English advertisement is dated about 1476-1477; 1476 is the only compatible printed option. Some older textbooks give 1472.|https://blogs.reading.ac.uk/special-collections/2017/11/finding-one-of-the-oldest-examples-of-printing-in-britain-the-story-of-the-caxton-leaf/

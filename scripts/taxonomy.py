@@ -12,6 +12,8 @@ from collections import Counter
 from functools import lru_cache
 from pathlib import Path
 
+import answers
+
 ROOT = Path(__file__).resolve().parent.parent
 FIELDS = [
     "subject", "topic", "subtopic", "topic_path",
@@ -22,7 +24,7 @@ CSV_COLS = [
     "context", "question", "option_a", "option_b", "option_c", "option_d",
     "answer", "answer_note", "answer_source", "has_visual", "visual_types", "images", "text_source",
     "page", "needs_review", "review_notes", "conducting_body", "source_pdf", "visual_in",
-] + FIELDS
+] + FIELDS + ["editorially_revised", "revision_note"]
 
 
 @lru_cache(maxsize=1)
@@ -93,7 +95,7 @@ def export_csv(questions):
         row = {field: question.get(field) for field in CSV_COLS}
         row.update({f"option_{letter.lower()}": question["options"].get(letter, "") for letter in "ABCD"})
         row.update(classify(question))
-        for field in ("has_visual", "needs_review", "classification_needs_review"):
+        for field in ("has_visual", "needs_review", "classification_needs_review", "editorially_revised"):
             row[field] = int(bool(row[field]))
         for field in ("visual_types", "images", "visual_in"):
             row[field] = "|".join(question.get(field) or [])
@@ -108,6 +110,7 @@ def prepare_updates():
     for path in sorted((ROOT / "exams").glob("*/*/data/*.json")):
         questions = json.loads(path.read_text(encoding="utf-8"))
         for question in questions:
+            answers.apply_solution(question)
             if question["id"] in by_id:
                 raise ValueError(f"Duplicate question ID: {question['id']}")
             keys.add(question_key(question))
@@ -127,6 +130,12 @@ def prepare_updates():
     catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
     for paper in catalog:
         paper["csv"] = "questions.csv"
+        paper_questions = [q for q in by_id.values()
+                           if (q["exam"], int(q["year"]), q["paper_code"]) ==
+                           (paper["exam"], int(paper["year"]), paper["paper_code"])]
+        paper["with_answer"] = sum(bool(q["answer"]) for q in paper_questions)
+        paper["with_visual"] = sum(bool(q["has_visual"]) for q in paper_questions)
+        paper["needs_review"] = sum(bool(q["needs_review"]) for q in paper_questions)
     updates[catalog_path] = json.dumps(catalog, indent=1) + "\n"
     return updates, by_id
 

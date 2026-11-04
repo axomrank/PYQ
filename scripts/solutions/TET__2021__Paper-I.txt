@@ -1,0 +1,94 @@
+1|D|Self-control is not the characteristic adolescent tendency among these options.
+2|D|The heuristic method places learners in the role of discoverers.
+4|C|Coordination is a psychomotor-domain objective.
+5|B|K. Kasturirangan chaired the draft National Education Policy committee.
+6|C|The usual maxim proceeds from whole to part, so part to whole is the exception.
+7|B|Information, testing, counselling and follow-up are guidance programme services.
+8|B|Explanation interprets clues; demonstration involves pupils; probing redirects; stimulus variation changes interaction.
+10|D|This is Wechsler's definition of intelligence.
+11|A|Choosing what content to teach primarily concerns curriculum rather than educational psychology.
+12|A|Herbartian stages proceed preparation, presentation, association, generalisation, application.
+13|A|Refocusing extends a correctly answered question to a related context.
+14|D|Homework aims to develop independent study habits.
+15|B|Explaining a law with examples demonstrates comprehension.
+16|B|Thorndike's basic laws are readiness, exercise and effect, not intensity.
+17|D|The description is the principle of correlation, absent from A-C.
+18|A|Motives can be acquired as well as innate, so the unqualified inborn statement is incorrect.
+20|A|A supportive counsellor-student relationship underpins effective counselling.
+21|D|The idiomatic construction is too overwhelmed to make a decision.
+22|D|Should shut is the appropriate reported modal in the offered options.
+23|D|A standard of living rises.
+24|A|As high as is the correct comparison phrase.
+25|C|Shoes become worn out.
+26|D|Should have travelled expresses a preferable past alternative.
+27|D|Accustomed to is the correct prepositional construction.
+28|D|Has just been painted is a present-perfect passive construction.
+29|B|The construction is accused of theft.
+30|B|Leave the door open uses the adjective complement correctly.
+31|A|Reported future becomes would, and tomorrow becomes the next day.
+32|C|An indirect question uses subject-before-verb word order.
+33|A|Enough follows the adjective: old enough.
+34|B|Any of her three sisters is the suitable comparative phrase.
+36|B|The preposition of takes the possessive-gerund construction her marrying.
+37|C|Adapt to is the required construction.
+38|B|The expression is in accordance with.
+39|C|Neither takes singular is in this formal construction.
+40|C|To finish quickly parallels the initial infinitive to answer accurately.
+42|D|Attend the lecture takes a direct object without a preposition.
+43|A|The third conditional requires had answered.
+44|D|Promise takes a to-infinitive: to give.
+45|B|Prompted means motivated or caused him to act.
+46|C|Last week requires the simple past broke.
+47|B|Fail to pass is the standard infinitival construction.
+49|A|Initial hardly requires inversion: Hardly had I.
+50|B|The relative clause modifies players, so have ever lived is plural.
+51|B|The order is area identification, affected predicate, including phrase, news attribution: SQRP.
+52|D|All religions are bound together in a holy partnership to advance peace, justice and freedom: SQPR.
+53|B|Headstrong means obstinate.
+54|C|Gullible means unsuspecting or easily deceived.
+55|D|Superficial is the opposite of comprehensive in coverage.
+56|B|Cheerful contrasts with morbid meaning gloomy.
+58|B|A female trusted confidant is a confidante; B is confirmed by the printed option order.
+59|B|The phrase is conform to the rules.
+60|A|The correct spelling and meaning are academic career.
+61|C|The Sankosh (Sonkosh) is a north-bank tributary.
+62|D|Police superintendent Barrington ordered firing at Patharughat.
+63|A|Points on the x-axis have zero y-coordinate.
+64|C|The Nagajari-Khanikargaon inscription was found in Golaghat district.
+65|B|Pobitora Wildlife Sanctuary is in Morigaon district.
+66|B|The Tezpur grant of Vanamala names the Brahmin Indoka.|https://ir.nbu.ac.in/server/api/core/bitstreams/dd3842dd-f379-4933-8bec-f7b995e5fe62/content
+67|A|There were five national parks at the January 2021 examination date; the later 2021 additions must not be counted.
+68|B|Dhubri had the lowest district literacy rate in the 2011 Assam census.
+70|C|Pushyavarman founded the Varman dynasty.
+71|B|The diameter is the longest chord.
+72|D|The volume is 2 cubic metres, equal to 2000 litres.
+73|D|Setting the common ratio to k gives x=5k, y=7k, z=4k.
+74|B|Srinivasa Iyengar presided over the 1926 Pandu session.
+75|B|The set containing the empty set has one element and is a unit set.
+76|B|The remaining angle is 180-75-65=40 degrees.
+77|C|Pitambar Dev Goswami was Satradhikar of Garamur Satra.
+78|C|Base equals area divided by altitude: 120/10=12 cm.
+79|D|Jasa Narayan assumed the title Pratap Narayan.
+80|D|Indian Rhino Vision 2020 targeted 3000 rhinos.
+82|B|The first Assam Association session in 1905 was in Dibrugarh.
+83|D|The equation has roots 4 and 1/4, so none of the displayed pairs is correct.
+84|C|A general quadrilateral requires five independent measurements for unique construction.
+85|A|The provisional 2011 literacy figure used in this paper is 72.19%.
+87|B|Area 16900 gives side 130 and diagonal 130 sqrt(2) metres.
+89|B|Assam was second to Karnataka in the 2017 elephant estimate referenced in 2019.
+90|B|Digboi refinery began operations in 1901; 1889 refers to the oil discovery.
+91|A|Gaurinath Singha is credited with ending human sacrifice at Tamreswari.
+92|B|The identity sec squared theta minus tan squared theta equals 1.
+93|D|The Guwahati Tea Auction Centre was established in 1970.
+94|B|Inclusion-exclusion gives 68+54-100=22%.
+95|D|A chord need not pass through the centre and therefore need not be a diameter.
+96|D|The Hayunthal copper plate was issued by Harjaravarman.|https://egyankosh.ac.in/bitstream/123456789/73890/1/Unit-8.pdf
+97|D|Raidak belongs to the Brahmaputra system rather than the Barak system.
+98|C|Of two equally likely assignments, one is completely wrong, giving probability 1/2.
+99|C|Direct proportion gives y=20 times 21/12=35.
+100|B|The weighted mean is (50 times 30+100 times 40)/150=36.6667.
+35|A,B|Both who I am talking to and to whom I am talking are grammatical indirect questions; B uses the formal preposition-fronted form.
+41|C,D|Both was later to need and was going to need express a future requirement viewed from the past.
+57|A,B,D|Seriousness, solemnity and gravity can all contrast with levity; the printed single-choice item is not unique.
+69|C|The image's two-thirds powers give cos squared theta plus sin squared theta=1.
+81|C|The image gives cot(A-B)=sqrt(3), so A-B=30 and A+B=90; A=60, B=30.

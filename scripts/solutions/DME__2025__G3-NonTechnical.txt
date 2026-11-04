@@ -1,0 +1,45 @@
+1|B|The image gives (-3/4)(2/3-5/6)=(-3/4)(-1/6)=1/8; handwritten ticks are not an answer key.
+3|D|37+25=62, so A=7 and B=6; the printed option D is correct.
+5|C|The printed mass is 2 and 2/3 kg, giving (8000/3) times 12/40=800 sheets.
+6|A|2x^2-5x+3=(2x-3)(x-1), giving roots 1 and 3/2.
+7|C|The tenth term is 2+9 times 5=47.
+8|D|Similar triangles give shadow length 0.9 times 4.8/(3.6-0.9)=1.6 m.
+9|B|The image gives 1/(3^-2)=9.
+10|C|Height equals volume divided by base area: 275/25=11 cm.
+11|B|A black hole is a region whose gravity prevents light from escaping.
+12|B|Earth rotates from west to east.
+13|D|The Angami are a Naga community of Nagaland.
+14|A|Alexander fought Porus on the Hydaspes, now the Jhelum.
+15|C|Svapnavasavadattam is attributed to Bhasa rather than Kalidasa.
+16|A|Sher Shah Suri rebuilt and extended the historic Grand Trunk Road.
+17|C|The INA's wartime headquarters moved to Rangoon.
+18|B|Swami Vivekananda's original name was Narendranath Datta.
+19|A|Mahatma Gandhi led the Dandi March.
+20|D|Kuchipudi is associated with Andhra Pradesh.
+21|C|B. R. Ambedkar chaired the Constitution's Drafting Committee.
+22|A|The President appoints a High Court's Chief Justice.
+23|D|Tejas is the indigenous light combat aircraft.
+24|C|DRDO expands to Defence Research and Development Organisation.
+25|D|Sputnik I was the first artificial Earth satellite.
+26|C|Bachendri Pal was the first Indian woman to summit Everest.
+27|B|World AIDS Day is observed on 1 December.
+28|C|The French Open is a lawn-tennis Grand Slam, as confirmed by printed option C.
+31|C|Yeast converts sugar into alcohol through fermentation.
+32|B|Antibodies help recognise and fight invading microbes.
+33|A|Diseases transmitted between people are communicable diseases.
+34|D|Plastic bags are non-biodegradable in the ordinary school-science classification.
+35|A|Malleability is the ability to be beaten into thin sheets.
+36|B|Chloroplasts are the green plastids.
+37|C|Fallopian tubes belong to the female reproductive system.
+38|D|Formation of a single product from multiple reactants is a combination reaction.
+39|B|Carbon-carbon double or triple bonds make a compound unsaturated.
+40|A|The kidneys filter metabolic waste from blood for excretion.
+41|B|Spoke is the simple past of speak.
+42|A|A preposition takes the object pronoun me.
+43|D|She sat by the fire is the appropriate construction.
+44|B|A person who eats human flesh is a cannibal.
+46|C|A collection of cut flowers is a bouquet.
+47|A|Fraternity means brotherhood.
+48|D|The masculine counterpart of widow is widower.
+49|B|The superlative is most modern.
+50|C|Worst is the antonym of best.

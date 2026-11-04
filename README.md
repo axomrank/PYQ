@@ -9,7 +9,32 @@ represented as plain text. English only.
 23 papers across six exams, with subject/topic/subtopic hierarchy, answer keys,
 review flags, and paths to the source PDFs and question images. Filter `exam`,
 `year`, and `paper_code` to select a paper. CSV booleans use `0`/`1`; list fields
-use `|` separators (`review_notes` uses ` ; `). Empty answers mean no key is available.
+use `|` separators (`review_notes` uses ` ; `). A blank answer means no unique
+validated letter could be assigned; read `answer_note` for the specific issue.
+
+## Answer provenance and question issues
+
+All 2,398 questions now have an answer. Of the 949 previously unanswered records,
+935 have worked solutions and 14 were editorially revised to resolve defective
+wording, missing options, or ambiguous assumptions. These 14 are practice
+adaptations, marked `editorially_revised=1` with `answer_source=editorial_solution`.
+Their `revision_note` distinguishes them from the original examination questions.
+Original questions and options, the identified issue, and the revised versions
+are preserved together in `scripts/editorial_revisions.json`.
+
+`answer_source: worked_solution` identifies a worked answer rather than an
+official examination-board key. Its reasoning is recorded in `answer_note`;
+multiple valid options use comma-separated letters. Historical factual questions
+are interpreted at the examination date. These worked solutions have not been
+independently moderated or certified by the examining bodies.
+
+`scripts/solutions/` stores the per-paper answer letters and reasoning.
+`scripts/question_corrections.json` preserves image-checked repairs to merged OCR
+question text and option labels. `scripts/answer_issues.json` records the original
+14 defects. Revised items are self-contained text questions; original diagram
+paths are retained in the revision log, and PDF/page references still point to
+the original booklet. Original PDFs and image files are preserved. Refresh the data
+with `python scripts/answers.py`; PDF extraction reapplies these annotations too.
 
 | Exam | Papers | Source of the booklets | Answer key |
 |------|--------|------------------------|------------|
@@ -48,7 +73,7 @@ catalog.json
 | `answer` | `A`–`D`; `A,C` when the key accepts several; `ALL` when the key graced the question; null without a key |
 | `answer_note`, `answer_source` | why an answer is not a single letter; `official_final_key`, `official_provisional_key` or a key CSV's source |
 | `has_visual`, `visual_types`, `visual_in`, `images` | see below |
-| `text_source` | `pdf_text` (exact text from the PDF) or `ocr` (read from a scanned page; check against the image) |
+| `text_source` | `pdf_text` (PDF text), `ocr` (read from a scan), or `editorial_revision` (revised practice wording) |
 | `source_pdf`, `page` | where the question is in the PDF (1-based page) |
 | `needs_review`, `review_notes` | the extractor was unsure |
 | `subject`, `topic`, `subtopic` | broad subject → subject area → specific question category |

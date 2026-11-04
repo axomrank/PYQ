@@ -1,0 +1,100 @@
+1|C|Purple is absent from the Olympic rings.
+2|D|Lima is the capital of Peru.
+3|A|The National Stock Exchange is headquartered in Mumbai.
+4|D|A USB flash drive is portable storage for transferring files.
+5|B|The Vindhya-Satpura ranges separate the northern plains and Deccan region.
+6|D|The Narmada rises at Amarkantak, outside the Himalayas.
+7|D|Liquid water has its maximum density near 4 degrees Celsius.
+8|B|Economics studies production, distribution and consumption.
+9|A|Plutonium has no stable isotopes.
+10|C|A volleyball team fields six players.
+11|B|Assam borders seven Indian states.
+12|A|Ajanta Neog held the finance portfolio at the specified 2022 date.|https://prsindia.org/budgets/states/assam-budget-analysis-2021-22
+13|B|Assam had 35 districts after Tamulpur was created in January 2022.
+14|D|Bhutan shares an international border with Assam.
+15|C|Bhupen Hazarika Setu at Dhola-Sadiya is the easternmost listed bridge.
+16|B|Kushiyara belongs to the Barak river system.
+17|A|Hollong is the state tree of Assam.|https://environmentandforest.assam.gov.in/information-services/biodiversity-of-assam-0
+18|D|Both religious sites are in Hajo.
+19|B|Tocklai Tea Research Institute is in Jorhat.|https://jorhat.assam.gov.in/tourist-place-detail/300
+20|C|Joymoti (1935) was the first Assamese talkie.
+21|D|Motilal Nehru and C. R. Das founded the Swaraj Party.
+22|C|Article 15 prohibits discrimination on the listed grounds.
+23|A|Gol Gumbaz is in Bijapur, now Vijayapura.
+24|A|UDAN expands to Ude Desh ka Aam Nagrik.
+25|D|Reliance Industries first reached the listed market-capitalisation milestone.
+26|A|Yakshagana is associated with Karnataka rather than Tamil Nadu.
+27|A|Deepor Beel was Assam's Ramsar site at the examination date.
+28|B|Rural Development was not one of the three original participating ministries.
+29|D|Assam Medical College is in Dibrugarh.
+30|A|Mission Indradhanush concerns immunisation.
+31|C|Article 17 abolishes untouchability.
+32|C|The partition of Bengal occurred in 1905, not 1919.
+33|A|Jal Shakti Abhiyan began in July 2019.
+34|D|Margherita is associated with coal mining rather than the petroleum sector.
+35|B|France introduced the first GST in 1954.
+36|D|Uttar Pradesh has the largest Rajya Sabha allocation among the listed states.
+37|A|Xuanzang visited during Harshavardhana's reign.
+38|D|The Ministry of Finance publishes the Economic Survey.
+39|A|State ownership of productive resources characterises the socialist model.
+40|C|The Quit India resolution and launch were at Gowalia Tank, now August Kranti Maidan.
+41|C|The numbers are 8 and 20; sum 28, HCF 4, LCM 40.
+42|B|Reading the nested radicals from the image gives successively 7, 13 and 8.
+43|D|11 leaves remainders 1, 2 and 3 on division by 2, 3 and 4.
+44|B|For numerator n, 3/n=3/4, giving n=4.
+45|D|The image shows square roots; sqrt(1/4) is the smallest.
+46|A|The image gives x=sqrt(3), so x^4+1/x^4=9+1/9.
+47|A|Let x=3k, y=4k, z=7k; the ratio is 14k/14k=1.
+48|A|n+(n+2)+(n+4)+(n+6)=64 gives n=13.
+49|C|Their product is 96; 2k times 3k=96 gives numbers 8 and 12.
+50|A|If B=100 and A=125, the shortfall relative to A is 25/125=20%.
+51|B|2n^2=98 gives n=7 boys.
+52|B|Secant is the reciprocal of cosine, giving b/a.
+53|D|Side 2 cm gives area sqrt(3) square centimetres; radical verified in image.
+54|C|The square roots in the image sum to 0.2+1.2+1.3+0.03=2.73.
+55|A|0.45x=0.30y gives x:y=2:3.
+56|B|12(1+2+...+30)=12 times 465=5580.
+57|C|Thirteen sorted values have seventh value 5.
+58|D|The image gives 15/27-5/12-4/9=-11/36.
+59|C|A's 600 m head start is closed in 600 seconds; meeting distance is 1200 m.
+60|D|0.6 times 1.2=0.72 of the original price, a 28% decrease.
+61|A|There is no completes the existential clause grammatically.
+62|C|A filter placed in front of a camera lens is the complete noun phrase.
+63|B|Where engineers were educated is the correctly ordered relative clause.
+64|C|Frugal and thrifty are synonyms.
+65|C|Secret and clandestine are synonyms.
+66|C|Deride and mock are synonyms.
+67|C|Citizen and subject both denote a member of a state in this context.
+68|D|Scatter and collect are antonyms.
+69|A|Advance and retreat are antonyms.
+70|A|Acquit and convict are antonyms.
+71|C|Splitting hairs means arguing over trivial distinctions.
+72|B|Nailing a lie to the counter means publicly exposing it.
+73|A|Seeing red means becoming very angry.
+74|D|Hitting below the belt means acting unfairly.
+75|C|Beating about the bush means approaching a matter indirectly.
+76|B|The proverb values a certain possession over a possible gain.
+77|C|The coherent order is As soon as I opened the front door of my house then I smelled the gas.
+78|A|Part IV should use to reduce rather than for reducing.|https://testbook.com/question-answer/the-following-sentence-is-divided-into-four-parts--67c46d0e7423074517d7ca04/amp
+79|C|Tangible means real or actual in this contrast with a promise.
+80|A|Only A has consistent agreement and a singular noun after this unfortunate.
+81|A|Sixteenth from the right is K; seven places to its left is D.
+82|C|The circular order is Shyamal, Suman, Rohit, Ajay, Doljit; Rohit is immediately right of Ajay facing inward.
+83|D|The son is 12, the man 48, and the wife 45.
+84|A|Morning shadows point west; Sarita faces north when west is her left, so Savita faces south.
+85|A|b=0.2a, so b percent of 20 equals 0.04a.
+86|B|The net displacement is 5 km east and 12 km south, giving 13 km.
+87|D|35=6^2-1; likewise 120=11^2-1.
+88|B|Low pressure precedes cloud, rain, rainbow, flood and devastation.
+89|C|The supplied code maps H,O,R,S,E to 5,1,0,2,4.
+90|C|Total train length 300 m divided by relative speed 2 m/s gives 150 seconds.
+91|B|The reciprocal side ratio is 6:4:3; 104/13=8, so longest side is 48 cm.
+92|D|Release is 29 days after the trailer, nine days after the Sunday booking: Tuesday.
+93|A|The relation is n squared plus 2; 9 squared plus 2 is 83.
+94|C|Each letter advances one position: LMTJ becomes MNUK.
+95|C|A horseman controls a horse as a driver controls a bus.
+96|D|9762 is even; the other three numbers are odd.
+97|A|The other fractions have numerator n^2 and denominator (n+1)^3; 225/3375 instead has denominator 15^3.
+98|A|Pollution, contamination and adulteration all denote impurification; emission denotes release.
+99|B|Enumerating triangles formed by the printed line segments gives 18.
+100|B|New Delhi and Sri Lanka are separate regions within Asia; image option B shows two disjoint inner circles.

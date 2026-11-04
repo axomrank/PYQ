@@ -23,6 +23,7 @@ import pymupdf
 
 import ocr
 import taxonomy
+import answers
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -849,6 +850,7 @@ def write_outputs(questions, pdf_path):
     out_dir.mkdir(exist_ok=True)
     stem = pdf_path.stem
     for q in questions:
+        answers.apply_solution(q)
         q.update(taxonomy.classify(q))
     (out_dir / f"{stem}.json").write_text(json.dumps(questions, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
